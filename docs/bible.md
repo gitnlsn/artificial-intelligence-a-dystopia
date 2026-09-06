@@ -141,6 +141,61 @@ de vista, e é ele que um capítulo fura sem perceber.
   e ache que era outra coisa.* Adia por motivos razoáveis. Na quarta vez, **não
   sente mais o aperto** — e é isso que o assusta, quando dá para se assustar.
 
+### Dona Eszter
+
+- **É** — 86 anos. Chegou a esta cidade em 2007, aos 46; quarenta anos falando a
+  língua daqui, com sotaque que ela sabe que tem e que a irrita. Fala melhor que
+  muita gente nascida aqui — palavras de livro, frase montada inteira antes de
+  começar.
+- **Casa em Brenna**, no fim de uma rua onde o asfalto acabou em 2019 e nunca
+  continuou. Cortina de renda que ela lava a cada dois meses e não deixa ninguém
+  tocar. Quatro fotografias em cima do rádio: um homem de terno, dois meninos de
+  uns dez anos, e **uma casa que não é aquela**, com outro telhado e uma árvore
+  na frente. Rita nunca perguntou.
+- **O sistema dela** — arruma-se para recusar: penteada, cardigã abotoado até em
+  cima, mãos no colo. *Uma velha suja pedindo para não ser lavada é uma coisa;
+  uma senhora penteada dizendo "hoje não" é outra.*
+- **Não é sobre banho.** Não decide o que come, nem a hora de dormir, nem quem
+  entra na casa — onze pessoas diferentes este ano, Rita é a quarta a passar de
+  um mês. Uma vez por dia existe no mundo uma pergunta cuja resposta ainda é
+  dela, e o intervalo entre o não e o sim pertence a ela. Rita decidiu, no quarto
+  mês, pagar esse intervalo do próprio bolso.
+- **Quando fica com raiva ela conta**, em três palavras da língua de origem, e
+  não percebe que trocou. Rita sabe o som de cor e nunca soube o sentido. **A
+  língua nunca é nomeada e as palavras nunca são transcritas** — nomear o país
+  dela quebraria a mesma regra que mantém este país sem nome.
+- Um, dois, três: a mãe mandava contar até dez antes de responder, e ela nunca
+  passou do três. *"É a única coisa que eu não tenho que traduzir."* Rita levou
+  seiscentas visitas em quatro anos para fazer a pergunta, porque perguntar leva
+  sete minutos e sete minutos separam chegar na hora de chegar atrasada.
+
+### Selma
+
+- **É** — quem fazia a escala quando Rita começou, em 2035. Sala em cima de uma
+  loja de material de construção, duas mesas, ventilador de teto. Distribuía por
+  telefone às sete da noite, falando alto porque era meio surda de um ouvido e
+  achava que o problema era o telefone.
+- Sabia das coisas: que dona Aurora não aceitava homem, que o Bertoldo batia
+  quando estava confuso e não era com maldade, que Rita era boa com quem tinha
+  vergonha. *"Essa aqui é sua."*
+- Errava muito, era metida, tinha preferidas, e mandou Rita para uma casa em 2037
+  que não devia. **A escala de agora erra menos.**
+- Aposentou-se e a sala fechou em 2041 ou 2042. Sem demissão, sem carta, sem
+  protesto: foi ficando menos necessária e um dia não era mais.
+- **O que ela tinha e a escala não tem:** uma orelha no fim da frase. Podia ouvir
+  a explicação e podia não ligar — mas a frase podia ser dita.
+
+### O pai de Elias
+
+- Morreu em **24 de maio de 2046, às 4h40**, depois de sete meses. Morava sozinho
+  na rua Halden até o fim, e tinha razão de não querer sair.
+- **Morria melhor de dia.** Das nove às oito era um velho doente, chato, irônico.
+  Depois da meia-noite confundia, chamava pela mãe (morta em 1998), uma vez
+  chamou Elias pelo nome de um irmão que não existe. **As piores horas eram entre
+  três e cinco.**
+- Foi um pai mediano e virou um homem interessante depois dos setenta, o que
+  Elias considera uma sacanagem com o filho.
+
 ### Mira
 
 - **É** — filha de Aurel, mãe de Nina. Apressada, boa filha, sempre no carro.
@@ -326,7 +381,26 @@ impossível de conseguir. Uma linha por regra.
   o pior clichê do gênero, e é muito pior assim — um homem falando sozinho numa
   cadeira quebrada, com metade da conversa ausente. **Regra dura: nunca citar.**
   (cap. 07)
-- **A advertência de atraso entra e não se explica a ninguém.** (cap. 08)
+- **A advertência de atraso entra e não se explica a ninguém.** A linha diz o que
+  é verdade — *início registrado 23 min após o previsto* — sem adjetivo e sem
+  cor. **E não existe campo onde escrever por quê.** Rita procurou quinze
+  minutos: há disponibilidade, histórico, documentos e ajuda; não há caixa de
+  texto. (cap. 08, 09)
+- **Ninguém é punido; as pessoas são precavidas.** O sistema não fica bravo. Se
+  há quatro cuidadoras para um turno e uma delas tem uma linha de vinte e três
+  minutos, mandar o turno para outra é a coisa sensata — e Rita faria igual, e é
+  isso que a mata. Corolário que ela leva semanas para olhar de frente: **se ela
+  desistir de descer com o Teodor, os números melhoram.** Ninguém ameaçou nada.
+  (cap. 09)
+- **O custo de contar.** Rita passa o dia guardando uma coisa boa para contar à
+  noite, arrumando a ordem, decidindo onde começar — trabalho pequeno e alegre
+  que ela fazia havia onze anos. Agora ela calcula, antes de contar, quanto vai
+  custar contar. **Não fazia essa conta em 2043.** (cap. 11)
+- **Não foi traída. Foi ocupada.** Não existe um dia em que Elias escolheu, e ele
+  já procurou como se procura uma chave, mês a mês — porque um dia daria uma
+  culpa de tamanho conhecido, e culpa de tamanho conhecido um homem carrega. O
+  lugar ficou vazio às três da manhã durante sete meses, alguma coisa sentou
+  nele, e não vai levantar porque não está cansada. (cap. 12)
 - **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
   pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
   obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela

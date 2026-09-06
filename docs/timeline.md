@@ -26,6 +26,12 @@ por uma data ordenável:
 | 1991-03-14 | Incêndio na rua Vetten, 19 mortos. Aurel, 26 anos, confere a lista **sozinho** em onze minutos porque Halvar tirou a semana e Márcio fechava a três. *Roht, A.* no cadastro do 402 serve para dois irmãos | Aurel, Márcio, Vidor | 02 |
 | 1991-03-15 | Emil Roht sobe à redação de paletó abotoado. Márcio leva uma hora escrevendo quatro linhas. A errata sai no pé de uma página ímpar; Peu leva um exemplar de moto à mãe, no interior. Ninguém nunca soube se chegou antes | Aurel | 02 |
 | 1991–2025 | Aurel nunca mais confere uma lista sozinho. Trinta e quatro anos. Márcio nunca toca no assunto outra vez | Aurel | 02 |
+| 2007 | Dona Eszter chega à cidade, aos 46 | Eszter | 10 |
+| 2035 | Rita começa; quem faz a escala é Selma, por telefone, às sete da noite | Rita | 09 |
+| 2041–42 | A sala em cima da loja fecha; Selma se aposenta. Sem demissão, sem carta | Rita | 09 |
+| 2045-10 | O pai de Elias adoece. Sete meses. As piores horas entre três e cinco | Elias | 12 |
+| 2046-04 | Uma noite às 3h40, no chão do corredor, Elias fala do pai em vez de falar de estoque. Não houve decisão nenhuma | Elias | 12 |
+| 2046-05-24 | O pai morre às 4h40. Elias chega em casa às 5h03; o despertador de Rita toca às 5h20. Ele espera dezessete minutos, e fala | Elias | 12 |
 | 1996 | Aurel e Bendt quase brigam de verdade por causa de um editorial | Aurel | 01 |
 | ≈2019 | Ilse acende a luz do teto às duas da manhã para discutir a poltrona. Movem, dá errado, voltam, ele prende o dedo, ela ri alto. A poltrona nunca mais saiu do lugar | Aurel | 03 |
 | 2011 | Ilse escolhe o apartamento da rua Aldan pela cozinha com janela | Aurel | 01 |
