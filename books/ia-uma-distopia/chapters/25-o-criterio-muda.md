@@ -2,7 +2,7 @@
 title: O critério muda
 part: III — A NOTIFICAÇÃO
 title_en: The Threshold Moves
-pov: Nogueira
+pov: Voss
 when: 2047-09-05 — manhã
 where: a mesa
 premise: um limiar é ajustado, e ele concorda, porque o ajuste é defensável e ele
@@ -13,6 +13,6 @@ threads:
 pays:
 - o-criterio-dele
 cast:
-- nogueira
+- voss
 status: outline
 ---

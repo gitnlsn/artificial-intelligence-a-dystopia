@@ -4,7 +4,7 @@ part: II — O TURNO
 title_en: The Music From Far Off
 pov: Rita
 when: 2047-08-30 — de manhã
-where: uma calçada em Vila Isabel, esperando alocação
+where: uma calçada em Kalden, esperando alocação
 premise: parada na rua sem turno, ela escuta uma música que vem de uma janela alta;
   ninguém escolheu mandar aquilo para ela, e faz meses que nada chega assim.
 turn: percebe que não ficava parada há meses, e que a parada não foi escolha dela.

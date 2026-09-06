@@ -12,6 +12,6 @@ threads:
 - fio-da-nina
 cast:
 - nina
-- aurelio
+- aurel
 status: outline
 ---

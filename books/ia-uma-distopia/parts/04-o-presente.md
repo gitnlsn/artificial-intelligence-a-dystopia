@@ -4,7 +4,7 @@ title: O presente
 illustration: 04-o-presente
 status: outline
 ---
-Ó abre alas, que eu quero passar.
+As Partes I, II e III abrem com uma epígrafe. Esta abre sem nada, e é de
+propósito: é a única parte do livro cuja protagonista não herdou texto nenhum.
 
-*Chiquinha Gonzaga, 1899. Domínio público — esta é a única epígrafe do livro que
-não depende da permissão de ninguém.*
+Não deixar ninguém "consertar" isto depois.

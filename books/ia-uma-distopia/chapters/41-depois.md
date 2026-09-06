@@ -14,6 +14,6 @@ pays:
 - a-amiga-chata
 cast:
 - nina
-- aurelio
+- aurel
 status: outline
 ---

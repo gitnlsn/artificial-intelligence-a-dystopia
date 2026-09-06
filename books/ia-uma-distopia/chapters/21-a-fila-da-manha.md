@@ -2,7 +2,7 @@
 title: A fila da manhã
 part: III — A NOTIFICAÇÃO
 title_en: The Morning Queue
-pov: Nogueira
+pov: Voss
 when: '2047-09-02'
 where: a mesa
 premise: quarenta casos numa manhã, cada um com quatro linhas e um despacho; o capítulo
@@ -11,6 +11,6 @@ turn: ele bate a meta antes do almoço.
 threads:
 - fio-da-excecao
 cast:
-- nogueira
+- voss
 status: outline
 ---

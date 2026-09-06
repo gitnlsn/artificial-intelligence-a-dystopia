@@ -2,7 +2,7 @@
 title: A conferência
 part: III — A NOTIFICAÇÃO
 title_en: The Review Meeting
-pov: Nogueira
+pov: Voss
 when: '2047-09-04'
 where: a sala de reunião
 premise: os números dele são excelentes; é elogiado por uma métrica que mede exatamente
@@ -11,6 +11,6 @@ turn: aceita o elogio.
 threads:
 - fio-da-excecao
 cast:
-- nogueira
+- voss
 status: outline
 ---

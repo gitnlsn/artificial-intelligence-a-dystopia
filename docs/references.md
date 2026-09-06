@@ -61,7 +61,7 @@ Aplicado a este livro:
 | Obra | Situação | O que dá para fazer |
 |---|---|---|
 | *Great Divide*, The Cardigans (Sveningsson/Svensson), faixa 10 de *First Band on the Moon*, 1996 | Em direito autoral | Nomear, descrever, deixar chegar de longe. **Não imprimir a letra** sem licença da editora musical. Atenção: o título é "Great Divide", sem "The" |
-| *Ó Abre Alas*, Chiquinha Gonzaga, 1899 | **Domínio público** (1847–1935) | Tudo. Imprimir a letra inteira, citar, usar como epígrafe |
+| A música do desfile | **Inventada** — sem nome, sem letra, banda marcial de gente | Tudo. Música inventada não tem titular, e foi por isso, entre outras razões, que se decidiu assim |
 | Caetano Veloso, *Oração ao Tempo*, 1979 | Em direito autoral | Nomear e descrever apenas |
 
 ### Victor Hugo — domínio público
@@ -72,9 +72,10 @@ esteja em domínio público. Atenção: **uma tradução recente tem direito aut
 próprio**, do tradutor. Se for citar em português, ou usar uma tradução antiga
 em domínio público, ou traduzir o trecho.
 
-Javert é o modelo do protagonista da Parte III (ver `docs/outline.md`). Uma
-epígrafe de Hugo abrindo aquela parte é o único material citável do livro,
-junto com Chiquinha Gonzaga, que não custa nada nem depende de ninguém.
+Javert é o modelo do protagonista da Parte III (ver `docs/outline.md`). Depois
+que a música do desfile passou a ser inventada, **esta é a única citação do
+livro que não custa nada nem depende da permissão de ninguém.** A Parte IV, de
+propósito, não tem epígrafe.
 
 ### Epígrafe em prosa — Hobsbawm
 
@@ -104,7 +105,17 @@ benefício negado. É a seção que mais importa: é onde o romance encosta no m
 
 ## Direito e administração pública
 
-## Brasil — instituições, dados, história recente
+## O lugar — sem país, e ainda assim exato
+
+O romance não nomeia o país (ver `docs/outline.md`). Isso **não** dispensa
+pesquisa: dispensa bandeira. O que precisa ser real aqui é o funcionamento —
+como uma escala de trabalho é alocada, o que uma perícia domiciliar de fato
+verifica, quanto tempo um recurso administrativo leva, o que uma banda marcial
+de escola custa e ensaia. Registrar as fontes disso aqui, mesmo que a cidade do
+livro não exista.
+
+A regra prática: *toda parte chata do mundo do livro tem de vir de algum lugar
+verdadeiro.* Um leitor não perdoa um turno que não funciona como turno.
 
 ## Ficção de referência
 

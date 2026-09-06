@@ -12,6 +12,6 @@ threads:
 - fio-do-desfile
 cast:
 - nina
-- aurelio
+- aurel
 status: outline
 ---

@@ -2,7 +2,7 @@
 title: A neta que vem às quintas
 part: I — O SÉCULO
 title_en: The Granddaughter Who Comes on Thursdays
-pov: Aurélio
+pov: Aurel
 when: '2047-09-02'
 where: a cozinha
 premise: ele tenta explicar a Nina o que era ler o mesmo jornal que o vizinho, e
@@ -12,7 +12,7 @@ threads:
 - fio-do-registro
 - fio-da-nina
 cast:
-- aurelio
+- aurel
 - nina
 status: outline
 ---

@@ -2,7 +2,7 @@
 title: O revisor
 part: I — O SÉCULO
 title_en: The Proofreader
-pov: Aurélio
+pov: Aurel
 when: '2047-08-29'
 where: a sala; a mesa; a memória da redação
 premise: 'a vida de trabalho dele era conferir uma frase contra o mundo, e o que
@@ -15,6 +15,6 @@ threads:
 seeds:
 - o-recorte
 cast:
-- aurelio
+- aurel
 status: outline
 ---

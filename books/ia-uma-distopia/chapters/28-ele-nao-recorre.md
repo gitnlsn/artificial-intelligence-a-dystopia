@@ -2,7 +2,7 @@
 title: Ele não recorre
 part: III — A NOTIFICAÇÃO
 title_en: He Does Not Appeal
-pov: Nogueira
+pov: Voss
 when: 2047-09-06 — a madrugada inteira
 where: o apartamento
 premise: recorrer significaria admitir que o sistema erra, e ele passou a vida na
@@ -12,10 +12,10 @@ turn: não recorre. É o monólogo longo da parte, e faz peso com o velho faland
 threads:
 - fio-da-excecao
 pays:
-- nogueira-sem-excecao
+- voss-sem-excecao
 - a-gentileza-de-rita
 - o-campo-de-observacoes
 cast:
-- nogueira
+- voss
 status: outline
 ---

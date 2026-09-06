@@ -291,11 +291,21 @@ knowing it is there.
 | III | a notificação | the day arrives interrupted; the `registro` blocks live here |
 | IV | o presente | there is no before; this is just the world |
 
-The two songs already fixed, and the rule that governs them, are in
-`docs/outline.md` and `docs/references.md`. The short version: **no lyric may be
-printed without a licence.** Titles may be named, music may be described, and
-public-domain works may be printed in full. The book's formal rhyme is that the
-first song is *overheard* and the last is *broadcast*.
+**The music.** Part II opens on a real song heard from a window — *Great Divide*,
+The Cardigans — named and described but never quoted, because **no lyric may be
+printed without a licence.** The parade music at the end has no name at all: a
+human marching band, brass and drums and sheet music on stands, playing
+something nobody recognises.
+
+That is deliberate. A song everyone knows would hand the reader a shared
+reference back, which is the exact consolation Part I says is gone. Unnamed, the
+ending is about **presence** rather than recognition — four people hearing the
+same air move at the same second. The whole argument in one image: **you cannot
+personalise a tuba.** Every other sound in the book was transmitted, recommended
+or allocated; this one is being made, in the street, by someone's body.
+
+The formal rhyme: the first song is *overheard*, the last is *played by people*.
+And the four of them know the band is human because it is slightly out of tune.
 
 ## A decidir pelo autor
 
@@ -306,11 +316,15 @@ These are in `docs/outline.md` and `docs/bible.md` as `[[?autor: …]]` markers 
    (I), the pair coming apart (II), the Javert (III), the child (IV). Part III's
    shape is set too — the mosaic of cases, and the ending in which he does not
    appeal.
-2. **The parade song.** The proposal is *Ó Abre Alas* (Chiquinha Gonzaga, 1899),
-   public domain, played by a human brass band while the machines pass.
-3. **Where and when.** The Chiquinha Gonzaga ending presumes Brazil.
-4. **The title.** `book.yaml` carries a descriptive placeholder so the book
+3. **The title.** `book.yaml` carries a descriptive placeholder so the book
    compiles.
+
+Setting and music are settled. **The country is not named and the parade music
+is invented** — one decision, not two. The administrative machinery here works
+identically in any middle- or high-income country, and naming one would have the
+reader arguing about that country instead of recognising their own. The guard
+rail is hard: *unnamed is not vague.* The city has bus numbers, stairwell
+smells, a price for coffee and rain in September. It has no flag.
 
 The author name is settled: **Íris Gradim**, the same pen name as *Manual da
 Vida*. The two books will therefore be found together, which means the novel

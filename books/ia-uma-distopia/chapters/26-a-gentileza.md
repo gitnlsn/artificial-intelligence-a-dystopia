@@ -2,7 +2,7 @@
 title: A gentileza
 part: III — A NOTIFICAÇÃO
 title_en: The Kindness
-pov: Nogueira
+pov: Voss
 when: 2047-09-05 — fim de tarde
 where: a calçada, na saída do prédio
 premise: 'a mulher que ele indeferiu o reconhece pelo nome da folha, e não faz cena:
@@ -18,7 +18,7 @@ pays:
 - o-indeferimento-de-rita
 - o-nome-na-folha
 cast:
-- nogueira
+- voss
 - rita
 status: outline
 ---

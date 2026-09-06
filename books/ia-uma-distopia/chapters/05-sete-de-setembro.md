@@ -2,7 +2,7 @@
 title: Sete de setembro
 part: I — O SÉCULO
 title_en: The Seventh of September
-pov: Aurélio
+pov: Aurel
 when: '2047-09-04'
 where: a cozinha; a janela
 premise: ele foi a desfiles a vida toda e sabe exatamente o que um desfile é para;
@@ -14,7 +14,7 @@ threads:
 seeds:
 - nina-leva-o-avo
 cast:
-- aurelio
+- aurel
 - nina
 status: outline
 ---

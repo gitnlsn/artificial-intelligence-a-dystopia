@@ -15,6 +15,6 @@ pays:
 - nina-leva-o-avo
 cast:
 - nina
-- aurelio
+- aurel
 status: outline
 ---
