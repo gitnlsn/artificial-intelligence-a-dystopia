@@ -77,7 +77,7 @@ que a música do desfile passou a ser inventada, **esta é a única citação do
 livro que não custa nada nem depende da permissão de ninguém.** A Parte IV, de
 propósito, não tem epígrafe.
 
-### Epígrafe em prosa — Hobsbawm
+### Hobsbawm — os dois trechos, e o que cada um faz
 
 Eric Hobsbawm (1917–2012) está em direito autoral. Um trecho **curto**, com
 atribuição completa, é prática corrente e situação bem menos arriscada que letra
@@ -85,12 +85,76 @@ de música: a proporção citada é minúscula e a lei brasileira (Lei 9.610/98,
 46, III) permite a citação de passagens com indicação do autor e da origem.
 Editora tradicional em geral limpa epígrafe mesmo assim.
 
-Registrar aqui, quando o trecho for escolhido: obra, edição brasileira,
-tradutor, página, e as palavras exatas conferidas **contra o livro**, nunca
-contra um resultado de busca.
+**O livro usa dois trechos, e eles fazem trabalhos diferentes.**
 
-[[?fato: escolher o trecho de Hobsbawm e conferir contra a edição brasileira —
-obra, tradutor, página. Ver `A Era das Revoluções`, `A Era dos Extremos`.]]
+#### 1. A epígrafe da Parte I — *Era dos Extremos* (1994)
+
+> The destruction of the past, or rather of the social mechanisms that link
+> one's contemporary experience to that of earlier generations, is one of the
+> most characteristic and eerie phenomena of the late twentieth century. Most
+> young men and women at the century's end grow up in a sort of permanent
+> present lacking any organic relation to the public past of the times they
+> live in.
+
+Abertura de "The Century: A Bird's Eye View". Vem logo depois do episódio de
+Mitterrand em Sarajevo, em 1992, e é seguida de "This makes historians, whose
+business it is to remember what others forget, more essential at the end of the
+second millennium than ever before."
+
+**Por que é esta.** Ela enuncia a tese inteira do romance, escrita em 1994:
+
+- *"the social mechanisms that link one's contemporary experience to that of
+  earlier generations"* — é literalmente a profissão de Aurel. Ele **era** um
+  desses mecanismos. O jornal era um deles.
+- *"a sort of permanent present"* — **a Parte IV se chama O PRESENTE.** Hobsbawm
+  batizou a parte da criança trinta anos antes. Nina é a pessoa descrita nessa
+  frase.
+- E a frase sobre o historiador que lembra o que os outros esquecem é exatamente
+  o que Aurel deixou de conseguir ser.
+
+**Estado da verificação:** ⚠️ conferido em **fontes secundárias apenas**
+(múltiplas, concordantes). O exemplar do Internet Archive é de empréstimo
+restrito e não abriu. **Não imprimir antes de conferir contra o livro.**
+
+#### 2. O que Aurel está lendo no capítulo 1 — *A Era das Revoluções* (1962)
+
+> THE first thing to observe about the world of the 1780s is that it was at once
+> much smaller and much larger than ours. It was smaller geographically, because
+> even the best-educated and best-informed men then living — let us say a man
+> like the scientist and traveller Alexander von Humboldt (1769–1859) — knew
+> only patches of the inhabited globe.
+
+Abertura do capítulo 1, "The World in the 1780s", Parte I ("Developments"), sob
+a epígrafe de Saint-Just.
+
+**Por que é esta.** É o pedido original do autor — um trecho descrevendo o
+passado remoto — e é o que arma a virada do capítulo: **Hobsbawm descreve 1780
+com confiança total, a duzentos anos de distância. Aurel não consegue descrever
+2047 de dentro.** Um século sempre foi legível de fora. Este não é legível de
+lugar nenhum, e é isso que ele larga o livro sem conseguir dizer.
+
+**Estado da verificação:** ✅ conferido **contra o texto**, na camada de OCR da
+edição Vintage, lendo o parágrafo inteiro em volta e não um resultado isolado de
+busca. Os erros de OCR foram corrigidos pelo contexto — o arquivo traz "then
+livings—let ussayaman", que é "then living — let us say a man". **Ainda assim,
+conferir contra um exemplar antes de imprimir.**
+
+#### As edições brasileiras — e são de editoras diferentes
+
+O romance é em português, então a epígrafe é em português, e **a tradução tem
+direito autoral próprio, do tradutor.** Não traduzir por conta: usar a edição
+publicada e creditar quem traduziu.
+
+| Obra | Editora | Tradução |
+|---|---|---|
+| *A Era das Revoluções: 1789–1848* | Paz e Terra | Maria Célia Paoli e Anna Maria Quirino |
+| *Era dos Extremos: o breve século XX* | **Companhia das Letras** | Marcos Santarrita; revisão técnica de Maria Célia Paoli |
+
+São editoras diferentes: um pedido de permissão vai para cada uma.
+
+[[?fato: conferir as duas passagens contra os exemplares brasileiros — página,
+palavras exatas, nome do tradutor como impresso. A de *Era dos Extremos* ainda
+não foi conferida contra o livro em nenhuma língua.]]
 
 *Isto é levantamento prático, não parecer jurídico. Para uma tiragem comercial,
 confirmar com quem entende.*

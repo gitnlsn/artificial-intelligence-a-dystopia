@@ -46,6 +46,22 @@ antes de saber que ela existe.
 portanto uma escada de memória descendente. O velho lembra de tudo e não pode
 fazer nada; a criança pode tudo e não lembra de nada.
 
+### Os dois Hobsbawm
+
+O livro usa **dois** trechos, e não um. A epígrafe da Parte I é a passagem do
+*Era dos Extremos* sobre o "presente contínuo sem relação orgânica com o passado
+público" — que descreve a profissão de Aurel, batiza a Parte IV (**O PRESENTE**)
+e enuncia a tese do romance, escrita em 1994. O que Aurel está *lendo na página*
+no capítulo 1 é outro: a abertura de *A Era das Revoluções*, sobre o mundo de
+1780 ser ao mesmo tempo muito menor e muito maior que o nosso.
+
+A virada do capítulo mora na distância entre os dois: **Hobsbawm descreve 1780
+com confiança total, a duzentos anos de distância; Aurel não consegue descrever
+2047 de dentro.** Nenhuma frase do capítulo diz isso.
+
+Trechos, verificação e edições brasileiras em `docs/references.md`. As duas obras
+são de editoras diferentes.
+
 ### As duas músicas — e por que só uma tem nome
 
 A Parte II abre com o segundo protagonista **ouvindo uma música de longe**:
@@ -429,12 +445,12 @@ engolir cem anos. Ele tem todo o tempo e nenhum futuro.
 - **POV** — Aurel
 - **Quando** — 2047-08-28 — dez dias antes do desfile
 - **Onde** — a sala do apartamento, Marvik, fim de tarde
-- **A ideia** — ele lê Hobsbawm e percebe que não consegue nomear o período em que está vivendo; um século sempre foi legível de dentro, e este não é.
-- **A virada** — larga o livro e não consegue dizer em voz alta que ano da história é hoje.
+- **A ideia** — ele está lendo a abertura de *A Era das Revoluções*, sobre o mundo da década de 1780 ser ao mesmo tempo muito menor e muito maior que o nosso. Hobsbawm descreve 1780 com confiança total, a duzentos anos de distância — e Aurel percebe que ninguém vai poder fazer isso com 2047, porque não há mais de onde olhar.
+- **A virada** — larga o livro e não consegue dizer em voz alta que época da história é hoje. Um século sempre foi legível de fora; este não é legível de lugar nenhum.
 - **Fios** — fio-do-registro
 - **Planta** — o-nome-do-periodo
 - **Elenco** — aurel
-- **Fontes** — Hobsbawm; a edição brasileira precisa ser conferida
+- **Fontes** — Hobsbawm, *A Era das Revoluções*, abertura do cap. 1 — trecho conferido contra o texto; ver `docs/references.md`
 
 ### 2. O revisor
 *(The Proofreader)*

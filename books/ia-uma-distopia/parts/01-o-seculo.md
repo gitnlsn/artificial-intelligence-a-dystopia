@@ -4,10 +4,15 @@ title: O século
 illustration: 01-o-seculo
 status: outline
 ---
-[[?fato: epígrafe de Eric Hobsbawm. Escolher o trecho e conferir contra a edição
-brasileira — obra, tradutor, página, palavras exatas. Não reconstruir de
-memória. Hobsbawm está em direito autoral: trecho curto, com atribuição
-completa. Ver "Direitos e permissões" em docs/references.md.]]
+A destruição do passado — ou melhor, dos mecanismos sociais que vinculam nossa
+experiência pessoal à das gerações passadas — é um dos fenômenos mais
+característicos e lúgubres do final do século XX. Quase todos os jovens de hoje
+crescem numa espécie de presente contínuo, sem qualquer relação orgânica com o
+passado público da época em que vivem.
 
-Um homem de oitenta e dois anos, sozinho num apartamento grande demais, dez dias
-antes de um desfile.
+*Eric Hobsbawm,* Era dos Extremos
+
+[[?fato: a tradução acima é aproximada e NÃO pode ser impressa assim. Copiar as
+palavras exatas da edição da Companhia das Letras, tradução de Marcos
+Santarrita, e creditar o tradutor. Conferir também o original inglês. Ver
+"Hobsbawm — os dois trechos" em docs/references.md.]]
