@@ -156,6 +156,30 @@ busca. Os erros de OCR foram corrigidos pelo contexto — o arquivo traz "then
 livings—let ussayaman", que é "then living — let us say a man". **Ainda assim,
 conferir contra um exemplar antes de imprimir.**
 
+**Quanto do trecho o capítulo pode reproduzir — decidido, e a decisão foi
+reduzir.** Uma versão anterior do capítulo 1 seguia o texto muito além da frase
+de abertura: em discurso indireto, trazia a lista inteira de Hobsbawm — oceanos
+cartografados, fundo do mar, contornos dos continentes, a altura das montanhas
+de quatro continentes na ordem dele, o curso dos grandes rios com as exceções
+dele — e depois o camponês siciliano *e* o lavrador das colinas birmanesas, o
+par completo. Eram uns 250 a 300 palavras de uma passagem contínua, reproduzida
+na seleção e na sequência do autor, que é justamente a parte expressiva de uma
+enumeração. Discurso indireto não resolve isso, e o art. 46, III fala em citação
+para estudo, crítica ou polêmica, o que é um enquadramento forçado para um
+romance.
+
+O capítulo agora usa, do texto de Hobsbawm: **a frase de abertura em citação
+direta**, uma frase em discurso indireto até *manchas*, o nome de Humboldt, a
+imagem dos **espaços brancos**, e o camponês siciliano sozinho. A lista virou o
+que um homem de fato guarda de uma lista lida três vezes em trinta anos — duas
+coisas soltas e fora de ordem — e o birmanês saiu.
+
+Isto não é só higiene jurídica, e vale registrar por quê: **a lista era a única
+parte do capítulo que estava na voz de Hobsbawm e não na de Aurel.** Um revisor
+que pega um *de* repetido na virada da linha não decora uma enumeração
+geográfica; ele guarda uma palavra (*manchas*) e uma imagem (o branco no mapa).
+Cortar devolveu o parágrafo ao personagem. Não repor.
+
 #### As edições brasileiras — e são de editoras diferentes
 
 O romance é em português, então a epígrafe é em português, e **a tradução tem

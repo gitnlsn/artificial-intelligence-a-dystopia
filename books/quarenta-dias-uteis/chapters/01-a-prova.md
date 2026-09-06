@@ -67,28 +67,22 @@ parava para dar um nome, Alexander von Humboldt, cientista e viajante, com as
 datas entre parênteses como quem apresenta alguém — conheciam apenas manchas do
 globo habitado.
 
-Manchas. Aurel gostava da palavra. Depois vinha a lista, e a lista era o melhor
-do livro. Boa parte da superfície dos oceanos já tinha sido explorada e
-cartografada, mas do fundo do mar não se sabia praticamente nada e não se
-saberia até meados do século seguinte. Os contornos dos continentes, sim.
-A altura das montanhas da Europa com alguma precisão; as da América Latina
-grosseiramente; as da Ásia quase nada; as da África, tirando o Atlas, nada. O
-curso dos grandes rios era um mistério, exceto os da China e da Índia, e exceto
-para um punhado de caçadores e mercadores que talvez soubessem os da região
-deles. Fora de algumas áreas que em vários continentes não avançavam mais que
-alguns quilômetros para dentro da costa, o mapa do mundo era feito de espaços
-brancos cortados pelas trilhas marcadas de comerciantes e exploradores.
+Manchas. Aurel gostava da palavra.
+
+Depois vinha a lista, e a lista era o melhor do livro, e ele nunca tinha
+conseguido guardar a lista. Ficavam duas ou três coisas soltas e fora de ordem —
+o fundo do mar, de que não se sabia nada; montanhas medidas com precisão num
+continente e mal estimadas em outro — e ficava o mapa, que era o que importava:
+espaços brancos cortados pelas trilhas de quem comerciava.
 
 Espaços brancos. Não desconhecidos: brancos. Havia papel ali, e o papel estava
 em branco, e todo mundo que olhava para aquele mapa via o mesmo branco no mesmo
 lugar e sabia que aquilo era o que ainda não se sabia.
 
 E depois — e era por esta frase que Aurel tinha comprado o livro, se é que se
-compra um livro por uma frase — o autor descia a escala. Os mundos conhecidos
-das comunidades menos expansionistas que as da Europa Ocidental, dizia, eram
-ainda menores, diminuindo até os minúsculos segmentos de terra dentro dos quais
-o camponês siciliano analfabeto, ou o lavrador das colinas birmanesas, vivia a
-vida inteira, e para além dos quais tudo era e sempre seria desconhecido para
+compra um livro por uma frase — o autor descia a escala, até o camponês
+siciliano analfabeto que passava a vida inteira dentro de um punhado de
+quilômetros e para quem tudo o que houvesse além disso seria desconhecido para
 sempre.
 
 Aurel leu essa parte três vezes ao longo de trinta anos e sempre parou no mesmo
