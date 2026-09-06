@@ -353,6 +353,17 @@ de vista, e é ele que um capítulo fura sem perceber.
   o indefere em quatro linhas, corretamente: continuidade de vínculo não é
   critério, e o serviço é equivalente prestado por qualquer profissional
   habilitado. **Rita nunca fica sabendo que o pedido existiu.** (cap. 23)
+- **Ele é avisado do indeferimento, e ela não.** Por isso, no último turno, o
+  horário mudou para as sete e ele estava de camisa às sete da manhã, e contou a
+  história do armário do juiz fora do prazo dele, e disse *obrigado pela escada*,
+  e deu a ela a caixinha. **Ele sabe que é a última vez. Ela não.** Nada no rosto
+  dele denuncia isso, e Rita confere essa lembrança muitas vezes depois. (cap. 19)
+- **A caixinha** — do tamanho de meio pão, madeira escura, tampa de correr, sem
+  nada dentro. Feita em 1973 ou 1974, quando ele aprendeu a fazer a tampa: *fazia
+  dez até sair uma que corria, e essa foi a primeira que correu*. Guardou setenta
+  e três anos. Não dá ao filho porque *o meu filho não sabe o que é isso — ele
+  acha bonitinho, ele acha tudo bonitinho, levou uma banqueta minha e botou planta
+  em cima.* Dá a Rita porque ela sabe que é difícil, **e isso basta.** (cap. 19)
 
 ## O calendário
 
@@ -459,6 +470,15 @@ impossível de conseguir. Uma linha por regra.
   embora, chorar — e em todas ele fica mal de verdade, pede desculpa sinceramente,
   abraça bem, **e continua abastecido**. Não existe embargo possível. Acabou sem
   data, sem nome e sem mala na porta, e pode durar seis anos assim. (cap. 18)
+- **A primeira coisa que Rita escolhe em duas semanas** é ficar parada numa
+  calçada, num sábado, esperando uma música que ela já entendeu que não vai
+  tocar — e ficar mais um pouco só para que seja ela a decidir a hora de ir
+  embora. Não é bonito e não a consola. (cap. 20)
+- **Ninguém decide ir ao desfile.** Rita desce a rua atrás de uma família com
+  duas crianças, sem ter decidido nada, do jeito que chegou a todo o resto. O som
+  chega primeiro: o bombo separável do resto, uma coisa aguda por cima, e o
+  murmúrio grosso de muita gente junto — que uma pessoa reconhece antes de saber o
+  que é. (cap. 20)
 - **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
   pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
   obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela
