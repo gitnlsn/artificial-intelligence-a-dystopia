@@ -155,7 +155,8 @@ sabe que é de 1899, e nenhum dos dois escuta o outro.
 ## Decisões abertas
 
 Já decidido e fora desta lista: a forma em quatro partes, os quatro andamentos,
-o encontro final no desfile, a Parte I, a extensão.
+o encontro final no desfile, a Parte I, a extensão, e o nome do autor — Íris
+Gradim, o mesmo do Manual da Vida.
 
 [[?autor: os protagonistas das Partes II, III e IV. A proposta na conversa é:
 II, alguém cujo tempo é alocado pelo sistema e que passa a parte esperando;
@@ -183,9 +184,6 @@ isso. Confirmar.]]
 proposta funciona em outro país com outra música de domínio público.]]
 
 [[?autor: o título. `book.yaml` carrega um provisório descritivo.]]
-
-[[?autor: o nome do autor. `book.yaml` reaproveita "Íris Gradim", do Manual da
-Vida.]]
 
 ---
 

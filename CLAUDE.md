@@ -306,6 +306,8 @@ These are in `docs/outline.md` and `docs/bible.md` as `[[?autor: …]]` markers 
 4. **Where and when.** The Chiquinha Gonzaga ending presumes Brazil.
 5. **The title.** `book.yaml` carries a descriptive placeholder so the book
    compiles.
-6. **The author name.** `book.yaml` currently reuses *Íris Gradim* from *Manual
-   da Vida*. A pseudonym shared between a self-help manual and a dystopian novel
-   is a real decision about how the two books are found.
+
+The author name is settled: **Íris Gradim**, the same pen name as *Manual da
+Vida*. The two books will therefore be found together, which means the novel
+inherits that book's readers and its promise — worth remembering when the
+back-cover copy is written.
