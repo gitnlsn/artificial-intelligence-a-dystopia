@@ -3,7 +3,7 @@ title: O indeferimento
 part: II — O TURNO
 title_en: The Denial
 pov: Rita
-when: 2047-10-15 — tarde
+when: 2047-10-17 — quinta, à tarde
 where: o posto de atendimento, Bloco C
 premise: ela recorre da alocação e é indeferida; o documento é correto, cortês,
   assinado, e ela lê o nome sem registrar que é o nome de alguém.
