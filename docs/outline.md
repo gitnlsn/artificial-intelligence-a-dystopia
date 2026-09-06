@@ -476,7 +476,7 @@ engolir cem anos. Ele tem todo o tempo e nenhum futuro.
 ### 4. A neta que vem às quintas
 *(The Granddaughter Who Comes on Thursdays)*
 - **POV** — Aurel
-- **Quando** — 2047-09-02
+- **Quando** — 2047-09-05 — quinta-feira
 - **Onde** — a cozinha
 - **A ideia** — ele tenta explicar a Nina o que era ler o mesmo jornal que o vizinho, e não consegue — não porque ela seja burra, mas porque não há do que sentir falta. Mostra a ela o deleatur na margem do livro, a marca que o Márcio lhe ensinou, e ela acha bonitinho.
 - **A virada** — percebe que ela não perdeu nada, e que isso é pior do que se tivesse perdido.
@@ -487,7 +487,7 @@ engolir cem anos. Ele tem todo o tempo e nenhum futuro.
 ### 5. Sete de setembro
 *(The Seventh of September)*
 - **POV** — Aurel
-- **Quando** — 2047-09-04
+- **Quando** — 2047-09-06 — sexta, de manhã
 - **Onde** — a cozinha; a janela
 - **A ideia** — ele foi a desfiles a vida toda e sabe exatamente o que um desfile é para; aceita ir a este porque a neta quer, o que é outro motivo.
 - **A virada** — diz que vai.
@@ -777,7 +777,7 @@ quatro relógios batem juntos.
 ### 29. Quinta-feira
 *(Thursday)*
 - **POV** — Nina
-- **Quando** — 2047-09-02
+- **Quando** — 2047-09-05 — quinta, fim de tarde
 - **Onde** — a cozinha do avô
 - **A ideia** — a mesma tarde do capítulo do avô, vista por ela: ele está tentando dizer alguma coisa e ela acha que ele está só velho, e é carinhosa com isso.
 - **A virada** — ela guarda a tarde como uma tarde boa.
@@ -787,7 +787,7 @@ quatro relógios batem juntos.
 ### 30. A escola
 *(School)*
 - **POV** — Nina
-- **Quando** — 2047-09-03
+- **Quando** — 2047-09-06 — sexta, de manhã
 - **Onde** — a escola
 - **A ideia** — o dia dela é assistido, medido e ajustado, e é um dia bom — melhor do que o do leitor foi.
 - **A virada** — nada dá errado.
@@ -797,7 +797,7 @@ quatro relógios batem juntos.
 ### 31. A amiga
 *(The Friend)*
 - **POV** — Nina
-- **Quando** — 2047-09-03
+- **Quando** — 2047-09-06 — sexta, no recreio
 - **Onde** — o pátio
 - **A ideia** — a melhor amiga dela é chata, injusta e às vezes cruel, e Nina aguenta, porque criança ainda aguenta.
 - **A virada** — brigam e voltam no mesmo recreio.
@@ -808,7 +808,7 @@ quatro relógios batem juntos.
 ### 32. O que ela vê
 *(What She Sees)*
 - **POV** — Nina
-- **Quando** — 2047-09-04
+- **Quando** — 2047-09-06 — sexta, na saída
 - **Onde** — o ônibus, a rua
 - **A ideia** — a cidade dela é personalizada e ela não sabe disso, porque nunca viu a de mais ninguém.
 - **A virada** — descreve para a amiga uma coisa que a amiga não viu, e as duas não estranham.
@@ -818,7 +818,7 @@ quatro relógios batem juntos.
 ### 33. O avô é antigo
 *(Grandpa Is Old-Fashioned)*
 - **POV** — Nina
-- **Quando** — 2047-09-04
+- **Quando** — 2047-09-06 — sexta, à tarde
 - **Onde** — o telefone
 - **A ideia** — ela gosta que ele seja antigo do jeito que se gosta de um objeto: com carinho e sem querer entender.
 - **A virada** — combina de levá-lo ao desfile.
@@ -829,8 +829,8 @@ quatro relógios batem juntos.
 ### 34. A banda ensaia
 *(The Band Rehearses)*
 - **POV** — Nina
-- **Quando** — 2047-09-05
-- **Onde** — o pátio da escola, fim de tarde
+- **Quando** — 2047-09-06 — sexta, fim de tarde
+- **Onde** — o pátio da escola
 - **A ideia** — a banda marcial da escola ensaia há semanas para o desfile e é ruim: desafinada, fora do tempo, insuportável de ouvir do outro lado do pátio. A amiga dela toca caixa. Nina reclama todo dia e vai assistir todo dia.
 - **A virada** — decide ir ao desfile por causa da banda, e não por causa das máquinas.
 - **Fios** — fio-da-nina, fio-do-desfile
@@ -840,7 +840,7 @@ quatro relógios batem juntos.
 ### 35. A véspera
 *(The Eve)*
 - **POV** — Nina
-- **Quando** — 2047-09-06
+- **Quando** — 2047-09-06 — sexta, à noite
 - **Onde** — a casa dela
 - **A ideia** — ela não dorme de animação, que é a coisa mais antiga e mais humana do livro inteiro.
 - **A virada** — dorme tarde e acorda cedo.
@@ -876,7 +876,10 @@ quatro relógios batem juntos.
 - **A ideia** — ele não conhece a música e não precisa conhecer: percebe, antes de qualquer outra coisa, que a banda está ligeiramente desafinada, e que portanto é gente. Faz anos que ele não ouve um som que não tenha sido escolhido para ele por alguém.
 - **A virada** — não diz isso a ninguém. Fica ouvindo até o fim.
 - **Fios** — fio-do-desfile, fio-do-registro
-- **Paga** — o-recorte, o-nome-do-periodo
+- **Paga** — o-recorte, o-nome-do-periodo, o-exemplo-da-nina, o-piso-morno
+- **Nota** — é o capítulo que cobra a Parte I inteira. O piso morno paga por
+  contraste: ele está de pé, no frio, na pedra, num lugar desconfortável que a
+  casa jamais teria pedido dele. Conforto contra presença.
 - **Elenco** — aurel, nina
 
 ### 39. O desfile — Rita

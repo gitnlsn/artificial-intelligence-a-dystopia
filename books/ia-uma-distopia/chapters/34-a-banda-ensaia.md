@@ -3,7 +3,7 @@ title: A banda ensaia
 part: IV — O PRESENTE
 title_en: The Band Rehearses
 pov: Nina
-when: '2047-09-05'
+when: 2047-09-06 — sexta, fim de tarde
 where: o pátio da escola, fim de tarde
 premise: 'a banda marcial da escola ensaia há semanas para o desfile e é ruim: desafinada,
   fora do tempo, insuportável de ouvir do outro lado do pátio. A amiga dela toca

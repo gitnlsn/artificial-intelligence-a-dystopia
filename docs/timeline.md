@@ -20,13 +20,18 @@ por uma data ordenável:
 | Quando | O que aconteceu | Quem sabe disso | Cap. em que aparece |
 |---|---|---|---|
 | 1965 | Aurel nasce | — | 01 |
+| 1972 | O pai leva Aurel, 7 anos, atrasado ao desfile. Nos ombros dele, o menino vê as cabeças até a curva da avenida, todas viradas para o mesmo lado | Aurel | 05 |
 | 1988 | Aurel entra na redação, aos 23. Márcio já é velho e lhe ensina o deleatur | Aurel | 01 |
 | 1990 | Edição brasileira de *A Era das Revoluções* (Paz e Terra). O exemplar de Aurel é deste ano, com o preço a lápis na folha de rosto e um *de* repetido que ninguém pegou | Aurel, a partir do cap. 01 | 01 |
 | 1991-03-14 | Incêndio na rua Vetten, 19 mortos. Aurel, 26 anos, confere a lista **sozinho** em onze minutos porque Halvar tirou a semana e Márcio fechava a três. *Roht, A.* no cadastro do 402 serve para dois irmãos | Aurel, Márcio, Vidor | 02 |
 | 1991-03-15 | Emil Roht sobe à redação de paletó abotoado. Márcio leva uma hora escrevendo quatro linhas. A errata sai no pé de uma página ímpar; Peu leva um exemplar de moto à mãe, no interior. Ninguém nunca soube se chegou antes | Aurel | 02 |
 | 1991–2025 | Aurel nunca mais confere uma lista sozinho. Trinta e quatro anos. Márcio nunca toca no assunto outra vez | Aurel | 02 |
 | 1996 | Aurel e Bendt quase brigam de verdade por causa de um editorial | Aurel | 01 |
+| ≈2019 | Ilse acende a luz do teto às duas da manhã para discutir a poltrona. Movem, dá errado, voltam, ele prende o dedo, ela ri alto. A poltrona nunca mais saiu do lugar | Aurel | 03 |
 | 2011 | Ilse escolhe o apartamento da rua Aldan pela cozinha com janela | Aurel | 01 |
+| 2029 | Reforma do apartamento; os recibos ficam na gaveta de baixo da escrivaninha, em cima da pasta com o recorte | Aurel | 02 |
+| 2031 | A caixa de lápis 2B de onde sai o que Nina leva embora | Aurel | 04 |
+| 2038 | Aurel separa as coisas de Ilse em três sacos e não os leva a lugar nenhum | Aurel | 03 |
 | ≈2036 | Ilse morre. Aurel começa a falar sozinho. Dois quartos passam a ficar fechados | Aurel | 01 |
 
 ## Durante o livro

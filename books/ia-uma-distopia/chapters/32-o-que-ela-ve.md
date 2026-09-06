@@ -3,7 +3,7 @@ title: O que ela vê
 part: IV — O PRESENTE
 title_en: What She Sees
 pov: Nina
-when: '2047-09-04'
+when: 2047-09-06 — sexta, na saída
 where: o ônibus, a rua
 premise: a cidade dela é personalizada e ela não sabe disso, porque nunca viu a
   de mais ninguém.

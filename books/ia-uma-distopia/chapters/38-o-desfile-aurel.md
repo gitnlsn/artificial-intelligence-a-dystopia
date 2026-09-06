@@ -15,6 +15,8 @@ threads:
 pays:
 - o-recorte
 - o-nome-do-periodo
+- o-exemplo-da-nina
+- o-piso-morno
 cast:
 - aurel
 - nina

@@ -102,6 +102,63 @@ de vista, e é ele que um capítulo fura sem perceber.
   tinha janela: *cozinha sem janela é um armário onde se cozinha*. Aurel demorou
   a admitir que ela tinha razão.
 
+### Mira
+
+- **É** — filha de Aurel, mãe de Nina. Apressada, boa filha, sempre no carro.
+- Liga segunda de manhã, entre uma coisa e outra. Nas últimas seis semanas ligou
+  seis vezes e Aurel atendeu três. **Não há mágoa nenhuma** — a conversa é sempre
+  a mesma e custa disponibilidade, e é isso que a torna cara.
+- Buzina lá embaixo em vez de subir. Aurel decidiu há uns quatro anos não achar
+  isso ruim, e não acha, com esforço regular.
+- Dormiu no quarto de solteiro até os dezenove.
+
+### Nina
+
+- **É** — 9 anos, neta de Aurel, filha de Mira. Vem às quintas, por volta das
+  4h20.
+- Larga a mochila no meio do corredor, no lugar exato onde ele tropeça. Senta com
+  os dois pés no assento e os joelhos na altura do queixo. Bolacha de coco, atrás
+  da de leite. Chá de mentira, morno, muito leite, na caneca de barriga lascada.
+  Nunca espera o elevador.
+- **Franze a testa entre as sobrancelhas igual à avó.**
+- Narra a política do pátio com autoridade total e é geralmente confiável.
+- **O que ela resolve sem saber que resolveu** — quando Aurel diz que para brigar
+  de verdade os dois têm de estar olhando para a mesma coisa, ela responde "tipo
+  o desfile". Não é uma resposta a ele: é a solução dela, e é boa. (cap. 04)
+- Levou o lápis 2B de Aurel, com quatro centímetros e meio, no bolso da frente da
+  mochila. (cap. 04)
+- **Usa o deleatur errado, e é assim que a marca sobrevive**: risca *outrossim*,
+  *destarte* e uma frase comprida, por serem feias e não por estarem erradas.
+  Aurel deixa. (cap. 04)
+
+### Bel
+
+- **É** — melhor amiga de Nina. **Menina.** Toca caixa na banda marcial da
+  escola. Suspensa dois dias do ensaio por bater na hora errada — mas foi porque
+  a Dória implica com ela desde março, desde a coisa do uniforme.
+- Volta para o último ensaio porque não tem outra na caixa, e a Dória sabe disso.
+
+### Dória
+
+- **É** — quem manda na banda da escola. Decide quem fica na frente. Implica com
+  a Bel. Todo mundo sabe e ninguém fala nada.
+
+### Krall
+
+- **É** — professor, morto. Durante dezoito anos mandou carta ao jornal
+  corrigindo a estimativa de público do desfile. Papel almaço, letra inclinada e
+  minúscula, sempre começando *Prezados senhores, volto ao assunto*, três páginas
+  de cálculo — e um parágrafo curto e seco reconhecendo em que pontos o jornal
+  tinha melhorado desde o ano anterior. **Elogiava.** O jornal publicava as
+  cartas e a conta melhorava no ano seguinte. (cap. 05)
+
+### O pai de Aurel
+
+- Fumava dois maços. Atrasava-se. Em 1972 levou Aurel, 7 anos, atrasado ao
+  desfile, e o pôs nos ombros sem avisar nem perguntar. Aurel viu **as cabeças**
+  — não o desfile, a rua inteira virada para o mesmo lado. Não aguentou muito
+  tempo. (cap. 05)
+
 ### Emil Roht
 
 - **É** — homem de uns 40 anos em 1991. O jornal publicou o nome dele na relação
@@ -163,6 +220,33 @@ impossível de conseguir. Uma linha por regra.
   nome lê a lembrança do nome e não o nome. Sozinho não é leitura, é
   reconhecimento — e é muito mais rápido. Onze minutos para dezenove nomes é
   velocidade de um homem só. (cap. 02)
+- **O piso morno.** A casa aquece dois metros e meio de corredor entre o quarto e
+  o banheiro, entre três e três e meia da manhã, porque aprendeu sozinha no
+  inverno passado. Ninguém pediu. **Ninguém pediria.** A chaleira fica quente às
+  três porque acordado a essa hora é chá; o limão aparece na fruteira sem ter
+  sido comprado, porque a lista se corrige sozinha e nunca erra. (cap. 03)
+- **A casa nunca acendeu a luz na cara dele.** Nem uma vez, nem por engano. É
+  incapaz de não considerar — e é exatamente por isso que é mais fácil que gente.
+  Ilse acendia a do teto às duas da manhã para discutir onde ficava a poltrona.
+  (cap. 03)
+- **Os quartos fechados não estão trancados.** Nunca estiveram. Não é santuário:
+  limpar quarto vazio é uma coisa que se para de fazer. A casa mantém os dois na
+  mesma temperatura do resto. (cap. 03)
+- **A faxina roda.** Vem alguém limpar às quintas e quase nunca é a mesma pessoa;
+  Aurel parou de aprender os nomes no terceiro. Uma delas, ao telefone na cozinha
+  dele, achando que ele dormia: pegou a manhã num endereço e a tarde do outro
+  lado, não dá tempo, e não é com a pessoa que ela precisa falar, é com o
+  aplicativo, **e o aplicativo não tem com quem falar.** (cap. 03 — é o mundo de
+  Rita entrando na Parte I sem ser nomeado)
+- **A briga do número.** Todo ano o jornal publicava quantas pessoas tinham ido
+  ao desfile, e o número brigava com o da prefeitura — quarenta mil contra cento
+  e oitenta mil — com metodologia pública: quadrantes, densidade por metro
+  quadrado, três pessoas no apertado, uma e meia no folgado. Hoje existem muitos
+  números e nenhuma briga, porque não há nada que precise ser decidido em comum.
+  (cap. 05)
+- **Para que serve um desfile** — não é para o inimigo, que não está na calçada.
+  É um inventário com música: *isto existe, isto é nosso, e isto está em ordem*.
+  Roma fazia com os despojos em carroça e os cativos na frente. (cap. 05)
 - **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
   pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
   obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela

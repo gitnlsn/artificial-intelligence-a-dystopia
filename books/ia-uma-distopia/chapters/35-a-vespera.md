@@ -3,7 +3,7 @@ title: A véspera
 part: IV — O PRESENTE
 title_en: The Eve
 pov: Nina
-when: '2047-09-06'
+when: 2047-09-06 — sexta, à noite
 where: a casa dela
 premise: ela não dorme de animação, que é a coisa mais antiga e mais humana do livro
   inteiro.
