@@ -46,18 +46,25 @@ antes de saber que ela existe.
 portanto uma escada de memória descendente. O velho lembra de tudo e não pode
 fazer nada; a criança pode tudo e não lembra de nada.
 
-### Os dois Hobsbawm
+### As três distâncias
 
-O livro usa **dois** trechos, e não um. A epígrafe da Parte I é a passagem do
-*Era dos Extremos* sobre o "presente contínuo sem relação orgânica com o passado
-público" — que descreve a profissão de Aurel, batiza a Parte IV (**O PRESENTE**)
-e enuncia a tese do romance, escrita em 1994. O que Aurel está *lendo na página*
-no capítulo 1 é outro: a abertura de *A Era das Revoluções*, sobre o mundo de
-1780 ser ao mesmo tempo muito menor e muito maior que o nosso.
+A epígrafe da Parte I e o livro que Aurel tem no colo são de autores diferentes,
+e a distância entre eles é a virada do capítulo.
 
-A virada do capítulo mora na distância entre os dois: **Hobsbawm descreve 1780
-com confiança total, a duzentos anos de distância; Aurel não consegue descrever
-2047 de dentro.** Nenhuma frase do capítulo diz isso.
+**Tocqueville, 1840**, na epígrafe, descreve com precisão total uma condição que
+é o presente do romance — esquecer os antepassados, não enxergar os descendentes,
+ficar separado dos contemporâneos. Duzentos e sete anos de distância.
+
+**Hobsbawm, 1962**, na página que Aurel está lendo, descreve o mundo de 1780 com
+confiança total. Cento e oitenta e dois anos de distância.
+
+**Aurel, 2047**, não consegue descrever 2047, e passa a tarde inteira tentando.
+Distância nenhuma.
+
+É a mesma operação três vezes, com a distância diminuindo e a certeza sumindo
+junto — e a epígrafe, que o leitor atravessa antes de conhecer o Aurel, é ela
+própria a prova do que ele não consegue fazer. **Nenhuma frase do capítulo diz
+isso**, e nenhuma pode.
 
 Trechos, verificação e edições brasileiras em `docs/references.md`. As duas obras
 são de editoras diferentes.

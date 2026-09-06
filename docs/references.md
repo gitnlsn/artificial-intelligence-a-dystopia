@@ -77,61 +77,83 @@ que a música do desfile passou a ser inventada, **esta é a única citação do
 livro que não custa nada nem depende da permissão de ninguém.** A Parte IV, de
 propósito, não tem epígrafe.
 
-### Hobsbawm — os dois trechos, e o que cada um faz
+### As epígrafes e o Hobsbawm do capítulo 1
 
-Eric Hobsbawm (1917–2012) está em direito autoral. Um trecho **curto**, com
-atribuição completa, é prática corrente e situação bem menos arriscada que letra
-de música: a proporção citada é minúscula e a lei brasileira (Lei 9.610/98, art.
-46, III) permite a citação de passagens com indicação do autor e da origem.
-Editora tradicional em geral limpa epígrafe mesmo assim.
+**Nenhuma epígrafe do livro depende de permissão.** As três — Tocqueville na
+Parte I, Weil na Parte II, Hugo na Parte III — são de autores em domínio público,
+com tradução nossa, e a Parte IV não tem nenhuma de propósito.
 
-**O livro usa dois trechos, e eles fazem trabalhos diferentes.**
+Eric Hobsbawm (1917–2012) continua no livro, mas **em um lugar só**: o capítulo 1,
+onde Aurel está lendo *A Era das Revoluções*. Nomear o autor, os títulos e os
+quatro volumes na estante não é questão de direito autoral nenhuma — só as
+palavras citadas são, e sobrou uma frase.
 
-#### 1. A epígrafe da Parte I — *Era dos Extremos* (1994)
+Um trecho **curto**, com atribuição completa, é prática corrente e situação bem
+menos arriscada que letra de música: a proporção citada é minúscula e a lei
+brasileira (Lei 9.610/98, art. 46, III) permite a citação de passagens com
+indicação do autor e da origem. Editora tradicional em geral limpa **epígrafe**
+mesmo assim — que é uso decorativo —, e é justamente por isso que a epígrafe saiu
+e a frase do capítulo ficou: dentro do capítulo o personagem lê a frase e discute
+com ela, que é o uso mais defensável que existe.
 
-> The destruction of the past, or rather of the social mechanisms that link
-> one's contemporary experience to that of earlier generations, is one of the
-> most characteristic and eerie phenomena of the late twentieth century. Most
-> young men and women at the century's end grow up in a sort of permanent
-> present lacking any organic relation to the public past of the times they
-> live in.
+#### 1. A epígrafe da Parte I — Tocqueville (1840)
 
-Abertura de "The Century: A Bird's Eye View". Vem logo depois do episódio de
-Mitterrand em Sarajevo, em 1992, e é seguida de "This makes historians, whose
-business it is to remember what others forget, more essential at the end of the
-second millennium than ever before."
+> Ainsi, non seulement la démocratie fait oublier à chaque homme ses aïeux, mais
+> elle lui cache ses descendants et le sépare de ses contemporains ; elle le
+> ramène sans cesse vers lui seul, et menace de le renfermer enfin tout entier
+> dans la solitude de son propre cœur.
 
-**Por que é esta.** Ela enuncia a tese inteira do romance, escrita em 1994:
+*De la démocratie en Amérique* (1840), tomo II, segunda parte, capítulo II —
+*De l'individualisme dans les pays démocratiques*.
 
-- *"the social mechanisms that link one's contemporary experience to that of
-  earlier generations"* — é literalmente a profissão de Aurel. Ele **era** um
-  desses mecanismos. O jornal era um deles.
-- *"a sort of permanent present"* — **a Parte IV se chama O PRESENTE.** Hobsbawm
-  batizou a parte da criança trinta anos antes. Nina é a pessoa descrita nessa
-  frase.
-- E a frase sobre o historiador que lembra o que os outros esquecem é exatamente
-  o que Aurel deixou de conseguir ser.
+**Estado da verificação:** ✅ **conferida contra o fac-símile do Wikisource**,
+edição Pagnerre de 1848, tomo 3, lendo os parágrafos em volta. No mesmo capítulo,
+duas páginas antes, está a imagem da corrente — *"L'aristocratie avait fait de
+tous les citoyens une longue chaîne qui remontait du paysan au roi ; la démocratie
+brise la chaîne et met chaque anneau à part"* —, que foi considerada e preterida:
+é imagem em vez de argumento, e perde os contemporâneos.
 
-**Estado da verificação:** ✅ **conferido contra o texto brasileiro digitalizado**
-(Internet Archive, *Eric Hobsbawn — A Era dos Extremos*, camada de OCR),
-lendo o parágrafo inteiro em volta. Duas correções de OCR foram aplicadas a
-partir do contexto: o arquivo traz *fenómenos* e *milénio* com acento agudo
-(convenção lusitana ou defeito de digitalização — a edição brasileira usa
-*fenômenos*) e *tomam-se* onde o texto é *tornam-se* (o clássico rn→m do OCR).
+**Direitos:** Tocqueville morreu em 1859. Domínio público em qualquer lugar, e a
+tradução é nossa. **Não deixa titular nenhum.**
 
-**A tradução impressa no livro é a de Marcos Santarrita**, não é nossa, e por
-isso vai creditada na epígrafe. Um texto que "saiu igual" numa primeira versão
-de rascunho era, na verdade, a tradução publicada — passagem famosa o
-bastante para ser lembrada quase palavra por palavra, e é exatamente por isso
-que a regra é conferir contra o livro em vez de confiar na memória.
+**Por que é esta.** Ela faz três coisas que a anterior não fazia todas juntas:
 
-**A alternativa, se a permissão for difícil:** traduzir do inglês por conta e
-marcar *tradução nossa*, o que elimina um titular de direitos (o tradutor) e
-deixa apenas a citação curta e atribuída do texto de Hobsbawm. É o que se fez
-nas Partes II e III. Não se fez aqui porque *presente contínuo* é a solução de
-Santarrita, é como o leitor brasileiro conhece a frase, e inventar uma tradução
-rival de uma passagem célebre só para contornar uma permissão de rotina é pior
-ofício.
+- *"fait oublier à chaque homme ses aïeux"* — a transmissão que falhou. É o
+  ofício de Aurel, a errata, o cotejo.
+- *"lui cache ses descendants"* — Aurel e Nina. Ele passa uma tarde tentando
+  entregar uma coisa a ela e sai entendendo que não há buraco onde entregar.
+- *"le sépare de ses contemporains"* — **é a tese do romance, e é o que faltava.**
+  O livro inteiro é sobre o objeto comum que sumiu: a mesma página na casa dele e
+  na do vizinho, o balcão, a briga que precisa de um objeto, a rua olhando para o
+  mesmo lado. Nenhuma epígrafe anterior dizia isto.
+- *"la solitude de son propre cœur"* — Aurel preferindo a casa, Elias na cadeira
+  quebrada, Rita sem ter para quem guardar.
+
+E há a rima estrutural, que é o motivo mais forte: o capítulo 1 é sobre um homem
+que não consegue nomear a própria época porque nomear exige distância. **Um
+francês de 1840 acertando a forma do presente do livro é esse argumento
+acontecendo antes de o leitor conhecer o Aurel.** Ver *As três distâncias*, em
+`docs/outline.md`.
+
+**O que se perdeu, e é real.** A epígrafe anterior era a passagem do *Era dos
+Extremos* sobre os jovens que crescem "numa espécie de presente contínuo, sem
+qualquer relação orgânica com o passado público" — que **batizava a Parte IV**
+(O PRESENTE) trinta anos antes. Tocqueville não devolve isso. A Parte IV continua
+se chamando O PRESENTE e continua funcionando; deixou de ter a coincidência.
+
+**Por que se trocou, e não repor.** Não foi problema de qualidade: era a melhor
+correspondência do livro. Foi decisão do autor de **não depender de permissão
+nenhuma**. Ali empilhavam dois titulares — o texto de Hobsbawm, morto em 2012 e
+protegido até 2083, e a tradução de Marcos Santarrita, publicada pela Companhia
+das Letras. Traduzir por conta removeria só o segundo e custaria *presente
+contínuo*, que é a solução do Santarrita e é como o leitor brasileiro conhece a
+frase. Trocar remove os dois.
+
+**Com esta troca o livro não tem nenhuma permissão pendente**: Tocqueville, Weil
+e Hugo estão os três em domínio público, com tradução nossa, e a Parte IV não tem
+epígrafe de propósito. Uma revisão futura que restaure o Hobsbawm reintroduz um
+pedido à Companhia das Letras — se for para fazer isso, que seja por decisão
+tomada de novo, e não por alguém achando que melhora.
 
 #### 2. O que Aurel está lendo no capítulo 1 — *A Era das Revoluções* (1962)
 
@@ -180,18 +202,24 @@ que pega um *de* repetido na virada da linha não decora uma enumeração
 geográfica; ele guarda uma palavra (*manchas*) e uma imagem (o branco no mapa).
 Cortar devolveu o parágrafo ao personagem. Não repor.
 
-#### As edições brasileiras — e são de editoras diferentes
+#### As edições brasileiras
 
-O romance é em português, então a epígrafe é em português, e **a tradução tem
-direito autoral próprio, do tradutor.** Não traduzir por conta: usar a edição
-publicada e creditar quem traduziu.
+**A regra que valia aqui foi invertida, e o motivo fica registrado.** Antes era:
+o romance é em português, a tradução tem direito autoral próprio do tradutor,
+logo usar a edição publicada e creditar quem traduziu. Isso é correto para quem
+vai pedir permissão. **Este livro decidiu não pedir nenhuma**, e para isso a
+regra é a oposta — traduzir do original e marcar *tradução nossa* —, o que só
+funciona porque os três autores das epígrafes estão em domínio público.
 
-| Obra | Editora | Tradução |
-|---|---|---|
-| *A Era das Revoluções: 1789–1848* | Paz e Terra | Maria Célia Paoli e Anna Maria Quirino |
-| *Era dos Extremos: o breve século XX* | **Companhia das Letras** | Marcos Santarrita; revisão técnica de Maria Célia Paoli |
+| Obra | Editora | Tradução | Onde aparece |
+|---|---|---|---|
+| *A Era das Revoluções: 1789–1848* | Paz e Terra | Maria Célia Paoli e Anna Maria Quirino | **uma frase**, em itálico, no capítulo em que Aurel lê |
+| *Era dos Extremos: o breve século XX* | Companhia das Letras | Marcos Santarrita | **não aparece mais** — era a epígrafe da Parte I até a troca |
 
-São editoras diferentes: um pedido de permissão vai para cada uma.
+A frase que sobrou está creditada no corpo do capítulo pelo autor e pelo livro,
+que é como uma citação dentro de prosa se credita. **Não há página de créditos
+ainda** — `front/` está vazio —, e quando houver, é ali que entram a atribuição
+completa da edição da Paz e Terra e as três epígrafes com *tradução nossa*.
 
 #### 3. A epígrafe da Parte II — Simone Weil
 

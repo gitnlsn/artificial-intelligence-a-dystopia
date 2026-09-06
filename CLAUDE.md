@@ -443,25 +443,29 @@ the one that was planned.
 1. **The title is *Quarenta dias úteis*** — the line in the footer of every
    despatch in the book, including the one that finally reaches Voss. It is the
    only thing the system says identically to everyone, and it means nothing.
-3. **The epigraphs.** All three exist and all three are verified against a
-   source in `docs/references.md`: Hobsbawm (*Era dos Extremos*) for Part I,
-   **Simone Weil (*Attente de Dieu*) for Part II**, Hugo (*Les Misérables*) for
-   Part III. **Part IV deliberately has none at all** — it is the only part whose
-   protagonist inherited no text, and that is a decision, not an omission. The
-   part file says so in place, so nobody "fixes" it later.
+3. **The epigraphs — and the book now needs no permission from anyone.** All
+   three are verified against a source in `docs/references.md`: **Tocqueville**
+   (*De la démocratie en Amérique*, 1840) for Part I, **Simone Weil** (*Attente
+   de Dieu*) for Part II, **Hugo** (*Les Misérables*) for Part III. All three
+   authors are public domain and every translation is ours, so **no rightsholder
+   exists anywhere in the front matter.** **Part IV deliberately has none at
+   all** — it is the only part whose protagonist inherited no text, and the part
+   file says so in place so nobody "fixes" it later.
 
-   **The book's default is to translate from the original and mark *tradução
-   nossa*.** Weil and Hugo are both public domain, so with our own translation
-   they have no rightsholder at all and cost nothing. **Part I is the single
-   exception and the only one that needs permission:** it prints Marcos
-   Santarrita's published translation, credited, because *presente contínuo* is
-   his solution and is how the Brazilian reader knows the phrase — and because
-   inventing a rival translation of a famous passage purely to dodge a routine
-   permission is worse craft. Hobsbawm died in 2012, so **two rights stack there,
-   the text and the translation.** Translating it in-house would remove only the
-   second. That trade is `docs/references.md`'s to explain and the author's to
-   make; until it is made, the permission request goes to Companhia das Letras
-   and nothing else in the book is blocked on it.
+   **The default is to translate from the original and mark *tradução nossa*.**
+   Part I used to print Hobsbawm in Marcos Santarrita's published translation,
+   which stacked two rightsholders — the text, protected until 2083, and the
+   translation. It was the best-matched epigraph in the book and it was dropped
+   anyway, by the author's decision not to depend on a permission. What was lost
+   is recorded in `docs/references.md` along with a **do not restore**: putting
+   it back reintroduces a request to Companhia das Letras, and that is a decision
+   to be taken again rather than drifted into.
+
+   **Hobsbawm stays in the book, in one place**: the chapter where Aurel is
+   reading *A Era das Revoluções*. Naming the author, the titles and the four
+   spines costs nothing — only quoted words are a rights question, and one
+   attributed sentence inside a scene where the character argues with it is the
+   most defensible use there is. Do not quietly extend it.
 
 Settled, and listed here only so nobody reopens them: the dystopia rule, the
 four-part form, the four paces, the cast, the setting, the parade music, the

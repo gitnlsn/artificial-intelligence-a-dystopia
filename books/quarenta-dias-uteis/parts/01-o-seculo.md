@@ -4,10 +4,9 @@ title: O século
 illustration: 01-o-seculo
 status: draft
 ---
-A destruição do passado — ou melhor, dos mecanismos sociais que vinculam nossa
-experiência pessoal à das gerações passadas — é um dos fenômenos mais
-característicos e lúgubres do final do século XX. Quase todos os jovens de hoje
-crescem numa espécie de presente contínuo, sem qualquer relação orgânica com o
-passado público da época em que vivem.
+Assim, a democracia não apenas faz cada homem esquecer seus antepassados:
+esconde-lhe os descendentes, separa-o de seus contemporâneos, remete-o sem
+cessar a si mesmo, e ameaça enfim encerrá-lo inteiro na solidão do próprio
+coração.
 
-*Eric Hobsbawm, Era dos Extremos. Tradução de Marcos Santarrita.*
+*Alexis de Tocqueville, De la démocratie en Amérique, 1840. Tradução nossa.*
