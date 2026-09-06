@@ -3,7 +3,7 @@ title: Quatro linhas
 part: III — A NOTIFICAÇÃO
 title_en: Four Lines
 pov: Voss
-when: '2047-09-02'
+when: '2047-10-14'
 where: a mesa
 premise: um dos casos da fila é a casa do velho Teodor, onde o leitor passou um
   capítulo inteiro. Voss lê quatro linhas, indefere corretamente, e passa ao próximo.

@@ -326,8 +326,17 @@ These are in `docs/outline.md` and `docs/bible.md` as `[[?autor: …]]` markers 
 3. **The title.** `book.yaml` carries a descriptive placeholder so the book
    compiles.
 
-Setting and music are settled. **The country is not named and the parade music
-is invented** — one decision, not two. The administrative machinery here works
+Setting and music are settled. **The country is not named, the parade music is
+invented, and the parade day is invented** — one decision, not three. The
+occasion is *o Dia da Fundação*, the founding day of a city that does not exist.
+
+**Never place the parade on a real national holiday, and never name a month in
+prose where the month would imply a hemisphere.** An earlier draft had the
+parade on 7 September and a chapter called *Sete de setembro* — Brazil's
+national day, sitting inside a country the book had deliberately refused to
+name. The de-localising sweep looked for place names and never for dates, which
+is exactly how this kind of residue survives. The ISO dates in front matter feed
+`digest.py` and are never printed. The administrative machinery here works
 identically in any middle- or high-income country, and naming one would have the
 reader arguing about that country instead of recognising their own. The guard
 rail is hard: *unnamed is not vague.* The city has bus numbers, stairwell

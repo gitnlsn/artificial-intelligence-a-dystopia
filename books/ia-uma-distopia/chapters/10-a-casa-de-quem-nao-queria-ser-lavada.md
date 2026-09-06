@@ -3,7 +3,7 @@ title: A casa de quem não queria ser lavada
 part: II — O TURNO
 title_en: The House of the Woman Who Didn't Want Washing
 pov: Rita
-when: 2047-09-01 — manhã
+when: 2047-10-13 — manhã
 where: uma casa em Brenna
 premise: uma mulher recusa o banho todos os dias, e a recusa é a última coisa que
   ela ainda decide sozinha; Rita entende isso e perde meia hora do turno de propósito.

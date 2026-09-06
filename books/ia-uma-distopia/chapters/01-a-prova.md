@@ -3,13 +3,14 @@ title: A prova
 part: I — O SÉCULO
 title_en: The Proof
 pov: Aurel
-when: 2047-08-28 — dez dias antes do desfile
+when: 2047-10-09 — dez dias antes do desfile
 where: a sala do apartamento, Marvik, fim de tarde
-premise: ele lê Hobsbawm e percebe que não consegue nomear o período em que está
-  vivendo; um século sempre foi legível de fora, e este não é legível de lugar
-  nenhum.
-turn: larga o livro e não consegue dizer em voz alta que época da história é
-  hoje.
+premise: ele está lendo a abertura de *A Era das Revoluções*, sobre o mundo da década
+  de 1780 ser ao mesmo tempo muito menor e muito maior que o nosso. Hobsbawm descreve
+  1780 com confiança total, a duzentos anos de distância — e Aurel percebe que ninguém
+  vai poder fazer isso com 2047, porque não há mais de onde olhar.
+turn: larga o livro e não consegue dizer em voz alta que época da história é hoje.
+  Um século sempre foi legível de fora; este não é legível de lugar nenhum.
 threads:
 - fio-do-registro
 - fio-do-conforto
@@ -19,7 +20,7 @@ seeds:
 cast:
 - aurel
 sources: Hobsbawm, *A Era das Revoluções*, abertura do cap. 1 — trecho conferido
-  contra o texto; ver docs/references.md
+  contra o texto; ver `docs/references.md`
 status: draft
 ---
 O lápis era um 2B e ele apontava com gilete, nunca com apontador, porque
@@ -116,8 +117,8 @@ branco no mapa dizendo *aqui nós não sabemos*.
 
 Do lado de fora a tarde estava naquele ponto em que a luz fica cor de papel
 velho e as coisas dentro de casa ficam mais nítidas do que foram o dia inteiro.
-A sala tinha duas janelas e ele mantinha as duas abertas até tarde, mesmo em
-agosto, mesmo com o barulho da Aldan subindo. Gostava do barulho. Era um barulho
+A sala tinha duas janelas e ele mantinha as duas abertas até tarde, mesmo quando
+esfriava, mesmo com o barulho da Aldan subindo. Gostava do barulho. Era um barulho
 de ônibus, de portão, de gente descendo com sacola. O 41 passava a cada onze
 minutos e ele sabia o som do 41.
 

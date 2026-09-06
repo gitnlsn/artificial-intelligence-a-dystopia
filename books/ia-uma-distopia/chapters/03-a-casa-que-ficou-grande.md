@@ -3,20 +3,18 @@ title: A casa que ficou grande
 part: I — O SÉCULO
 title_en: The House That Grew
 pov: Aurel
-when: 2047-08-31 — de madrugada
-where: o apartamento inteiro, entre três e cinco da manhã
-premise: a casa é atenciosa, competente e incansável, e a viuvez dele é mais
-  confortável do que devia ser.
-turn: se pega preferindo a companhia da casa à das pessoas, e não conta isso a
-  ninguém.
+when: '2047-10-12'
+where: o apartamento inteiro, de madrugada
+premise: as máquinas da casa são atenciosas, competentes e incansáveis, e a viuvez
+  dele é mais confortável do que devia ser.
+turn: se pega preferindo a companhia da casa à das pessoas, e não conta isso a ninguém.
 threads:
 - fio-do-conforto
-seeds:
-- o-piso-morno
 cast:
 - aurel
-sources: nenhuma
 status: draft
+seeds:
+- o-piso-morno
 ---
 Às três e dez ele acordou, como acorda um homem de oitenta e dois anos, sem
 motivo e sem sono, e ficou deitado no escuro fazendo a conta de quanto tempo
@@ -50,7 +48,7 @@ no assunto. A luz não bateu no olho dele. Nunca batia.
 
 Ele foi até a cozinha e a bancada estava com aquela mesma claridade fraca, e a
 chaleira estava quente. Não fervendo: quente. Porque três da manhã acordado é
-chá e não é café, e ele tinha feito isso onze ou doze vezes desde junho.
+chá e não é café, e ele tinha feito isso onze ou doze vezes nos últimos meses.
 
 Havia um limão na fruteira que ele não tinha comprado.
 

@@ -3,7 +3,7 @@ title: A escala
 part: II — O TURNO
 title_en: The Roster
 pov: Rita
-when: 2047-08-31 — à noite
+when: 2047-10-12 — à noite
 where: o aplicativo; a cozinha
 premise: os turnos vão rareando sem que ninguém tenha decidido nada contra ela;
   é risco previsto sendo neutralizado, e não há a quem reclamar.

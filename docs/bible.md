@@ -199,6 +199,16 @@ de vista, e é ele que um capítulo fura sem perceber.
   como quatro linhas.
 - [[?mundo: a casa dele inteira — ainda não escrita. Ver cap. 08.]]
 
+## O calendário
+
+- **O Dia da Fundação** — feriado cívico da cidade, com desfile na avenida, banda
+  marcial e arquibancada. **Inventado.** Não corresponde a feriado real de país
+  nenhum, e nunca deve passar a corresponder.
+- **A prosa não nomeia mês** quando o mês implicaria hemisfério. O livro tem
+  frio, calor, chuva e uma estação em que chove; não tem agosto.
+- As datas ISO no front matter existem para `make digest --tempo` e nunca são
+  impressas.
+
 ## As regras do lugar
 
 O que é possível, o que é comum, o que é caro, o que é ilegal e o que é apenas

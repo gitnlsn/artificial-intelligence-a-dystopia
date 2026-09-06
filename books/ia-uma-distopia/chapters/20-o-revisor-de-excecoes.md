@@ -3,7 +3,7 @@ title: O revisor de exceções
 part: III — A NOTIFICAÇÃO
 title_en: The Reviewer of Exceptions
 pov: Voss
-when: '2047-08-25'
+when: '2047-10-06'
 where: a mesa; o prédio; o ônibus de volta
 premise: veio de baixo e subiu porque o critério foi justo com ele; acredita no
   sistema por experiência própria, e a exceção é o que corrói exatamente aquilo

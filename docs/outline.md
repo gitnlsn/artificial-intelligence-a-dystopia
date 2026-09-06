@@ -294,6 +294,20 @@ Tudo abaixo é rascunho para o autor derrubar. Nada aqui é cânone até estar e
 **Uma cidade sem nome, 2047. O Dia da Fundação.** O desfile é cívico: o Estado
 mostrando suas máquinas ao público, com banda marcial e arquibancada.
 
+**O Dia da Fundação é inventado e não corresponde a feriado nenhum de país
+nenhum.** Uma versão anterior deste plano marcava o desfile em 7 de setembro, e
+um capítulo chegou a se chamar *Sete de setembro*. Era resíduo: a data é o
+feriado nacional brasileiro, e um feriado nacional real dentro de um país
+deliberadamente sem nome entrega justamente o que o livro tinha decidido não
+entregar. A varredura que tirou "Brasil", "Rio" e "carnaval" não procurou por
+datas, e por isso passou.
+
+**A regra, daqui em diante:** o livro não nomeia mês em prosa quando o mês
+implicaria hemisfério, não usa data de feriado real de lugar nenhum, e chama a
+ocasião apenas de *Dia da Fundação* — que é o dia em que aquela cidade foi
+fundada, e aquela cidade não existe. As datas ISO no front matter servem à
+`digest.py` e nunca são impressas.
+
 **O país não é nomeado, e a música não tem nome.** As duas decisões são a mesma
 decisão. A máquina administrativa deste livro — turno alocado, risco previsto,
 recurso que existe e leva quarenta dias úteis — funciona igual em qualquer país
@@ -304,7 +318,7 @@ vez de reconhecer o próprio.
 detalhe concreto de trabalho — o leitor acredita no mundo pelas partes chatas —
 e uma cidade sem nome é o convite mais fácil do mundo para escrever genérico. A
 cidade não tem país; tem número de ônibus, tem cheiro de escada, tem o preço do
-café, tem chuva em setembro. **Nada é vago. Só não tem bandeira.**
+café, tem uma estação em que chove. **Nada é vago. Só não tem bandeira.**
 
 Os bairros têm nome inventado — **Marvik** (velho, onde mora Aurel), **Kalden**
 (onde Rita mora e espera), **Brenna** (os blocos, mais pobre) — e o prédio da
@@ -443,7 +457,7 @@ engolir cem anos. Ele tem todo o tempo e nenhum futuro.
 ### 1. A prova
 *(The Proof)*
 - **POV** — Aurel
-- **Quando** — 2047-08-28 — dez dias antes do desfile
+- **Quando** — 2047-10-09 — dez dias antes do desfile
 - **Onde** — a sala do apartamento, Marvik, fim de tarde
 - **A ideia** — ele está lendo a abertura de *A Era das Revoluções*, sobre o mundo da década de 1780 ser ao mesmo tempo muito menor e muito maior que o nosso. Hobsbawm descreve 1780 com confiança total, a duzentos anos de distância — e Aurel percebe que ninguém vai poder fazer isso com 2047, porque não há mais de onde olhar.
 - **A virada** — larga o livro e não consegue dizer em voz alta que época da história é hoje. Um século sempre foi legível de fora; este não é legível de lugar nenhum.
@@ -455,7 +469,7 @@ engolir cem anos. Ele tem todo o tempo e nenhum futuro.
 ### 2. O revisor
 *(The Proofreader)*
 - **POV** — Aurel
-- **Quando** — 2047-08-29
+- **Quando** — 2047-10-10
 - **Onde** — a sala; a mesa; a memória da redação
 - **A ideia** — a vida de trabalho dele era conferir uma frase contra o mundo, e o que ele mantinha não era o texto: era um registro comum, a mesma página lida pelo vizinho.
 - **A virada** — entende, pela primeira vez, que foi o registro comum que acabou, e não a profissão dele.
@@ -466,7 +480,7 @@ engolir cem anos. Ele tem todo o tempo e nenhum futuro.
 ### 3. A casa que ficou grande
 *(The House That Grew)*
 - **POV** — Aurel
-- **Quando** — 2047-08-31
+- **Quando** — 2047-10-12
 - **Onde** — o apartamento inteiro, de madrugada
 - **A ideia** — as máquinas da casa são atenciosas, competentes e incansáveis, e a viuvez dele é mais confortável do que devia ser.
 - **A virada** — se pega preferindo a companhia da casa à das pessoas, e não conta isso a ninguém.
@@ -476,7 +490,7 @@ engolir cem anos. Ele tem todo o tempo e nenhum futuro.
 ### 4. A neta que vem às quintas
 *(The Granddaughter Who Comes on Thursdays)*
 - **POV** — Aurel
-- **Quando** — 2047-09-05 — quinta-feira
+- **Quando** — 2047-10-17 — quinta-feira
 - **Onde** — a cozinha
 - **A ideia** — ele tenta explicar a Nina o que era ler o mesmo jornal que o vizinho, e não consegue — não porque ela seja burra, mas porque não há do que sentir falta. Mostra a ela o deleatur na margem do livro, a marca que o Márcio lhe ensinou, e ela acha bonitinho.
 - **A virada** — percebe que ela não perdeu nada, e que isso é pior do que se tivesse perdido.
@@ -484,10 +498,10 @@ engolir cem anos. Ele tem todo o tempo e nenhum futuro.
 - **Paga** — o-lapis
 - **Elenco** — aurel, nina
 
-### 5. Sete de setembro
-*(The Seventh of September)*
+### 5. O inventário
+*(The Inventory)*
 - **POV** — Aurel
-- **Quando** — 2047-09-06 — sexta, de manhã
+- **Quando** — 2047-10-18 — sexta, de manhã
 - **Onde** — a cozinha; a janela
 - **A ideia** — ele foi a desfiles a vida toda e sabe exatamente o que um desfile é para; aceita ir a este porque a neta quer, o que é outro motivo.
 - **A virada** — diz que vai.
@@ -510,7 +524,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 6. A música que veio de longe
 *(The Music From Far Off)*
 - **POV** — Rita
-- **Quando** — 2047-08-30 — de manhã
+- **Quando** — 2047-10-11 — de manhã
 - **Onde** — uma calçada em Kalden, esperando alocação
 - **A ideia** — parada na rua sem turno, ela escuta uma música que vem de uma janela alta; ninguém escolheu mandar aquilo para ela, e faz meses que nada chega assim.
 - **A virada** — percebe que não ficava parada há meses, e que a parada não foi escolha dela.
@@ -522,7 +536,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 7. O outro cômodo
 *(The Other Room)*
 - **POV** — Elias
-- **Quando** — 2047-08-30 — à noite
+- **Quando** — 2047-10-11 — à noite
 - **Onde** — o quarto dos fundos
 - **A ideia** — a companhia dele não é sórdida nem secreta: é confortável, e ele está mais leve do que há anos, e é isso que faz o capítulo doer.
 - **A virada** — adia contar de novo, e o adiamento já não parece adiamento.
@@ -533,7 +547,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 8. A casa do velho Teodor
 *(The House of Teodor)*
 - **POV** — Rita
-- **Quando** — 2047-08-31 — turno da manhã
+- **Quando** — 2047-10-12 — turno da manhã
 - **Onde** — um apartamento de dois quartos em Marvik
 - **A ideia** — a primeira casa: um homem de setenta e nove anos, as mãos dele, a cozinha dele, o que ele tem medo de pedir. É a casa que o leitor precisa conhecer inteira, porque vai reencontrá-la na mesa de Voss valendo quatro linhas.
 - **A virada** — ele pede uma coisa pequena que não estava na escala, e ela faz.
@@ -544,7 +558,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 9. A escala
 *(The Roster)*
 - **POV** — Rita
-- **Quando** — 2047-08-31 — à noite
+- **Quando** — 2047-10-12 — à noite
 - **Onde** — o aplicativo; a cozinha
 - **A ideia** — os turnos vão rareando sem que ninguém tenha decidido nada contra ela; é risco previsto sendo neutralizado, e não há a quem reclamar.
 - **A virada** — entende que não foi punida — foi *precavida*.
@@ -554,7 +568,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 10. A casa de quem não queria ser lavada
 *(The House of the Woman Who Didn't Want Washing)*
 - **POV** — Rita
-- **Quando** — 2047-09-01 — manhã
+- **Quando** — 2047-10-13 — manhã
 - **Onde** — uma casa em Brenna
 - **A ideia** — uma mulher recusa o banho todos os dias, e a recusa é a última coisa que ela ainda decide sozinha; Rita entende isso e perde meia hora do turno de propósito. Ela chegou a esta cidade há quarenta anos e ainda conta em outra língua quando está com raiva, o que é a única coisa que sobrou inteira.
 - **A virada** — Rita deixa que ela ganhe, e ouve os números na língua de origem sem entender nenhum.
@@ -564,7 +578,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 11. O que ela contava
 *(What She Used to Tell Him)*
 - **POV** — Rita
-- **Quando** — 2047-09-01 — à noite
+- **Quando** — 2047-10-13 — à noite
 - **Onde** — a sala, depois do jantar
 - **A ideia** — ela tenta contar o dia e ele é gentil, mas alguém no outro cômodo já ouviu uma versão melhor de tudo, e ela está competindo sem saber com o quê.
 - **A virada** — para de contar no meio, e ele não pergunta o resto.
@@ -575,7 +589,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 12. A casa dos dois irmãos
 *(The House of the Two Brothers)*
 - **POV** — Rita
-- **Quando** — 2047-09-02 — manhã
+- **Quando** — 2047-10-14 — manhã
 - **Onde** — um sobrado em Brenna
 - **A ideia** — dois irmãos velhos que não se falam e moram na mesma casa. Os dois falam todo dia com a mesma irmã, que mora em outro continente, e contam a ela versões diferentes da mesma casa. Ela acredita nas duas. Rita é a única pessoa viva que ouve as duas versões.
 - **A virada** — entrega um recado que não foi pedido, e não dá certo.
@@ -585,7 +599,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 13. A paciência
 *(Patience)*
 - **POV** — Elias
-- **Quando** — 2047-09-02 — à noite
+- **Quando** — 2047-10-14 — à noite
 - **Onde** — a cozinha
 - **A ideia** — ele percebe que perdeu a paciência para a imperfeição dela, tem vergonha disso, e não faz nada — vergonha não é ação.
 - **A virada** — escolhe o cômodo dos fundos sabendo exatamente o que está escolhendo.
@@ -595,7 +609,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 14. A casa vazia
 *(The Empty House)*
 - **POV** — Rita
-- **Quando** — 2047-09-03 — manhã
+- **Quando** — 2047-10-15 — manhã
 - **Onde** — um apartamento em Kalden
 - **A ideia** — ela chega para o turno e não há mais ninguém para cuidar; o turno foi cancelado no sistema quarenta minutos antes e ninguém achou necessário dizer por quê.
 - **A virada** — ela arruma a casa mesmo assim, e não é bondade: é não saber o que fazer com o corpo.
@@ -605,7 +619,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 15. O indeferimento
 *(The Denial)*
 - **POV** — Rita
-- **Quando** — 2047-09-03 — tarde
+- **Quando** — 2047-10-15 — tarde
 - **Onde** — o posto de atendimento, Bloco C
 - **A ideia** — ela recorre da alocação e é indeferida; o documento é correto, cortês, assinado, e ela lê o nome sem registrar que é o nome de alguém.
 - **A virada** — sai com o prazo de quarenta dias úteis e sem raiva, o que é o mais assustador.
@@ -616,7 +630,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 16. A casa da moça que ia embora
 *(The House of the Girl Who Was Leaving)*
 - **POV** — Rita
-- **Quando** — 2047-09-04 — manhã
+- **Quando** — 2047-10-16 — manhã
 - **Onde** — um quarto e sala em Brenna
 - **A ideia** — a casa mais nova do mosaico: uma mulher de vinte e seis anos em recuperação, com tudo pela frente, e que vai embora do país assim que puder andar direito. Rita passa três horas com um futuro que não é o dela, em nenhum sentido.
 - **A virada** — a moça pergunta a Rita o que ela queria ser, e Rita responde de verdade.
@@ -626,7 +640,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 17. A briga que não houve
 *(The Fight They Didn't Have)*
 - **POV** — Rita
-- **Quando** — 2047-09-04 — à noite
+- **Quando** — 2047-10-16 — à noite
 - **Onde** — o apartamento
 - **A ideia** — não há briga, porque brigar exige que os dois precisem de alguma coisa um do outro, e um dos dois não precisa mais.
 - **A virada** — entende que já acabou e que não vai haver cena nenhuma.
@@ -636,7 +650,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 18. A última casa
 *(The Last House)*
 - **POV** — Rita
-- **Quando** — 2047-09-05 — manhã
+- **Quando** — 2047-10-17 — manhã
 - **Onde** — de volta a Marvik, casa de Teodor
 - **A ideia** — o turno dela na casa do Teodor é o último: a alocação dele mudou de mãos e ninguém avisou nenhum dos dois. Eles se despedem sem saber que é despedida.
 - **A virada** — ela promete voltar e sabe, na escada, que não vai.
@@ -647,7 +661,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 19. Ela fica quieta
 *(She Keeps Still)*
 - **POV** — Rita
-- **Quando** — 2047-09-05 — tarde
+- **Quando** — 2047-10-17 — tarde
 - **Onde** — a mesma calçada da primeira vez
 - **A ideia** — volta ao lugar onde ouviu a música e fica parada de propósito, o que é a única coisa que ela escolheu na parte inteira.
 - **A virada** — não toca música nenhuma, e ela fica assim mesmo.
@@ -667,7 +681,7 @@ O leitor já morou numa daquelas casas.
 ### 20. O revisor de exceções
 *(The Reviewer of Exceptions)*
 - **POV** — Voss
-- **Quando** — 2047-08-25
+- **Quando** — 2047-10-06
 - **Onde** — a mesa; o prédio; o ônibus de volta
 - **A ideia** — veio de baixo e subiu porque o critério foi justo com ele; acredita no sistema por experiência própria, e a exceção é o que corrói exatamente aquilo que o salvou.
 - **A virada** — recusa a primeira exceção do dia sem hesitar, e dorme bem.
@@ -679,7 +693,7 @@ O leitor já morou numa daquelas casas.
 ### 21. A fila da manhã
 *(The Morning Queue)*
 - **POV** — Voss
-- **Quando** — 2047-09-02
+- **Quando** — 2047-10-14
 - **Onde** — a mesa
 - **A ideia** — quarenta casos numa manhã, cada um com quatro linhas e um despacho; o capítulo passa rápido de propósito, e o desconforto do leitor é a forma. **No meio da fila entra um pedido de outra jurisdição, de muito longe, e o formulário é idêntico** — mesmo cabeçalho, mesma estrutura de protocolo, mesmos quarenta dias úteis. Voss não acha isso digno de nota. É o único lugar do livro que diz que o sistema é planetário, e diz em quatro linhas.
 - **A virada** — ele bate a meta antes do almoço.
@@ -689,7 +703,7 @@ O leitor já morou numa daquelas casas.
 ### 22. Quatro linhas
 *(Four Lines)*
 - **POV** — Voss
-- **Quando** — 2047-09-02
+- **Quando** — 2047-10-14
 - **Onde** — a mesa
 - **A ideia** — um dos casos da fila é a casa do velho Teodor, onde o leitor passou um capítulo inteiro. Voss lê quatro linhas, indefere corretamente, e passa ao próximo. **Nada no capítulo assinala que o leitor já esteve lá.**
 - **A virada** — nenhuma, para ele. Toda, para quem lê.
@@ -700,7 +714,7 @@ O leitor já morou numa daquelas casas.
 ### 23. O rapaz que não podia provar o futuro
 *(The Boy Who Couldn't Prove the Future)*
 - **POV** — Voss
-- **Quando** — 2047-09-03
+- **Quando** — 2047-10-15
 - **Onde** — a mesa
 - **A ideia** — um rapaz é restringido por uma tendência prevista e não por um ato; o recurso argumenta contra um futuro, e não há como provar que não se vai fazer o que não se fez.
 - **A virada** — Voss vê a impossibilidade com clareza e indefere assim mesmo, porque as duas coisas cabem juntas.
@@ -711,7 +725,7 @@ O leitor já morou numa daquelas casas.
 ### 24. A conferência
 *(The Review Meeting)*
 - **POV** — Voss
-- **Quando** — 2047-09-04
+- **Quando** — 2047-10-16
 - **Onde** — a sala de reunião
 - **A ideia** — os números dele são excelentes; é elogiado por uma métrica que mede exatamente o oposto do que ele acha que faz.
 - **A virada** — aceita o elogio.
@@ -721,7 +735,7 @@ O leitor já morou numa daquelas casas.
 ### 25. O critério muda
 *(The Threshold Moves)*
 - **POV** — Voss
-- **Quando** — 2047-09-05 — manhã
+- **Quando** — 2047-10-17 — manhã
 - **Onde** — a mesa
 - **A ideia** — um limiar é ajustado, e ele concorda, porque o ajuste é defensável e ele ajudou a desenhá-lo.
 - **A virada** — concorda por escrito.
@@ -732,7 +746,7 @@ O leitor já morou numa daquelas casas.
 ### 26. A gentileza
 *(The Kindness)*
 - **POV** — Voss
-- **Quando** — 2047-09-05 — fim de tarde
+- **Quando** — 2047-10-17 — fim de tarde
 - **Onde** — a calçada, na saída do prédio
 - **A ideia** — a mulher que ele indeferiu o reconhece pelo nome da folha, e não faz cena: faz uma gentileza pequena, gratuita, sem interesse nenhum, que o critério dele não tem onde guardar.
 - **A virada** — agradece, e passa a noite inteira sem conseguir enquadrar o que aconteceu.
@@ -744,7 +758,7 @@ O leitor já morou numa daquelas casas.
 ### 27. O critério o alcança
 *(The Threshold Reaches Him)*
 - **POV** — Voss
-- **Quando** — 2047-09-06 — manhã
+- **Quando** — 2047-10-18 — manhã
 - **Onde** — a mesa; o crachá que não abre a porta
 - **A ideia** — o limiar que ele ajustou passa a alcançá-lo, porque um critério não tem noção de quem o escreveu; ninguém o trai e ninguém o pune. **O registro dele tem exatamente o formato do pedido estrangeiro da fila da manhã**, e o leitor reconhece o gabarito mesmo que Voss não reconheça.
 - **A virada** — ele confere a conta e a conta está certa.
@@ -754,7 +768,7 @@ O leitor já morou numa daquelas casas.
 ### 28. Ele não recorre
 *(He Does Not Appeal)*
 - **POV** — Voss
-- **Quando** — 2047-09-06 — a madrugada inteira
+- **Quando** — 2047-10-18 — a madrugada inteira
 - **Onde** — o apartamento
 - **A ideia** — recorrer significaria admitir que o sistema erra, e ele passou a vida na proposição contrária; a integridade dele exige que concorde com a própria anulação.
 - **A virada** — não recorre. É o monólogo longo da parte, e faz peso com o velho falando na Parte I.
@@ -777,7 +791,7 @@ quatro relógios batem juntos.
 ### 29. Quinta-feira
 *(Thursday)*
 - **POV** — Nina
-- **Quando** — 2047-09-05 — quinta, fim de tarde
+- **Quando** — 2047-10-17 — quinta, fim de tarde
 - **Onde** — a cozinha do avô
 - **A ideia** — a mesma tarde do capítulo do avô, vista por ela: ele está tentando dizer alguma coisa e ela acha que ele está só velho, e é carinhosa com isso.
 - **A virada** — ela guarda a tarde como uma tarde boa.
@@ -787,7 +801,7 @@ quatro relógios batem juntos.
 ### 30. A escola
 *(School)*
 - **POV** — Nina
-- **Quando** — 2047-09-06 — sexta, de manhã
+- **Quando** — 2047-10-18 — sexta, de manhã
 - **Onde** — a escola
 - **A ideia** — o dia dela é assistido, medido e ajustado, e é um dia bom — melhor do que o do leitor foi.
 - **A virada** — nada dá errado.
@@ -797,7 +811,7 @@ quatro relógios batem juntos.
 ### 31. A amiga
 *(The Friend)*
 - **POV** — Nina
-- **Quando** — 2047-09-06 — sexta, no recreio
+- **Quando** — 2047-10-18 — sexta, no recreio
 - **Onde** — o pátio
 - **A ideia** — a melhor amiga dela é chata, injusta e às vezes cruel, e Nina aguenta, porque criança ainda aguenta.
 - **A virada** — brigam e voltam no mesmo recreio.
@@ -808,7 +822,7 @@ quatro relógios batem juntos.
 ### 32. O que ela vê
 *(What She Sees)*
 - **POV** — Nina
-- **Quando** — 2047-09-06 — sexta, na saída
+- **Quando** — 2047-10-18 — sexta, na saída
 - **Onde** — o ônibus, a rua
 - **A ideia** — a cidade dela é personalizada e ela não sabe disso, porque nunca viu a de mais ninguém.
 - **A virada** — descreve para a amiga uma coisa que a amiga não viu, e as duas não estranham.
@@ -818,7 +832,7 @@ quatro relógios batem juntos.
 ### 33. O avô é antigo
 *(Grandpa Is Old-Fashioned)*
 - **POV** — Nina
-- **Quando** — 2047-09-06 — sexta, à tarde
+- **Quando** — 2047-10-18 — sexta, à tarde
 - **Onde** — o telefone
 - **A ideia** — ela gosta que ele seja antigo do jeito que se gosta de um objeto: com carinho e sem querer entender.
 - **A virada** — combina de levá-lo ao desfile.
@@ -829,7 +843,7 @@ quatro relógios batem juntos.
 ### 34. A banda ensaia
 *(The Band Rehearses)*
 - **POV** — Nina
-- **Quando** — 2047-09-06 — sexta, fim de tarde
+- **Quando** — 2047-10-18 — sexta, fim de tarde
 - **Onde** — o pátio da escola
 - **A ideia** — a banda marcial da escola ensaia há semanas para o desfile e é ruim: desafinada, fora do tempo, insuportável de ouvir do outro lado do pátio. A amiga dela toca caixa. Nina reclama todo dia e vai assistir todo dia.
 - **A virada** — decide ir ao desfile por causa da banda, e não por causa das máquinas.
@@ -840,7 +854,7 @@ quatro relógios batem juntos.
 ### 35. A véspera
 *(The Eve)*
 - **POV** — Nina
-- **Quando** — 2047-09-06 — sexta, à noite
+- **Quando** — 2047-10-18 — sexta, à noite
 - **Onde** — a casa dela
 - **A ideia** — ela não dorme de animação, que é a coisa mais antiga e mais humana do livro inteiro.
 - **A virada** — dorme tarde e acorda cedo.
@@ -850,7 +864,7 @@ quatro relógios batem juntos.
 ### 36. A rua enche
 *(The Street Fills)*
 - **POV** — Nina
-- **Quando** — 2047-09-07 — de manhã
+- **Quando** — 2047-10-19 — de manhã
 - **Onde** — a Avenida, o meio-fio
 - **A ideia** — a rua está cheia de gente que ela não conhece, e é a primeira vez no livro que muita gente olha para a mesma coisa ao mesmo tempo.
 - **A virada** — ela acha isso normal.
@@ -860,7 +874,7 @@ quatro relógios batem juntos.
 ### 37. O desfile — Nina
 *(The Parade — Nina)*
 - **POV** — Nina
-- **Quando** — 2047-09-07 — 10h12
+- **Quando** — 2047-10-19 — 10h12
 - **Onde** — o meio-fio
 - **A ideia** — as máquinas passam e é lindo, mas o que ela olha é a banda: a amiga está na caixa, de uniforme, e depois de semanas de ensaio horrível eles estão bons. Bombo, pratos, trompete, trombone, tuba, partitura na estante, a mão de cada um fazendo o som sair.
 - **A virada** — ela é feliz, sem ressalva nenhuma.
@@ -871,7 +885,7 @@ quatro relógios batem juntos.
 ### 38. O desfile — Aurel
 *(The Parade — Aurel)*
 - **POV** — Aurel
-- **Quando** — 2047-09-07 — 10h12
+- **Quando** — 2047-10-19 — 10h12
 - **Onde** — o meio-fio, ao lado dela
 - **A ideia** — ele não conhece a música e não precisa conhecer: percebe, antes de qualquer outra coisa, que a banda está ligeiramente desafinada, e que portanto é gente. Faz anos que ele não ouve um som que não tenha sido escolhido para ele por alguém.
 - **A virada** — não diz isso a ninguém. Fica ouvindo até o fim.
@@ -885,7 +899,7 @@ quatro relógios batem juntos.
 ### 39. O desfile — Rita
 *(The Parade — Rita)*
 - **POV** — Rita
-- **Quando** — 2047-09-07 — 10h12
+- **Quando** — 2047-10-19 — 10h12
 - **Onde** — mais atrás, na multidão
 - **A ideia** — a primeira música do livro chegou de longe, de uma janela, sem destinatário. Esta está sendo feita a vinte metros dela, por pessoas com instrumentos, e chega igual para todo mundo na calçada porque é alta demais para chegar de outro jeito. Ela nota a diferença e não tem palavra para ela.
 - **A virada** — ela fica, mesmo assim, porque estar num lugar com muita gente é uma coisa que ela não fazia há muito tempo.
@@ -896,7 +910,7 @@ quatro relógios batem juntos.
 ### 40. O desfile — Voss
 *(The Parade — Voss)*
 - **POV** — Voss
-- **Quando** — 2047-09-07 — 10h12
+- **Quando** — 2047-10-19 — 10h12
 - **Onde** — na multidão, sem crachá
 - **A ideia** — ele está ali porque quem deixou de ser exceção não tem mais onde estar. A banda toca uma coisa que ele nunca ouviu e não vai lembrar. Ninguém naquela rua sabe quem ele foi.
 - **A virada** — as máquinas chegam na altura dele e ele dá um passo atrás, junto com todo mundo, abrindo caminho. É o Sena, e ninguém vê.
@@ -906,7 +920,7 @@ quatro relógios batem juntos.
 ### 41. Depois
 *(After)*
 - **POV** — Nina
-- **Quando** — 2047-09-07 — meio-dia
+- **Quando** — 2047-10-19 — meio-dia
 - **Onde** — a rua se esvaziando
 - **A ideia** — acabou, ela quer sorvete, e a rua volta a ser quatro pessoas que não se conhecem indo para quatro lugares diferentes.
 - **A virada** — nenhuma. É o único capítulo do livro sem virada, e é de propósito.

@@ -3,7 +3,7 @@ title: A casa do velho Teodor
 part: II — O TURNO
 title_en: The House of Teodor
 pov: Rita
-when: 2047-08-31 — turno da manhã
+when: 2047-10-12 — turno da manhã
 where: um apartamento de dois quartos em Marvik
 premise: 'a primeira casa: um homem de setenta e nove anos, as mãos dele, a cozinha
   dele, o que ele tem medo de pedir. É a casa que o leitor precisa conhecer inteira,

@@ -3,7 +3,7 @@ title: A gentileza
 part: III — A NOTIFICAÇÃO
 title_en: The Kindness
 pov: Voss
-when: 2047-09-05 — fim de tarde
+when: 2047-10-17 — fim de tarde
 where: a calçada, na saída do prédio
 premise: 'a mulher que ele indeferiu o reconhece pelo nome da folha, e não faz cena:
   faz uma gentileza pequena, gratuita, sem interesse nenhum, que o critério dele

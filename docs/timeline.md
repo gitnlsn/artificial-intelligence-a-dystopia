@@ -38,16 +38,16 @@ por uma data ordenável:
 
 | Quando | O que aconteceu | POV | Cap. |
 |---|---|---|---|
-| 2047-08-25 | Voss recusa a primeira exceção do dia e dorme bem | Voss | 20 |
-| 2047-08-28 | Aurel lê a abertura de *A Era das Revoluções*, tenta nomear a época, não consegue, e marca um erro de 1990 | Aurel | 01 |
-| 2047-08-29 | Aurel entende que o que acabou foi o registro comum, não a profissão | Aurel | 02 |
-| 2047-08-30 | Rita ouve a música de uma janela alta; à noite, Elias no quarto dos fundos | Rita / Elias | 06, 07 |
-| 2047-08-31 | A casa de Teodor; a escala de Rita rareia | Rita | 08, 09 |
-| 2047-09-02 | Nina na cozinha do avô | Aurel / Nina | 04, 29 |
-| 2047-09-03 | Rita é indeferida no Bloco C; Voss assina | Rita / Voss | 15, 20-22 |
-| 2047-09-05 | A gentileza, na calçada | Voss | 26 |
-| 2047-09-06 | Voss não recorre | Voss | 28 |
-| 2047-09-07 | O Dia da Fundação. O desfile, 10h12 | os quatro | 36–41 |
+| 2047-10-06 | Voss recusa a primeira exceção do dia e dorme bem | Voss | 20 |
+| 2047-10-09 | Aurel lê a abertura de *A Era das Revoluções*, tenta nomear a época, não consegue, e marca um erro de 1990 | Aurel | 01 |
+| 2047-10-10 | Aurel entende que o que acabou foi o registro comum, não a profissão | Aurel | 02 |
+| 2047-10-11 | Rita ouve a música de uma janela alta; à noite, Elias no quarto dos fundos | Rita / Elias | 06, 07 |
+| 2047-10-12 | A casa de Teodor; a escala de Rita rareia | Rita | 08, 09 |
+| 2047-10-14 | Nina na cozinha do avô | Aurel / Nina | 04, 29 |
+| 2047-10-15 | Rita é indeferida no Bloco C; Voss assina | Rita / Voss | 15, 20-22 |
+| 2047-10-17 | A gentileza, na calçada | Voss | 26 |
+| 2047-10-18 | Voss não recorre | Voss | 28 |
+| 2047-10-19 | O Dia da Fundação. O desfile, 10h12 | os quatro | 36–41 |
 
 ## Relógios que costumam mentir
 

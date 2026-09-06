@@ -3,7 +3,7 @@ title: O outro cômodo
 part: II — O TURNO
 title_en: The Other Room
 pov: Elias
-when: 2047-08-30 — à noite
+when: 2047-10-11 — à noite
 where: o quarto dos fundos
 premise: 'a companhia dele não é sórdida nem secreta: é confortável, e ele está
   mais leve do que há anos, e é isso que faz o capítulo doer.'

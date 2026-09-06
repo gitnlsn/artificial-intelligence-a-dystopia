@@ -3,7 +3,7 @@ title: Depois
 part: IV — O PRESENTE
 title_en: After
 pov: Nina
-when: 2047-09-07 — meio-dia
+when: 2047-10-19 — meio-dia
 where: a rua se esvaziando
 premise: acabou, ela quer sorvete, e a rua volta a ser quatro pessoas que não se
   conhecem indo para quatro lugares diferentes.

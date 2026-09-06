@@ -3,7 +3,7 @@ title: O desfile — Rita
 part: IV — O PRESENTE
 title_en: The Parade — Rita
 pov: Rita
-when: 2047-09-07 — 10h12
+when: 2047-10-19 — 10h12
 where: mais atrás, na multidão
 premise: a primeira música do livro chegou de longe, de uma janela, sem destinatário.
   Esta está sendo feita a vinte metros dela, por pessoas com instrumentos, e chega

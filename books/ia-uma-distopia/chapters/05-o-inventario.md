@@ -1,12 +1,12 @@
 ---
-title: Sete de setembro
+title: O inventário
 part: I — O SÉCULO
-title_en: The Seventh of September
+title_en: The Inventory
 pov: Aurel
-when: 2047-09-06 — sexta, de manhã
-where: a janela da sala; a cozinha; o telefone
-premise: ele foi a desfiles a vida inteira e sabe exatamente para que serve um
-  desfile; aceita ir a este porque a neta quer, que é outro motivo.
+when: 2047-10-18 — sexta, de manhã
+where: a cozinha; a janela
+premise: ele foi a desfiles a vida toda e sabe exatamente o que um desfile é para;
+  aceita ir a este porque a neta quer, o que é outro motivo.
 turn: diz que vai.
 threads:
 - fio-da-nina
@@ -16,7 +16,6 @@ seeds:
 cast:
 - aurel
 - nina
-sources: nenhuma
 status: draft
 ---
 Começaram a montar as grades na quinta à noite e na sexta de manhã já estavam

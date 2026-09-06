@@ -3,7 +3,7 @@ title: A casa dos dois irmãos
 part: II — O TURNO
 title_en: The House of the Two Brothers
 pov: Rita
-when: 2047-09-02 — manhã
+when: 2047-10-14 — manhã
 where: um sobrado em Brenna
 premise: dois irmãos velhos que não se falam e moram na mesma casa. Os dois falam
   todo dia com a mesma irmã, que mora em outro continente, e contam a ela versões

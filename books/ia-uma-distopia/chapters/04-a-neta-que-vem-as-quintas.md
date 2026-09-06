@@ -3,25 +3,24 @@ title: A neta que vem às quintas
 part: I — O SÉCULO
 title_en: The Granddaughter Who Comes on Thursdays
 pov: Aurel
-when: 2047-09-05 — quinta-feira, fim de tarde
+when: 2047-10-17 — quinta-feira
 where: a cozinha
 premise: ele tenta explicar a Nina o que era ler o mesmo jornal que o vizinho, e
-  não consegue — não porque ela seja burra, mas porque não há do que sentir
-  falta. As objeções dela são boas.
-turn: percebe que ela não perdeu nada, e que isso é pior do que se tivesse
-  perdido.
+  não consegue — não porque ela seja burra, mas porque não há do que sentir falta.
+  Mostra a ela o deleatur na margem do livro, a marca que o Márcio lhe ensinou,
+  e ela acha bonitinho.
+turn: percebe que ela não perdeu nada, e que isso é pior do que se tivesse perdido.
 threads:
 - fio-do-registro
 - fio-da-nina
-seeds:
-- o-exemplo-da-nina
 pays:
 - o-lapis
 cast:
 - aurel
 - nina
-sources: nenhuma
 status: draft
+seeds:
+- o-exemplo-da-nina
 ---
 Ela chegou às quatro e vinte, largou a mochila no meio do corredor, no lugar
 exato onde ele tropeça, e foi direto ao armário de cima da pia sem pedir, porque

@@ -3,7 +3,7 @@ title: A música que veio de longe
 part: II — O TURNO
 title_en: The Music From Far Off
 pov: Rita
-when: 2047-08-30 — de manhã
+when: 2047-10-11 — de manhã
 where: uma calçada em Kalden, esperando alocação
 premise: parada na rua sem turno, ela escuta uma música que vem de uma janela alta;
   ninguém escolheu mandar aquilo para ela, e faz meses que nada chega assim.

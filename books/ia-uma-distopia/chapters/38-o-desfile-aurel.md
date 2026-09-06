@@ -3,7 +3,7 @@ title: O desfile — Aurel
 part: IV — O PRESENTE
 title_en: The Parade — Aurel
 pov: Aurel
-when: 2047-09-07 — 10h12
+when: 2047-10-19 — 10h12
 where: o meio-fio, ao lado dela
 premise: 'ele não conhece a música e não precisa conhecer: percebe, antes de qualquer
   outra coisa, que a banda está ligeiramente desafinada, e que portanto é gente.

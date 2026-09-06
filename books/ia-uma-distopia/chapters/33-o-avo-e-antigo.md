@@ -3,7 +3,7 @@ title: O avô é antigo
 part: IV — O PRESENTE
 title_en: Grandpa Is Old-Fashioned
 pov: Nina
-when: 2047-09-06 — sexta, à tarde
+when: 2047-10-18 — sexta, à tarde
 where: o telefone
 premise: 'ela gosta que ele seja antigo do jeito que se gosta de um objeto: com
   carinho e sem querer entender.'

@@ -3,13 +3,13 @@ title: O revisor
 part: I — O SÉCULO
 title_en: The Proofreader
 pov: Aurel
-when: 2047-08-29 — no dia seguinte
-where: a sala; a gaveta de baixo da escrivaninha; e a redação, em 1991
-premise: o que ele fazia não era acertar — era tornar possível ser pego. A errata
-  que ele guarda há cinquenta e seis anos é de um erro dele.
-turn: entende que o que acabou não foi a profissão nem sequer o registro comum,
-  e sim o balcão — o lugar físico onde uma pessoa podia chegar e exigir que o
-  registro fosse desdito por alguém com rosto.
+when: '2047-10-10'
+where: a sala; a mesa; a memória da redação
+premise: 'a vida de trabalho dele era conferir uma frase contra o mundo, e o que
+  ele mantinha não era o texto: era um registro comum, a mesma página lida pelo
+  vizinho.'
+turn: entende, pela primeira vez, que foi o registro comum que acabou, e não a profissão
+  dele.
 threads:
 - fio-do-registro
 seeds:
@@ -17,7 +17,6 @@ seeds:
 cast:
 - aurel
 - emil-roht
-sources: nenhuma; capítulo inteiramente inventado
 status: draft
 ---
 Ele foi procurar de manhã, antes do café, ainda de chinelo, e levou quarenta

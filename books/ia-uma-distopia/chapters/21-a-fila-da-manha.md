@@ -3,7 +3,7 @@ title: A fila da manhã
 part: III — A NOTIFICAÇÃO
 title_en: The Morning Queue
 pov: Voss
-when: '2047-09-02'
+when: '2047-10-14'
 where: a mesa
 premise: quarenta casos numa manhã, cada um com quatro linhas e um despacho; o capítulo
   passa rápido de propósito, e o desconforto do leitor é a forma. **No meio da fila
