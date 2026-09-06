@@ -136,6 +136,13 @@ What changes inside a registro:
 - **It never comments and never concludes.** The block ends where the record
   ends. The prose afterwards does not explain it either.
 
+**One sanctioned use beyond a character's own paperwork:** the `registro` is the
+only voice in the book not tied to a point of view or a place, so a record from
+another jurisdiction — identical header, identical protocol numbering, identical
+forty working days — tells the reader the system is planetary without the book
+leaving the street. **Twice in the whole novel, no more**, and nobody in the book
+ever remarks on it.
+
 **Use it sparingly. One block per chapter at most, and most chapters need
 none.** `make digest` reports every chapter carrying more than one. If every
 chapter has one, the device is decoration and the switch stops meaning

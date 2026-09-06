@@ -6,7 +6,9 @@ pov: Voss
 when: 2047-09-06 — manhã
 where: a mesa; o crachá que não abre a porta
 premise: o limiar que ele ajustou passa a alcançá-lo, porque um critério não tem
-  noção de quem o escreveu; ninguém o trai e ninguém o pune.
+  noção de quem o escreveu; ninguém o trai e ninguém o pune. **O registro dele tem
+  exatamente o formato do pedido estrangeiro da fila da manhã**, e o leitor reconhece
+  o gabarito mesmo que Voss não reconheça.
 turn: ele confere a conta e a conta está certa.
 threads:
 - fio-da-excecao

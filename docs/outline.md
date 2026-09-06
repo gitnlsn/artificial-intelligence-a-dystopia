@@ -294,6 +294,20 @@ Os bairros têm nome inventado — **Marvik** (velho, onde mora Aurel), **Kalden
 (onde Rita mora e espera), **Brenna** (os blocos, mais pobre) — e o prédio da
 administração é o **Bloco C**. Nomes próprios existem; o país não.
 
+**É uma cidade de chegada, e é assim que o mundo inteiro entra no livro sem que
+ninguém precise viajar.** Metade das casas por onde Rita passa tem alguém que
+veio de outro lugar, ou que tem filho em outro continente, ou que ainda conta em
+outra língua quando está com raiva. Não é cenário multicultural de cartão-postal:
+é como cidade funciona. As pessoas do mosaico vieram de muitos países, e nenhum
+desses países é nomeado tampouco.
+
+E o segundo caminho, que é quase de graça: **o `registro` atravessa fronteira.**
+O documento da máquina é a única voz do livro que não pertence a um ponto de
+vista nem a um lugar. Um registro de outra jurisdição, com o mesmo cabeçalho, a
+mesma estrutura de número de protocolo e os mesmos quarenta dias úteis, diz ao
+leitor que o sistema é planetário em quatro linhas, sem o livro sair da rua.
+Dois desses no livro inteiro bastam — ver Partes III.
+
 *O romance é escrito em português. Um romance em português passado numa cidade
 sem país é registro corrente — é o registro da ficção traduzida, que é como a
 maioria dos leitores lê ficção. Não há conflito com o pseudônimo.*
@@ -525,8 +539,8 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **POV** — Rita
 - **Quando** — 2047-09-01 — manhã
 - **Onde** — uma casa em Brenna
-- **A ideia** — uma mulher recusa o banho todos os dias, e a recusa é a última coisa que ela ainda decide sozinha; Rita entende isso e perde meia hora do turno de propósito.
-- **A virada** — Rita deixa que ela ganhe.
+- **A ideia** — uma mulher recusa o banho todos os dias, e a recusa é a última coisa que ela ainda decide sozinha; Rita entende isso e perde meia hora do turno de propósito. Ela chegou a esta cidade há quarenta anos e ainda conta em outra língua quando está com raiva, o que é a única coisa que sobrou inteira.
+- **A virada** — Rita deixa que ela ganhe, e ouve os números na língua de origem sem entender nenhum.
 - **Fios** — fio-do-turno, fio-das-casas
 - **Elenco** — rita
 
@@ -546,7 +560,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **POV** — Rita
 - **Quando** — 2047-09-02 — manhã
 - **Onde** — um sobrado em Brenna
-- **A ideia** — dois irmãos velhos que não se falam e moram na mesma casa; ela é a única pessoa que fala com os dois, e portanto a única que carrega recado.
+- **A ideia** — dois irmãos velhos que não se falam e moram na mesma casa. Os dois falam todo dia com a mesma irmã, que mora em outro continente, e contam a ela versões diferentes da mesma casa. Ela acredita nas duas. Rita é a única pessoa viva que ouve as duas versões.
 - **A virada** — entrega um recado que não foi pedido, e não dá certo.
 - **Fios** — fio-do-turno, fio-das-casas
 - **Elenco** — rita
@@ -587,7 +601,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **POV** — Rita
 - **Quando** — 2047-09-04 — manhã
 - **Onde** — um quarto e sala em Brenna
-- **A ideia** — a casa mais nova do mosaico: uma mulher de vinte e seis anos em recuperação, com tudo pela frente, e Rita passa três horas com um futuro que não é o dela.
+- **A ideia** — a casa mais nova do mosaico: uma mulher de vinte e seis anos em recuperação, com tudo pela frente, e que vai embora do país assim que puder andar direito. Rita passa três horas com um futuro que não é o dela, em nenhum sentido.
 - **A virada** — a moça pergunta a Rita o que ela queria ser, e Rita responde de verdade.
 - **Fios** — fio-do-turno, fio-das-casas
 - **Elenco** — rita
@@ -650,7 +664,7 @@ O leitor já morou numa daquelas casas.
 - **POV** — Voss
 - **Quando** — 2047-09-02
 - **Onde** — a mesa
-- **A ideia** — quarenta casos numa manhã, cada um com quatro linhas e um despacho; o capítulo passa rápido de propósito, e o desconforto do leitor é a forma.
+- **A ideia** — quarenta casos numa manhã, cada um com quatro linhas e um despacho; o capítulo passa rápido de propósito, e o desconforto do leitor é a forma. **No meio da fila entra um pedido de outra jurisdição, de muito longe, e o formulário é idêntico** — mesmo cabeçalho, mesma estrutura de protocolo, mesmos quarenta dias úteis. Voss não acha isso digno de nota. É o único lugar do livro que diz que o sistema é planetário, e diz em quatro linhas.
 - **A virada** — ele bate a meta antes do almoço.
 - **Fios** — fio-da-excecao
 - **Elenco** — voss
@@ -715,7 +729,7 @@ O leitor já morou numa daquelas casas.
 - **POV** — Voss
 - **Quando** — 2047-09-06 — manhã
 - **Onde** — a mesa; o crachá que não abre a porta
-- **A ideia** — o limiar que ele ajustou passa a alcançá-lo, porque um critério não tem noção de quem o escreveu; ninguém o trai e ninguém o pune.
+- **A ideia** — o limiar que ele ajustou passa a alcançá-lo, porque um critério não tem noção de quem o escreveu; ninguém o trai e ninguém o pune. **O registro dele tem exatamente o formato do pedido estrangeiro da fila da manhã**, e o leitor reconhece o gabarito mesmo que Voss não reconheça.
 - **A virada** — ele confere a conta e a conta está certa.
 - **Fios** — fio-da-excecao
 - **Elenco** — voss
