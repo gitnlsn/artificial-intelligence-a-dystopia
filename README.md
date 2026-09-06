@@ -25,7 +25,7 @@ serviço, então um build daqui a cinco anos precisa só destes binários.
 
 ## Layout
 
-    books/ia-uma-distopia/
+    books/quarenta-dias-uteis/
       book.yaml              metadados, formato, texto do anúncio na KDP
       front/                 epígrafe, o que vier antes  (fólios romanos)
       chapters/              o romance                   (fólios arábicos)

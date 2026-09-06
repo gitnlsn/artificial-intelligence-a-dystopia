@@ -2,7 +2,7 @@
 
 Este arquivo é a **fonte única** dos títulos e da numeração dos capítulos.
 Editar um título aqui e rodar `make outline` atualiza os arquivos em
-`books/ia-uma-distopia/chapters/`; o corpo já escrito nunca é tocado.
+`books/quarenta-dias-uteis/chapters/`; o corpo já escrito nunca é tocado.
 
 O plano ainda não existe. O que existe é o formato, abaixo, e a lista de
 decisões que só o autor pode tomar. `make marcadores` continua perguntando por

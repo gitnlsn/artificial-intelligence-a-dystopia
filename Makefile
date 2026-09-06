@@ -1,6 +1,6 @@
 # Book production. `make` on its own builds everything for the default book.
 #
-#   make BOOK=ia-uma-distopia all   epub + interior pdf + cover
+#   make BOOK=quarenta-dias-uteis all   epub + interior pdf + cover
 #   make epub / print / cover       one target at a time
 #   make check                      KDP preflight + both manuscript gates
 #   make fios                       setups without payoffs, payoffs without setups
