@@ -58,6 +58,11 @@ por uma data ordenável:
 | 2047-10-16 | Rita conta a história dos dois irmãos pela segunda vez; Elias sente atrito e não diz nada | Elias | 14 |
 | 2047-10-17 | Rita chega e não há ninguém para cuidar; à tarde, o indeferimento no Bloco C | Rita | 15, 16 |
 | 2047-10-18 | A casa da Juno; à noite, a briga que Rita planejou no ônibus e não conseguiu começar | Rita | 17, 18 |
+| 2047-10-15 | O rapaz de Brenna. Voss escreve no campo de observações pela primeira vez em anos | Voss | 24 |
+| 2047-10-16 | Conferência trimestral: 0,4 de reversão. Brann pede a nota de duas páginas | Voss | 25 |
+| 2047-10-17 | Voss assina o parecer 0912/47 às 10h52; à tarde indefere quatro revisões de alocação, uma delas a de Rita; às 17h35 ela devolve o livro dele | Voss / Rita | 16, 26, 27 |
+| 2047-10-17 | Voss entrega a nota das duas páginas às 23h, de casa | Voss | 28 |
+| 2047-10-18 | 00h01: comunicação 4415-P. O crachá não abre o oitavo andar. Às 3h19 ele envia sem se manifestar | Voss | 28, 29 |
 | 2047-10-19 | Último turno de Rita na casa de Teodor, sete da manhã. Nenhum dos dois sabe que é o último | Rita | 19 |
 | 2047-10-19 | O Dia da Fundação. O desfile, 10h12 | os quatro | 37–42 |
 

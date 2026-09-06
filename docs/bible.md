@@ -570,6 +570,41 @@ impossível de conseguir. Uma linha por regra.
   quatro daquele dia, e **nunca vai saber qual das quatro ela era.** Culpa não
   serve, porque não houve erro. O que não roda é a única operação que ele sabe
   fazer: achar o objeto. *Ela não tinha nada a ganhar.* (cap. 27)
+- **A nota das duas páginas é o instrumento.** Brann pede na quarta, na frente de
+  onze pessoas, como elogio — e era elogio. Voss escreve na quinta à noite:
+  método em sete passos, dois exemplos, limitações declaradas. Vai anexada à
+  redistribuição dele como Anexo II. **Se o método está descrito, é
+  transmissível; se é transmissível, não depende da pessoa.** Ele mesmo forneceu
+  a prova. Não foi armadilha, e Voss tem certeza disso. (cap. 25, 28)
+- **O parecer 0912/47 é dele.** A redistribuição cita, corretamente e sem
+  recorte, a manifestação que ele assinou na quinta às 10h52 — inclusive o
+  registro de que o parâmetro anterior era mera convenção. Um princípio serve
+  para os casos que descreve, e o caso dele é um deles. Novo posto: conferência
+  geral do sétimo andar, o trabalho que ele fazia em 2029, por **oitenta e um por
+  cento** do salário a partir de janeiro. (cap. 28)
+- **As três portas de uma manifestação** — erro material, vício de forma, fato
+  novo. Quem não sabe escreve nove linhas de sentimento e é indeferido em quatro
+  minutos. Voss passou dezoito anos indeferindo essas nove linhas. (cap. 29)
+- **A tese que ele achou e não usou** — o parecer 0912/47 trata de continuidade
+  de vínculo entre *prestador e beneficiário*, uma relação de atendimento entre
+  duas pessoas; lotação de servidor em matéria não é isso. A analogia é razoável
+  e é uma analogia. Ele levou uma hora e quarenta para achar, e a manifestação
+  ficou boa o bastante para que ele próprio a lesse com atenção.
+- **Por que ele não recorre, e não é resignação.** Ele não achou a distinção
+  porque ela é verdadeira: achou porque procurou, e procurou porque era ele.
+  Nenhum requerente daquela semana teve uma noite de sexta para procurar. E se a
+  distinção *for* verdadeira, é verdadeira para as quarenta a sessenta pessoas
+  redistribuídas com o mesmo fundamento nos últimos dois anos, nenhuma das quais
+  sabe que ela existe. **Sair de baixo de uma regra que continua caindo sobre
+  quem não sabe formulá-la não é ser tratado com justiça: é ser tratado com
+  exceção.** (cap. 29)
+- **O que ele faz em vez de recorrer.** Salva o texto num arquivo com a data no
+  nome, deixa o campo de manifestação em branco — não escreve nem *ciente* —,
+  marca a caixa de conhecimento e envia às 3h19. E então escreve **no campo de
+  observações**, que ninguém lê, que a distinção existe, que é provavelmente
+  relevante, e que não a suscitou porque não estaria disponível a um requerente
+  sem formação técnica e porque o ato alcança outros servidores em idêntica
+  situação. (cap. 29)
 - **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
   pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
   obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela
