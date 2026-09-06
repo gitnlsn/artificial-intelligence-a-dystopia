@@ -112,9 +112,26 @@ second millennium than ever before."
 - E a frase sobre o historiador que lembra o que os outros esquecem é exatamente
   o que Aurel deixou de conseguir ser.
 
-**Estado da verificação:** ⚠️ conferido em **fontes secundárias apenas**
-(múltiplas, concordantes). O exemplar do Internet Archive é de empréstimo
-restrito e não abriu. **Não imprimir antes de conferir contra o livro.**
+**Estado da verificação:** ✅ **conferido contra o texto brasileiro digitalizado**
+(Internet Archive, *Eric Hobsbawn — A Era dos Extremos*, camada de OCR),
+lendo o parágrafo inteiro em volta. Duas correções de OCR foram aplicadas a
+partir do contexto: o arquivo traz *fenómenos* e *milénio* com acento agudo
+(convenção lusitana ou defeito de digitalização — a edição brasileira usa
+*fenômenos*) e *tomam-se* onde o texto é *tornam-se* (o clássico rn→m do OCR).
+
+**A tradução impressa no livro é a de Marcos Santarrita**, não é nossa, e por
+isso vai creditada na epígrafe. Um texto que "saiu igual" numa primeira versão
+de rascunho era, na verdade, a tradução publicada — passagem famosa o
+bastante para ser lembrada quase palavra por palavra, e é exatamente por isso
+que a regra é conferir contra o livro em vez de confiar na memória.
+
+**A alternativa, se a permissão for difícil:** traduzir do inglês por conta e
+marcar *tradução nossa*, o que elimina um titular de direitos (o tradutor) e
+deixa apenas a citação curta e atribuída do texto de Hobsbawm. É o que se fez
+nas Partes II e III. Não se fez aqui porque *presente contínuo* é a solução de
+Santarrita, é como o leitor brasileiro conhece a frase, e inventar uma tradução
+rival de uma passagem célebre só para contornar uma permissão de rotina é pior
+ofício.
 
 #### 2. O que Aurel está lendo no capítulo 1 — *A Era das Revoluções* (1962)
 
@@ -152,9 +169,47 @@ publicada e creditar quem traduziu.
 
 São editoras diferentes: um pedido de permissão vai para cada uma.
 
-[[?fato: conferir as duas passagens contra os exemplares brasileiros — página,
-palavras exatas, nome do tradutor como impresso. A de *Era dos Extremos* ainda
-não foi conferida contra o livro em nenhuma língua.]]
+#### 3. A epígrafe da Parte II — Simone Weil
+
+> La plénitude de l'amour du prochain, c'est simplement d'être capable de lui
+> demander : « Quel est ton tourment ? »
+
+De *Attente de Dieu* (1950; escrito em 1942), no ensaio *Réflexions sur le bon
+usage des études scolaires en vue de l'amour de Dieu*.
+
+**Por que é esta.** A Parte II é a parte de Rita, e o trabalho dela é
+literalmente esse — entrar na casa de um estranho e ser capaz de perguntar. É
+também a única coisa que Elias deixou de conseguir fazer, e a coisa que a escala
+tira dela ao cobrar sete minutos por pergunta. A epígrafe não comenta nada
+disso e não deve.
+
+**Direitos:** Weil morreu em 1943; **domínio público no Brasil** desde 2014
+(vida + 70). O francês é livre e a tradução é nossa, o que não deixa titular
+nenhum. Conferida em fontes francesas concordantes.
+
+#### 4. A epígrafe da Parte III — Victor Hugo
+
+> Cet homme était composé de deux sentiments très simples et relativement très
+> bons, mais qu'il faisait presque mauvais à force de les exagérer, le respect
+> de l'autorité, la haine de la rébellion.
+
+*Les Misérables* (1862), o retrato de Javert. **Conferida contra o fac-símile
+do Wikisource** (Tomo I, edição de 1890, p. 326).
+
+**Atenção ao texto:** é *"Cet homme était composé"*, e não *"Javert était
+composé"*, que é como a frase circula citada em quase todo lugar.
+
+**Por que é esta, e não a outra.** A passagem célebre de *Javert déraillé* —
+*"sa suprême angoisse était la disparition de la certitude"* — seria a escolha
+óbvia e está **errada para este livro**: a certeza de Voss não desaparece. Ele
+dá o passo atrás acreditando. A epígrafe do retrato descreve o mecanismo do
+homem e deixa o leitor vê-lo funcionar até o fim.
+
+**Direitos:** domínio público, e a tradução é nossa.
+
+[[?fato: conferir a passagem de Hobsbawm contra um exemplar físico da edição da
+Companhia das Letras — página e convenção de acento —, já que a verificação
+atual é sobre uma digitalização com defeitos de OCR conhecidos.]]
 
 *Isto é levantamento prático, não parecer jurídico. Para uma tiragem comercial,
 confirmar com quem entende.*

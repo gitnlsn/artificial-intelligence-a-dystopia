@@ -22,9 +22,27 @@ autor decida o contrário, e aí a entrada é que muda.
 
 ## O sistema
 
-[[?autor: o que é, como se chama por dentro e por fora, para que foi construído,
-quem o opera, o que ele consegue e o que ele não consegue fazer. Esta é a
-primeira coisa a preencher: metade das outras seções depende dela.]]
+**O sistema não tem nome, e isso é decisão e não lacuna.**
+
+Ele nunca é nomeado, nunca é descrito de fora, nunca é explicado a ninguém, e
+nenhum personagem usa a palavra *sistema* como se ela explicasse alguma coisa.
+O leitor o conhece inteiramente por consequência:
+
+- **a escala**, que abre às seis e dá noventa segundos para aceitar;
+- **o Bloco C**, com senha por letra, guichê, painel sempre certo e quarenta dias
+  úteis;
+- **o critério**, que considera qualificação, disponibilidade, distância,
+  continuidade de modalidade e histórico de cumprimento — e não vínculo;
+- **o acompanhamento preventivo**, que não é punição, não consta como
+  antecedente, não impede e apenas retarda;
+- **a casa**, que aquece o corredor às três da manhã e nunca acendeu a luz na cara
+  de ninguém;
+- **a companhia**, que nunca fala na página.
+
+**O que ele não consegue fazer** é tão importante quanto o resto: não prevê o
+que uma pessoa vai fazer, só a que perfil ela pertence; não tem campo onde
+receber um motivo; não tem ninguém do outro lado a quem pedir; e não julga —
+apenas se afasta do risco, do jeito que se desvia de uma poça.
 
 **O que ele não consegue fazer** é tão importante quanto o resto e some primeiro.
 Um sistema sem limites explicáveis vira monstro, e monstro mata o argumento do

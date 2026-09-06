@@ -249,10 +249,11 @@ Ninguém o derrota. Ele se julga, com o instrumento dele. É o Sena.
   Hobsbawm, uma epígrafe de *Les Misérables* na abertura da Parte III pode ser
   impressa à vontade, de graça. Ver `docs/references.md`.
 
-[[?autor: quem é o Valjean dele — de onde vem a misericórdia que ele não
-consegue processar. A proposta é que seja alguém do par da Parte II, alguém que
-ele indeferiu e que depois lhe faz uma gentileza. Isso engrena as partes antes
-da rua, em vez de deixá-las só convergirem no desfile.]]
+**Resolvido na escrita.** O Valjean dele é Rita. Ela devolve o livro de sebo que
+ele esqueceu na balaustrada, diz *imagina*, e vai embora sem usar os quatro
+segundos seguintes, que eram dela. Ele vê depois o papel dobrado em três com o
+prefixo G e sabe que fez as quatro revisões de alocação daquele dia, e nunca
+saberá qual das quatro ela era.
 
 ---
 
@@ -374,19 +375,14 @@ gente, ligeiramente desafinada —,
 o encontro final no desfile, a Parte I, a extensão, e o nome do autor — Íris
 Gradim, o mesmo do Manual da Vida.
 
-[[?autor: os protagonistas das Partes II, III e IV. A proposta na conversa é:
-II, alguém cujo tempo é alocado pelo sistema e que passa a parte esperando;
-III, alguém de dentro — competente, decente, e é quem aprova as coisas;
-IV, uma criança, para quem isto não é distopia, é só o mundo. Confirmar,
-trocar, ou pedir outras.]]
+**O livro está escrito em rascunho: 42 capítulos, cerca de 44 mil palavras, 228
+páginas.** O plano abaixo descreve o que existe. Onde a escrita divergiu do
+plano, o plano foi corrigido para descrever o capítulo que existe e não o que
+tinha sido planejado — é essa a direção certa da correção.
 
-[[?autor: o plano de capítulos abaixo é um rascunho inteiro, escrito para ser
-derrubado. Ler as premissas, cortar o que não serve, e trocar os nomes se os
-nomes não servirem. Nada disso é cânone até estar em `docs/bible.md`.]]
-
-[[?autor: as onze vinhetas da Parte III estão esboçadas com uma linha cada.
-Cada uma precisa de uma vida de verdade, e é aí que o livro ganha ou perde o
-calor de *Paris, je t'aime*.]]
+Continua valendo o convite original: **isto foi escrito para ser derrubado.**
+Cortar, trocar nome, refazer capítulo. O que não pode acontecer é o outline
+deixar de descrever o manuscrito.
 
 [[?autor: o título. `book.yaml` carrega um provisório descritivo.]]
 

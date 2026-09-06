@@ -2,10 +2,9 @@
 part: II — O TURNO
 title: O turno
 illustration: 02-o-turno
-status: outline
+status: draft
 ---
-[[?autor: epígrafe da Parte II. Não pode ser letra de música — ver docs/references.md.
-Machado de Assis está em domínio público e serve; qualquer coisa sobre esperar.]]
+A plenitude do amor ao próximo está simplesmente em ser capaz de lhe perguntar:
+"Qual é o teu tormento?"
 
-Uma mulher parada numa calçada, esperando um turno que não vem, e um homem no
-cômodo dos fundos conversando com alguém que nunca se cansa.
+*Simone Weil, Attente de Dieu, 1950. Tradução nossa.*
