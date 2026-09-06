@@ -93,34 +93,51 @@ mais. O turno não vem. O recurso existe, funciona, e leva quarenta dias úteis.
 
 ---
 
-## A textura — *Paris, je t'aime* dentro da Parte III
+## A textura — *Paris, je t'aime* dentro da Parte II
 
-A sensação pedida: dezoito vidas de cinco minutos, um bairro cada, o "quase", a
-janela acesa vista de um ônibus em movimento, afeto pela pequenez humana, do
-riso à melancolia.
+A sensação pedida: vidas de cinco minutos, um bairro cada, o "quase", a janela
+acesa vista de um ônibus em movimento, afeto pela pequenez humana, do riso à
+melancolia.
 
-A proposta é que **a Parte III seja esse mosaico**, e não o livro inteiro — o
-livro inteiro em vignettes perderia os quatro protagonistas, que já estão
-decididos. A Parte III já tinha o andamento certo para isso: *a notificação*,
-fragmentos.
+**O mosaico é da Parte II, e a moldura é o trabalho de Rita.** Ela é cuidadora:
+entra numa casa diferente a cada turno, vê uma vida por dentro durante algumas
+horas e vai embora. É exatamente isso — um apartamento diferente por vez, o
+"quase", e a janela acesa vista do ônibus é literalmente o trajeto dela entre um
+turno e outro.
 
-O que faz a ideia funcionar aqui, em vez de ser um enxerto: **a protagonista da
-Parte III trabalha por dentro do sistema, e cada vinheta é um caso na fila
-dela.** Ela abre um arquivo; a gente vê a vida. Ela aprova, ou não aprova, e vai
-para o próximo. O mosaico é a caixa de entrada dela.
+Uma versão anterior deste plano punha o mosaico na Parte III, como a fila de
+casos do Javert. Estava errado por duas razões, e as duas importam:
 
-É o mesmo dispositivo dando calor e horror ao mesmo tempo: dezoito vidas
-inteiras, ternas, engraçadas, imperfeitas — cada uma chegando como uma senha. E
-é exatamente para isso que o bloco `registro` foi feito: a vinheta abre ou fecha
-no documento, e a prosa no meio é a vida que o documento não consegue ver.
+1. **A Parte III fazia dois trabalhos e nenhum cabia.** Treze capítulos, nove
+   deles de outras pessoas, sobravam cinco mil palavras para a tragédia dele —
+   pouco demais para fazer um homem concordar com a própria anulação.
+2. **Ficha é uma moldura fria para um dispositivo quente.** O revisor vê gente
+   achatada por definição. Construir o mosaico na mesa dele deixaria as vinhetas
+   finas exatamente onde elas precisam ser ternas.
 
-A conta fecha: 15.000 palavras na parte, cerca de 1.000 por vinheta, que é mais
-ou menos o que cinco minutos de filme valem em prosa. Entre doze e quinze
-vinhetas.
+Com Rita, a moldura é quente por natureza — casa, corpo, cozinha, medo — e o
+mosaico passa a *ser* o argumento da Parte II em vez de ilustrá-lo: **o trabalho
+dela é a última coisa no livro que exige paciência com um ser humano imperfeito,
+e ela faz isso o dia inteiro, por dinheiro, com estranhos — e chega em casa onde
+quem a ama terceirizou a paciência para uma máquina.**
 
-**A guarda:** a vinheta é sempre vista através dela. No instante em que o mosaico
-vira antologia e ela sai de cena, a Parte III deixou de ser uma parte deste
-livro.
+### O que isso libera, e é a melhor ideia do plano
+
+**As mesmas pessoas, vistas duas vezes.**
+
+Rita vê um homem na casa dele por mil palavras: a cozinha, as mãos, do que ele
+tem medo. Duas partes depois, o caso desse mesmo homem passa pela mesa de
+Nogueira e ocupa quatro linhas, e Nogueira indefere corretamente.
+
+O leitor *esteve naquela casa*. Nogueira tem a ficha.
+
+O livro faz o argumento inteiro sem enunciá-lo nenhuma vez, e só funciona porque
+o mosaico está na Parte II e porque **os casos da Parte III são finos de
+propósito** — é assim que ele vê. A finura é caracterização, não pressa.
+
+**A guarda, agora do outro lado:** a vinheta é sempre vista através de Rita, e a
+casa nunca vira conto solto. No instante em que uma vinheta funciona sozinha,
+fora do livro, ela saiu da Parte II.
 
 ---
 
@@ -158,16 +175,15 @@ Na coluna "o que perdeu", ele não perde afeto nem memória. Perde **a convicç�
 de que a regra é a mesma para todos** — que é, literalmente, a última realidade
 compartilhada.
 
-### O mosaico sobrevive, e melhora
+### A Parte III é só dele
 
-O Javert *é* a moldura do mosaico à la *Paris, je t'aime*. Ele é quem revisa os
-casos. As doze a quinze vinhetas são as vidas que passam pela mesa dele, e ele
-as indefere com a consciência tranquila — cada uma ternamente vista, e cada uma
-negada corretamente.
+O mosaico está na Parte II. A Parte III fica **sem outra obrigação**: nove
+capítulos, todos dele, tempo suficiente para a tragédia acontecer de verdade.
 
-Antes a moldura era uma funcionária cansada e decente; a parte não tinha para
-onde ir. Agora a moldura tem peso moral e trajetória: assistimos a doze vidas
-serem processadas com integridade absoluta, e o décimo terceiro caso é o dele.
+Os casos continuam passando pela mesa — precisam passar — mas **finos**, quatro
+linhas, o próximo. Essa finura é o ponto: o leitor já morou dentro de uma
+daquelas casas, na Parte II, e reconhece o homem que virou registro. A distância
+entre as duas coisas é o livro, e nenhum dos dois capítulos pode comentá-la.
 
 ### O fim dele — não é castigo, é concordância
 
@@ -207,8 +223,8 @@ Proposta. Cada protagonista perdeu um mundo compartilhado diferente.
 | Parte | Quem | Andamento | O que perdeu | A música |
 |---|---|---|---|---|
 | I | o velho | o século | a história comum — ele lia o mesmo jornal que o vizinho | Hobsbawm, lido em voz alta |
-| II | o par | o turno | um ao outro | *Great Divide*, ouvida de longe |
-| III | o Javert | a notificação | a convicção de que a regra vale igual para todos | a que estava tocando quando o arquivo abriu — o sistema sabe, e está no registro |
+| II | Rita e Elias | o turno | um ao outro | *Great Divide*, ouvida de longe |
+| III | o Javert | a notificação | a convicção de que a regra vale igual para todos | nenhuma; a parte dele é a única sem música |
 | IV | a criança | o presente | nada; nunca teve | ela cantando errado |
 
 **A Parte II é o par.** Dois que estão se desfazendo porque um deles tem, no
@@ -412,9 +428,13 @@ engolir cem anos. Ele tem todo o tempo e nenhum futuro.
 
 ## PARTE II — O TURNO
 
-Rita e Elias, se desfazendo. Tempo real, cena a cena, quase sem sumário: o dia
-dela não é dela para resumir. Capítulos médios, alternando os dois pontos de
-vista — o afeto perfeito visto de quem fica e de quem sai sem perceber que saiu.
+Rita e Elias, se desfazendo, e as casas por onde ela passa. Tempo real, cena a
+cena. A parte alterna **uma casa / a casa dela**: o dia inteiro tendo paciência
+com estranhos imperfeitos, por dinheiro, e a noite com quem terceirizou a
+paciência para uma máquina. Ela nunca comenta a diferença.
+
+As vinhetas são vistas sempre através dela e nunca fecham como conto. O leitor
+vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 
 ### 6. A música que veio de longe
 *(The Music From Far Off)*
@@ -434,80 +454,131 @@ vista — o afeto perfeito visto de quem fica e de quem sai sem perceber que sai
 - **Quando** — 2047-08-30 — à noite
 - **Onde** — o quarto dos fundos
 - **A ideia** — a companhia dele não é sórdida nem secreta: é confortável, e ele está mais leve do que há anos, e é isso que faz o capítulo doer.
-- **A virada** — ele adia contar de novo, e o adiamento já não parece adiamento.
+- **A virada** — adia contar de novo, e o adiamento já não parece adiamento.
 - **Fios** — fio-da-companhia
 - **Planta** — o-outro-comodo
 - **Elenco** — elias
 
-### 8. A escala
+### 8. A casa do senhor Aristides
+*(The House of Senhor Aristides)*
+- **POV** — Rita
+- **Quando** — 2047-08-31 — turno da manhã
+- **Onde** — um apartamento de dois quartos no Grajaú
+- **A ideia** — a primeira casa: um homem de setenta e nove anos, as mãos dele, a cozinha dele, o que ele tem medo de pedir. É a casa que o leitor precisa conhecer inteira, porque vai reencontrá-la na mesa de Nogueira valendo quatro linhas.
+- **A virada** — ele pede uma coisa pequena que não estava na escala, e ela faz.
+- **Fios** — fio-do-turno, fio-das-casas
+- **Planta** — a-casa-do-aristides
+- **Elenco** — rita, aristides
+
+### 9. A escala
 *(The Roster)*
 - **POV** — Rita
-- **Quando** — 2047-08-31
-- **Onde** — o aplicativo; a cozinha; o ponto de ônibus
-- **A ideia** — os turnos dela vão rareando sem que ninguém tenha decidido nada contra ela; é risco previsto sendo neutralizado, e não tem a quem reclamar.
+- **Quando** — 2047-08-31 — à noite
+- **Onde** — o aplicativo; a cozinha
+- **A ideia** — os turnos vão rareando sem que ninguém tenha decidido nada contra ela; é risco previsto sendo neutralizado, e não há a quem reclamar.
 - **A virada** — entende que não foi punida — foi *precavida*.
 - **Fios** — fio-do-turno
 - **Elenco** — rita
 
-### 9. O que ela contava
+### 10. A casa de quem não queria ser lavada
+*(The House of the Woman Who Didn't Want Washing)*
+- **POV** — Rita
+- **Quando** — 2047-09-01 — manhã
+- **Onde** — uma casa em Cascadura
+- **A ideia** — uma mulher recusa o banho todos os dias, e a recusa é a última coisa que ela ainda decide sozinha; Rita entende isso e perde meia hora do turno de propósito.
+- **A virada** — Rita deixa que ela ganhe.
+- **Fios** — fio-do-turno, fio-das-casas
+- **Elenco** — rita
+
+### 11. O que ela contava
 *(What She Used to Tell Him)*
 - **POV** — Rita
-- **Quando** — 2047-09-01
+- **Quando** — 2047-09-01 — à noite
 - **Onde** — a sala, depois do jantar
 - **A ideia** — ela tenta contar o dia e ele é gentil, mas alguém no outro cômodo já ouviu uma versão melhor de tudo, e ela está competindo sem saber com o quê.
-- **A virada** — ela para de contar no meio e ele não pergunta o resto.
+- **A virada** — para de contar no meio, e ele não pergunta o resto.
 - **Fios** — fio-da-companhia
 - **Paga** — o-outro-comodo
 - **Elenco** — rita, elias
 
-### 10. O paciente
-*(The Patient)*
+### 12. A casa dos dois irmãos
+*(The House of the Two Brothers)*
 - **POV** — Rita
-- **Quando** — 2047-09-02
-- **Onde** — a casa do senhor de quem ela cuida, Grajaú
-- **A ideia** — o trabalho dela é a única coisa no livro que ainda exige paciência com uma pessoa imperfeita, e ela é boa nisso.
-- **A virada** — descobre que gosta mais das horas pagas do que das de casa.
-- **Fios** — fio-do-turno
-- **Planta** — a-mao-do-paciente
+- **Quando** — 2047-09-02 — manhã
+- **Onde** — um sobrado na Penha
+- **A ideia** — dois irmãos velhos que não se falam e moram na mesma casa; ela é a única pessoa que fala com os dois, e portanto a única que carrega recado.
+- **A virada** — entrega um recado que não foi pedido, e não dá certo.
+- **Fios** — fio-do-turno, fio-das-casas
 - **Elenco** — rita
 
-### 11. A paciência
+### 13. A paciência
 *(Patience)*
 - **POV** — Elias
 - **Quando** — 2047-09-02 — à noite
 - **Onde** — a cozinha
-- **A ideia** — ele percebe que perdeu a paciência para a imperfeição dela, tem vergonha disso, e não faz nada — a vergonha não é ação.
+- **A ideia** — ele percebe que perdeu a paciência para a imperfeição dela, tem vergonha disso, e não faz nada — vergonha não é ação.
 - **A virada** — escolhe o cômodo dos fundos sabendo exatamente o que está escolhendo.
 - **Fios** — fio-da-companhia
 - **Elenco** — elias, rita
 
-### 12. O indeferimento
-*(The Denial)*
+### 14. A casa vazia
+*(The Empty House)*
 - **POV** — Rita
-- **Quando** — 2047-09-03
-- **Onde** — o posto de atendimento, Bloco C
-- **A ideia** — ela recorre da alocação e é indeferida; o documento é correto, cortês, assinado, e ela não lê o nome de quem assinou.
-- **A virada** — sai com o prazo de quarenta dias úteis e sem raiva, o que é o mais assustador.
-- **Fios** — fio-do-turno, fio-da-excecao
-- **Planta** — o-indeferimento-de-rita
+- **Quando** — 2047-09-03 — manhã
+- **Onde** — um apartamento em Todos os Santos
+- **A ideia** — ela chega para o turno e não há mais ninguém para cuidar; o turno foi cancelado no sistema quarenta minutos antes e ninguém achou necessário dizer por quê.
+- **A virada** — ela arruma a casa mesmo assim, e não é bondade: é não saber o que fazer com o corpo.
+- **Fios** — fio-do-turno, fio-das-casas
 - **Elenco** — rita
 
-### 13. A briga que não houve
+### 15. O indeferimento
+*(The Denial)*
+- **POV** — Rita
+- **Quando** — 2047-09-03 — tarde
+- **Onde** — o posto de atendimento, Bloco C
+- **A ideia** — ela recorre da alocação e é indeferida; o documento é correto, cortês, assinado, e ela lê o nome sem registrar que é o nome de alguém.
+- **A virada** — sai com o prazo de quarenta dias úteis e sem raiva, o que é o mais assustador.
+- **Fios** — fio-do-turno, fio-da-excecao
+- **Planta** — o-indeferimento-de-rita, o-nome-na-folha
+- **Elenco** — rita
+
+### 16. A casa da moça que ia embora
+*(The House of the Girl Who Was Leaving)*
+- **POV** — Rita
+- **Quando** — 2047-09-04 — manhã
+- **Onde** — um quarto e sala em Olaria
+- **A ideia** — a casa mais nova do mosaico: uma mulher de vinte e seis anos em recuperação, com tudo pela frente, e Rita passa três horas com um futuro que não é o dela.
+- **A virada** — a moça pergunta a Rita o que ela queria ser, e Rita responde de verdade.
+- **Fios** — fio-do-turno, fio-das-casas
+- **Elenco** — rita
+
+### 17. A briga que não houve
 *(The Fight They Didn't Have)*
 - **POV** — Rita
-- **Quando** — 2047-09-04
+- **Quando** — 2047-09-04 — à noite
 - **Onde** — o apartamento
 - **A ideia** — não há briga, porque brigar exige que os dois precisem de alguma coisa um do outro, e um dos dois não precisa mais.
-- **A virada** — ela entende que já acabou e que não vai haver cena nenhuma.
+- **A virada** — entende que já acabou e que não vai haver cena nenhuma.
 - **Fios** — fio-da-companhia
 - **Elenco** — rita, elias
 
-### 14. Ela fica quieta
+### 18. A última casa
+*(The Last House)*
+- **POV** — Rita
+- **Quando** — 2047-09-05 — manhã
+- **Onde** — de volta ao Grajaú, casa do senhor Aristides
+- **A ideia** — o turno dela na casa do Aristides é o último: a alocação dele mudou de mãos e ninguém avisou nenhum dos dois. Eles se despedem sem saber que é despedida.
+- **A virada** — ela promete voltar e sabe, na escada, que não vai.
+- **Fios** — fio-do-turno, fio-das-casas
+- **Paga** — a-casa-do-aristides
+- **Elenco** — rita, aristides
+
+### 19. Ela fica quieta
 *(She Keeps Still)*
 - **POV** — Rita
-- **Quando** — 2047-09-05
+- **Quando** — 2047-09-05 — tarde
 - **Onde** — a mesma calçada da primeira vez
-- **A ideia** — ela volta ao lugar onde ouviu a música e fica parada de propósito, o que é a única coisa que ela escolheu na parte inteira.
+- **A ideia** — volta ao lugar onde ouviu a música e fica parada de propósito, o que é a única coisa que ela escolheu na parte inteira.
 - **A virada** — não toca música nenhuma, e ela fica assim mesmo.
 - **Fios** — fio-do-turno
 - **Elenco** — rita
@@ -516,102 +587,52 @@ vista — o afeto perfeito visto de quem fica e de quem sai sem perceber que sai
 
 ## PARTE III — A NOTIFICAÇÃO
 
-Nogueira, revisor de exceções. O dia chega interrompido, e a parte é feita de
-fragmentos: cada capítulo é um caso na mesa dele. Uma vida por vez, vista com
-ternura e indeferida com a consciência limpa. É aqui que moram os `registro`.
+Nogueira, e mais nada. Nove capítulos, o dia chegando interrompido. Os casos
+passam pela mesa **finos** — quatro linhas, o próximo — e a finura é
+caracterização, não pressa: é assim que ele vê. É aqui que moram os `registro`.
 
-O décimo terceiro caso é o dele.
+O leitor já morou numa daquelas casas.
 
-### 15. O revisor de exceções
+### 20. O revisor de exceções
 *(The Reviewer of Exceptions)*
 - **POV** — Nogueira
 - **Quando** — 2047-08-25
 - **Onde** — a mesa; o prédio; o ônibus de volta
-- **A ideia** — ele veio de baixo e subiu porque o critério foi justo com ele; acredita no sistema por experiência própria, e a exceção é o que corrói o que o salvou.
+- **A ideia** — veio de baixo e subiu porque o critério foi justo com ele; acredita no sistema por experiência própria, e a exceção é o que corrói exatamente aquilo que o salvou.
 - **A virada** — recusa a primeira exceção do dia sem hesitar, e dorme bem.
 - **Fios** — fio-da-excecao
-- **Planta** — nogueira-sem-excecao, o-critério-dele
+- **Planta** — nogueira-sem-excecao, o-criterio-dele
 - **Elenco** — nogueira
 - **Fontes** — Hugo, *Les Misérables* — domínio público, pode ser citado
 
-### 16. O homem que queria voltar
-*(The Man Who Wanted to Go Back)*
+### 21. A fila da manhã
+*(The Morning Queue)*
 - **POV** — Nogueira
-- **Quando** — 2047-08-25
+- **Quando** — 2047-09-02
 - **Onde** — a mesa
-- **A ideia** — um homem pede autorização para voltar à cidade onde nasceu; a vida inteira dele cabe em mil palavras e o pedido é indeferido corretamente.
-- **A virada** — Nogueira indefere e passa ao próximo antes de terminar de pensar nele.
+- **A ideia** — quarenta casos numa manhã, cada um com quatro linhas e um despacho; o capítulo passa rápido de propósito, e o desconforto do leitor é a forma.
+- **A virada** — ele bate a meta antes do almoço.
 - **Fios** — fio-da-excecao
 - **Elenco** — nogueira
 
-### 17. A senhora sem comprovante
-*(The Woman Without the Document)*
+### 22. Quatro linhas
+*(Four Lines)*
 - **POV** — Nogueira
-- **Quando** — 2047-08-26
+- **Quando** — 2047-09-02
 - **Onde** — a mesa
-- **A ideia** — o que ela precisa provar aconteceu numa época que não gerava documento, e a ausência de prova é lida como ausência de fato.
-- **A virada** — ele anota que o caso é injusto e indefere assim mesmo, porque as duas coisas cabem juntas.
+- **A ideia** — um dos casos da fila é a casa do senhor Aristides, onde o leitor passou um capítulo inteiro. Nogueira lê quatro linhas, indefere corretamente, e passa ao próximo. **Nada no capítulo assinala que o leitor já esteve lá.**
+- **A virada** — nenhuma, para ele. Toda, para quem lê.
 - **Fios** — fio-da-excecao
+- **Paga** — a-casa-do-aristides
 - **Elenco** — nogueira
 
-### 18. O rapaz do cartão
-*(The Boy With the Card)*
-- **POV** — Nogueira
-- **Quando** — 2047-08-26
-- **Onde** — a mesa
-- **A ideia** — um rapaz é restringido por uma tendência prevista e não por um ato; o recurso dele argumenta contra um futuro, o que não é argumentável.
-- **A virada** — Nogueira percebe que não existe forma de o rapaz provar que não vai fazer o que não fez.
-- **Fios** — fio-da-excecao
-- **Elenco** — nogueira
-
-### 19. Os dois irmãos
-*(The Two Brothers)*
-- **POV** — Nogueira
-- **Quando** — 2047-08-27
-- **Onde** — a mesa
-- **A ideia** — dois irmãos com o mesmo histórico recebem decisões opostas, e ele consegue explicar por quê, o que é pior do que não conseguir.
-- **A virada** — ele explica, e a explicação é boa.
-- **Fios** — fio-da-excecao
-- **Elenco** — nogueira
-
-### 20. A mulher que pediu o turno da manhã
-*(The Woman Who Asked for the Morning Shift)*
+### 23. O rapaz que não podia provar o futuro
+*(The Boy Who Couldn't Prove the Future)*
 - **POV** — Nogueira
 - **Quando** — 2047-09-03
 - **Onde** — a mesa
-- **A ideia** — o caso de Rita chega como todos os outros e sai como todos os outros; o leitor conhece a vida inteira por trás daquelas quatro linhas e ele não.
-- **A virada** — ele assina. É o mesmo indeferimento que o leitor já viu chegar.
-- **Fios** — fio-da-excecao, fio-do-turno
-- **Paga** — o-indeferimento-de-rita
-- **Elenco** — nogueira, rita
-
-### 21. O caso que ele deferiu
-*(The One He Granted)*
-- **POV** — Nogueira
-- **Quando** — 2047-09-03
-- **Onde** — a mesa
-- **A ideia** — ele defere um pedido, e o capítulo mostra que ele é capaz de deferir — sem isso, o resto da parte é caricatura.
-- **A virada** — defere, e o critério continua intacto, porque o caso cabia.
-- **Fios** — fio-da-excecao
-- **Elenco** — nogueira
-
-### 22. O almoço
-*(Lunch)*
-- **POV** — Nogueira
-- **Quando** — 2047-09-03
-- **Onde** — a praça, uma hora
-- **A ideia** — a vida privada dele: austera, limpa, sem ninguém, e ele não sofre com isso nem um pouco.
-- **A virada** — volta cinco minutos antes do horário, como sempre.
-- **Fios** — fio-da-excecao
-- **Elenco** — nogueira
-
-### 23. O que o registro não vê
-*(What the Record Cannot See)*
-- **POV** — Nogueira
-- **Quando** — 2047-09-04
-- **Onde** — a mesa
-- **A ideia** — um caso em que o documento está completo, correto e inteiramente enganoso, e ele não tem campo onde escrever isso.
-- **A virada** — usa o campo de observações pela primeira vez em anos, e o campo não é lido por ninguém.
+- **A ideia** — um rapaz é restringido por uma tendência prevista e não por um ato; o recurso argumenta contra um futuro, e não há como provar que não se vai fazer o que não se fez.
+- **A virada** — Nogueira vê a impossibilidade com clareza e indefere assim mesmo, porque as duas coisas cabem juntas.
 - **Fios** — fio-da-excecao
 - **Planta** — o-campo-de-observacoes
 - **Elenco** — nogueira
@@ -621,7 +642,7 @@ O décimo terceiro caso é o dele.
 - **POV** — Nogueira
 - **Quando** — 2047-09-04
 - **Onde** — a sala de reunião
-- **A ideia** — os números dele são excelentes; ele é elogiado por uma métrica que mede exatamente o oposto do que ele acha que faz.
+- **A ideia** — os números dele são excelentes; é elogiado por uma métrica que mede exatamente o oposto do que ele acha que faz.
 - **A virada** — aceita o elogio.
 - **Fios** — fio-da-excecao
 - **Elenco** — nogueira
@@ -629,32 +650,42 @@ O décimo terceiro caso é o dele.
 ### 25. O critério muda
 *(The Threshold Moves)*
 - **POV** — Nogueira
-- **Quando** — 2047-09-05
+- **Quando** — 2047-09-05 — manhã
 - **Onde** — a mesa
-- **A ideia** — um limiar é ajustado, e ele concorda com o ajuste, porque o ajuste é defensável e ele ajudou a desenhá-lo.
+- **A ideia** — um limiar é ajustado, e ele concorda, porque o ajuste é defensável e ele ajudou a desenhá-lo.
 - **A virada** — concorda por escrito.
 - **Fios** — fio-da-excecao
-- **Paga** — o-critério-dele
+- **Paga** — o-criterio-dele
 - **Elenco** — nogueira
 
 ### 26. A gentileza
 *(The Kindness)*
 - **POV** — Nogueira
-- **Quando** — 2047-09-05
-- **Onde** — a rua, na saída do prédio
-- **A ideia** — a mulher que ele indeferiu o reconhece, e não faz cena: faz uma gentileza pequena, gratuita, sem interesse nenhum, que o critério dele não tem onde guardar.
-- **A virada** — ele agradece e passa a noite inteira sem conseguir enquadrar o que aconteceu.
+- **Quando** — 2047-09-05 — fim de tarde
+- **Onde** — a calçada, na saída do prédio
+- **A ideia** — a mulher que ele indeferiu o reconhece pelo nome da folha, e não faz cena: faz uma gentileza pequena, gratuita, sem interesse nenhum, que o critério dele não tem onde guardar.
+- **A virada** — agradece, e passa a noite inteira sem conseguir enquadrar o que aconteceu.
 - **Fios** — fio-da-excecao, fio-do-turno
 - **Planta** — a-gentileza-de-rita
-- **Paga** — a-mao-do-paciente
+- **Paga** — o-indeferimento-de-rita, o-nome-na-folha
 - **Elenco** — nogueira, rita
 
-### 27. Ele não recorre
+### 27. O critério o alcança
+*(The Threshold Reaches Him)*
+- **POV** — Nogueira
+- **Quando** — 2047-09-06 — manhã
+- **Onde** — a mesa; o crachá que não abre a porta
+- **A ideia** — o limiar que ele ajustou passa a alcançá-lo, porque um critério não tem noção de quem o escreveu; ninguém o trai e ninguém o pune.
+- **A virada** — ele confere a conta e a conta está certa.
+- **Fios** — fio-da-excecao
+- **Elenco** — nogueira
+
+### 28. Ele não recorre
 *(He Does Not Appeal)*
 - **POV** — Nogueira
-- **Quando** — 2047-09-06
-- **Onde** — a mesa; o apartamento; a madrugada inteira
-- **A ideia** — o critério que ele desenhou passa a alcançá-lo, e recorrer significaria admitir que o sistema erra, o que ele passou a vida negando; a integridade dele exige que concorde com a própria anulação.
+- **Quando** — 2047-09-06 — a madrugada inteira
+- **Onde** — o apartamento
+- **A ideia** — recorrer significaria admitir que o sistema erra, e ele passou a vida na proposição contrária; a integridade dele exige que concorde com a própria anulação.
 - **A virada** — não recorre. É o monólogo longo da parte, e faz peso com o velho falando na Parte I.
 - **Fios** — fio-da-excecao
 - **Paga** — nogueira-sem-excecao, a-gentileza-de-rita, o-campo-de-observacoes
@@ -672,7 +703,7 @@ O desfile são quatro capítulos, um por protagonista — o único lugar do livr
 que os quatro pontos de vista se encostam, porque é o único momento em que os
 quatro relógios batem juntos.
 
-### 28. Quinta-feira
+### 29. Quinta-feira
 *(Thursday)*
 - **POV** — Nina
 - **Quando** — 2047-09-02
@@ -682,7 +713,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-da-nina
 - **Elenco** — nina, aurelio
 
-### 29. A escola
+### 30. A escola
 *(School)*
 - **POV** — Nina
 - **Quando** — 2047-09-03
@@ -692,7 +723,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-da-nina
 - **Elenco** — nina
 
-### 30. A amiga
+### 31. A amiga
 *(The Friend)*
 - **POV** — Nina
 - **Quando** — 2047-09-03
@@ -703,7 +734,7 @@ quatro relógios batem juntos.
 - **Planta** — a-amiga-chata
 - **Elenco** — nina
 
-### 31. O que ela vê
+### 32. O que ela vê
 *(What She Sees)*
 - **POV** — Nina
 - **Quando** — 2047-09-04
@@ -713,7 +744,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-da-nina
 - **Elenco** — nina
 
-### 32. O avô é antigo
+### 33. O avô é antigo
 *(Grandpa Is Old-Fashioned)*
 - **POV** — Nina
 - **Quando** — 2047-09-04
@@ -724,7 +755,7 @@ quatro relógios batem juntos.
 - **Paga** — nina-leva-o-avo
 - **Elenco** — nina, aurelio
 
-### 33. A marcha
+### 34. A marcha
 *(The March)*
 - **POV** — Nina
 - **Quando** — 2047-09-05
@@ -736,7 +767,7 @@ quatro relógios batem juntos.
 - **Elenco** — nina
 - **Fontes** — *Ó Abre Alas*, Chiquinha Gonzaga, 1899 — domínio público, pode ser impressa inteira
 
-### 34. A véspera
+### 35. A véspera
 *(The Eve)*
 - **POV** — Nina
 - **Quando** — 2047-09-06
@@ -746,7 +777,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-do-desfile
 - **Elenco** — nina
 
-### 35. A rua enche
+### 36. A rua enche
 *(The Street Fills)*
 - **POV** — Nina
 - **Quando** — 2047-09-07 — de manhã
@@ -756,7 +787,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-do-desfile
 - **Elenco** — nina, aurelio
 
-### 36. O desfile — Nina
+### 37. O desfile — Nina
 *(The Parade — Nina)*
 - **POV** — Nina
 - **Quando** — 2047-09-07 — 10h12
@@ -767,7 +798,7 @@ quatro relógios batem juntos.
 - **Paga** — a-marcha-errada
 - **Elenco** — nina, aurelio
 
-### 37. O desfile — Aurélio
+### 38. O desfile — Aurélio
 *(The Parade — Aurélio)*
 - **POV** — Aurélio
 - **Quando** — 2047-09-07 — 10h12
@@ -778,7 +809,7 @@ quatro relógios batem juntos.
 - **Paga** — o-recorte, o-nome-do-periodo
 - **Elenco** — aurelio, nina
 
-### 38. O desfile — Rita
+### 39. O desfile — Rita
 *(The Parade — Rita)*
 - **POV** — Rita
 - **Quando** — 2047-09-07 — 10h12
@@ -789,7 +820,7 @@ quatro relógios batem juntos.
 - **Paga** — a-musica-de-longe
 - **Elenco** — rita
 
-### 39. O desfile — Nogueira
+### 40. O desfile — Nogueira
 *(The Parade — Nogueira)*
 - **POV** — Nogueira
 - **Quando** — 2047-09-07 — 10h12
@@ -800,7 +831,7 @@ quatro relógios batem juntos.
 - **Elenco** — nogueira
 - **Fontes** — *Ó Abre Alas* — domínio público
 
-### 40. Depois
+### 41. Depois
 *(After)*
 - **POV** — Nina
 - **Quando** — 2047-09-07 — meio-dia

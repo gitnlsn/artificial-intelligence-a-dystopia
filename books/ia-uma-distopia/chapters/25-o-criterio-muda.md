@@ -3,10 +3,10 @@ title: O critério muda
 part: III — A NOTIFICAÇÃO
 title_en: The Threshold Moves
 pov: Nogueira
-when: '2047-09-05'
+when: 2047-09-05 — manhã
 where: a mesa
-premise: um limiar é ajustado, e ele concorda com o ajuste, porque o ajuste é defensável
-  e ele ajudou a desenhá-lo.
+premise: um limiar é ajustado, e ele concorda, porque o ajuste é defensável e ele
+  ajudou a desenhá-lo.
 turn: concorda por escrito.
 threads:
 - fio-da-excecao
