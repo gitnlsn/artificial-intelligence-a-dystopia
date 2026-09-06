@@ -513,6 +513,12 @@ engolir cem anos. Ele tem todo o tempo e nenhum futuro.
 
 ## PARTE II — O TURNO
 
+**A Parte II termina na manhã do desfile.** O último turno de Rita na casa de
+Teodor é no sábado às sete, e às dez ela está parada na mesma calçada em que a
+parte começou — e o desfile é a poucos quarteirões, às 10h12. **Ela não vai ao
+desfile: ela é levada até ele por não ter para onde ir**, que é como ela chegou a
+tudo o mais nesta parte.
+
 Rita e Elias, se desfazendo, e as casas por onde ela passa. Tempo real, cena a
 cena. A parte alterna **uma casa / a casa dela**: o dia inteiro tendo paciência
 com estranhos imperfeitos, por dinheiro, e a noite com quem terceirizou a
@@ -610,7 +616,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 14. A paciência
 *(Patience)*
 - **POV** — Elias
-- **Quando** — 2047-10-14 — à noite
+- **Quando** — 2047-10-16 — quarta, à noite
 - **Onde** — a cozinha
 - **A ideia** — ele percebe que perdeu a paciência para a imperfeição dela, tem vergonha disso, e não faz nada — vergonha não é ação.
 - **A virada** — escolhe o cômodo dos fundos sabendo exatamente o que está escolhendo, e sabendo por quê: é a conta do ano do pai chegando.
@@ -621,7 +627,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 15. A casa vazia
 *(The Empty House)*
 - **POV** — Rita
-- **Quando** — 2047-10-15 — manhã
+- **Quando** — 2047-10-17 — quinta, primeiro turno
 - **Onde** — um apartamento em Kalden
 - **A ideia** — ela chega para o turno e não há mais ninguém para cuidar; o turno foi cancelado no sistema quarenta minutos antes e ninguém achou necessário dizer por quê.
 - **A virada** — ela arruma a casa mesmo assim, e não é bondade: é não saber o que fazer com o corpo.
@@ -631,7 +637,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 16. O indeferimento
 *(The Denial)*
 - **POV** — Rita
-- **Quando** — 2047-10-15 — tarde
+- **Quando** — 2047-10-17 — quinta, à tarde
 - **Onde** — o posto de atendimento, Bloco C
 - **A ideia** — ela recorre da alocação e é indeferida; o documento é correto, cortês, assinado, e ela lê o nome sem registrar que é o nome de alguém.
 - **A virada** — sai com o prazo de quarenta dias úteis e sem raiva, o que é o mais assustador.
@@ -642,7 +648,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 17. A casa da moça que ia embora
 *(The House of the Girl Who Was Leaving)*
 - **POV** — Rita
-- **Quando** — 2047-10-16 — manhã
+- **Quando** — 2047-10-18 — sexta, manhã
 - **Onde** — um quarto e sala em Brenna
 - **A ideia** — a casa mais nova do mosaico: uma mulher de vinte e seis anos em recuperação, com tudo pela frente, e que vai embora do país assim que puder andar direito. Rita passa três horas com um futuro que não é o dela, em nenhum sentido.
 - **A virada** — a moça pergunta a Rita o que ela queria ser, e Rita responde de verdade.
@@ -652,7 +658,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 18. A briga que não houve
 *(The Fight They Didn't Have)*
 - **POV** — Rita
-- **Quando** — 2047-10-16 — à noite
+- **Quando** — 2047-10-18 — sexta, à noite
 - **Onde** — o apartamento
 - **A ideia** — não há briga, porque brigar exige que os dois precisem de alguma coisa um do outro, e um dos dois não precisa mais.
 - **A virada** — entende que já acabou e que não vai haver cena nenhuma.
@@ -662,7 +668,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 19. A última casa
 *(The Last House)*
 - **POV** — Rita
-- **Quando** — 2047-10-17 — manhã
+- **Quando** — 2047-10-19 — sábado, sete da manhã
 - **Onde** — de volta a Marvik, casa de Teodor
 - **A ideia** — o turno dela na casa do Teodor é o último: a alocação dele mudou de mãos e ninguém avisou nenhum dos dois. Eles se despedem sem saber que é despedida.
 - **A virada** — ela promete voltar e sabe, na escada, que não vai.
@@ -673,7 +679,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 ### 20. Ela fica quieta
 *(She Keeps Still)*
 - **POV** — Rita
-- **Quando** — 2047-10-17 — tarde
+- **Quando** — 2047-10-19 — sábado, meio da manhã
 - **Onde** — a mesma calçada da primeira vez
 - **A ideia** — volta ao lugar onde ouviu a música e fica parada de propósito, o que é a única coisa que ela escolheu na parte inteira.
 - **A virada** — não toca música nenhuma, e ela fica assim mesmo.
