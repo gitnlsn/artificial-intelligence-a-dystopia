@@ -12,6 +12,7 @@ threads:
 - fio-do-conforto
 cast:
 - aurel
+- ilse
 status: draft
 seeds:
 - o-piso-morno

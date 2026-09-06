@@ -14,7 +14,6 @@ pays:
 - o-criterio-dele
 cast:
 - voss
-- brann
 sources: nenhuma
 status: draft
 ---

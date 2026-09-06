@@ -6,9 +6,9 @@ pov: Voss
 when: 2047-10-17 — quinta, fim de tarde
 where: a calçada, na saída do Bloco C
 premise: >-
-  a mulher que ele indeferiu o reconhece pelo nome da folha e não faz cena — faz
-  uma gentileza pequena, gratuita, sem interesse nenhum, que o critério dele não
-  tem onde guardar.
+  a mulher que ele indeferiu naquela manhã devolve o livro que ele esqueceu na
+  balaustrada, sem fazer ideia de quem ele é. A gentileza é pequena, gratuita e
+  sem interesse nenhum, e o critério dele não tem onde guardar isso.
 turn: agradece, e passa a noite inteira sem conseguir enquadrar o que aconteceu.
 threads:
 - fio-da-excecao

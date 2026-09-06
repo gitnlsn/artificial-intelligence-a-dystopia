@@ -27,8 +27,15 @@ unnamed city, 2047.
 took was not work and not freedom but *tempo* — the way a person is able to be
 in the present. Each protagonist lives on a different clock, the book is read at
 four speeds, and the parade is the only moment when all four are on the same
-beat. What puts them there is the band, because a sound loud enough cannot be
-personalised.
+beat. What puts three of them there is the band, because a sound loud enough
+cannot be personalised. **Voss is the exception, and the draft found something
+better than the plan for him:** he does not hear the band at all — he cannot
+recall a bar of it on the Monday. What puts *him* on the beat is the step back,
+taken at the same second as twelve hundred other people, at the request of an
+instruction he reads, evaluates and finds well designed. The music would have
+been a consolation handed to the one man the book must not console. The rule
+falling on him exactly as he spent twenty-two years arguing it should is not a
+consolation, and it is the same beat.
 
 The pace is **visible in the table of contents**: Part I is five long chapters,
 Part IV is thirteen short ones. The reader feels the acceleration before knowing
@@ -190,6 +197,14 @@ none.** `make digest` reports every chapter carrying more than one. If every
 chapter has one, the device is decoration and the switch stops meaning
 anything.
 
+**One declared exception, and it stays the only one:** *Quatro linhas* carries
+two — the request and the ruling, with Teodor's dignity crushed between them in
+424 words. The chapter is the frame, not the prose; a reader gets the whole of
+what the system did to him without the book saying a word in its own voice.
+`make digest` will keep reporting it, and that is correct — the report is a
+question, and this is the answer. A second chapter wanting two blocks is a
+chapter that has not found its scene.
+
 ## A música
 
 **The music.** Part II opens on a real song heard from a window — *Great Divide*,
@@ -200,13 +215,20 @@ something nobody recognises.
 
 That is deliberate. A song everyone knows would hand the reader a shared
 reference back, which is the exact consolation Part I says is gone. Unnamed, the
-ending is about **presence** rather than recognition — four people hearing the
-same air move at the same second. The whole argument in one image: **you cannot
+ending is about **presence** rather than recognition — people hearing the same
+air move at the same second. The whole argument in one image: **you cannot
 personalise a tuba.** Every other sound in the book was transmitted, recommended
 or allocated; this one is being made, in the street, by someone's body.
 
+Three of the four get it. Voss gets the step back instead, and **nothing in his
+chapter may reach for the music** — no half-heard bar, no belated recognition.
+He is the reader's proof that the ending gives the world nothing.
+
 The formal rhyme: the first song is *overheard*, the last is *played by people*.
-And the four of them know the band is human because it is slightly out of tune.
+And the band is known to be human because it is slightly out of tune — Nina,
+Aurel and Rita each hear that and each make something of it. Voss hears it too
+("uns metais ligeiramente fora") and makes nothing of it at all, which is the
+whole difference between him and the other three.
 
 ## O que a Parte I já fixou — canon, and binding on the rest
 
@@ -332,8 +354,12 @@ price for coffee, and a season in which it rains. It has no flag.
 **The lesson worth keeping, because it is how this survived:** the sweep that
 removed *Brasil*, *Rio*, *Tijuca* and *carnaval* looked for place names and
 never for dates. When a marker of place, nation or period is removed, sweep for
-the whole class — dates, holidays, currencies, institutions, sports, school
-terms, plug shapes — and not only for the instances you happen to remember.
+the whole class — dates, holidays, **months, seasons and weather cues**,
+currencies, institutions, sports, school terms, plug shapes — and not only for
+the instances you happen to remember. The season cues are the ones that bite
+hardest and read as innocent: *last winter*, *when it gets warmer*, a cold
+morning in a month the reader can name. Any two of those together fix a
+hemisphere, and a fixed hemisphere is a named country by another route.
 
 ## Language
 

@@ -18,6 +18,7 @@ seeds:
 - o-ano-do-pai
 cast:
 - elias
+- rita
 sources: nenhuma
 status: draft
 ---

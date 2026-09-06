@@ -17,6 +17,7 @@ seeds:
 - o-nome-na-folha
 cast:
 - rita
+- idalina
 sources: nenhuma
 status: draft
 ---

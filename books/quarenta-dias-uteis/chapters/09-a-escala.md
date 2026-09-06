@@ -13,6 +13,8 @@ threads:
 - fio-do-turno
 cast:
 - rita
+- elias
+- selma
 sources: nenhuma
 status: draft
 ---

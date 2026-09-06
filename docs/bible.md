@@ -39,20 +39,33 @@ O leitor o conhece inteiramente por consequência:
   de ninguém;
 - **a companhia**, que nunca fala na página.
 
-**O que ele não consegue fazer** é tão importante quanto o resto: não prevê o
-que uma pessoa vai fazer, só a que perfil ela pertence; não tem campo onde
-receber um motivo; não tem ninguém do outro lado a quem pedir; e não julga —
-apenas se afasta do risco, do jeito que se desvia de uma poça.
-
-**O que ele não consegue fazer** é tão importante quanto o resto e some primeiro.
-Um sistema sem limites explicáveis vira monstro, e monstro mata o argumento do
-livro (`CLAUDE.md`, *A regra da distopia*).
+**O que ele não consegue fazer** é tão importante quanto o resto, e é o que some
+primeiro de um rascunho: não prevê o que uma pessoa vai fazer, só a que perfil
+ela pertence; não tem campo onde receber um motivo; não tem ninguém do outro
+lado a quem pedir; e não julga — apenas se afasta do risco, do jeito que se
+desvia de uma poça. Um sistema sem limites explicáveis vira monstro, e monstro
+mata o argumento do livro (`CLAUDE.md`, *A regra da distopia*).
 
 ## As instituições
 
+**Nenhuma delas tem sigla, logotipo ou nome de fantasia**, e isso é a mesma
+decisão que mantém o sistema sem nome: uma instituição com sigla convida o leitor
+a procurar o equivalente real dela.
+
 | Nome | O que é | Quem manda | Cap. |
 |---|---|---|---|
-| | | | |
+| **o Bloco C** | o prédio da administração. Triagem na calçada (um rapaz de colete digita o assunto), senha de uma letra e três números, guichês, painel sempre certo. Limpo, com ar, bebedouro que funciona | ninguém que se possa encontrar | O indeferimento |
+| **o guichê** | onde a pessoa fala e alguém digita. **Registra e não decide.** O sete é da Idalina, que antigamente tinha um ramal | — | O indeferimento |
+| **o andar** | como quem trabalha lá chama o setor de revisão de exceções. Mesas iguais em fileiras; a de Voss é a quarta da terceira fileira | Brann, há três anos | O revisor de exceções |
+| **a conferência geral (sétimo andar)** | confere anexo contra campo, documento contra declaração. O trabalho que Voss fazia em 2029 e para o qual é devolvido | — | O critério o alcança |
+| **o quadro** | instância acima do setor, que decide lotação. Brann soube na quinta à noite e não decidiu nada | — | O critério o alcança |
+| **a segunda instância** | revisa indeferimentos **aplicando a mesma tabela**. É por isso que a taxa de reversão mede consistência e não acerto | — | A conferência |
+| **a escala** | a alocação de turnos. Abre às seis; o que vem, vem entre seis e sete e quinze, com noventa segundos para aceitar. Tem *disponibilidade*, *histórico*, *documentos* e *ajuda*, e **não tem caixa de texto** | — | A música que veio de longe; A escala |
+| **a central** | existe, e é um menu. A opção *turno cancelado* informa que turnos cancelados são comunicados pelo aplicativo e que não é necessário procedimento adicional, e volta ao menu | — | A casa vazia |
+| **o jornal** | onde Aurel trabalhou, **nunca nomeado**. Editoria de cidade, revisão ao fundo longe da janela, fotocomposição, varal de arame. Noventa e quatro mil exemplares em 1991. Não chega mais | Vidor era o editor de cidade | O revisor |
+| **a escola da Nina** | cada criança na coisa dela, no ponto dela; a escola tem orgulho e diz nas reuniões. Tem banda marcial, pátio de cimento e arquibancada de dois degraus | Dória manda na banda | A escola |
+| **o depósito de peças** | onde Elias faz conferência de estoque. Fecha às seis e meia. Norn ri dele | — | O outro cômodo |
+| **a prefeitura** | publicava o número do desfile, e o número brigava com o do jornal. Não briga mais com ninguém | — | O inventário |
 
 Nomes de instituição são o item que mais deriva entre capítulos. O nome escrito
 aqui é o nome, inclusive a sigla, inclusive como as pessoas de dentro a
@@ -60,9 +73,28 @@ abreviam.
 
 ## O vocabulário do mundo
 
+A regra de caracterização: **quem está dentro chama as coisas pelos nomes
+oficiais, sem ironia; quem está fora não sabe os nomes.** Rita diz *a escala* e
+*o turno* e nunca *o critério*; Voss diz *o critério*, *a modalidade* e *o
+instrumento* e nunca uma palavra a mais.
+
 | Termo | O que significa | Quem usa | Cap. |
 |---|---|---|---|
-| | | | |
+| **quarenta dias úteis** | o prazo no rodapé de todo despacho, inclusive o que alcança Voss. **É a única coisa que o sistema diz igual para todo mundo, e não quer dizer nada** | todo documento | O indeferimento |
+| **o turno** | unidade de trabalho alocada, com número e letra: 4471-B, 5512-D | Rita, a escala | A escala |
+| **o critério** | a regra de distribuição: qualificação, disponibilidade, distância, continuidade de **modalidade** e histórico de cumprimento. **Não considera vínculo** | Voss, o andar | Quatro linhas |
+| **a exceção** | pedido de afastamento da regra. Para Voss, *o buraco por onde o favor volta* | o andar | O revisor de exceções |
+| **revisão de alocação** | o tipo de solicitação de Rita. **Prefixo G** na senha. Quatro ou cinco por dia no andar inteiro | o Bloco C | O indeferimento; A gentileza |
+| **apoio domiciliar** | a modalidade de Rita, *nível dois*. Na escala: *higiene, medicação, mobilidade assistida* — três palavras para umas quarenta coisas | a escala | A casa do velho Teodor |
+| **manifestação de próprio punho** | uma pessoa escrevendo o que prefere. **Não é documento**, porque documento comprova fato verificável por terceiro | Voss | O revisor de exceções; Quatro linhas |
+| **as três portas** | erro material, vício de forma, fato novo. Quem não sabe escreve nove linhas de sentimento e é indeferido em quatro minutos | Voss | Ele não recorre |
+| **acompanhamento preventivo** | sinalização por composição de fatores. Não é punição, não consta como antecedente, **não impede: retarda** — e como as listas fecham em data fixa, o retardo impede | o instrumento | O rapaz que não podia provar o futuro |
+| **o campo de observações** | último campo do formulário do revisor. Não obrigatório, não entra na resposta, ninguém jamais leu. Voss escreve nele duas vezes numa semana | o andar | O rapaz…; Ele não recorre |
+| **fato novo** | a única das três portas que Voss consegue abrir para si mesmo, e a que ele decide não usar | Voss | Ele não recorre |
+| **o cotejo** | conferir lista de morto a dois. Termo do ofício antigo, dito por Márcio com certo prazer | Márcio, Aurel | O revisor |
+| **deleatur** | o dê cortado: *tire isto daqui*. Vem dos copistas | Márcio → Aurel → Nina | A prova |
+| **errata** | o objeto que exige um *nós*, um *ontem* e um leitor que possa cobrar | Aurel | A prova |
+| **o balcão** | o nome que Aurel dá ao que acabou. **Só ele usa, uma vez, e ninguém repete** | Aurel | O revisor |
 
 De `CLAUDE.md`: um termo inventado tem de soar como algo que uma instituição
 nomearia — burocrático, sem graça, vagamente eufemístico. E quem está dentro do
@@ -77,9 +109,16 @@ os nomes. Essa diferença é a maior parte da caracterização que o livro preci
 | **rua Aldan** | a rua do prédio de Aurel. Tinha uma livraria, onde ele comprou o Hobsbawm; hoje é "uma agência de alguma coisa" — deliberadamente não especificado | 01 |
 | **o apartamento** | três quartos, dois fechados há onze anos. Sala com duas janelas, mantidas abertas até tarde. Cozinha **com janela** — foi por isso que Ilse escolheu em 2011 | 01 |
 | **o 41** | a linha de ônibus que passa na Aldan, a cada onze minutos. Aurel reconhece o som | 01 |
-| **Kalden** | onde Rita mora e espera | — |
-| **Brenna** | os blocos, mais pobre | — |
-| **Bloco C** | o prédio da administração | — |
+| **rua Vetten** | onde foi o incêndio de 1991. **Continua existindo, e o desfile monta as grades até a esquina dela** — a rua do pior erro de Aurel está no trajeto. Ninguém no livro repara nisso, e ninguém pode reparar | 02, 05 |
+| **Kalden** | onde Rita mora e espera. A calçada da padaria, com o toldo, é onde ela espera alocação; o prédio da esquina é o de tijolo com as caixas de ar condicionado tortas, e a janela é a terceira do quarto andar | 06 |
+| **o 12** | a linha de ônibus de Rita, de Elias e de Voss. Passa em Kalden, em Brenna e na porta do Bloco C. **Fica desviada até as duas da tarde no dia do desfile** | 06 |
+| **Brenna** | os blocos, mais pobre. Onde Voss cresceu, onde mora a irmã dele, onde ficam as casas de dona Eszter, do seu Vilmar, da Juno e dos dois irmãos | 10 |
+| **rua Brenna Velha** | o sobrado de Anselm e Kasper: uma casa só, dois endereços de turno, uma escada do meio que nenhum dos dois usa quando o outro pode estar nela | 13 |
+| **Bloco C** | o prédio da administração. Sete degraus na frente, balaustrada de pedra ao lado da escada, porta giratória. O guichê fecha às cinco | 16 |
+| **a praça** | onde Voss almoça, sempre o mesmo, voltando cinco minutos antes | 21 |
+| **rua Halden** | onde o pai de Elias morou sozinho até o fim, e tinha razão de não querer sair | 12 |
+| **a Avenida** | onde passa o desfile. A esquina da farmácia é onde o azul da banda some. A curva é de onde as coisas vêm | 37 |
+| **a parede do mercado** | grande e lisa, na frente do mercado, do lado direito do trajeto grande do ônibus escolar. **É nela que passam as coisas, e duas pessoas olhando no mesmo segundo veem coisas diferentes** | 33 |
 
 ## O elenco
 
@@ -420,6 +459,67 @@ de vista, e é ele que um capítulo fura sem perceber.
   acha bonitinho, ele acha tudo bonitinho, levou uma banqueta minha e botou planta
   em cima.* Dá a Rita porque ela sabe que é difícil, **e isso basta.** (cap. 19)
 
+### Nadia
+
+- **É** — irmã de Anselm e Kasper, 71 anos, em outro continente. Foi embora em
+  1998 e voltou quatro vezes. **Nunca fala na página**: o leitor só ouve os dois
+  lados daqui.
+- Liga nas terças — embaixo às nove e vinte, em cima às onze.
+- **Acredita nos dois, e as duas versões não se contradizem para ela.** Uma diz
+  que a casa está em ordem, a outra diz que o irmão está igual, e com essas duas
+  coisas ela monta uma casa razoável que não é aquela. **E não tem ninguém para
+  desempatar.** Rita é a única pessoa viva que ouve as duas ligações. (cap. 13)
+
+### Anselm e Kasper
+
+- **São** — irmãos, 78 e 74, no sobrado da rua Brenna Velha. Anselm em cima,
+  Kasper embaixo. Não se falam desde 2036.
+- **A escada do meio** é dos dois e nenhum usa quando o outro pode estar nela.
+  Anselm desce às sete e meia para pegar a entrega; Kasper sai da cozinha às sete
+  e vinte e cinco. Onze anos disso, combinado sem ter sido combinado.
+- **Anselm** tem uma úlcera na perna que não fecha; o curativo leva quarenta
+  minutos e dói, e ele fala de política, da rua e de um vizinho que estaciona
+  errado para não pensar.
+- **Kasper** teve um princípio de alguma coisa em 2044 e o medo virou a doença
+  principal. Mede a pressão quatro vezes por dia e anota num caderno; **conferir
+  o caderno é o remédio que funciona**, leva dez minutos e não está na escala.
+- **As duas versões batem nos fatos e não batem em mais nada**, e é por isso que
+  não tem conserto: se um deles estivesse errado, alguém podia ceder.
+- **O recado que não deu certo.** Rita conta a Anselm que Kasper perguntou se ele
+  está comendo direito, e Anselm responde, com o rosto perfeitamente calmo, *ele
+  perguntou na frente de alguém; ele queria ser um homem que pergunta — se ele
+  quisesse saber, tem uma escada.* **Pode ser verdade, e Rita não tem como
+  saber.** (cap. 13)
+
+### Bel, Lu e Teo — o pátio
+
+- **Lu** — inventa. Disse que o robô de quatro patas era do tamanho de um cavalo
+  e o irmão dela tinha visto; era do tamanho de um cachorro grande. É por causa
+  do braço dela, que teve alergia em maio e sarou em maio, que Bel manda Nina
+  para o cimento. (cap. 32, 35, 38)
+- **Teo** — senta duas carteiras à frente. No ano passado lia mal, alto e devagar,
+  e ficava vermelho, e todo mundo sabia. **Este ano lê**, e ninguém fala mais
+  nisso. Nina não sabe como aquilo aconteceu e nunca pensou em perguntar.
+  (cap. 31)
+- **A menina do glockenspiel** — a preferida da Dória, e é ruim. Olha quando Nina
+  grita, e a Nina não liga nem um pouco. (cap. 35, 38)
+
+### Os que só existem para uma cena
+
+- **Márcio** — ver acima. **Vidor**, **Halvar**, **Peu**, **Aleks Roht** — 1991,
+  ver acima e a linha do tempo.
+- **Norn** — colega de Elias no depósito. Acha onze peças de divergência um
+  assunto que não é assunto, ri dele, e depois diz que ele é obsessivo do jeito
+  que se diz um elogio de mentira. (cap. 07)
+- **Larsen** — colega de Voss, **de licença naquela semana**, e é por isso que
+  todas as revisões de alocação daquela quinta caíram na mesa dele, inclusive a
+  de Rita. Nunca aparece. (cap. 27)
+- **A moça da faxina de quinta** — nunca a mesma; Aurel parou de aprender os
+  nomes no terceiro. Ao telefone na cozinha dele, achando que ele dormia: pegou a
+  manhã num endereço e a tarde do outro lado, não dá tempo, e não é com a pessoa
+  que ela precisa falar, é com o aplicativo, **e o aplicativo não tem com quem
+  falar.** É o mundo de Rita entrando na Parte I sem ser nomeado. (cap. 03)
+
 ## O calendário
 
 - **O Dia da Fundação** — feriado cívico da cidade, com desfile na avenida, banda
@@ -698,6 +798,24 @@ impossível de conseguir. Uma linha por regra.
   minutos e vira gente separada indo embora: uma senhora com um saco de pão, um
   homem sozinho de casaco, uma moça com um saco grande no ombro esperando o
   sinal. **Nina não olha para nenhuma delas em particular.**
+- **Escala não é objeto de revisão por solicitação do prestador.** É a frase que
+  mata o pedido de Rita, e Voss a aplica duas vezes na mesma semana sem saber que
+  é a mesma mulher. Escopo de turno e critério de distribuição são *parâmetros de
+  serviço*, não decisões individuais. (cap. 16, 22, 26)
+- **A revisão de alocação tem prefixo G** e volume baixo — quatro ou cinco por
+  dia no andar inteiro. Naquela semana caíram todas na mesa de Voss porque a
+  Larsen estava de licença, **e é só por isso que ele sabe que indeferiu a dela e
+  nunca vai saber qual das quatro era.** (cap. 27)
+- **As grades sobem na quinta à noite** e na sexta de manhã já estão até a esquina
+  da Vetten. O aviso está no ponto do 12 há três semanas e a linha fica desviada
+  até as duas da tarde — que é o único aspecto do desfile que tem relação com a
+  vida de Rita. (cap. 05, 20)
+- **Ninguém sabe quantas pessoas foram ao desfile.** Existem números, existem
+  muitos, e não existe briga nenhuma, porque não há nada que precise ser decidido
+  em comum. Voss é o único que estima — por quadrante e densidade, três pessoas
+  por metro no apertado — e chega a mil e duzentas no trecho dele, **usando
+  exatamente o método da briga do número que morreu**. Ninguém aponta isso.
+  (cap. 05, 41)
 - **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
   pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
   obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela
@@ -712,4 +830,10 @@ o outro.
 
 | Questão | O que o livro adota | Por quê | Cap. |
 |---|---|---|---|
-| | | | |
+| **O modelo de risco por composição de fatores é estatisticamente válido?** | **Sim. A série é robusta e Voss não tem nenhuma objeção técnica a fazer.** | É a decisão mais importante do livro. Se o modelo estivesse errado, a injustiça teria conserto técnico e o leitor sairia aliviado. Ela não tem: o modelo está certo *sobre perfis* e é aplicado *sobre uma pessoa*, e não existe documento para provar o que não vai acontecer. **Nenhum capítulo pode sugerir que os números estão errados.** | 24 |
+| **Taxa de reversão em segunda instância mede qualidade de decisão?** | **Não. Mede consistência.** A segunda instância aplica a mesma tabela; uma tabela ruim aplicada com consistência dá 0,4 do mesmo jeito. | O livro precisa de uma métrica que elogia a coisa errada sem que ninguém esteja mentindo. Nenhum capítulo pode tratar um 0,4 como prova de acerto — nem a favor de Voss, nem contra ele. | 25 |
+| **Rotação de cuidador piora o atendimento?** | **A literatura de cuidado mede desfecho clínico, e o desfecho clínico não piora em seis semanas.** O que as pessoas querem dizer quando reclamam é outra coisa e não tem instrumento. | É o que torna a mudança de doze para seis semanas genuinamente defensável, e é o que faz Voss concordar de boa-fé com o parágrafo que vai alcançá-lo. Se a redução fosse indefensável, ele seria tolo em vez de íntegro. | 26 |
+| **O parâmetro de doze semanas tem fundamento empírico?** | **Não. Saiu de uma negociação em 2043 — alguém queria dezesseis, alguém queria oito.** | Um critério não é uma verdade descoberta, é uma linha que alguém traçou num dia. Voss estava na sala, sabe disso, e defende a linha assim mesmo, porque enquanto houver linha o que decide é a linha. | 26 |
+| **Como funciona a personalização da parede do mercado?** | **Não se explica, e nunca se explicará.** Nenhum personagem sabe o mecanismo e nenhum acha a coisa notável. | `CLAUDE.md`, *Voz e registro*: descrever a tecnologia pelo que ela faz com alguém, nunca por como funciona. É também o único momento em que o livro chega perto de precisar de tecnobabble, e o jeito de não precisar é não olhar. | 33 |
+| **Houve um dia em que a errata e o balcão deixaram de existir?** | **Não houve dia.** Foi como a perna: em algum momento você percebe que já faz um tempo. | É a mesma recusa da mentira da ruptura e da mentira do interruptor. Nada no livro pode ter uma data de virada, inclusive o fim do casamento de Rita e Elias. | 01, 02, 18 |
+| **Citação de Hobsbawm** | O livro cita a edição Paz e Terra de 1990 e depois parafraseia de perto a sequência de abertura. **Pendente de verificação de permissão** — ver `docs/references.md`. | Ficção não tem mais latitude que ensaio aqui, e o livro vai para a KDP. | 01 |

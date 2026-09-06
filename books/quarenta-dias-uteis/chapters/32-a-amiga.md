@@ -15,6 +15,7 @@ seeds:
 cast:
 - nina
 - bel
+- lu
 sources: nenhuma
 status: draft
 ---

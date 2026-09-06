@@ -7,7 +7,8 @@ when: 2047-10-18 — sexta, à tarde
 where: o telefone
 premise: ela gosta que ele seja antigo do jeito que se gosta de um objeto — com
   carinho e sem querer entender.
-turn: combina de levá-lo ao desfile.
+turn: ele pergunta três vezes a mesma coisa e ela responde três vezes sem
+  achar nada — a falha de memória do avô é vista pelo leitor e não por ela.
 threads:
 - fio-da-nina
 - fio-do-desfile

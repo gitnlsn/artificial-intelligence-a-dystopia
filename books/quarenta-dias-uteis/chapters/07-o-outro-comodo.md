@@ -14,6 +14,7 @@ seeds:
 - o-outro-comodo
 cast:
 - elias
+- rita
 sources: nenhuma
 status: draft
 ---

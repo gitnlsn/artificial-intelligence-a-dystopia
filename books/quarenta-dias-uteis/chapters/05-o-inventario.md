@@ -15,7 +15,7 @@ seeds:
 - nina-leva-o-avo
 cast:
 - aurel
-- nina
+- mira
 status: draft
 ---
 Começaram a montar as grades na quinta à noite e na sexta de manhã já estavam

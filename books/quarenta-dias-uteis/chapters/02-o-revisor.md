@@ -17,6 +17,8 @@ seeds:
 cast:
 - aurel
 - emil-roht
+- vidor
+- marcio
 status: draft
 ---
 Ele foi procurar de manhã, antes do café, ainda de chinelo, e levou quarenta

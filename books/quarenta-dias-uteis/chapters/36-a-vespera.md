@@ -12,6 +12,7 @@ threads:
 - fio-do-desfile
 cast:
 - nina
+- mira
 sources: nenhuma
 status: draft
 ---
