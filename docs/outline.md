@@ -384,7 +384,28 @@ Continua valendo o convite original: **isto foi escrito para ser derrubado.**
 Cortar, trocar nome, refazer capítulo. O que não pode acontecer é o outline
 deixar de descrever o manuscrito.
 
-[[?autor: o título. `book.yaml` carrega um provisório descritivo.]]
+**O título é _Quarenta dias úteis_.**
+
+É a frase que aparece no rodapé de todo despacho do livro: no indeferimento de
+Rita, no pedido de Teodor, no requerimento que chega de outra jurisdição com o
+formulário idêntico, e por fim na comunicação que alcança o próprio Voss. Nove
+ocorrências em quatro capítulos. É a única coisa que o sistema diz igual para
+todo mundo, e não quer dizer nada: não é uma promessa, não é uma ameaça, não é
+um prazo em que algo vá acontecer. É o tempo que a máquina leva para não
+responder.
+
+**Por que não um título sobre inteligência artificial.** Porque a tese do livro
+é que a tecnologia é o instrumento e não a causa, e um título que anunciasse
+máquinas entregaria o romance que o livro recusou escrever. O título anuncia
+burocracia, que é o que o livro é. As categorias e as palavras-chave da KDP
+fazem o trabalho de descoberta.
+
+**Os que ficaram pelo caminho**, para o caso de alguém querer voltar atrás:
+*Não há erro material a corrigir* (mais exato e longo demais para uma capa),
+*O balcão* (mais humano, menos distintivo), *Quatro linhas* (é o capítulo 23,
+e usá-lo no título antecipa a dobradiça do livro).
+
+O slug e os arquivos de saída foram renomeados junto: `quarenta-dias-uteis`.
 
 ---
 

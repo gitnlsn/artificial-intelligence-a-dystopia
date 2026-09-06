@@ -1,12 +1,13 @@
 # Fonte única de verdade deste livro. Tudo a jusante -- metadados do EPUB, PDF
 # de impressão, largura da lombada, texto do anúncio na KDP -- lê daqui.
 
-slug: ia-uma-distopia
-# TÍTULO PROVISÓRIO. É descritivo, não é um título de romance: serve para o
-# livro compilar enquanto o título verdadeiro não existe. Ver docs/outline.md,
-# onde a decisão está marcada como [[?autor: ...]].
-title: Inteligência Artificial
-subtitle: Uma distopia
+slug: quarenta-dias-uteis
+# O prazo que aparece no rodapé de todo despacho do livro — no indeferimento de
+# Rita, no pedido de Teodor, num requerimento vindo de outra jurisdição, e por
+# fim na comunicação que alcança o próprio Voss. É a única frase que o sistema
+# repete para todo mundo, e não quer dizer nada.
+title: Quarenta dias úteis
+subtitle: romance
 author: Íris Gradim   # mesmo pseudônimo do Manual da Vida; decidido
 language: pt
 region: BR
@@ -38,14 +39,33 @@ labels:
 # Texto do anúncio na KDP, versionado junto do manuscrito.
 kdp:
   description: |
-    [[?autor: sinopse — escrever depois que a Parte I estiver em `draft`.
-    Uma sinopse escrita antes do romance descreve o romance que você planejou,
-    e não o que você escreveu.]]
+    Numa cidade que não é nomeada, faltam dez dias para o desfile.
+
+    Aurel tem oitenta e dois anos e foi revisor de jornal. Passou a vida
+    conferindo se o que estava escrito correspondia ao mundo, e agora não
+    consegue dizer em voz alta que época da história é hoje.
+
+    Rita é cuidadora. Entra numa casa diferente a cada turno, e os turnos vêm
+    rareando sem que ninguém tenha decidido nada contra ela.
+
+    Voss revisa exceções. Veio de baixo e subiu porque uma vez, aos dezessete
+    anos, o critério ganhou do favor — e é por isso que acredita.
+
+    Nina tem nove anos e não perdeu nada, porque não havia o que perder.
+
+    Nenhum dos quatro conhece os outros. No sábado, os quatro vão estar na
+    mesma calçada, ao mesmo tempo, ouvindo a banda de uma escola tocar mal uma
+    música que ninguém reconhece.
+
+    Ninguém é punido neste livro. Tudo está correto, todo mundo é educado, e o
+    prazo para se manifestar é de quarenta dias úteis.
   keywords:
     - ficção científica
     - distopia
     - inteligência artificial
-    - ficção brasileira
+    - ficção literária
+    - burocracia
+    - romance contemporâneo
     - tecnologia e sociedade
   categories:
     - Ficção > Ficção Científica > Distopia

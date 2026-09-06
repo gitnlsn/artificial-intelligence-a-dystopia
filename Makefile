@@ -12,7 +12,7 @@
 #   make chapter TITLE="..."        add a chapter outside the outline
 #   make clean
 
-BOOK ?= ia-uma-distopia
+BOOK ?= quarenta-dias-uteis
 PY   := python3
 DIST := dist/$(BOOK)
 

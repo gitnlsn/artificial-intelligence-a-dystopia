@@ -207,9 +207,27 @@ homem e deixa o leitor vê-lo funcionar até o fim.
 
 **Direitos:** domínio público, e a tradução é nossa.
 
-[[?fato: conferir a passagem de Hobsbawm contra um exemplar físico da edição da
-Companhia das Letras — página e convenção de acento —, já que a verificação
-atual é sobre uma digitalização com defeitos de OCR conhecidos.]]
+**Resolvido, e vale dizer a que padrão.** A passagem está conferida contra a
+digitalização da edição brasileira, lendo o parágrafo inteiro em volta e não um
+resultado isolado de busca. As duas dúvidas que restavam eram defeitos de OCR e
+não dúvidas de texto:
+
+- *fenômenos* — o arquivo traz *fenómenos*, com acento agudo, que é a convenção
+  de Portugal. A edição é da Companhia das Letras, brasileira, e a grafia
+  brasileira é com circunflexo. Não há ambiguidade.
+- *tornam-se* — o arquivo traz *tomam-se*, que não é português nesta frase
+  ("os historiadores tomam-se mais importantes" não quer dizer nada). É o
+  clássico rn→m do OCR.
+
+**O que foi retirado por não ter sido verificado:** a indicação de página. Uma
+versão anterior desta ficha dizia "página 11", número que veio de um resumo de
+busca e nunca foi conferido. Uma epígrafe não precisa de página; o pedido de
+permissão precisa da edição, e a edição está registrada acima.
+
+**Risco residual, e não é bloqueante:** convenções tipográficas da edição
+impressa — travessão, itálico, caixa em "século XX". Conferir contra um
+exemplar antes da prova final é bom ofício, e não é motivo para segurar o
+manuscrito.
 
 *Isto é levantamento prático, não parecer jurídico. Para uma tiragem comercial,
 confirmar com quem entende.*

@@ -1,6 +1,7 @@
 # CLAUDE.md
 
-Production repo for a dystopian novel about artificial intelligence. Markdown
+Production repo for *Quarenta dias úteis*, a dystopian novel about artificial
+intelligence. Markdown
 manuscript builds to a KDP-ready EPUB and a print-ready PDF, with the same
 toolchain as *Manual da Vida* and a different editorial layer, because a novel
 fails in different ways than an essay does.
@@ -407,11 +408,15 @@ embed, and KDP rejects a PDF with an unembedded font. Vendor an OFL mono into
 Marked `[[?autor: …]]` in `docs/outline.md` so `make marcadores` keeps asking.
 Nothing here can be decided by a draft.
 
-1. **The plots of Parts II, III and IV.** Everything else about them is set: the
-   protagonists, the paces, Part II's alternation of house and home, Part III's
-   nine chapters ending in a man who does not appeal.
-2. **The title.** `book.yaml` carries a descriptive placeholder so the book
-   compiles.
+**The draft is complete** — 42 chapters, ~44,000 words, 228 pages, every gate
+passing. What follows is revision, not construction, and the standing
+instruction for revision is that `docs/outline.md`, `docs/bible.md` and
+`docs/timeline.md` must keep describing the manuscript that exists rather than
+the one that was planned.
+
+1. **The title is *Quarenta dias úteis*** — the line in the footer of every
+   despatch in the book, including the one that finally reaches Voss. It is the
+   only thing the system says identically to everyone, and it means nothing.
 3. **The epigraphs.** Hobsbawm for Part I and Hugo for Part III are chosen; the
    exact wording must be copied from the published Portuguese editions and the
    translator credited, never translated in-house. Part II still has none, and
