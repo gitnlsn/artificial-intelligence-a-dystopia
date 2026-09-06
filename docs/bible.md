@@ -169,6 +169,43 @@ de vista, e é ele que um capítulo fura sem perceber.
   seiscentas visitas em quatro anos para fazer a pergunta, porque perguntar leva
   sete minutos e sete minutos separam chegar na hora de chegar atrasada.
 
+### Seu Vilmar
+
+- **É** — 81 anos, Brenna. **Escondia comprimido embaixo do prato**, na maior cara
+  de pau, como criança; Rita achava dois ou três por semana e os dois riam e ele
+  tomava. É dele que Rita fala a Elias no domingo, e é o nome de que Elias lembra
+  no dia seguinte. (cap. 11, 15)
+- **Sumiu.** Turno cancelado às 07h04, sem motivo; o código da porta ainda
+  funcionava. Cama feita do jeito dele, xícara na pia, caixa de quinta vazia e a
+  de sexta fechada. Nada caído, nada aberto, ninguém. O nome dele saiu da lista de
+  Rita na sexta de manhã, sem aviso, e a lista fechou o buraco.
+- **Nunca se sabe o que aconteceu com ele** — nem Rita, nem o leitor. Pode ter
+  sido a sobrinha a três quarteirões, pode ter sido realocação de cadastro, pode
+  ter sido às cinco da manhã. **Não resolver isto é a decisão; não há quem conte.**
+
+### Juno
+
+- **É** — 26 anos, Brenna, fixador externo na perna direita. Estava na garupa —
+  *nem era a minha moto* — e o rapaz que dirigia está bem e mandou mensagem duas
+  vezes.
+- **A única casa de Rita que não é de velho**, e isso muda tudo: numa casa de
+  velho o corpo é o assunto; ali o corpo é um contratempo com data.
+- **Vai embora do país em março**, se a perna deixar. Prima do outro lado há
+  quatro anos, trabalho existe, dinheiro do seguro vai sair. **O plano é bom e
+  não tem uma única coisa nele que Rita possa usar** — e não é inveja: é passar
+  três horas, três vezes por semana, dentro de um futuro que não é dela em
+  sentido nenhum. Vai gostar, e vai acabar.
+- Pergunta a Rita o que ela queria ser. (cap. 17)
+
+### Idalina
+
+- **É** — uns 50 anos, guichê sete do Bloco C. Ouve inteiro, não interrompe, e
+  faz a cara de quem entendeu e não vai poder fazer nada — *a mesma cara que a
+  própria Rita faz na casa das pessoas.*
+- *"Eu não decido nada aqui."* **Antigamente ela tinha um ramal.** Agora tem o
+  teclado, e digita tudo o que a pessoa fala, com capricho, em quatro minutos.
+  Sem raiva nenhuma.
+
 ### Selma
 
 - **É** — quem fazia a escala quando Rita começou, em 2035. Sala em cima de uma
@@ -401,6 +438,27 @@ impossível de conseguir. Uma linha por regra.
   culpa de tamanho conhecido, e culpa de tamanho conhecido um homem carrega. O
   lugar ficou vazio às três da manhã durante sete meses, alguma coisa sentou
   nele, e não vai levantar porque não está cansada. (cap. 12)
+- **O Bloco C é bom.** Limpo, com ar, cadeira de encosto alto, bebedouro que
+  funciona, banheiro limpo às dez da manhã, painel sempre certo. Todo mundo é
+  educado do começo ao fim. **Tudo o que Rita sente ali, ela sente dentro de um
+  prédio bem cuidado**, e é isso que torna a coisa impossível de contar depois.
+  (cap. 16)
+- **O que ela queria não era corrigir um erro.** Não havia erro: ela chegou
+  atrasada, o horário está certo, descer dezenove degraus não é atribuição do
+  turno. Ela queria que o *motivo* ficasse escrito junto com o atraso, para serem
+  lidos juntos alguma vez. E ficou — Idalina digitou tudo — e foi lido, e foi
+  respondido em dezenove minutos, corretamente, e a resposta foi que aquilo não é
+  objeto de revisão. (cap. 16)
+- **Ela sai sem raiva, e isso a assusta.** Raiva serve para alguma coisa: é o que
+  faz contar aos outros, procurar quem mais passou por aquilo, voltar. Rita já
+  teve raiva de um plano de saúde e ganhou. Na escada do Bloco C ela sente
+  cansaço bem administrado e mais nada, e não tem com quem brigar nem sobre o
+  quê. (cap. 16)
+- **Não haverá cena nenhuma.** Para brigar é preciso que o outro precise de
+  alguma coisa que só você pode dar. Rita testa as três — gritar, ameaçar ir
+  embora, chorar — e em todas ele fica mal de verdade, pede desculpa sinceramente,
+  abraça bem, **e continua abastecido**. Não existe embargo possível. Acabou sem
+  data, sem nome e sem mala na porta, e pode durar seis anos assim. (cap. 18)
 - **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
   pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
   obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela

@@ -55,6 +55,7 @@ por uma data ordenável:
 | 2047-10-18 | Voss não recorre | Voss | 28 |
 | 2047-10-16 | Rita conta a história dos dois irmãos pela segunda vez; Elias sente atrito e não diz nada | Elias | 14 |
 | 2047-10-17 | Rita chega e não há ninguém para cuidar; à tarde, o indeferimento no Bloco C | Rita | 15, 16 |
+| 2047-10-18 | A casa da Juno; à noite, a briga que Rita planejou no ônibus e não conseguiu começar | Rita | 17, 18 |
 | 2047-10-19 | Último turno de Rita na casa de Teodor, sete da manhã. Nenhum dos dois sabe que é o último | Rita | 19 |
 | 2047-10-19 | O Dia da Fundação. O desfile, 10h12 | os quatro | 37–42 |
 
