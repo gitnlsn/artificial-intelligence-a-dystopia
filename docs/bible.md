@@ -320,6 +320,13 @@ de vista, e é ele que um capítulo fura sem perceber.
 - **Ele gosta de deferir** — dia bom é dia de muitos deferimentos: é rápido, não
   gera recurso, e é a regra funcionando.
 
+### Brann
+
+- **É** — dirige o setor há três anos, uns quarenta e poucos, competente e
+  rápida. Voss gosta dela sem intimidade nenhuma e com boa opinião estável.
+- Quando ele explica que a métrica não mede o que dizem que mede, **ela toma como
+  rigor e pede uma nota de duas páginas sobre o método dele, para circular.**
+
 ### Emil Roht
 
 - **É** — homem de uns 40 anos em 1991. O jornal publicou o nome dele na relação
@@ -528,6 +535,41 @@ impossível de conseguir. Uma linha por regra.
   jurisdição desconhecida, e todo o resto idêntico: mesma estrutura de protocolo,
   mesmos campos na mesma ordem, mesmos quarenta dias úteis. Voss vê uns dois por
   mês e não acha notável. (cap. 22)
+- **O acompanhamento preventivo não é punição e não consta como antecedente** —
+  está escrito na primeira linha do próprio instrumento. Entra por composição de
+  fatores (endereço, faixa etária, histórico familiar, ocorrências no núcleo
+  domiciliar em que a pessoa não figura como parte) e o efeito é exigir análise
+  adicional. **Não impede: retarda.** E como as listas fecham em data fixa, o
+  retardo impede — o que não está escrito em lugar nenhum e é sabido por todo o
+  andar. (cap. 24)
+- **Não existe documento para provar o que não vai acontecer.** Documento prova
+  o que aconteceu; o objeto ainda não está no mundo. Tudo o que o requerente pode
+  apresentar é ausência, e a ausência é justamente o que o instrumento diz que
+  não basta. **Voss enuncia isso com precisão total e indefere assim mesmo.** Ele
+  absorve injustiça sem dificuldade: é treinado. (cap. 24)
+- **O campo de observações** — existe no fim do formulário do revisor, não é
+  obrigatório, não entra na resposta ao requerente, e ninguém que Voss tenha
+  conhecido em vinte e dois anos jamais o leu. Diz-se no andar que foi criado em
+  2035 para uma revisão de metodologia que nunca aconteceu. Voss escreve nele
+  pela primeira vez em anos. (cap. 24)
+- **A métrica que o elogia mede o oposto.** Taxa de reversão em segunda instância
+  de 0,4 contra média de 2,1 — e ele explica na reunião que reversão não mede
+  acerto, porque a segunda instância aplica a mesma tabela, e uma tabela ruim
+  aplicada com consistência dá 0,4 do mesmo jeito. **Ouvem como rigor.** A
+  desconfiança dele no número vira um atributo do número. (cap. 25)
+- **O parâmetro de doze semanas não tem fundamento empírico.** Voss ajudou a
+  escrevê-lo em 2043, num grupo de quatro: alguém queria dezesseis, alguém queria
+  oito, ficou doze. **Ele estava na sala quando o doze foi inventado.** É por isso
+  que ele defende critério — não porque a linha esteja certa, mas porque enquanto
+  houver linha o que decide é a linha, e não quem você conhece. Concorda por
+  escrito com a redução para seis. (cap. 26)
+- **A gentileza, e por que ele não consegue arquivá-la.** Rita devolve o livro
+  que ele esqueceu na balaustrada e diz *imagina*, e vai embora sem usar os quatro
+  segundos seguintes, que eram dela. Ele vê depois o papel dobrado em três na mão
+  dela, com o prefixo **G** — revisão de alocação —, e sabe que fez todas as
+  quatro daquele dia, e **nunca vai saber qual das quatro ela era.** Culpa não
+  serve, porque não houve erro. O que não roda é a única operação que ele sabe
+  fazer: achar o objeto. *Ela não tinha nada a ganhar.* (cap. 27)
 - **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
   pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
   obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela

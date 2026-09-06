@@ -49,12 +49,45 @@ def open_markers(text: str) -> list[str]:
     return [f[:96] for f in found if not DOCUMENTATION.match(f)]
 
 
+def lint_front_matter(book: Path) -> None:
+    """Every front matter must be valid YAML before any other gate runs.
+
+    This exists because the same mistake happened twice: a colon inside an
+    unquoted multi-line value -- `turn: ele escolhe, sabendo por quê: é a
+    conta` -- makes the second line parse as a new key, and the file stops
+    being readable. build.py then died with a traceback instead of a sentence,
+    which is a gate nobody reads. Prose fields are prose: they will keep
+    acquiring colons, so the check belongs here rather than in a rule nobody
+    remembers.
+    """
+    broken = []
+    for path in sorted(book.rglob("*.md")):
+        if m := FM.match(path.read_text(encoding="utf-8")):
+            try:
+                yaml.safe_load(m.group(1))
+            except yaml.YAMLError as exc:
+                line = next((l.strip() for l in str(exc).splitlines()
+                             if l.strip() and not l.strip().startswith("^")), "")
+                broken.append((path, line))
+    if not broken:
+        return
+    for path, line in broken:
+        print(f"[FAIL] {path.relative_to(ROOT)}: front matter não é YAML válido")
+        print(f"       {line}")
+    print("\nQuase sempre é dois-pontos dentro de um valor de prosa. Use um\n"
+          "travessão no lugar, ou passe o campo para bloco:\n\n"
+          "    turn: >-\n      texto com : dentro, em quantas linhas quiser\n")
+    sys.exit(1)
+
+
 def main() -> None:
     if len(sys.argv) != 2:
         sys.exit(__doc__)
     book = ROOT / "books" / sys.argv[1]
     if not book.is_dir():
         sys.exit(f"!! no such book: {sys.argv[1]}")
+
+    lint_front_matter(book)
 
     total = blocking = 0
     kinds: Counter[str] = Counter()
