@@ -630,6 +630,22 @@ impossível de conseguir. Uma linha por regra.
   e acabou. As duas ficam no cimento com os quatro lugares bons vazios do outro
   lado. **É a última tolerância de imperfeição humana que existe no livro**, e ela
   tem nove anos. (cap. 32)
+- **Entra errado junto.** A instrução da Dória no último ensaio, e é a frase que
+  o livro inteiro estava esperando: *vocês não entram no meu braço, vocês entram
+  no bumbo; se o bumbo está errado, vocês entram errado junto — isso é melhor.*
+  Na oitava tentativa trinta e uma pessoas começam na mesma hora, ainda
+  desafinadas, e fica bom de um jeito que Nina não sabe nomear. **É a tese do
+  livro dita por uma professora de banda marcial, e ninguém no livro pode
+  repeti-la.** (cap. 35)
+- **Ela não vai ver robô.** Vai por causa da oitava. Todo mundo na escola fala
+  dos robôs e ela acha aquilo interessante do jeito que se acha uma coisa
+  interessante. (cap. 35)
+- **A rua cheia é normal para ela.** Cabeças até a curva dos dois lados, todas
+  viradas para o mesmo lado, e Nina acha bonito e acha normal — *do jeito que se
+  acha normal um estádio cheio, ou uma fila de supermercado no domingo.* Não
+  pensa mais nada a respeito. **É a única vez no livro em que muita gente olha
+  para a mesma coisa ao mesmo tempo, e a personagem que está vendo não tem como
+  saber disso.** (cap. 37)
 - **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
   pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
   obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela
