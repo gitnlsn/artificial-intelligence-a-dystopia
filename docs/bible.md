@@ -646,6 +646,40 @@ impossível de conseguir. Uma linha por regra.
   pensa mais nada a respeito. **É a única vez no livro em que muita gente olha
   para a mesma coisa ao mesmo tempo, e a personagem que está vendo não tem como
   saber disso.** (cap. 37)
+- **O desfile, e onde cada um está.** Nina e Aurel na grade, oitenta metros
+  depois da esquina; Mira quatro metros atrás, encostada na parede, com o
+  telefone. **Voss na quinta fileira. Rita na sexta, atrás dele.** Ela o vê — um
+  homem de cinquenta anos, sozinho, de pé, que não está olhando para nada — acha
+  levemente estranho e desvia o olho, porque a gente não fica olhando para as
+  pessoas. **Ele nunca a vê.** Ela também vê o velho de chapéu com a criança na
+  grade, e sorri sem querer. Nenhum dos quatro sabe de nada. Só o leitor.
+- **As âncoras que amarram os quatro capítulos** ao mesmo instante: as três
+  batidas do bumbo sozinho e a entrada na quarta; o *ah* de mil pessoas quando o
+  de quatro patas aparece na curva; o trombone da ponta atrasado; o bloco com o
+  painel de assistência domiciliar, que **Aurel lê como se lê um painel e Rita
+  olha a nuca do homem da frente até acabar.** Ninguém comenta nada disso.
+- **O que ele ganha, e é pouco de propósito.** Aurel não consegue nomear o
+  período e não vai conseguir; o que ele entende, de pé na pedra fria, é **por
+  que** não conseguiu — nomear exige um lado de fora, e um lado de fora é feito
+  de outras pessoas olhando para a mesma coisa. Faltava a rua. Dura onze minutos
+  e ele sabe que dura onze minutos, e não confunde uma manhã de sábado com uma
+  reversão histórica. *E é diferente de não saber nada.*
+- **A última vez que Aurel ouviu um som que não foi escolhido para ele** foi em
+  2036, quando compraram o sistema. Onze anos. Ele faz essa conta durante os
+  quarenta segundos em que a banda passa.
+- **O passo atrás.** Às 10h33 os fiscais pedem recuo porque o bloco seguinte é
+  mais largo, em duplas, pela beirada, com quinze metros de antecedência, para
+  que o recuo aconteça em onda e não em susto. **Voss avalia a instrução e a
+  considera bem desenhada — ele teria desenhado assim.** E dá o passo, com todo
+  mundo, com as mãos ao lado do corpo, abrindo caminho. Não é punido, não é
+  identificado, não é tratado de modo diferente de nenhuma das mil e duzentas
+  pessoas do trecho. **É exatamente o que ele defendeu por vinte e dois anos.**
+  Ninguém olha para ele. Ele fica até o fim porque sair no meio exigiria pedir
+  licença.
+- **O último capítulo não tem virada, e é o único.** A rua se esvazia em dez
+  minutos e vira gente separada indo embora: uma senhora com um saco de pão, um
+  homem sozinho de casaco, uma moça com um saco grande no ombro esperando o
+  sinal. **Nina não olha para nenhuma delas em particular.**
 - **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
   pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
   obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela
