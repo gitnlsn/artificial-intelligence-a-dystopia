@@ -605,6 +605,31 @@ impossível de conseguir. Uma linha por regra.
   relevante, e que não a suscitou porque não estaria disponível a um requerente
   sem formação técnica e porque o ato alcança outros servidores em idêntica
   situação. (cap. 29)
+- **Na escola ninguém lê a mesma página.** Cada criança na coisa dela, no ponto
+  dela, no ritmo dela; a escola tem orgulho disso e diz nas reuniões. **Ninguém
+  fica para trás** — o Teo, que lia mal e ficava vermelho no ano passado, lê. O
+  material sobe quando ela acerta três e fica parecido quando ela erra, e ela
+  erra bastante, e não existe ficar para trás. **Nada dá errado.** Não existe o
+  momento de não entender a explicação e ficar quieta com medo de perguntar,
+  porque não existe uma coisa sendo explicada de uma vez para trinta pessoas.
+  (cap. 31)
+- **A banda é a única coisa da escola em que todo mundo faz a mesma coisa ao
+  mesmo tempo.** Trinta e um adolescentes tentando começar juntos pela quarta
+  vez, às cinco da tarde, no pátio. Nina reclama todo dia e desce todo dia.
+  **Isso, e não o desfile, é o que a leva à rua no sábado.** (cap. 31)
+- **A parede do mercado.** Nina e Bel olham para a mesma parede no mesmo segundo
+  e veem coisas diferentes — pássaros saindo do cabelo de uma menina; um carro
+  azul de porta que abre para cima. Discutem trinta segundos e concluem que é
+  porque uma gosta de pássaro e a outra de carro, **o que é mais ou menos
+  verdade.** Ninguém acha estranho. É a erosão da realidade compartilhada inteira,
+  numa conversa de ônibus, sem uma palavra de explicação. (cap. 33)
+- **Criança ainda aguenta.** Bel é injusta e sabe que é; manda Nina para o
+  cimento por causa de um braço que sarou em maio. Nina fica vinte e dois minutos
+  no cimento decidindo não falar com ela nunca mais. Bel senta do lado e não pede
+  desculpa — **isso não existe e nunca existiu** — e fala do robô de quatro patas,
+  e acabou. As duas ficam no cimento com os quatro lugares bons vazios do outro
+  lado. **É a última tolerância de imperfeição humana que existe no livro**, e ela
+  tem nove anos. (cap. 32)
 - **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
   pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
   obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela

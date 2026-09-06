@@ -36,6 +36,28 @@ description: Draft or revise a chapter of the novel. Use whenever writing, draft
 - The narrator does not know more than the character and does not know less. No
   coy withholding of something the character is looking at — that is the
   cheapest trick in the genre and readers see it immediately.
+**The three constructions that break it, and they are the ones that actually get
+written.** The rule is easy to agree with and easy to violate, because the
+violation arrives disguised as a good line:
+
+- *"o que ela não sabia era…"* / *"uma coisa que a Nina não tem como saber"* —
+  the narrator announcing the character's blind spot. Almost always fixable by
+  giving the fact to the character plainly and letting them not find it
+  remarkable, which is stronger anyway: a child knows everyone is doing
+  different work, and never asks why, the way nobody asks why the yard is
+  concrete.
+- *"ele ainda não sabia"* / *"o que ele não conseguia absorver, ainda"* — the
+  narrator knowing the future. Cut it. The foreshadowing is never worth the
+  breach.
+- *"ela pensaria nisso semanas depois"* — the narrator leaving the scene. Allowed
+  only as the character's own retrospection in the past tense they already
+  inhabit, never as a preview of a chapter that has not happened.
+
+A fourth, subtler: **the narrator noticing a coincidence the character cannot
+see** — that this man's mother once cleaned that building, that these two
+strangers were in the same room. If the reader should feel it, plant the detail
+and say nothing. If only the author can see it, it is not in the book.
+
 - The prose takes on the character's vocabulary. Someone who works inside the
   system calls things by their official names without irony; someone outside it
   does not know the names at all. That difference is most of the
