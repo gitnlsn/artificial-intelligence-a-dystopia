@@ -262,20 +262,48 @@ one would read better: only the vendored Libertinus faces are guaranteed to
 embed, and KDP rejects a PDF with an unembedded font. Vendor an OFL mono into
 `shared/fonts/` and change the one `font:` line in the template if you want one.
 
+## A forma do livro — decidido
+
+Four parts, four protagonists, **four paces**, converging on a street where the
+four of them watch a parade of robots and music plays. Roughly 200 pages.
+
+**The pace is the argument.** The book holds that the first thing the machine
+took was not work and not freedom but *tempo* — the way a person is able to be
+in the present. So each protagonist lives on a different clock, the book is read
+at four speeds, and the parade is the only moment in it when all four are on the
+same beat. What puts them there is the music, which is the last technology that
+still imposes a shared tempo on a crowd.
+
+The pace is also **visible in the table of contents**: Part I is few long
+chapters, Part IV is many short ones. The reader feels the acceleration before
+knowing it is there.
+
+| Part | Pace | The clock |
+|---|---|---|
+| I | o século | deep time; he has all of it and no future |
+| II | o turno | time is sold in pieces and allocated by someone else |
+| III | a notificação | the day arrives interrupted; the `registro` blocks live here |
+| IV | o presente | there is no before; this is just the world |
+
+The two songs already fixed, and the rule that governs them, are in
+`docs/outline.md` and `docs/references.md`. The short version: **no lyric may be
+printed without a licence.** Titles may be named, music may be described, and
+public-domain works may be printed in full. The book's formal rhyme is that the
+first song is *overheard* and the last is *broadcast*.
+
 ## A decidir pelo autor
 
 These are in `docs/outline.md` and `docs/bible.md` as `[[?autor: …]]` markers so
 `make marcadores` keeps asking. Nothing below can be decided by a draft.
 
-1. **The premise** — what the system is, what it is for, and what it does to the
-   protagonist. Everything else in this file is downstream of it.
-2. **Whether *A regra da distopia* above is the book's stance.** It is the one
-   choice that cannot be changed later without rewriting.
-3. **Where and when.** Brazil is the obvious setting and is not assumed here.
-   The country matters: an administrative dystopia reads completely differently
-   in a state people already expect to fail them.
-4. **The point of view** — one character or several, and if several, why the
-   book needs each one.
+1. **The protagonists and plots of Parts II, III and IV.** Part I is set: the old
+   man, the Hobsbawm epigraph, the room, the century.
+2. **The parade song.** The proposal is *Ó Abre Alas* (Chiquinha Gonzaga, 1899),
+   public domain, played by a human brass band while the machines pass.
+3. **Whether *A regra da distopia* above is the book's stance.** Part I as
+   described is compatible with it. It is the one choice that cannot be changed
+   later without rewriting.
+4. **Where and when.** The Chiquinha Gonzaga ending presumes Brazil.
 5. **The title.** `book.yaml` carries a descriptive placeholder so the book
    compiles.
 6. **The author name.** `book.yaml` currently reuses *Íris Gradim* from *Manual

@@ -10,34 +10,90 @@ elas enquanto estiverem em aberto.
 
 ---
 
+## A forma do livro — decidido
+
+Quatro partes, quatro protagonistas, **quatro andamentos**. Os quatro se
+encontram no fim, na rua, assistindo a um desfile de robôs, e uma música toca.
+
+Cerca de **200 páginas** — no formato 5,5 x 8,5 pol deste livro, algo entre
+55.000 e 60.000 palavras, ou perto de 15.000 por parte. `make stats` converte
+palavras em páginas a cada gravação.
+
+### O andamento é o argumento
+
+O livro sustenta que a primeira coisa que a máquina tomou não foi o emprego nem
+a liberdade: foi o **tempo** — a maneira de estar no presente. É o que o velho
+da Parte I está tentando dizer.
+
+Por isso os quatro andamentos não são enfeite formal. Cada protagonista vive num
+relógio diferente, e o livro é lido em quatro velocidades porque as quatro vidas
+correm em quatro velocidades. O desfile é o único momento do livro em que os
+quatro estão no mesmo compasso — e quem os põe no mesmo compasso é a música,
+que é a última tecnologia que ainda impõe um andamento comum a uma multidão.
+
+O andamento também é **visível no sumário**: a Parte I tem poucos capítulos
+longos, a Parte IV tem muitos capítulos curtos. O leitor sente a aceleração
+antes de saber que ela existe.
+
+| Parte | Andamento | O relógio | Forma |
+|---|---|---|---|
+| I | o século | tempo profundo; ele tem todo o tempo e nenhum futuro | capítulos longos, quase sem cena, um quarto |
+| II | o turno | o tempo é vendido em pedaços e alocado por outro | tempo real, cena a cena, quase sem sumário |
+| III | a notificação | o dia chega interrompido | fragmentos; é aqui que moram os `registro` |
+| IV | o presente | não há antes; isto é só o mundo | capítulos curtos, presente, sem assombro |
+
+É também uma escada de idade descendente — velho, adulto, operador, criança — e
+portanto uma escada de memória descendente. O velho lembra de tudo e não pode
+fazer nada; a criança pode tudo e não lembra de nada.
+
+### As duas músicas que já existem
+
+A Parte II abre com o segundo protagonista **ouvindo uma música de longe**:
+*Great Divide*, dos Cardigans (não "The Great Divide"; faixa 10 de *First Band
+on the Moon*, 1996, de Sveningsson e Svensson). Chega sem ser pedida, escolhida
+por ninguém, de uma janela ou de um carro.
+
+O desfile fecha com a música **transmitida**, apontada para todo mundo.
+
+Essa é a rima formal do livro: **a primeira música é ouvida por acaso; a última
+é dirigida.** Uma chega; a outra é emitida.
+
+**Nenhuma letra pode ser impressa sem licença** — ver "Direitos e permissões" em
+`docs/references.md`. Títulos podem. Descrever o efeito pode. É por isso que a
+proposta para o desfile é uma obra em domínio público.
+
+---
+
 ## Decisões abertas
 
-[[?autor: a premissa — o que é o sistema, para que ele serve, e o que ele faz
-com a protagonista. Tudo em CLAUDE.md é consequência disto.]]
+Já decidido e fora desta lista: a forma em quatro partes, os quatro andamentos,
+o encontro final no desfile, a Parte I, a extensão.
+
+[[?autor: os protagonistas das Partes II, III e IV. A proposta na conversa é:
+II, alguém cujo tempo é alocado pelo sistema e que passa a parte esperando;
+III, alguém de dentro — competente, decente, e é quem aprova as coisas;
+IV, uma criança, para quem isto não é distopia, é só o mundo. Confirmar,
+trocar, ou pedir outras.]]
+
+[[?autor: o enredo das Partes II, III e IV.]]
+
+[[?autor: a música do desfile. A proposta é "Ó Abre Alas", de Chiquinha Gonzaga,
+1899, tocada por uma banda humana de metais enquanto as máquinas passam e a
+multidão abre alas. Está em domínio público (ela morreu em 1935), então pode ser
+impressa inteira, o que nenhuma das outras pode.]]
 
 [[?autor: a regra da distopia — CLAUDE.md propõe que a máquina não é a vilã, que
 o sistema é legível, que todo mundo consentiu um pouco por um bom motivo, e que
-não existe botão de desligar. É a única escolha que não dá para mudar depois sem
-reescrever. Confirmar ou trocar.]]
+não existe botão de desligar. A Parte I, como foi descrita, é compatível com
+isso. Confirmar.]]
 
-[[?autor: onde e quando. O Brasil é o cenário óbvio e não está assumido. O país
-importa: uma distopia administrativa se lê de outro jeito num Estado de que as
-pessoas já esperam que falhe.]]
+[[?autor: onde e quando. O desfile de Chiquinha Gonzaga pressupõe o Brasil; a
+proposta funciona em outro país com outra música de domínio público.]]
 
-[[?autor: o ponto de vista — um personagem ou vários. Se vários, por que o livro
-precisa de cada um. `make stats` mostra o equilíbrio real depois; o plano é o
-que ele vai ser comparado.]]
-
-[[?autor: extensão e forma — quantos capítulos, quantas partes. Um romance
-comercial fica entre 80.000 e 110.000 palavras; a 2.500 por capítulo isso dá
-entre 32 e 44 capítulos.]]
-
-[[?autor: o título. `book.yaml` carrega um provisório descritivo para o livro
-compilar.]]
+[[?autor: o título. `book.yaml` carrega um provisório descritivo.]]
 
 [[?autor: o nome do autor. `book.yaml` reaproveita "Íris Gradim", do Manual da
-Vida. Um pseudônimo compartilhado entre um manual de autoajuda e um romance
-distópico é uma decisão sobre como os dois livros são encontrados.]]
+Vida.]]
 
 ---
 
