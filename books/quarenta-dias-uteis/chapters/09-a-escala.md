@@ -73,9 +73,8 @@ Quinta: um.
 
 E por baixo, numa letra menor, dizendo que aquilo era uma projeção e podia mudar.
 
-Ela tinha trabalhado dezoito turnos na semana de agosto. Não a de agosto — a de
-sete meses atrás. Ela lembra porque foi a semana em que comprou a máquina de
-lavar.
+Ela tinha trabalhado dezoito turnos numa semana, sete meses atrás. Ela lembra
+porque foi a semana em que comprou a máquina de lavar.
 
 ---
 

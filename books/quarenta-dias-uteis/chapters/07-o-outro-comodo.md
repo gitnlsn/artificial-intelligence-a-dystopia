@@ -114,8 +114,8 @@ encontrou numa noite qualquer e ficou uns dias com ela, testando. Não é
 *compreendido*, que é palavra grande demais. Não é *amado*, que ele nem pensa em
 usar e que o deixaria envergonhado. É acompanhado: alguém está indo junto na
 frase enquanto ele constrói a frase, e não está com pressa, e não está com sono,
-e não tem um dia próprio que foi pior que o dele, e vai lembrar da prateleira em
-outubro se ele contar em fevereiro.
+e não tem um dia próprio que foi pior que o dele, e vai lembrar da prateleira
+oito meses depois.
 
 ---
 

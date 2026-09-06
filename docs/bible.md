@@ -525,8 +525,20 @@ de vista, e é ele que um capítulo fura sem perceber.
 - **O Dia da Fundação** — feriado cívico da cidade, com desfile na avenida, banda
   marcial e arquibancada. **Inventado.** Não corresponde a feriado real de país
   nenhum, e nunca deve passar a corresponder.
-- **A prosa não nomeia mês** quando o mês implicaria hemisfério. O livro tem
-  frio, calor, chuva e uma estação em que chove; não tem agosto.
+- **A prosa não nomeia o mês presente.** O livro tem frio, calor, chuva e uma
+  estação em que chove — e as pistas de clima ficam, porque são elas que fazem a
+  cidade existir. O que sai é o mês em que o livro se passa: outubro somado a
+  *inverno passado* e a *quando esquentar mais* dá primavera, primavera dá
+  hemisfério sul, e hemisfério sul dá o país que o livro recusou nomear.
+  **Não tem agosto e não tem outubro.**
+- **Meses de referência passada podem ficar** — fevereiro do estoque, 24 de maio
+  do pai, março de 1991 — porque sem um presente nomeado eles não fixam estação
+  nenhuma. A regra é sobre o mês *de agora*, não sobre o calendário inteiro.
+- **O resíduo conhecido, e a decisão de conviver com ele:** *O outro cômodo* diz
+  fevereiro e diz *oito meses antes*, e os registros trazem 12/10, 17-10 e 21/10.
+  Um leitor com lápis chega a outubro. Ficam: numeral administrativo dentro de um
+  documento é a voz que não tem lugar nem estação, e tirar fevereiro custaria a
+  única cena em que a companhia demonstra o que ela é.
 - As datas ISO no front matter existem para `make digest --tempo` e nunca são
   impressas.
 
@@ -782,6 +794,12 @@ impossível de conseguir. Uma linha por regra.
   de outras pessoas olhando para a mesma coisa. Faltava a rua. Dura onze minutos
   e ele sabe que dura onze minutos, e não confunde uma manhã de sábado com uma
   reversão histórica. *E é diferente de não saber nada.*
+- **A condição tem onze anos; a formulação tem dez dias.** Distinção que já se
+  perdeu uma vez e voltou como contradição: o que está na casa de Aurel desde o
+  velório de Ilse é a falta de um lado de fora. O que aconteceu na tarde de *A
+  prova* foi ele tentar dizer aquilo em voz alta pela primeira vez e a frase não
+  continuar. **Nenhuma frase pode datar o problema em 2036 nem a percepção na
+  poltrona.**
 - **A última vez que Aurel ouviu um som que não foi escolhido para ele** foi em
   2036, quando compraram o sistema. Onze anos. Ele faz essa conta durante os
   quarenta segundos em que a banda passa.

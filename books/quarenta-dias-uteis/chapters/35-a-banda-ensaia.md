@@ -23,8 +23,8 @@ status: draft
 ---
 São trinta e um e não conseguem começar juntos.
 
-Esse é o problema desde setembro e continuava sendo o problema na sexta às cinco
-e dez: a Dória levanta o braço, segura, e desce — e sai um bum de bombo, e um
+Esse é o problema desde o primeiro ensaio e continuava sendo o problema na
+sexta às cinco e dez: a Dória levanta o braço, segura, e desce — e sai um bum de bombo, e um
 pedaço de trompete meio atrás, e a caixa entrando quando já era tarde, e alguém
 lá no fundo que nem chegou a tocar.
 
@@ -35,7 +35,7 @@ E a Dória para tudo com uma palma só e diz *de novo*.
 Naquela sexta foram sete vezes.
 
 A Nina contou. Ela senta na arquibancada de dois degraus, do lado do bebedouro, e
-conta as vezes, e a marca é onze, que foi numa quarta de setembro.
+conta as vezes, e a marca é onze, que foi numa quarta, no mês passado.
 
 Na quarta vez saiu quase.
 
@@ -51,8 +51,8 @@ A caixa fica na segunda fileira, do lado esquerdo, e são três caixas, e a Bel 
 a do meio.
 
 A Bel é boa. A Nina sabe que a Bel é boa porque dá para ouvir quando ela para —
-teve um dia, em agosto, que ela ficou doente e não veio, e naquele dia a banda
-inteira desandou, e a Nina ficou a tarde inteira secretamente muito satisfeita.
+teve um dia, faz uns dois meses, que ela ficou doente e não veio, e naquele dia
+a banda inteira desandou, e a Nina ficou a tarde inteira secretamente muito satisfeita.
 
 Ela nunca falou isso para a Bel.
 

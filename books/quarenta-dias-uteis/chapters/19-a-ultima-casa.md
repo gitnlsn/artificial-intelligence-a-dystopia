@@ -51,7 +51,7 @@ O café foi às nove e vinte, que é a hora do café.
 
 Ele contou a do armário do juiz.
 
-Ela sabia que ele ia contar. Ele tinha contado no fim de setembro, o que quer
+Ela sabia que ele ia contar. Ele tinha contado havia três semanas, o que quer
 dizer que estava fora do prazo dele, e ela reparou nisso — reparou e não achou
 nada, porque velho conta história e não tem calendário —, e escutou até o fim, e
 no lugar certo perguntou:

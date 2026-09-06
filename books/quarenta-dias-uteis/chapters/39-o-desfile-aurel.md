@@ -184,7 +184,8 @@ Não disse mais nada.
 Não disse que estava desafinado. Não disse que aquilo era a única coisa que ele
 tinha ouvido em onze anos que não tinha sido calibrada para ele. Não disse que ela
 tinha resolvido, aos nove anos, numa quinta-feira, com a boca cheia de bolacha, um
-problema que ele carregava desde o velório da avó dela.
+problema que ele levou uma tarde inteira para formular e que estava na casa dele
+desde o velório da avó dela.
 
 Ela não tinha perdido nada. Continuava não tendo perdido.
 

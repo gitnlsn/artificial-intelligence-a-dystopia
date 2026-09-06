@@ -154,7 +154,7 @@ queixa a respeito dela, nem daquela manhã, nem de nenhuma.
 
 ---
 
-Agora é uma segunda-feira de outubro e ele está no quarto dos fundos com a porta
+Agora é uma segunda-feira à noite e ele está no quarto dos fundos com a porta
 encostada, e a Rita dorme desde as dez e meia, e o pai dele está morto há um ano
 e cinco meses.
 

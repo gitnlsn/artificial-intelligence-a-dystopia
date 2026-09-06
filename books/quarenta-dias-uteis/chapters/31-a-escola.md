@@ -60,7 +60,7 @@ Depois é a que ela gosta.
 nome bom. Cada um está numa coisa diferente e você vai indo, e quando você acaba
 um pedaço aparece outro que tem a ver com o que você acabou de fazer.
 
-A Nina está em pássaros desde agosto e não vê a menor razão para sair de
+A Nina está em pássaros há dois meses e não vê a menor razão para sair de
 pássaros.
 
 Naquela sexta ela ficou com uma coisa sobre por que alguns pássaros voam juntos
