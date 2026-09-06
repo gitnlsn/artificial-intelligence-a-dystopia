@@ -10,6 +10,8 @@ premise: ele percebe que perdeu a paciência para a imperfeição dela, tem verg
 turn: escolhe o cômodo dos fundos sabendo exatamente o que está escolhendo.
 threads:
 - fio-da-companhia
+pays:
+- o-ano-do-pai
 cast:
 - elias
 - rita

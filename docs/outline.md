@@ -586,7 +586,18 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Paga** — o-outro-comodo
 - **Elenco** — rita, elias
 
-### 12. A casa dos dois irmãos
+### 12. O ano passado
+*(Last Year)*
+- **POV** — Elias
+- **Quando** — 2047-10-14 — à noite, depois que ela dorme
+- **Onde** — o quarto dos fundos; e o ano anterior inteiro
+- **A ideia** — o capítulo em que o leitor entende por que Rita amou este homem e por que ele não é um canalha. No ano passado o pai dele adoeceu e morreu devagar, e quem o atravessou aquilo às três da manhã, todas as noites, durante sete meses, foi a companhia — porque Rita estava em turno, e não estava errada, e não havia culpa em lugar nenhum.
+- **A virada** — ele percebe que não trocou Rita por nada: ele foi ficando acompanhado enquanto ela trabalhava, e quando ela voltou o lugar já estava ocupado por uma coisa que nunca dorme.
+- **Fios** — fio-da-companhia
+- **Planta** — o-ano-do-pai
+- **Elenco** — elias
+
+### 13. A casa dos dois irmãos
 *(The House of the Two Brothers)*
 - **POV** — Rita
 - **Quando** — 2047-10-14 — manhã
@@ -596,17 +607,18 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Fios** — fio-do-turno, fio-das-casas
 - **Elenco** — rita
 
-### 13. A paciência
+### 14. A paciência
 *(Patience)*
 - **POV** — Elias
 - **Quando** — 2047-10-14 — à noite
 - **Onde** — a cozinha
 - **A ideia** — ele percebe que perdeu a paciência para a imperfeição dela, tem vergonha disso, e não faz nada — vergonha não é ação.
-- **A virada** — escolhe o cômodo dos fundos sabendo exatamente o que está escolhendo.
+- **A virada** — escolhe o cômodo dos fundos sabendo exatamente o que está escolhendo, e sabendo por quê: é a conta do ano do pai chegando.
 - **Fios** — fio-da-companhia
+- **Paga** — o-ano-do-pai
 - **Elenco** — elias, rita
 
-### 14. A casa vazia
+### 15. A casa vazia
 *(The Empty House)*
 - **POV** — Rita
 - **Quando** — 2047-10-15 — manhã
@@ -616,7 +628,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Fios** — fio-do-turno, fio-das-casas
 - **Elenco** — rita
 
-### 15. O indeferimento
+### 16. O indeferimento
 *(The Denial)*
 - **POV** — Rita
 - **Quando** — 2047-10-15 — tarde
@@ -627,7 +639,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Planta** — o-indeferimento-de-rita, o-nome-na-folha
 - **Elenco** — rita
 
-### 16. A casa da moça que ia embora
+### 17. A casa da moça que ia embora
 *(The House of the Girl Who Was Leaving)*
 - **POV** — Rita
 - **Quando** — 2047-10-16 — manhã
@@ -637,7 +649,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Fios** — fio-do-turno, fio-das-casas
 - **Elenco** — rita
 
-### 17. A briga que não houve
+### 18. A briga que não houve
 *(The Fight They Didn't Have)*
 - **POV** — Rita
 - **Quando** — 2047-10-16 — à noite
@@ -647,7 +659,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Fios** — fio-da-companhia
 - **Elenco** — rita, elias
 
-### 18. A última casa
+### 19. A última casa
 *(The Last House)*
 - **POV** — Rita
 - **Quando** — 2047-10-17 — manhã
@@ -658,7 +670,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Paga** — a-casa-do-teodor
 - **Elenco** — rita, teodor
 
-### 19. Ela fica quieta
+### 20. Ela fica quieta
 *(She Keeps Still)*
 - **POV** — Rita
 - **Quando** — 2047-10-17 — tarde
@@ -678,7 +690,7 @@ caracterização, não pressa: é assim que ele vê. É aqui que moram os `regis
 
 O leitor já morou numa daquelas casas.
 
-### 20. O revisor de exceções
+### 21. O revisor de exceções
 *(The Reviewer of Exceptions)*
 - **POV** — Voss
 - **Quando** — 2047-10-06
@@ -690,7 +702,7 @@ O leitor já morou numa daquelas casas.
 - **Elenco** — voss
 - **Fontes** — Hugo, *Les Misérables* — domínio público, pode ser citado
 
-### 21. A fila da manhã
+### 22. A fila da manhã
 *(The Morning Queue)*
 - **POV** — Voss
 - **Quando** — 2047-10-14
@@ -700,18 +712,18 @@ O leitor já morou numa daquelas casas.
 - **Fios** — fio-da-excecao
 - **Elenco** — voss
 
-### 22. Quatro linhas
+### 23. Quatro linhas
 *(Four Lines)*
 - **POV** — Voss
 - **Quando** — 2047-10-14
 - **Onde** — a mesa
-- **A ideia** — um dos casos da fila é a casa do velho Teodor, onde o leitor passou um capítulo inteiro. Voss lê quatro linhas, indefere corretamente, e passa ao próximo. **Nada no capítulo assinala que o leitor já esteve lá.**
+- **A ideia** — um dos casos da fila é a casa do velho Teodor, onde o leitor passou um capítulo inteiro. **O que ele escreveu foi um pedido para manter a cuidadora designada** — a "coisa" que ele diz ter escrito, sem explicar, no fim do capítulo dele. Voss lê quatro linhas e indefere corretamente, porque continuidade de vínculo não é critério: o serviço prestado é equivalente por qualquer profissional habilitado, e é verdade que é. Passa ao próximo. **Nada no capítulo assinala que o leitor já esteve lá**, e Rita nunca fica sabendo que o pedido existiu.
 - **A virada** — nenhuma, para ele. Toda, para quem lê.
 - **Fios** — fio-da-excecao
 - **Paga** — a-casa-do-teodor
 - **Elenco** — voss
 
-### 23. O rapaz que não podia provar o futuro
+### 24. O rapaz que não podia provar o futuro
 *(The Boy Who Couldn't Prove the Future)*
 - **POV** — Voss
 - **Quando** — 2047-10-15
@@ -722,7 +734,7 @@ O leitor já morou numa daquelas casas.
 - **Planta** — o-campo-de-observacoes
 - **Elenco** — voss
 
-### 24. A conferência
+### 25. A conferência
 *(The Review Meeting)*
 - **POV** — Voss
 - **Quando** — 2047-10-16
@@ -732,7 +744,7 @@ O leitor já morou numa daquelas casas.
 - **Fios** — fio-da-excecao
 - **Elenco** — voss
 
-### 25. O critério muda
+### 26. O critério muda
 *(The Threshold Moves)*
 - **POV** — Voss
 - **Quando** — 2047-10-17 — manhã
@@ -743,7 +755,7 @@ O leitor já morou numa daquelas casas.
 - **Paga** — o-criterio-dele
 - **Elenco** — voss
 
-### 26. A gentileza
+### 27. A gentileza
 *(The Kindness)*
 - **POV** — Voss
 - **Quando** — 2047-10-17 — fim de tarde
@@ -755,7 +767,7 @@ O leitor já morou numa daquelas casas.
 - **Paga** — o-indeferimento-de-rita, o-nome-na-folha
 - **Elenco** — voss, rita
 
-### 27. O critério o alcança
+### 28. O critério o alcança
 *(The Threshold Reaches Him)*
 - **POV** — Voss
 - **Quando** — 2047-10-18 — manhã
@@ -765,7 +777,7 @@ O leitor já morou numa daquelas casas.
 - **Fios** — fio-da-excecao
 - **Elenco** — voss
 
-### 28. Ele não recorre
+### 29. Ele não recorre
 *(He Does Not Appeal)*
 - **POV** — Voss
 - **Quando** — 2047-10-18 — a madrugada inteira
@@ -788,7 +800,7 @@ O desfile são quatro capítulos, um por protagonista — o único lugar do livr
 que os quatro pontos de vista se encostam, porque é o único momento em que os
 quatro relógios batem juntos.
 
-### 29. Quinta-feira
+### 30. Quinta-feira
 *(Thursday)*
 - **POV** — Nina
 - **Quando** — 2047-10-17 — quinta, fim de tarde
@@ -798,7 +810,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-da-nina
 - **Elenco** — nina, aurel
 
-### 30. A escola
+### 31. A escola
 *(School)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, de manhã
@@ -808,7 +820,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-da-nina
 - **Elenco** — nina
 
-### 31. A amiga
+### 32. A amiga
 *(The Friend)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, no recreio
@@ -819,7 +831,7 @@ quatro relógios batem juntos.
 - **Planta** — a-amiga-chata
 - **Elenco** — nina
 
-### 32. O que ela vê
+### 33. O que ela vê
 *(What She Sees)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, na saída
@@ -829,7 +841,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-da-nina
 - **Elenco** — nina
 
-### 33. O avô é antigo
+### 34. O avô é antigo
 *(Grandpa Is Old-Fashioned)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, à tarde
@@ -840,7 +852,7 @@ quatro relógios batem juntos.
 - **Paga** — nina-leva-o-avo
 - **Elenco** — nina, aurel
 
-### 34. A banda ensaia
+### 35. A banda ensaia
 *(The Band Rehearses)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, fim de tarde
@@ -851,7 +863,7 @@ quatro relógios batem juntos.
 - **Planta** — a-banda-da-escola
 - **Elenco** — nina
 
-### 35. A véspera
+### 36. A véspera
 *(The Eve)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, à noite
@@ -861,7 +873,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-do-desfile
 - **Elenco** — nina
 
-### 36. A rua enche
+### 37. A rua enche
 *(The Street Fills)*
 - **POV** — Nina
 - **Quando** — 2047-10-19 — de manhã
@@ -871,7 +883,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-do-desfile
 - **Elenco** — nina, aurel
 
-### 37. O desfile — Nina
+### 38. O desfile — Nina
 *(The Parade — Nina)*
 - **POV** — Nina
 - **Quando** — 2047-10-19 — 10h12
@@ -882,7 +894,7 @@ quatro relógios batem juntos.
 - **Paga** — a-banda-da-escola
 - **Elenco** — nina, aurel
 
-### 38. O desfile — Aurel
+### 39. O desfile — Aurel
 *(The Parade — Aurel)*
 - **POV** — Aurel
 - **Quando** — 2047-10-19 — 10h12
@@ -896,7 +908,7 @@ quatro relógios batem juntos.
   casa jamais teria pedido dele. Conforto contra presença.
 - **Elenco** — aurel, nina
 
-### 39. O desfile — Rita
+### 40. O desfile — Rita
 *(The Parade — Rita)*
 - **POV** — Rita
 - **Quando** — 2047-10-19 — 10h12
@@ -907,7 +919,7 @@ quatro relógios batem juntos.
 - **Paga** — a-musica-de-longe
 - **Elenco** — rita
 
-### 40. O desfile — Voss
+### 41. O desfile — Voss
 *(The Parade — Voss)*
 - **POV** — Voss
 - **Quando** — 2047-10-19 — 10h12
@@ -917,7 +929,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-do-desfile, fio-da-excecao
 - **Elenco** — voss
 
-### 41. Depois
+### 42. Depois
 *(After)*
 - **POV** — Nina
 - **Quando** — 2047-10-19 — meio-dia

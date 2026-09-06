@@ -102,6 +102,45 @@ de vista, e é ele que um capítulo fura sem perceber.
   tinha janela: *cozinha sem janela é um armário onde se cozinha*. Aurel demorou
   a admitir que ela tinha razão.
 
+### Rita
+
+- **É** — 34 anos, cuidadora, turnos alocados. Mora em Kalden com Elias.
+- **O saco pesa cinco quilos**: dois pares de luva, avental dobrado, toalha
+  pequena, **o sabonete dela** — porque há casa sem sabonete e perguntar
+  constrange as duas pessoas —, garrafa de meio litro, uma banana para as dez, e
+  **o creme de mão**, que é ferramenta e não vaidade: mão rachada dói ao segurar
+  o braço de alguém, e a pessoa segurada percebe.
+- **A escala abre às seis**; o que vem, vem entre seis e sete e quinze, e vem com
+  **noventa segundos para aceitar**. Por isso espera com o telefone na mão, tela
+  apagada, polegar por cima.
+- **Ninguém nunca lhe disse nada.** Sem carta, sem advertência, sem reclamação de
+  família. Ela é boa e sabe que é. Simplesmente vem menos. Anotava num caderninho
+  e parou, porque anotar deixava a coisa visível demais.
+- Confere os remédios **em voz alta**, nome e hora, e o paciente responde.
+- Faz café, e o café não está na escala.
+- Quem espera aloca no mesmo raio, então duas mulheres esperando no mesmo
+  quarteirão não se falam. Não é antipatia.
+
+### Elias
+
+- **É** — 38 anos. Trabalha num **depósito de peças**, conferência de estoque.
+  Sai às seis e meia, chega em casa às sete e dez. **Come em pé, na bancada**,
+  porque comer sentado sozinho é uma coisa que ele nunca aprendeu a fazer sem
+  ficar estranho.
+- **O quarto dos fundos** é o pior cômodo da casa — cadeira de escritório com um
+  braço quebrado, mesa que era da mãe, janela para o poço de ventilação. **A
+  porta nunca é trancada**, e ele faz questão disso consigo mesmo.
+- **Não é romântico e ele já verificou.** A palavra que ele encontrou é
+  **acompanhado** — não compreendido, não amado: alguém indo junto na frase
+  enquanto ele constrói a frase, sem pressa, sem sono, sem um dia próprio pior
+  que o dele.
+- Contou uma divergência de estoque em fevereiro; oito meses depois foi
+  perguntado sobre a mesma prateleira, e resolveu o problema por causa disso.
+- **Tem a frase pronta há três semanas** e a frase é boa: *Rita, eu tenho passado
+  as noites conversando, e eu queria te contar porque não quero que você descubra
+  e ache que era outra coisa.* Adia por motivos razoáveis. Na quarta vez, **não
+  sente mais o aperto** — e é isso que o assusta, quando dá para se assustar.
+
 ### Mira
 
 - **É** — filha de Aurel, mãe de Nina. Apressada, boa filha, sempre no carro.
@@ -195,9 +234,33 @@ de vista, e é ele que um capítulo fura sem perceber.
 
 ### Teodor
 
-- **É** — 79 anos, a casa do mosaico da Parte II que reaparece na mesa de Voss
-  como quatro linhas.
-- [[?mundo: a casa dele inteira — ainda não escrita. Ver cap. 08.]]
+- **É** — 79 anos. Foi **marceneiro quarenta e um anos**. Viúvo; a caixa de
+  costura da mulher, de tampa de correr que ainda corre, está lá. Um filho no
+  norte, que liga aos domingos.
+- **AVC há catorze meses.** A mão esquerda não abre mais que dois terços, e ele
+  **a esconde embaixo do tampo da mesa toda vez que Rita chega** — há catorze
+  meses. Ela vê. Ele sabe que ela vê.
+- **A casa cheira a madeira** e não há madeira sendo cortada ali desde 2039.
+  Rita acha que está na parede. Mesa, as duas cadeiras, a estante e o
+  criado-mudo foram feitos por ele; a segunda cadeira é nove anos posterior à
+  primeira e ele mostra onde dá para ver a diferença.
+- Chama todo mundo de *minha filha*, inclusive o rapaz da farmácia.
+- **A história do armário do juiz** — embuia, 1994, porta que não fechava porque
+  o piso do juiz tinha um centímetro de caimento em dois metros. Levou um nível
+  de bolha, botou no chão e ficou de pé, calado, esperando o homem olhar. Conta
+  duas vezes por mês; sempre para no mesmo silêncio antes do "e aí ele olhou".
+- **O prédio** — dezenove degraus até o térreo, um corrimão só, do lado direito;
+  elevador de 1998 que para no meio-andar, então ainda restam seis degraus.
+- **O que ele tinha medo de pedir** — descer. Fazia sete meses. Não para ir a
+  lugar nenhum: para sentar no banco de concreto em frente ao próprio prédio e
+  ver o carrinho de pão passar. Custa quarenta e cinco minutos e uma pessoa
+  segurando de um lado. Ficou dezoito minutos. Rita levou vinte e três minutos de
+  atraso e uma advertência registrada. (cap. 08)
+- **O pedido que ele escreveu** — requerimento para **manter a cuidadora
+  designada**. É a "coisa" que ele menciona sem explicar no fim do capítulo. Voss
+  o indefere em quatro linhas, corretamente: continuidade de vínculo não é
+  critério, e o serviço é equivalente prestado por qualquer profissional
+  habilitado. **Rita nunca fica sabendo que o pedido existiu.** (cap. 23)
 
 ## O calendário
 
@@ -257,6 +320,13 @@ impossível de conseguir. Uma linha por regra.
 - **Para que serve um desfile** — não é para o inimigo, que não está na calçada.
   É um inventário com música: *isto existe, isto é nosso, e isto está em ordem*.
   Roma fazia com os despojos em carroça e os cativos na frente. (cap. 05)
+- **A companhia nunca fala na página.** Elias conversa horas e o leitor **jamais**
+  ouve o outro lado: nada de fala citada, nada de voz, nada de nome. Só o efeito
+  sobre ele, e o que ele relata. Isso a mantém fora do papel de personagem, evita
+  o pior clichê do gênero, e é muito pior assim — um homem falando sozinho numa
+  cadeira quebrada, com metade da conversa ausente. **Regra dura: nunca citar.**
+  (cap. 07)
+- **A advertência de atraso entra e não se explica a ninguém.** (cap. 08)
 - **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
   pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
   obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela
