@@ -102,6 +102,26 @@ de vista, e é ele que um capítulo fura sem perceber.
   tinha janela: *cozinha sem janela é um armário onde se cozinha*. Aurel demorou
   a admitir que ela tinha razão.
 
+### Emil Roht
+
+- **É** — homem de uns 40 anos em 1991. O jornal publicou o nome dele na relação
+  dos mortos do incêndio da rua Vetten; quem morreu foi o irmão, **Aleks Roht**,
+  com quem ele morava no 402.
+- Subiu à redação às 9h40 da manhã seguinte **de paletó abotoado**, tendo dormido
+  na casa de alguém porque a casa dele tinha queimado. Não gritou. Disse: "Meu
+  irmão morreu ontem. E vocês publicaram que fui eu." E: "Minha mãe mora no
+  interior. Ela lê este jornal."
+- Agradeceu no fim, o que Aurel achou obsceno.
+
+### Vidor
+
+- **É** — editor de cidade em 1991. Grosso com todo mundo todos os dias. Naquela
+  manhã levantou e deu a volta na mesa em vez de falar por cima dela. Mandou a
+  errata para a edição do dia, no pé de uma página ímpar, e pagou a diária
+  dobrada de um motociclista, **Peu**, para levar um exemplar à mãe antes do
+  caminhão.
+- Nunca chamou Aurel na sala. Nunca tocou no assunto.
+
 ### Bendt
 
 - **É** — colega de redação de Aurel. Quase brigaram de verdade em 1996 por causa
@@ -137,6 +157,17 @@ impossível de conseguir. Uma linha por regra.
   (cap. 01)
 - **A errata deixou de ser possível** e não houve dia em que isso aconteceu.
   (cap. 01)
+- **O cotejo** — regra não escrita do ofício: lista de morto se confere *a dois*,
+  um lendo em voz alta com o número do apartamento, o outro acompanhando o
+  cadastro com o dedo. Quem lê nunca é quem acompanha, porque o olho que já leu o
+  nome lê a lembrança do nome e não o nome. Sozinho não é leitura, é
+  reconhecimento — e é muito mais rápido. Onze minutos para dezenove nomes é
+  velocidade de um homem só. (cap. 02)
+- **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
+  pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
+  obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela
+  está errado. Sem formulário, sem protocolo, sem prazo. Contraponto direto do
+  Bloco C e dos quarenta dias úteis. (cap. 02)
 
 ## Decisões já tomadas
 
