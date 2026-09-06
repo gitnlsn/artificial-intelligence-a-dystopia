@@ -9,4 +9,4 @@ público (1802–1885), pode ser citada à vontade. Atenção: uma tradução re
 tem direito autoral do tradutor; usar o francês, uma tradução antiga em domínio
 público, ou traduzir. Conferir as palavras exatas contra a edição.]]
 
-Treze casos em cima de uma mesa. Doze são de outras pessoas.
+Uma fila de casos em cima de uma mesa. O último é o dele.

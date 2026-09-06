@@ -3,7 +3,7 @@ title: O rapaz que não podia provar o futuro
 part: III — A NOTIFICAÇÃO
 title_en: The Boy Who Couldn't Prove the Future
 pov: Voss
-when: '2047-10-15'
+when: 2047-10-15 — terça
 where: a mesa
 premise: um rapaz é restringido por uma tendência prevista e não por um ato; o recurso
   argumenta contra um futuro, e não há como provar que não se vai fazer o que não

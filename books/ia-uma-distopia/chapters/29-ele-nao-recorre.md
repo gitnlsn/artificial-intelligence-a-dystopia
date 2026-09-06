@@ -3,7 +3,7 @@ title: Ele não recorre
 part: III — A NOTIFICAÇÃO
 title_en: He Does Not Appeal
 pov: Voss
-when: 2047-10-18 — a madrugada inteira
+when: 2047-10-18 — sexta, a madrugada inteira
 where: o apartamento
 premise: recorrer significaria admitir que o sistema erra, e ele passou a vida na
   proposição contrária; a integridade dele exige que concorde com a própria anulação.

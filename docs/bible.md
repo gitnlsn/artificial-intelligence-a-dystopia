@@ -290,6 +290,36 @@ de vista, e é ele que um capítulo fura sem perceber.
   — não o desfile, a rua inteira virada para o mesmo lado. Não aguentou muito
   tempo. (cap. 05)
 
+### Voss
+
+- **É** — 51 anos, revisor de exceções. Chamado só pelo sobrenome, como Javert.
+  Assina *Voss, M. — 0417*.
+- **Cresceu em Brenna**, terceiro de quatro filhos. Pai motorista de caminhão de
+  entrega e depois não mais; mãe fazia faxina em três endereços, e de um deles,
+  em Marvik, reclamava da escada. Um irmão morreu em 2033; o outro está bem; a
+  irmã ainda mora em Brenna.
+- **2013, dezessete anos: duas vagas, onze candidatos**, um deles filho de quem
+  conhecia o diretor. A vaga saiu por pontuação e ele ficou em primeiro e o
+  outro em quinto. **O critério ganhou do favor.** Entendeu naquele dia que a
+  única coisa que já tinha ficado do lado dele era uma tabela — e é por isso que
+  acredita. Não porque o critério seja bom: *o critério é ruim.*
+- **A tese dele sobre exceção:** é o buraco por onde o favor volta. Ninguém pede
+  exceção sem um bom motivo; o que varia entre requerentes não é a qualidade do
+  motivo, e sim a capacidade de formulá-lo, anexar documento, voltar, conhecer
+  alguém que explique, ter uma tarde livre. **E essas capacidades são
+  distribuídas exatamente como tudo o mais.**
+- **Austeridade** — chega às 7h20 e espera no primeiro degrau porque entrar antes
+  da hora é coisa que ele não faz. Quarta mesa da terceira fileira; recusou a mesa
+  da janela em 2041 e 2045. Almoça na praça, sempre o mesmo, volta cinco minutos
+  antes. **Sai às 17h30 e nunca fica depois** — ficar depois é dizer que o dia foi
+  mal organizado. Lê em papel no ônibus, de sebo, mexendo um pouco os lábios.
+  Apartamento sem foto na parede, cento e vinte livros, alguns com o nome de outra
+  pessoa na folha de rosto, o que ele gosta.
+- **Ele dorme bem**, e isso é o essencial: não com esforço, não depois de se
+  convencer de nada.
+- **Ele gosta de deferir** — dia bom é dia de muitos deferimentos: é rápido, não
+  gera recurso, e é a regra funcionando.
+
 ### Emil Roht
 
 - **É** — homem de uns 40 anos em 1991. O jornal publicou o nome dele na relação
@@ -479,6 +509,25 @@ impossível de conseguir. Uma linha por regra.
   chega primeiro: o bombo separável do resto, uma coisa aguda por cima, e o
   murmúrio grosso de muita gente junto — que uma pessoa reconhece antes de saber o
   que é. (cap. 20)
+- **Manifestação de próprio punho não é documento.** Documento é o que comprova
+  fato verificável por terceiro; uma pessoa dizendo o que prefere só comprova que
+  prefere. A regra é plantada no primeiro caso do primeiro capítulo de Voss e é
+  ela que mata o pedido de Teodor três capítulos depois. (cap. 21, 23)
+- **Quase nenhum caso tem decisão dentro.** Em trinta e oito casos, talvez dois
+  exijam que uma pessoa pense; os outros trinta e seis são conferência. Um homem
+  competente não decide trinta e oito vezes numa manhã: decide duas e confere
+  trinta e seis. **A velocidade não é descuido — é o que sobra quando não há nada
+  a decidir.** (cap. 22)
+- **O critério não considera vínculo.** Considera qualificação, disponibilidade,
+  distância, continuidade de *modalidade* — não de pessoa — e histórico de
+  cumprimento. *Se vínculo entrasse no critério, a fila deixaria de ser fila.*
+  (cap. 23)
+- **A matrícula 88-2214 é de Rita**, e aparece no registro do capítulo 16 e no do
+  capítulo 23. **É o único fio que liga as duas cenas, e o livro nunca o aponta.**
+- **O registro estrangeiro** — cabeçalho de três linhas em vez de duas, sigla de
+  jurisdição desconhecida, e todo o resto idêntico: mesma estrutura de protocolo,
+  mesmos campos na mesma ordem, mesmos quarenta dias úteis. Voss vê uns dois por
+  mês e não acha notável. (cap. 22)
 - **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
   pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
   obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela

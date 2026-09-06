@@ -53,6 +53,8 @@ por uma data ordenável:
 | 2047-10-15 | Rita é indeferida no Bloco C; Voss assina | Rita / Voss | 15, 20-22 |
 | 2047-10-17 | A gentileza, na calçada | Voss | 26 |
 | 2047-10-18 | Voss não recorre | Voss | 28 |
+| 2047-10-07 | Voss indefere o primeiro caso do dia às 8h11 e dorme bem | Voss | 21 |
+| 2047-10-14 | Quarenta e um casos antes do almoço, meta trinta e cinco. Entre eles, um pedido estrangeiro de formulário idêntico — e, às 9h33, o pedido de Teodor | Voss | 22, 23 |
 | 2047-10-16 | Rita conta a história dos dois irmãos pela segunda vez; Elias sente atrito e não diz nada | Elias | 14 |
 | 2047-10-17 | Rita chega e não há ninguém para cuidar; à tarde, o indeferimento no Bloco C | Rita | 15, 16 |
 | 2047-10-18 | A casa da Juno; à noite, a briga que Rita planejou no ônibus e não conseguiu começar | Rita | 17, 18 |
