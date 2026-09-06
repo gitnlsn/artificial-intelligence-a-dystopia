@@ -64,6 +64,94 @@ proposta para o desfile é uma obra em domínio público.
 
 ---
 
+## O material — os quatro temas
+
+Quatro teses sobre o que a IA faz com uma vida. Elas são a matéria do livro, e
+há uma armadilha óbvia: **são quatro temas e quatro partes, e a tentação é dar
+um tema a cada parte.** Isso transforma o romance num ensaio com ilustrações, e
+o leitor sente na terceira parte que está sendo lecionado. Os temas não se
+distribuem por parte. Eles se distribuem por *função*.
+
+| Tema | Função no livro | Onde se sente mais |
+|---|---|---|
+| **Conveniência e apatia** — ninguém foi forçado; todo mundo entregou por conforto | **A espinha.** Está em todas as partes e não é enunciada em nenhuma. Já é a regra da distopia em `CLAUDE.md` | em todo lugar |
+| **Tirania preditiva** — o sistema restringe antes do ato, pelo risco previsto | **O mecanismo.** É a máquina em que o enredo anda | II (o turno que não vem) e III (quem aprova) |
+| **Monopólio do afeto** — a IA como companhia perfeita; a paciência com gente real acaba | **O coração.** É o mais dramatizável dos quatro, porque destrói relações, que é do que romance é feito | II, uma parte inteira |
+| **Erosão da realidade compartilhada** — mídia sintética sob medida; não há verdade pública | **A forma e o fim.** Justifica a estrutura fragmentada *e* exige o encontro físico | III na forma, IV no fim |
+
+**A erosão da realidade compartilhada é o mais fraco dos quatro como assunto** —
+é abstrato, e dramatizá-lo direto produz personagens explicando um ao outro que
+a realidade se fragmentou. Mas ele tem um pagamento estrutural enorme neste
+livro específico: se ninguém divide mais nada, então **uma multidão parada numa
+calçada vendo as mesmas máquinas passar e ouvindo a mesma banda é o último fato
+público que sobrou.** É por isso que o fim é um desfile na rua e não um jantar.
+Os quatro não podem se encontrar em nenhum outro lugar: a rua é o último lugar
+não personalizado.
+
+**A tirania preditiva não vira thriller.** Ninguém é preso. O crédito só demora
+mais. O turno não vem. O recurso existe, funciona, e leva quarenta dias úteis.
+
+---
+
+## A textura — *Paris, je t'aime* dentro da Parte III
+
+A sensação pedida: dezoito vidas de cinco minutos, um bairro cada, o "quase", a
+janela acesa vista de um ônibus em movimento, afeto pela pequenez humana, do
+riso à melancolia.
+
+A proposta é que **a Parte III seja esse mosaico**, e não o livro inteiro — o
+livro inteiro em vignettes perderia os quatro protagonistas, que já estão
+decididos. A Parte III já tinha o andamento certo para isso: *a notificação*,
+fragmentos.
+
+O que faz a ideia funcionar aqui, em vez de ser um enxerto: **a protagonista da
+Parte III trabalha por dentro do sistema, e cada vinheta é um caso na fila
+dela.** Ela abre um arquivo; a gente vê a vida. Ela aprova, ou não aprova, e vai
+para o próximo. O mosaico é a caixa de entrada dela.
+
+É o mesmo dispositivo dando calor e horror ao mesmo tempo: dezoito vidas
+inteiras, ternas, engraçadas, imperfeitas — cada uma chegando como uma senha. E
+é exatamente para isso que o bloco `registro` foi feito: a vinheta abre ou fecha
+no documento, e a prosa no meio é a vida que o documento não consegue ver.
+
+A conta fecha: 15.000 palavras na parte, cerca de 1.000 por vinheta, que é mais
+ou menos o que cinco minutos de filme valem em prosa. Entre doze e quinze
+vinhetas.
+
+**A guarda:** a vinheta é sempre vista através dela. No instante em que o mosaico
+vira antologia e ela sai de cena, a Parte III deixou de ser uma parte deste
+livro.
+
+---
+
+## O quarteto, redesenhado com o material acima
+
+Proposta. Cada protagonista perdeu um mundo compartilhado diferente.
+
+| Parte | Quem | Andamento | O que perdeu | A música |
+|---|---|---|---|---|
+| I | o velho | o século | a história comum — ele lia o mesmo jornal que o vizinho | Hobsbawm, lido em voz alta |
+| II | o par | o turno | um ao outro | *Great Divide*, ouvida de longe |
+| III | quem aprova | a notificação | a capacidade de ver uma pessoa e não uma ficha | a que estava tocando quando o arquivo abriu — o sistema sabe, e está no registro |
+| IV | a criança | o presente | nada; nunca teve | ela cantando errado |
+
+**A Parte II é o par.** Dois que estão se desfazendo porque um deles tem, no
+outro cômodo, uma companhia que nunca se cansa e nunca julga. O andamento *o
+turno* serve: a parte dura o tempo de alguém esperando por quem está ali do lado
+e não vem. E a abertura já escolhida fica devastadora — *Great Divide* chega de
+longe, de outra janela, escolhida por ninguém. **Numa parte sobre afeto
+perfeitamente direcionado, a última afeição não personalizada do livro é uma
+música que você não pediu.**
+
+**A Parte IV é a criança**, e é o capítulo mais assustador do livro porque não
+tem nada de triste nele. Ela vai ao desfile porque desfile é divertido.
+
+E o fim: a criança já sabe *Ó Abre Alas* pela metade e com a letra errada, antes
+do desfile. Quando a banda toca, ela canta errado, o velho sabe cada palavra e
+sabe que é de 1899, e nenhum dos dois escuta o outro.
+
+---
+
 ## Decisões abertas
 
 Já decidido e fora desta lista: a forma em quatro partes, os quatro andamentos,
@@ -75,7 +163,11 @@ III, alguém de dentro — competente, decente, e é quem aprova as coisas;
 IV, uma criança, para quem isto não é distopia, é só o mundo. Confirmar,
 trocar, ou pedir outras.]]
 
-[[?autor: o enredo das Partes II, III e IV.]]
+[[?autor: o enredo das Partes II, III e IV. O material e a proposta de quarteto
+estão acima; o que falta é o que acontece.]]
+
+[[?autor: a Parte III como mosaico à la Paris, je t'aime — confirmar. Se sim,
+quantas vinhetas, e se a protagonista aparece em todas ou só na moldura.]]
 
 [[?autor: a música do desfile. A proposta é "Ó Abre Alas", de Chiquinha Gonzaga,
 1899, tocada por uma banda humana de metais enquanto as máquinas passam e a
