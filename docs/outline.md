@@ -447,8 +447,8 @@ engolir cem anos. Ele tem todo o tempo e nenhum futuro.
 - **Onde** — a sala do apartamento, Marvik, fim de tarde
 - **A ideia** — ele está lendo a abertura de *A Era das Revoluções*, sobre o mundo da década de 1780 ser ao mesmo tempo muito menor e muito maior que o nosso. Hobsbawm descreve 1780 com confiança total, a duzentos anos de distância — e Aurel percebe que ninguém vai poder fazer isso com 2047, porque não há mais de onde olhar.
 - **A virada** — larga o livro e não consegue dizer em voz alta que época da história é hoje. Um século sempre foi legível de fora; este não é legível de lugar nenhum.
-- **Fios** — fio-do-registro
-- **Planta** — o-nome-do-periodo
+- **Fios** — fio-do-registro, fio-do-conforto
+- **Planta** — o-nome-do-periodo, o-lapis
 - **Elenco** — aurel
 - **Fontes** — Hobsbawm, *A Era das Revoluções*, abertura do cap. 1 — trecho conferido contra o texto; ver `docs/references.md`
 
@@ -478,9 +478,10 @@ engolir cem anos. Ele tem todo o tempo e nenhum futuro.
 - **POV** — Aurel
 - **Quando** — 2047-09-02
 - **Onde** — a cozinha
-- **A ideia** — ele tenta explicar a Nina o que era ler o mesmo jornal que o vizinho, e não consegue — não porque ela seja burra, mas porque não há do que sentir falta.
+- **A ideia** — ele tenta explicar a Nina o que era ler o mesmo jornal que o vizinho, e não consegue — não porque ela seja burra, mas porque não há do que sentir falta. Mostra a ela o deleatur na margem do livro, a marca que o Márcio lhe ensinou, e ela acha bonitinho.
 - **A virada** — percebe que ela não perdeu nada, e que isso é pior do que se tivesse perdido.
 - **Fios** — fio-do-registro, fio-da-nina
+- **Paga** — o-lapis
 - **Elenco** — aurel, nina
 
 ### 5. Sete de setembro

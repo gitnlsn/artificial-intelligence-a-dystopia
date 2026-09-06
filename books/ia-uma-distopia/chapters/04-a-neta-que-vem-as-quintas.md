@@ -11,6 +11,8 @@ turn: percebe que ela não perdeu nada, e que isso é pior do que se tivesse per
 threads:
 - fio-do-registro
 - fio-da-nina
+pays:
+- o-lapis
 cast:
 - aurel
 - nina
