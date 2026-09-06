@@ -19,6 +19,12 @@ what is here is gone. Every open decision is also listed at the bottom under
 
 ## A regra da distopia — the standing instruction
 
+**Confirmed by the author.** This is no longer a proposal. The test case that
+settled it: a straightforward villain was considered for Part III and rejected
+because it hands the reader an escape, and what replaced him is a Javert — a man
+of complete integrity who applies the rule with a clear conscience. That is this
+rule working, not a compromise with it.
+
 **The machine is not the villain, and the book never lets the reader off that
 easily.** Every dystopia about artificial intelligence has a choice to make at
 the first page, and this one makes it here: the system does exactly what it was
@@ -296,15 +302,14 @@ first song is *overheard* and the last is *broadcast*.
 These are in `docs/outline.md` and `docs/bible.md` as `[[?autor: …]]` markers so
 `make marcadores` keeps asking. Nothing below can be decided by a draft.
 
-1. **The protagonists and plots of Parts II, III and IV.** Part I is set: the old
-   man, the Hobsbawm epigraph, the room, the century.
+1. **The plots of Parts II, III and IV.** The protagonists are set: the old man
+   (I), the pair coming apart (II), the Javert (III), the child (IV). Part III's
+   shape is set too — the mosaic of cases, and the ending in which he does not
+   appeal.
 2. **The parade song.** The proposal is *Ó Abre Alas* (Chiquinha Gonzaga, 1899),
    public domain, played by a human brass band while the machines pass.
-3. **Whether *A regra da distopia* above is the book's stance.** Part I as
-   described is compatible with it. It is the one choice that cannot be changed
-   later without rewriting.
-4. **Where and when.** The Chiquinha Gonzaga ending presumes Brazil.
-5. **The title.** `book.yaml` carries a descriptive placeholder so the book
+3. **Where and when.** The Chiquinha Gonzaga ending presumes Brazil.
+4. **The title.** `book.yaml` carries a descriptive placeholder so the book
    compiles.
 
 The author name is settled: **Íris Gradim**, the same pen name as *Manual da

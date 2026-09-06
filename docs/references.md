@@ -64,6 +64,18 @@ Aplicado a este livro:
 | *Ó Abre Alas*, Chiquinha Gonzaga, 1899 | **Domínio público** (1847–1935) | Tudo. Imprimir a letra inteira, citar, usar como epígrafe |
 | Caetano Veloso, *Oração ao Tempo*, 1979 | Em direito autoral | Nomear e descrever apenas |
 
+### Victor Hugo — domínio público
+
+Hugo (1802–1885) está em **domínio público**. *Les Misérables* (1862) pode ser
+citado à vontade, inteiro, de graça — em francês ou numa tradução que também
+esteja em domínio público. Atenção: **uma tradução recente tem direito autoral
+próprio**, do tradutor. Se for citar em português, ou usar uma tradução antiga
+em domínio público, ou traduzir o trecho.
+
+Javert é o modelo do protagonista da Parte III (ver `docs/outline.md`). Uma
+epígrafe de Hugo abrindo aquela parte é o único material citável do livro,
+junto com Chiquinha Gonzaga, que não custa nada nem depende de ninguém.
+
 ### Epígrafe em prosa — Hobsbawm
 
 Eric Hobsbawm (1917–2012) está em direito autoral. Um trecho **curto**, com

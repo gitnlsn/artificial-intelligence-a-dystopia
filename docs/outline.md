@@ -124,6 +124,82 @@ livro.
 
 ---
 
+## A Parte III — o Javert
+
+O protagonista da Parte III é um **Javert**, e a distinção com "o vilão" é a
+coisa mais importante desta seção.
+
+O Javert de Hugo não é mau. Ele é *íntegro* — austero, incorruptível, casto,
+devotado ao dever, feito de duas coisas apenas: respeito à autoridade e ódio à
+revolta. Nasceu numa prisão, filho de um homem das galés e de uma cartomante, e
+escolheu o lado da autoridade **exatamente porque veio do outro lado**. Subiu
+por obediência. Acredita no sistema porque o sistema foi justo com ele: ele é a
+prova viva de que funciona.
+
+E ninguém o derrota. Ninguém o pune. Ele se mata porque a misericórdia de
+Valjean prova que a lei não é infalível, e a estrutura dele não tem onde guardar
+isso.
+
+Isso não colide com *A regra da distopia* — é a melhor ilustração dela que o
+livro pode ter. "Quem opera o sistema não é tolo, quem o construiu não era
+cínico." Um Javert é a pessoa que aplica a regra por convicção, com a
+consciência limpa, e é muito mais assustador que qualquer um que a aplique por
+maldade.
+
+### Por que ele salva o tema mais fraco
+
+A erosão da realidade compartilhada era o mais abstrato dos quatro temas. O
+Javert resolve isso sozinho, porque **a coisa em que ele acredita é a única
+coisa que deveria valer igual para todo mundo: a regra.** Ele é o personagem do
+livro que mais precisa de uma realidade comum. É, portanto, quem mais tem a
+perder quando ela acaba, e quem menos consegue sobreviver a perdê-la.
+
+Na coluna "o que perdeu", ele não perde afeto nem memória. Perde **a convicção
+de que a regra é a mesma para todos** — que é, literalmente, a última realidade
+compartilhada.
+
+### O mosaico sobrevive, e melhora
+
+O Javert *é* a moldura do mosaico à la *Paris, je t'aime*. Ele é quem revisa os
+casos. As doze a quinze vinhetas são as vidas que passam pela mesa dele, e ele
+as indefere com a consciência tranquila — cada uma ternamente vista, e cada uma
+negada corretamente.
+
+Antes a moldura era uma funcionária cansada e decente; a parte não tinha para
+onde ir. Agora a moldura tem peso moral e trajetória: assistimos a doze vidas
+serem processadas com integridade absoluta, e o décimo terceiro caso é o dele.
+
+### O fim dele — não é castigo, é concordância
+
+O pedido original era: traído pelo sistema e punido pelos próprios robôs. A
+versão honesta é muito pior e não quebra nenhuma regra do livro:
+
+**O sistema não o trai e não o pune. Ele só deixa de tratá-lo como exceção.**
+
+Um dia o critério que ele mesmo desenhou se aplica a ele, porque um critério não
+tem noção de quem o escreveu. E então — este é o capítulo — **ele não recorre.**
+Recorrer significaria admitir que o sistema pode errar, e ele passou a vida
+inteira na proposição contrária. A integridade dele exige que ele concorde com a
+própria anulação.
+
+Ninguém o derrota. Ele se julga, com o instrumento dele. É o Sena.
+
+### Ecos de forma
+
+- A Parte I é um velho falando muito. A Parte III termina num longo monólogo
+  interior — o homem saindo dos trilhos. As duas partes de fala longa fazem
+  peso uma na outra, nas pontas do livro.
+- **Hugo está em domínio público** (1802–1885). Diferente das músicas e do
+  Hobsbawm, uma epígrafe de *Les Misérables* na abertura da Parte III pode ser
+  impressa à vontade, de graça. Ver `docs/references.md`.
+
+[[?autor: quem é o Valjean dele — de onde vem a misericórdia que ele não
+consegue processar. A proposta é que seja alguém do par da Parte II, alguém que
+ele indeferiu e que depois lhe faz uma gentileza. Isso engrena as partes antes
+da rua, em vez de deixá-las só convergirem no desfile.]]
+
+---
+
 ## O quarteto, redesenhado com o material acima
 
 Proposta. Cada protagonista perdeu um mundo compartilhado diferente.
@@ -132,7 +208,7 @@ Proposta. Cada protagonista perdeu um mundo compartilhado diferente.
 |---|---|---|---|---|
 | I | o velho | o século | a história comum — ele lia o mesmo jornal que o vizinho | Hobsbawm, lido em voz alta |
 | II | o par | o turno | um ao outro | *Great Divide*, ouvida de longe |
-| III | quem aprova | a notificação | a capacidade de ver uma pessoa e não uma ficha | a que estava tocando quando o arquivo abriu — o sistema sabe, e está no registro |
+| III | o Javert | a notificação | a convicção de que a regra vale igual para todos | a que estava tocando quando o arquivo abriu — o sistema sabe, e está no registro |
 | IV | a criança | o presente | nada; nunca teve | ela cantando errado |
 
 **A Parte II é o par.** Dois que estão se desfazendo porque um deles tem, no
@@ -154,7 +230,8 @@ sabe que é de 1899, e nenhum dos dois escuta o outro.
 
 ## Decisões abertas
 
-Já decidido e fora desta lista: a forma em quatro partes, os quatro andamentos,
+Já decidido e fora desta lista: a regra da distopia em `CLAUDE.md`, a forma em
+quatro partes, os quatro andamentos,
 o encontro final no desfile, a Parte I, a extensão, e o nome do autor — Íris
 Gradim, o mesmo do Manual da Vida.
 
@@ -174,11 +251,6 @@ quantas vinhetas, e se a protagonista aparece em todas ou só na moldura.]]
 1899, tocada por uma banda humana de metais enquanto as máquinas passam e a
 multidão abre alas. Está em domínio público (ela morreu em 1935), então pode ser
 impressa inteira, o que nenhuma das outras pode.]]
-
-[[?autor: a regra da distopia — CLAUDE.md propõe que a máquina não é a vilã, que
-o sistema é legível, que todo mundo consentiu um pouco por um bom motivo, e que
-não existe botão de desligar. A Parte I, como foi descrita, é compatível com
-isso. Confirmar.]]
 
 [[?autor: onde e quando. O desfile de Chiquinha Gonzaga pressupõe o Brasil; a
 proposta funciona em outro país com outra música de domínio público.]]
