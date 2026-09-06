@@ -443,11 +443,25 @@ the one that was planned.
 1. **The title is *Quarenta dias úteis*** — the line in the footer of every
    despatch in the book, including the one that finally reaches Voss. It is the
    only thing the system says identically to everyone, and it means nothing.
-3. **The epigraphs.** Hobsbawm for Part I and Hugo for Part III are chosen; the
-   exact wording must be copied from the published Portuguese editions and the
-   translator credited, never translated in-house. Part II still has none, and
-   **Part IV deliberately has none at all** — it is the only part whose
-   protagonist inherited no text, and that is a decision, not an omission.
+3. **The epigraphs.** All three exist and all three are verified against a
+   source in `docs/references.md`: Hobsbawm (*Era dos Extremos*) for Part I,
+   **Simone Weil (*Attente de Dieu*) for Part II**, Hugo (*Les Misérables*) for
+   Part III. **Part IV deliberately has none at all** — it is the only part whose
+   protagonist inherited no text, and that is a decision, not an omission. The
+   part file says so in place, so nobody "fixes" it later.
+
+   **The book's default is to translate from the original and mark *tradução
+   nossa*.** Weil and Hugo are both public domain, so with our own translation
+   they have no rightsholder at all and cost nothing. **Part I is the single
+   exception and the only one that needs permission:** it prints Marcos
+   Santarrita's published translation, credited, because *presente contínuo* is
+   his solution and is how the Brazilian reader knows the phrase — and because
+   inventing a rival translation of a famous passage purely to dodge a routine
+   permission is worse craft. Hobsbawm died in 2012, so **two rights stack there,
+   the text and the translation.** Translating it in-house would remove only the
+   second. That trade is `docs/references.md`'s to explain and the author's to
+   make; until it is made, the permission request goes to Companhia das Letras
+   and nothing else in the book is blocked on it.
 
 Settled, and listed here only so nobody reopens them: the dystopia rule, the
 four-part form, the four paces, the cast, the setting, the parade music, the

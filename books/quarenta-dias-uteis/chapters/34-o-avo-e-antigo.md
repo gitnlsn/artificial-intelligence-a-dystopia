@@ -14,6 +14,7 @@ threads:
 - fio-do-desfile
 pays:
 - nina-leva-o-avo
+- a-falha-de-memoria
 cast:
 - nina
 - aurel

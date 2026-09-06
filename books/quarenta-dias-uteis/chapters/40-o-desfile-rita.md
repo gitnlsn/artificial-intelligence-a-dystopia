@@ -14,6 +14,7 @@ turn: ela fica, mesmo assim, porque estar num lugar com muita gente é uma coisa
 threads:
 - fio-do-desfile
 - fio-do-turno
+- fio-da-companhia
 pays:
 - a-musica-de-longe
 cast:
@@ -116,6 +117,27 @@ por quê.
 
 Aos quarenta segundos passou, e depois foi ficando menor na direção da esquina, e
 ela continuou ouvindo mais um pouco, e depois não dava mais.
+
+---
+
+Guardar uma coisa boa é trabalho. Aparece durante o dia, você põe de lado, você
+arruma a ordem, você decide onde vai começar, e faz isso o dia inteiro sem
+chamar de fazer.
+
+A Rita fazia esse trabalho havia onze anos.
+
+Ela reparou que não tinha começado.
+
+Não tinha separado nada. Não tinha pensado uma vez, a manhã inteira, em como
+contaria aquilo — nem por onde ia começar, nem se começava pelo bumbo ou pela
+quantidade de gente.
+
+Não era mágoa. Ele não tinha feito nada. Ele ia perguntar como tinha sido, à
+noite, e ia perguntar direito, e ia ouvir.
+
+Ela só não tinha começado a guardar, e não sabia dizer desde quando.
+
+---
 
 Ela olhou em volta.
 

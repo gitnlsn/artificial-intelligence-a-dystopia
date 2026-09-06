@@ -17,6 +17,7 @@ threads:
 seeds:
 - o-nome-do-periodo
 - o-lapis
+- a-falha-de-memoria
 cast:
 - aurel
 sources: Hobsbawm, *A Era das Revoluções*, abertura do cap. 1 — trecho conferido
