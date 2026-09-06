@@ -135,6 +135,18 @@ actually resolving it.
 
 ## Reference implementation
 
-Once one chapter is right, name it here and match it rather than re-reading
-these rules. Until then, the calibration is the front matter: a chapter is
-working when a reader could recover its `turn:` without being told it.
+Match a file rather than re-reading these rules. Two, because they do different
+jobs:
+
+- **`chapters/01-a-prova.md`** — interiority, deep time, the long paragraph
+  allowed to swallow a century. Part I's pace at full extension.
+- **`chapters/02-o-revisor.md`** — scene, dialogue, other people, a remembered
+  night rendered as action instead of reflection. Match this the moment a
+  chapter starts drifting into essay.
+
+They set the *register*, not the rhythm: Part II is faster, Part IV much faster.
+What carries across all four is the plainness, the working detail, and the
+refusal to tell the reader that anything is horrifying.
+
+And the test that survives everything: **a chapter is working when a reader
+could recover its `turn:` without being told it.**

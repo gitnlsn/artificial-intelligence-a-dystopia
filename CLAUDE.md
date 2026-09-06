@@ -5,25 +5,50 @@ manuscript builds to a KDP-ready EPUB and a print-ready PDF, with the same
 toolchain as *Manual da Vida* and a different editorial layer, because a novel
 fails in different ways than an essay does.
 
-## Read this first — what is settled and what is not
+Everything below is settled unless it sits under *A decidir pelo autor*, at the
+bottom. That section is short, and the open items in it are marked
+`[[?autor: …]]` in `docs/outline.md` so `make marcadores` keeps asking.
 
-The machinery below is settled: the file layout, the front matter, the two
-gates, the second register, the template gotchas. Follow it.
+## O livro
 
-Two sections are the **author's to set** and are written here as a considered
-proposal, not as a rule handed down: **A regra da distopia** and **Voz e
-registro**. They are stated as rules because a half-committed instruction is
-useless to write against — but the author overwrites them, and once they do,
-what is here is gone. Every open decision is also listed at the bottom under
-*A decidir pelo autor*, marked so `make marcadores` keeps asking.
+Four parts, four protagonists, **four paces**, converging on a street where the
+four of them watch a parade of machines and a band plays. Roughly 200 pages, an
+unnamed city, 2047.
+
+| Parte | Quem | Andamento | O relógio |
+|---|---|---|---|
+| I — O SÉCULO | **Aurel**, 82, revisor de jornal aposentado, viúvo | o século | deep time; he has all of it and no future |
+| II — O TURNO | **Rita** e **Elias**, 34 e 38, se desfazendo | o turno | time sold in pieces and allocated by someone else |
+| III — A NOTIFICAÇÃO | **Voss**, 51, revisor de exceções | a notificação | the day arrives interrupted; the `registro` blocks live here |
+| IV — O PRESENTE | **Nina**, 9, neta de Aurel | o presente | there is no before; this is just the world |
+
+**The pace is the argument.** The book holds that the first thing the machine
+took was not work and not freedom but *tempo* — the way a person is able to be
+in the present. Each protagonist lives on a different clock, the book is read at
+four speeds, and the parade is the only moment when all four are on the same
+beat. What puts them there is the band, because a sound loud enough cannot be
+personalised.
+
+The pace is **visible in the table of contents**: Part I is five long chapters,
+Part IV is thirteen short ones. The reader feels the acceleration before knowing
+it is there.
+
+**How the four reach the same street, without coincidence.** Nina takes her
+grandfather. Rita lives there. Voss was denied nothing — he simply stopped being
+an exception. Rita was refused by Voss without ever reading his name, and she is
+the one who later shows him the kindness he cannot file. At the parade none of
+them knows who the others are. Only the reader does.
+
+Full plan, chapter by chapter, in `docs/outline.md`.
 
 ## A regra da distopia — the standing instruction
 
-**Confirmed by the author.** This is no longer a proposal. The test case that
-settled it: a straightforward villain was considered for Part III and rejected
-because it hands the reader an escape, and what replaced him is a Javert — a man
-of complete integrity who applies the rule with a clear conscience. That is this
-rule working, not a compromise with it.
+**Confirmed by the author.** The test case that settled it: a straightforward
+villain was considered for Part III and rejected, because a villain hands the
+reader an escape — if the horror has an author, the horror is that man and not
+the arrangement, and everyone finishes the book feeling superior to him. What
+replaced him is a Javert: a man of complete integrity who applies the rule with
+a clear conscience. That is this rule working, not a compromise with it.
 
 **The machine is not the villain, and the book never lets the reader off that
 easily.** Every dystopia about artificial intelligence has a choice to make at
@@ -78,6 +103,22 @@ prose earns its position by describing them in particulars.
   get facts: incompletely, late, from someone with a reason to shade it.
 - **Chapters end on a turn, not a cliffhanger.** Something is different. That is
   enough, and it is more durable than a withheld reveal.
+
+### O capítulo de calibragem
+
+When the voice is in doubt, match a file rather than re-reading these rules.
+Two, because they do different jobs:
+
+- **`chapters/01-a-prova.md`** — interiority, deep time, the long paragraph that
+  is allowed to swallow a century. This is the Part I pace at full extension.
+- **`chapters/02-o-revisor.md`** — scene, dialogue, other people, a remembered
+  night rendered as action rather than reflection. Match this whenever a chapter
+  is drifting into essay.
+
+Both were written before Parts II–IV existed, so they set the *register* and not
+the rhythm: Part II is faster, Part IV is much faster. What carries across all
+four is the plainness, the working detail, and the refusal to tell the reader
+that anything is horrifying.
 
 ## As mentiras do gênero — never imply any of these
 
@@ -148,6 +189,58 @@ none.** `make digest` reports every chapter carrying more than one. If every
 chapter has one, the device is decoration and the switch stops meaning
 anything.
 
+## A música
+
+**The music.** Part II opens on a real song heard from a window — *Great Divide*,
+The Cardigans — named and described but never quoted, because **no lyric may be
+printed without a licence.** The parade music at the end has no name at all: a
+human marching band, brass and drums and sheet music on stands, playing
+something nobody recognises.
+
+That is deliberate. A song everyone knows would hand the reader a shared
+reference back, which is the exact consolation Part I says is gone. Unnamed, the
+ending is about **presence** rather than recognition — four people hearing the
+same air move at the same second. The whole argument in one image: **you cannot
+personalise a tuba.** Every other sound in the book was transmitted, recommended
+or allocated; this one is being made, in the street, by someone's body.
+
+The formal rhyme: the first song is *overheard*, the last is *played by people*.
+And the four of them know the band is human because it is slightly out of tune.
+
+## O que a Parte I já fixou — canon, and binding on the rest
+
+Part I is drafted. These are no longer choices, and Parts II–IV inherit them.
+Everything here is recorded in `docs/bible.md`; this is the short list of what
+constrains later chapters.
+
+- **Two revisers, and it is the spine of the book.** Aurel revised text against
+  the world — whether what was written was true. Voss revises people against a
+  rule — whether the person fits. Same verb, same chair, and the whole descent
+  is in the difference. **Neither man's chapters may ever say this.** If a
+  sentence anywhere points at the rhyme, cut the sentence.
+- **The machine never speaks.** The house is attentive, competent, tireless and
+  has no name, no brand, no voice and no interface. It raises the light at dusk;
+  it withdraws half a tone when he switches on a lamp by hand. The only thing in
+  this book that speaks in a machine's voice is a `::: {.registro}` block, and
+  that is a document, not a voice. No appliance ever answers anyone.
+- **O balcão** — a place where a person climbs stairs and stands in front of
+  someone with a face, a desk and an obligation to answer *today*: no form, no
+  protocol number, no deadline. Part I establishes it as lost. **Bloco C and the
+  forty working days are its deliberate opposite**, and Part III must not
+  underline the comparison.
+- **The errata needs three things at once** — a *we*, a *yesterday*, and a
+  reader who can demand one — and there was no day on which they stopped
+  existing together.
+- **"Tipo o desfile."** A nine-year-old names the book's thesis in four words
+  without knowing she has, and the parade chapters collect on it. **Nobody may
+  restate it.** No adult in this book gets to explain what she meant.
+- **The cotejo** — a list of the dead is checked by two, one reading aloud, one
+  following the register, never the same person, because the eye that has read a
+  name reads the memory of the name. Alone it is recognition, not reading, and
+  it is much faster. Truth-keeping was never a solo activity; that is the same
+  argument as the errata and the balcão, and the book makes it three times in
+  three registers without ever naming it.
+
 ## O mundo é canônico — docs/bible.md
 
 Everything invented about the world lives in `docs/bible.md`: institutions,
@@ -193,7 +286,7 @@ chapters may be suspense or may be a dropped ball, and only reading decides.
 ## Ponto de vista, tempo e continuidade
 
 `pov:`, `when:` and `where:` are the continuity record. Lead `when:` with a
-sortable date — `when: 2039-04-11 — três dias depois da audiência` — and
+sortable date — `when: 2047-10-17 — quinta-feira, fim de tarde` — and
 `make digest --tempo` will show story order against reading order and flag every
 jump backwards. Analepsis is a technique, not an error; the report exists to
 catch the chapter whose date was written without looking at its neighbours.
@@ -206,6 +299,40 @@ for eleven chapters and comes back as if nothing happened.
 prose.** Numbers move whenever a chapter is inserted. Refer to chapters by
 title here, and by `{{cap:slug}}` in the manuscript, which fails the build
 instead of failing the reader.
+
+## O lugar, e o calendário
+
+**The country is not named, the parade music is invented, and the parade day is
+invented.** One decision, not three. The administrative machinery here works
+identically in any middle- or high-income country, and naming one would have the
+reader arguing about that country instead of recognising their own.
+
+**The guard rail is hard: *unnamed is not vague.*** An unnamed city is the
+easiest invitation in the world to write generic, and the voice rules above
+demand concrete working detail. This city has bus numbers, stairwell smells, a
+price for coffee, and a season in which it rains. It has no flag.
+
+- **Districts** — Marvik (old, where Aurel lives), Kalden (where Rita lives and
+  waits), Brenna (the blocks, poorer). The administration building is Bloco C.
+  Proper nouns exist; the country does not.
+- **The world enters through the city, not the cast.** It is a city of arrivals:
+  half the houses Rita works in hold someone who came from elsewhere, or has
+  children on another continent, or still counts in another language when angry.
+  None of *those* countries is named either.
+- **The occasion is o Dia da Fundação**, the founding day of a city that does not
+  exist. **Never place it on a real national holiday.** An earlier draft had the
+  parade on 7 September, with a chapter called *Sete de setembro* — Brazil's
+  national day, inside a country the book had deliberately refused to name.
+- **Never name a month in prose where the month would imply a hemisphere.** The
+  book has cold, heat, rain and a season in which it rains. It does not have
+  August.
+- The ISO dates in front matter feed `digest.py --tempo` and are never printed.
+
+**The lesson worth keeping, because it is how this survived:** the sweep that
+removed *Brasil*, *Rio*, *Tijuca* and *carnaval* looked for place names and
+never for dates. When a marker of place, nation or period is removed, sweep for
+the whole class — dates, holidays, currencies, institutions, sports, school
+terms, plug shapes — and not only for the instances you happen to remember.
 
 ## Language
 
@@ -275,74 +402,24 @@ one would read better: only the vendored Libertinus faces are guaranteed to
 embed, and KDP rejects a PDF with an unembedded font. Vendor an OFL mono into
 `shared/fonts/` and change the one `font:` line in the template if you want one.
 
-## A forma do livro — decidido
-
-Four parts, four protagonists, **four paces**, converging on a street where the
-four of them watch a parade of robots and music plays. Roughly 200 pages.
-
-**The pace is the argument.** The book holds that the first thing the machine
-took was not work and not freedom but *tempo* — the way a person is able to be
-in the present. So each protagonist lives on a different clock, the book is read
-at four speeds, and the parade is the only moment in it when all four are on the
-same beat. What puts them there is the music, which is the last technology that
-still imposes a shared tempo on a crowd.
-
-The pace is also **visible in the table of contents**: Part I is few long
-chapters, Part IV is many short ones. The reader feels the acceleration before
-knowing it is there.
-
-| Part | Pace | The clock |
-|---|---|---|
-| I | o século | deep time; he has all of it and no future |
-| II | o turno | time is sold in pieces and allocated by someone else |
-| III | a notificação | the day arrives interrupted; the `registro` blocks live here |
-| IV | o presente | there is no before; this is just the world |
-
-**The music.** Part II opens on a real song heard from a window — *Great Divide*,
-The Cardigans — named and described but never quoted, because **no lyric may be
-printed without a licence.** The parade music at the end has no name at all: a
-human marching band, brass and drums and sheet music on stands, playing
-something nobody recognises.
-
-That is deliberate. A song everyone knows would hand the reader a shared
-reference back, which is the exact consolation Part I says is gone. Unnamed, the
-ending is about **presence** rather than recognition — four people hearing the
-same air move at the same second. The whole argument in one image: **you cannot
-personalise a tuba.** Every other sound in the book was transmitted, recommended
-or allocated; this one is being made, in the street, by someone's body.
-
-The formal rhyme: the first song is *overheard*, the last is *played by people*.
-And the four of them know the band is human because it is slightly out of tune.
-
 ## A decidir pelo autor
 
-These are in `docs/outline.md` and `docs/bible.md` as `[[?autor: …]]` markers so
-`make marcadores` keeps asking. Nothing below can be decided by a draft.
+Marked `[[?autor: …]]` in `docs/outline.md` so `make marcadores` keeps asking.
+Nothing here can be decided by a draft.
 
-1. **The plots of Parts II, III and IV.** The protagonists are set: the old man
-   (I), the pair coming apart (II), the Javert (III), the child (IV). Part III's
-   shape is set too — the mosaic of cases, and the ending in which he does not
-   appeal.
-3. **The title.** `book.yaml` carries a descriptive placeholder so the book
+1. **The plots of Parts II, III and IV.** Everything else about them is set: the
+   protagonists, the paces, Part II's alternation of house and home, Part III's
+   nine chapters ending in a man who does not appeal.
+2. **The title.** `book.yaml` carries a descriptive placeholder so the book
    compiles.
+3. **The epigraphs.** Hobsbawm for Part I and Hugo for Part III are chosen; the
+   exact wording must be copied from the published Portuguese editions and the
+   translator credited, never translated in-house. Part II still has none, and
+   **Part IV deliberately has none at all** — it is the only part whose
+   protagonist inherited no text, and that is a decision, not an omission.
 
-Setting and music are settled. **The country is not named, the parade music is
-invented, and the parade day is invented** — one decision, not three. The
-occasion is *o Dia da Fundação*, the founding day of a city that does not exist.
-
-**Never place the parade on a real national holiday, and never name a month in
-prose where the month would imply a hemisphere.** An earlier draft had the
-parade on 7 September and a chapter called *Sete de setembro* — Brazil's
-national day, sitting inside a country the book had deliberately refused to
-name. The de-localising sweep looked for place names and never for dates, which
-is exactly how this kind of residue survives. The ISO dates in front matter feed
-`digest.py` and are never printed. The administrative machinery here works
-identically in any middle- or high-income country, and naming one would have the
-reader arguing about that country instead of recognising their own. The guard
-rail is hard: *unnamed is not vague.* The city has bus numbers, stairwell
-smells, a price for coffee and rain in September. It has no flag.
-
-The author name is settled: **Íris Gradim**, the same pen name as *Manual da
-Vida*. The two books will therefore be found together, which means the novel
-inherits that book's readers and its promise — worth remembering when the
-back-cover copy is written.
+Settled, and listed here only so nobody reopens them: the dystopia rule, the
+four-part form, the four paces, the cast, the setting, the parade music, the
+founding day, and the pen name — **Íris Gradim**, the same as *Manual da Vida*.
+The two books will be found together, which means the novel inherits that book's
+readers and its promise; worth remembering when the back-cover copy is written.
