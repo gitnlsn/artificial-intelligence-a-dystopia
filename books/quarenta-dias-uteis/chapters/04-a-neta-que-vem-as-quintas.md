@@ -63,6 +63,17 @@ Aurel botou o cotovelo na mesa. Isso ele conhecia. Isso ele conhecia
 perfeitamente e podia acompanhar com prazer, e podia até dar um conselho ruim se
 fosse pedido, e não seria pedido.
 
+Perguntou o que ela tinha feito na escola e ela contou, e ele acompanhou umas
+duas frases. Ela tinha ficado num assunto que subiu de nível porque ela acertou
+três, e depois tinha voltado num outro que ficou parecido porque ela errou, e a
+Bel estava em outro ponto do mesmo assunto e por isso não dava para conversar
+sobre aquilo no recreio. Ela contou tudo isso sem nenhuma queixa, do jeito que se
+conta o tempo.
+
+Ele não perguntou mais nada, porque a pergunta que ele tinha era *e o que a turma
+está estudando*, e ele já tinha feito essa pergunta uma vez e ela tinha
+respondido com muita paciência que não é assim.
+
 — E a Bel?
 
 — A Bel está bem. Ela volta amanhã. Amanhã é o último ensaio antes do desfile e

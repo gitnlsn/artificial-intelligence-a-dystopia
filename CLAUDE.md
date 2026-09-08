@@ -37,7 +37,7 @@ been a consolation handed to the one man the book must not console. The rule
 falling on him exactly as he spent twenty-two years arguing it should is not a
 consolation, and it is the same beat.
 
-The pace is **visible in the table of contents**: Part I is five long chapters,
+The pace is **visible in the table of contents**: Part I is six long chapters,
 Part IV is thirteen short ones. The reader feels the acceleration before knowing
 it is there.
 
@@ -213,6 +213,17 @@ printed without a licence.** The parade music at the end has no name at all: a
 human marching band, brass and drums and sheet music on stands, playing
 something nobody recognises.
 
+**The same song closes Part I, and that is also the author's decision.** In
+*O procedimento* Aurel asks for music, is asked which one, and has no name to
+give — he has not chosen a song in eleven years — so the machine chooses, and
+what it chooses is the song Rita hears from the window a page later, described in
+the same words. **It is a coincidence and must stay one:** different days,
+neither of them knows the name, the two never meet, and nobody in the book —
+narrator included — ever connects them. What the reader feels is the inversion,
+not a kinship: Aurel's arrived requested, selected and delivered at the right
+volume; Rita's fell into the street by accident, too loud to be aimed at anyone.
+Do not name the track in the prose to help the reader see it.
+
 That is deliberate. A song everyone knows would hand the reader a shared
 reference back, which is the exact consolation Part I says is gone. Unnamed, the
 ending is about **presence** rather than recognition — people hearing the same
@@ -241,11 +252,23 @@ constrains later chapters.
   rule — whether the person fits. Same verb, same chair, and the whole descent
   is in the difference. **Neither man's chapters may ever say this.** If a
   sentence anywhere points at the rhyme, cut the sentence.
-- **The machine never speaks.** The house is attentive, competent, tireless and
-  has no name, no brand, no voice and no interface. It raises the light at dusk;
-  it withdraws half a tone when he switches on a lamp by hand. The only thing in
-  this book that speaks in a machine's voice is a `::: {.registro}` block, and
-  that is a document, not a voice. No appliance ever answers anyone.
+- **The machine never speaks — with one declared exception.** The house is
+  attentive, competent, tireless and has no name, no brand, no voice and no
+  interface. It raises the light at dusk; it withdraws half a tone when he
+  switches on a lamp by hand. Everywhere else in the book the only thing that
+  speaks in a machine's voice is a `::: {.registro}` block, and that is a
+  document, not a voice.
+  **The exception is *O procedimento*, and it is the author's decision.** The
+  machine that operates on Aurel talks to him — with a dash, like a person: it
+  confirms his name, describes what will happen, asks whether he authorises it,
+  and asks which song he wants. The objection was raised and overruled, and the
+  exception is recorded here and in `docs/bible.md` precisely so that no later
+  revision "fixes" it. Binding on how it speaks: **never in italics**, no name,
+  no brand, no personality, no gender, attributed only as *a voz*. It is a
+  document read aloud — flat, complete, correct, and it volunteers the bad news
+  (the proportion of people who feel pain; that there is no twelve-year data
+  because the instrument is nine years old). **No other machine in the book
+  answers anyone, ever**, and no other chapter may repeat this.
 - **O balcão** — a place where a person climbs stairs and stands in front of
   someone with a face, a desk and an obligation to answer *today*: no form, no
   protocol number, no deadline. Part I establishes it as lost. **Bloco C and the
@@ -434,9 +457,8 @@ embed, and KDP rejects a PDF with an unembedded font. Vendor an OFL mono into
 Marked `[[?autor: …]]` in `docs/outline.md` so `make marcadores` keeps asking.
 Nothing here can be decided by a draft.
 
-**The draft is complete** — 42 chapters, ~44,000 words, 228 pages, every gate
-passing. What follows is revision, not construction, and the standing
-instruction for revision is that `docs/outline.md`, `docs/bible.md` and
+**The draft is complete** — 43 chapters, ~47,000 words, every gate passing. What
+follows is revision, not construction, and the standing instruction for revision is that `docs/outline.md`, `docs/bible.md` and
 `docs/timeline.md` must keep describing the manuscript that exists rather than
 the one that was planned.
 

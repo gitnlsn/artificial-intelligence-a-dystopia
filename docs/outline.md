@@ -474,9 +474,12 @@ Notas de tradução ficam entre parênteses, para a edição em inglês.
 
 ## PARTE I — O SÉCULO
 
-Aurel, 82, sozinho num apartamento grande demais. Poucos capítulos longos,
-quase sem cena, um quarto só. O tempo aqui é profundo: um parágrafo pode
-engolir cem anos. Ele tem todo o tempo e nenhum futuro.
+Aurel, 82, sozinho num apartamento grande demais. Seis capítulos longos, quase
+sem cena, um quarto só — e no último ele sai de casa. O tempo aqui é profundo:
+um parágrafo pode engolir cem anos. Ele tem todo o tempo e nenhum futuro.
+
+**A parte fecha na mesa de um procedimento**, com uma música tocando, e é essa
+música que abre a Parte II na calçada de outra pessoa.
 
 ### 1. A prova
 *(The Proof)*
@@ -533,6 +536,34 @@ engolir cem anos. Ele tem todo o tempo e nenhum futuro.
 - **Planta** — nina-leva-o-avo
 - **Elenco** — aurel, nina
 
+### 6. O procedimento
+*(The Procedure)*
+- **POV** — Aurel
+- **Quando** — 2047-10-18 — sexta, à tarde
+- **Onde** — a unidade da rua Solvig, terceiro andar; a sala
+- **A ideia** — ele não pediu nada. A avaliação foi oferecida no fim de uma consulta de rotina, levou doze minutos, e três semanas depois veio um comunicado com a data já dentro. Não há fila, não há prazo, não há ninguém a convencer. **Aurel recebe de graça, e sem pedir, exatamente o tipo de coisa que Rita não consegue nem sendo ouvida** — e o livro nunca aponta isso.
+- **A virada** — ele ouve a máquina descrever o procedimento durante seis minutos, procurando o erro do jeito que procurou a vida inteira, e não acha nenhum. Entende que o problema não é a frase estar certa: é que, se estivesse errada, não haveria onde marcar. Depois pede uma música, e é respondido.
+- **Fios** — fio-do-conforto, fio-do-registro
+- **Planta** — o-implante, a-frase-sem-erro
+- **Elenco** — aurel
+- **Fontes** — nenhuma. O implante, a unidade e o comunicado são invenção; ver `docs/bible.md`
+
+**Nota — as duas exceções declaradas, e são decisão do autor.** Este capítulo é o
+único lugar do livro em que **uma máquina fala com um personagem**, com travessão,
+como quem fala. Em todo o resto do romance a casa é muda, a companhia do Elias
+nunca é citada e a única voz de máquina é um `::: {.registro}`, que é documento.
+A exceção é deliberada e não deve ser "corrigida" por nenhuma revisão posterior;
+está registrada em `CLAUDE.md` e em `docs/bible.md`. **Nunca em itálico, nunca com
+nome, nunca com personalidade** — a voz é um documento lido em voz alta, e Aurel a
+escuta como se escuta uma prova.
+
+A segunda: a música que a máquina escolhe para ele é **a mesma que a Rita ouve da
+janela** no capítulo seguinte, descrita com as mesmas palavras. É coincidência e
+tem de continuar sendo: **nenhum dos dois sabe o nome**, os dois estão em dias
+diferentes, e ninguém no livro jamais liga uma coisa à outra. O que o leitor sente
+é a inversão — a de Aurel foi pedida, escolhida e entregue no volume certo; a de
+Rita caiu na rua por acidente.
+
 ---
 
 ## PARTE II — O TURNO
@@ -551,7 +582,7 @@ paciência para uma máquina. Ela nunca comenta a diferença.
 As vinhetas são vistas sempre através dela e nunca fecham como conto. O leitor
 vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 
-### 6. A música que veio de longe
+### 7. A música que veio de longe
 *(The Music From Far Off)*
 - **POV** — Rita
 - **Quando** — 2047-10-11 — de manhã
@@ -563,7 +594,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Elenco** — rita
 - **Fontes** — *Great Divide*, The Cardigans — só o título e a descrição; a letra não pode ser impressa
 
-### 7. O outro cômodo
+### 8. O outro cômodo
 *(The Other Room)*
 - **POV** — Elias
 - **Quando** — 2047-10-11 — à noite
@@ -574,7 +605,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Planta** — o-outro-comodo
 - **Elenco** — elias
 
-### 8. A casa do velho Teodor
+### 9. A casa do velho Teodor
 *(The House of Teodor)*
 - **POV** — Rita
 - **Quando** — 2047-10-12 — turno da manhã
@@ -585,7 +616,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Planta** — a-casa-do-teodor
 - **Elenco** — rita, teodor
 
-### 9. A escala
+### 10. A escala
 *(The Roster)*
 - **POV** — Rita
 - **Quando** — 2047-10-12 — à noite
@@ -595,7 +626,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Fios** — fio-do-turno
 - **Elenco** — rita
 
-### 10. A casa de quem não queria ser lavada
+### 11. A casa de quem não queria ser lavada
 *(The House of the Woman Who Didn't Want Washing)*
 - **POV** — Rita
 - **Quando** — 2047-10-13 — manhã
@@ -605,7 +636,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Fios** — fio-do-turno, fio-das-casas
 - **Elenco** — rita
 
-### 11. O que ela contava
+### 12. O que ela contava
 *(What She Used to Tell Him)*
 - **POV** — Rita
 - **Quando** — 2047-10-13 — à noite
@@ -616,7 +647,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Paga** — o-outro-comodo
 - **Elenco** — rita, elias
 
-### 12. O ano passado
+### 13. O ano passado
 *(Last Year)*
 - **POV** — Elias
 - **Quando** — 2047-10-14 — à noite, depois que ela dorme
@@ -627,7 +658,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Planta** — o-ano-do-pai
 - **Elenco** — elias
 
-### 13. A casa dos dois irmãos
+### 14. A casa dos dois irmãos
 *(The House of the Two Brothers)*
 - **POV** — Rita
 - **Quando** — 2047-10-14 — manhã
@@ -637,7 +668,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Fios** — fio-do-turno, fio-das-casas
 - **Elenco** — rita
 
-### 14. A paciência
+### 15. A paciência
 *(Patience)*
 - **POV** — Elias
 - **Quando** — 2047-10-16 — quarta, à noite
@@ -648,7 +679,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Paga** — o-ano-do-pai
 - **Elenco** — elias, rita
 
-### 15. A casa vazia
+### 16. A casa vazia
 *(The Empty House)*
 - **POV** — Rita
 - **Quando** — 2047-10-17 — quinta, primeiro turno
@@ -658,7 +689,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Fios** — fio-do-turno, fio-das-casas
 - **Elenco** — rita
 
-### 16. O indeferimento
+### 17. O indeferimento
 *(The Denial)*
 - **POV** — Rita
 - **Quando** — 2047-10-17 — quinta, à tarde
@@ -669,7 +700,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Planta** — o-indeferimento-de-rita, o-nome-na-folha
 - **Elenco** — rita
 
-### 17. A casa da moça que ia embora
+### 18. A casa da moça que ia embora
 *(The House of the Girl Who Was Leaving)*
 - **POV** — Rita
 - **Quando** — 2047-10-18 — sexta, manhã
@@ -679,7 +710,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Fios** — fio-do-turno, fio-das-casas
 - **Elenco** — rita
 
-### 18. A briga que não houve
+### 19. A briga que não houve
 *(The Fight They Didn't Have)*
 - **POV** — Rita
 - **Quando** — 2047-10-18 — sexta, à noite
@@ -689,7 +720,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Fios** — fio-da-companhia
 - **Elenco** — rita, elias
 
-### 19. A última casa
+### 20. A última casa
 *(The Last House)*
 - **POV** — Rita
 - **Quando** — 2047-10-19 — sábado, sete da manhã
@@ -700,7 +731,7 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Paga** — a-casa-do-teodor
 - **Elenco** — rita, teodor
 
-### 20. Ela fica quieta
+### 21. Ela fica quieta
 *(She Keeps Still)*
 - **POV** — Rita
 - **Quando** — 2047-10-19 — sábado, meio da manhã
@@ -720,7 +751,7 @@ caracterização, não pressa: é assim que ele vê. É aqui que moram os `regis
 
 O leitor já morou numa daquelas casas.
 
-### 21. O revisor de exceções
+### 22. O revisor de exceções
 *(The Reviewer of Exceptions)*
 - **POV** — Voss
 - **Quando** — 2047-10-06
@@ -732,7 +763,7 @@ O leitor já morou numa daquelas casas.
 - **Elenco** — voss
 - **Fontes** — Hugo, *Les Misérables* — domínio público, pode ser citado
 
-### 22. A fila da manhã
+### 23. A fila da manhã
 *(The Morning Queue)*
 - **POV** — Voss
 - **Quando** — 2047-10-14
@@ -742,7 +773,7 @@ O leitor já morou numa daquelas casas.
 - **Fios** — fio-da-excecao
 - **Elenco** — voss
 
-### 23. Quatro linhas
+### 24. Quatro linhas
 *(Four Lines)*
 - **POV** — Voss
 - **Quando** — 2047-10-14
@@ -753,7 +784,7 @@ O leitor já morou numa daquelas casas.
 - **Paga** — a-casa-do-teodor
 - **Elenco** — voss
 
-### 24. O rapaz que não podia provar o futuro
+### 25. O rapaz que não podia provar o futuro
 *(The Boy Who Couldn't Prove the Future)*
 - **POV** — Voss
 - **Quando** — 2047-10-15
@@ -764,7 +795,7 @@ O leitor já morou numa daquelas casas.
 - **Planta** — o-campo-de-observacoes
 - **Elenco** — voss
 
-### 25. A conferência
+### 26. A conferência
 *(The Review Meeting)*
 - **POV** — Voss
 - **Quando** — 2047-10-16
@@ -774,7 +805,7 @@ O leitor já morou numa daquelas casas.
 - **Fios** — fio-da-excecao
 - **Elenco** — voss
 
-### 26. O critério muda
+### 27. O critério muda
 *(The Threshold Moves)*
 - **POV** — Voss
 - **Quando** — 2047-10-17 — manhã
@@ -785,7 +816,7 @@ O leitor já morou numa daquelas casas.
 - **Paga** — o-criterio-dele
 - **Elenco** — voss
 
-### 27. A gentileza
+### 28. A gentileza
 *(The Kindness)*
 - **POV** — Voss
 - **Quando** — 2047-10-17 — fim de tarde
@@ -797,7 +828,7 @@ O leitor já morou numa daquelas casas.
 - **Paga** — o-indeferimento-de-rita, o-nome-na-folha
 - **Elenco** — voss, rita
 
-### 28. O critério o alcança
+### 29. O critério o alcança
 *(The Threshold Reaches Him)*
 - **POV** — Voss
 - **Quando** — 2047-10-18 — manhã
@@ -807,7 +838,7 @@ O leitor já morou numa daquelas casas.
 - **Fios** — fio-da-excecao
 - **Elenco** — voss
 
-### 29. Ele não recorre
+### 30. Ele não recorre
 *(He Does Not Appeal)*
 - **POV** — Voss
 - **Quando** — 2047-10-18 — a madrugada inteira
@@ -830,7 +861,7 @@ O desfile são quatro capítulos, um por protagonista — o único lugar do livr
 que os quatro pontos de vista se encostam, porque é o único momento em que os
 quatro relógios batem juntos.
 
-### 30. Quinta-feira
+### 31. Quinta-feira
 *(Thursday)*
 - **POV** — Nina
 - **Quando** — 2047-10-17 — quinta, fim de tarde
@@ -840,7 +871,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-da-nina
 - **Elenco** — nina, aurel
 
-### 31. A escola
+### 32. A escola
 *(School)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, de manhã
@@ -850,7 +881,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-da-nina
 - **Elenco** — nina
 
-### 32. A amiga
+### 33. A amiga
 *(The Friend)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, no recreio
@@ -861,7 +892,7 @@ quatro relógios batem juntos.
 - **Planta** — a-amiga-chata
 - **Elenco** — nina
 
-### 33. O que ela vê
+### 34. O que ela vê
 *(What She Sees)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, na saída
@@ -871,7 +902,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-da-nina
 - **Elenco** — nina
 
-### 34. O avô é antigo
+### 35. O avô é antigo
 *(Grandpa Is Old-Fashioned)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, à tarde
@@ -882,7 +913,7 @@ quatro relógios batem juntos.
 - **Paga** — nina-leva-o-avo
 - **Elenco** — nina, aurel
 
-### 35. A banda ensaia
+### 36. A banda ensaia
 *(The Band Rehearses)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, fim de tarde
@@ -893,7 +924,7 @@ quatro relógios batem juntos.
 - **Planta** — a-banda-da-escola
 - **Elenco** — nina
 
-### 36. A véspera
+### 37. A véspera
 *(The Eve)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, à noite
@@ -903,7 +934,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-do-desfile
 - **Elenco** — nina
 
-### 37. A rua enche
+### 38. A rua enche
 *(The Street Fills)*
 - **POV** — Nina
 - **Quando** — 2047-10-19 — de manhã
@@ -913,7 +944,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-do-desfile
 - **Elenco** — nina, aurel
 
-### 38. O desfile — Nina
+### 39. O desfile — Nina
 *(The Parade — Nina)*
 - **POV** — Nina
 - **Quando** — 2047-10-19 — 10h12
@@ -924,7 +955,7 @@ quatro relógios batem juntos.
 - **Paga** — a-banda-da-escola
 - **Elenco** — nina, aurel
 
-### 39. O desfile — Aurel
+### 40. O desfile — Aurel
 *(The Parade — Aurel)*
 - **POV** — Aurel
 - **Quando** — 2047-10-19 — 10h12
@@ -938,7 +969,7 @@ quatro relógios batem juntos.
   casa jamais teria pedido dele. Conforto contra presença.
 - **Elenco** — aurel, nina
 
-### 40. O desfile — Rita
+### 41. O desfile — Rita
 *(The Parade — Rita)*
 - **POV** — Rita
 - **Quando** — 2047-10-19 — 10h12
@@ -949,7 +980,7 @@ quatro relógios batem juntos.
 - **Paga** — a-musica-de-longe
 - **Elenco** — rita
 
-### 41. O desfile — Voss
+### 42. O desfile — Voss
 *(The Parade — Voss)*
 - **POV** — Voss
 - **Quando** — 2047-10-19 — 10h12
@@ -959,7 +990,7 @@ quatro relógios batem juntos.
 - **Fios** — fio-do-desfile, fio-da-excecao
 - **Elenco** — voss
 
-### 42. Depois
+### 43. Depois
 *(After)*
 - **POV** — Nina
 - **Quando** — 2047-10-19 — meio-dia

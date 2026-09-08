@@ -117,11 +117,25 @@ esfriava, mesmo com o barulho da Aldan subindo. Gostava do barulho. Era um barul
 de ônibus, de portão, de gente descendo com sacola. O 41 passava a cada onze
 minutos e ele sabia o som do 41.
 
+Levou dois invernos para entender que a casa pagava por aquilo. Ele deixava as
+duas janelas abertas nas noites em que ninguém deixaria, e a sala continuava na
+mesma temperatura da véspera, sem sopro, sem ruído, sem nada acendendo em lugar
+nenhum.
+Ninguém nunca lhe disse quanto custava. Não havia onde olhar e ele nunca
+procurou.
+
 Levantou. Fazia isso agora, levantar no meio da leitura, e não era inquietação:
 era a perna. Se ficasse mais de vinte minutos parado a perna esquerda começava a
 formigar do joelho para baixo, e o jeito era andar até a estante e voltar.
 
 Andou até a estante e voltou.
+
+Lá embaixo o 41 encostou. Não tem motorista há uns vinte anos e para no mesmo
+lugar de sempre, e o que mudou não foi o horário — o horário melhorou — foi o
+som. Antigamente havia um motor que subia antes de o ônibus sair e agora não há
+nada, e o que se ouve da janela dele é só a porta e as pessoas. Aurel
+aprendeu o som novo do mesmo jeito que tinha aprendido o velho, sem querer, em
+uns dois anos, e às vezes ainda esperava o motor.
 
 ---
 

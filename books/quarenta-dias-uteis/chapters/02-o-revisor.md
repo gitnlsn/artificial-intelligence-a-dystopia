@@ -24,6 +24,12 @@ status: draft
 Ele foi procurar de manhã, antes do café, ainda de chinelo, e levou quarenta
 minutos porque procurou na gaveta errada duas vezes.
 
+Quarenta minutos. Nada mais na vida dele leva quarenta minutos para ser
+encontrado. Ele não perde uma conta, não perde uma data, não perde o nome de um
+remédio, não perde a hora de nada — nunca mais precisou lembrar de coisa
+nenhuma, e a coisa aparece antes de ele reparar que ia precisar dela. O que ele
+ainda consegue perder, e o que portanto ainda consegue procurar, é papel.
+
 Estava na de baixo da escrivaninha, embaixo dos recibos da reforma de 2029, numa
 pasta de plástico transparente que tinha amarelado até ficar cor de chá. Dentro
 da pasta, um único retângulo de papel de jornal, recortado com tesoura por

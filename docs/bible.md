@@ -37,7 +37,9 @@ O leitor o conhece inteiramente por consequência:
   antecedente, não impede e apenas retarda;
 - **a casa**, que aquece o corredor às três da manhã e nunca acendeu a luz na cara
   de ninguém;
-- **a companhia**, que nunca fala na página.
+- **a companhia**, que nunca fala na página;
+- **a unidade**, que marca a data antes de o beneficiário pedir — e que é o
+  **único lugar do livro em que uma máquina fala com alguém em voz alta**.
 
 **O que ele não consegue fazer** é tão importante quanto o resto, e é o que some
 primeiro de um rascunho: não prevê o que uma pessoa vai fazer, só a que perfil
@@ -45,6 +47,62 @@ ela pertence; não tem campo onde receber um motivo; não tem ninguém do outro
 lado a quem pedir; e não julga — apenas se afasta do risco, do jeito que se
 desvia de uma poça. Um sistema sem limites explicáveis vira monstro, e monstro
 mata o argumento do livro (`CLAUDE.md`, *A regra da distopia*).
+
+## As duas exceções declaradas — decisão do autor, não corrigir
+
+Duas coisas neste livro contrariam regras que o resto do livro cumpre à risca.
+As duas são **decisão do autor, tomada com a objeção registrada e mantida**, e
+estão aqui para que nenhuma revisão futura as "conserte". Também estão em
+`CLAUDE.md`.
+
+### 1. A máquina fala — uma vez, em *O procedimento*
+
+Em todo o resto do romance nenhum aparelho responde a ninguém. A casa é muda; a
+companhia do Elias nunca é citada; a única voz de máquina é um `::: {.registro}`,
+que é documento e não voz.
+
+Em *O procedimento*, a máquina que opera Aurel **fala com ele, com travessão,
+como quem fala.** Confirma o nome, descreve o que vai acontecer, pergunta se ele
+autoriza, e pergunta qual música ele quer.
+
+Como ela fala, e isto é vinculante:
+
+- **Nunca em itálico.** Nunca com nome, marca, saudação afetuosa ou
+  personalidade. Não tem gênero e o texto nunca lhe dá um.
+- **É um documento lido em voz alta.** Frases completas, flat, corretas, sem
+  eufemismo. Diz a proporção de gente que sente dor; diz que não há dado de doze
+  anos porque o instrumento tem nove; diz do que consiste a remoção sem que
+  ninguém pergunte.
+- **Aurel a escuta como se escuta uma prova**, procurando o lugar onde a frase
+  promete uma coisa e entrega outra, e não acha. Esse é o capítulo inteiro.
+- Nunca é atribuída como *ele* ou *ela*. É *a voz*.
+- **Nenhum outro capítulo pode repetir isto.** Nenhuma outra máquina do livro
+  responde a ninguém, nem no desfile, nem na casa de Aurel depois, nem em lugar
+  nenhum.
+
+### 2. A mesma música, duas vezes, e é coincidência
+
+A música que a máquina escolhe para Aurel no fim da Parte I é **a mesma que Rita
+ouve da janela do quarto andar** na abertura da Parte II, descrita com as mesmas
+palavras: uma mulher cantando devagar sem forçar, um violão que repete quatro
+vezes antes de mudar, um baixo grande e mole, outra língua, uma tristeza que não
+pede desculpa.
+
+O que a mantém coincidência, e nada disso é negociável:
+
+- **Nenhum dos dois sabe o nome.** Rita nunca soube; Aurel não tem nome nenhum
+  para dar quando lhe perguntam, e por isso a máquina escolhe.
+- **São dias diferentes** — Aurel na sexta 18/10, Rita na sexta 11/10 — e os dois
+  nunca se encontram, nem sabem um do outro.
+- **Ninguém no livro liga uma coisa à outra**, e o narrador tampouco. Só o leitor
+  vê, porque leu as duas descrições com uma página de distância.
+- O que o leitor sente é a **inversão**, e não o parentesco: a de Aurel foi
+  pedida, escolhida por uma máquina e entregue no volume exato; a de Rita caiu na
+  rua por acidente, alta demais para ser dirigida a alguém.
+- A regra de direitos continua: **título e descrição, nunca a letra.** Ver
+  `docs/references.md`.
+
+---
 
 ## As instituições
 
@@ -64,6 +122,7 @@ a procurar o equivalente real dela.
 | **a central** | existe, e é um menu. A opção *turno cancelado* informa que turnos cancelados são comunicados pelo aplicativo e que não é necessário procedimento adicional, e volta ao menu | — | A casa vazia |
 | **o jornal** | onde Aurel trabalhou, **nunca nomeado**. Editoria de cidade, revisão ao fundo longe da janela, fotocomposição, varal de arame. Noventa e quatro mil exemplares em 1991. Não chega mais | Vidor era o editor de cidade | O revisor |
 | **a escola da Nina** | cada criança na coisa dela, no ponto dela; a escola tem orgulho e diz nas reuniões. Tem banda marcial, pátio de cimento e arquibancada de dois degraus | Dória manda na banda | A escola |
+| **a unidade** | onde se fazem procedimentos ambulatoriais. *Unidade 3*, rua Solvig, terceiro andar. Rampa em vez de degraus, sala de espera cheia, cadeiras de encosto alto, bebedouro que funciona. Salas pequenas, claras, **sem cheiro nenhum**. A sala tem cadeira para o acompanhante que a carta diz não ser necessário | ninguém que se possa encontrar | O procedimento |
 | **o depósito de peças** | onde Elias faz conferência de estoque. Fecha às seis e meia. Norn ri dele | — | O outro cômodo |
 | **a prefeitura** | publicava o número do desfile, e o número brigava com o do jornal. Não briga mais com ninguém | — | O inventário |
 
@@ -91,6 +150,8 @@ instrumento* e nunca uma palavra a mais.
 | **acompanhamento preventivo** | sinalização por composição de fatores. Não é punição, não consta como antecedente, **não impede: retarda** — e como as listas fecham em data fixa, o retardo impede | o instrumento | O rapaz que não podia provar o futuro |
 | **o campo de observações** | último campo do formulário do revisor. Não obrigatório, não entra na resposta, ninguém jamais leu. Voss escreve nele duas vezes numa semana | o andar | O rapaz…; Ele não recorre |
 | **fato novo** | a única das três portas que Voss consegue abrir para si mesmo, e a que ele decide não usar | Voss | Ele não recorre |
+| **avaliação funcional** | doze minutos no fim de uma consulta de rotina: andar até uma marca no chão, sentar, levantar, sentar. **Oferecida, não pedida.** Não gera formulário nenhum | a unidade | O procedimento |
+| **implante de manejo álgico** | o que põem na perna de Aurel. Ambulatorial, quarenta minutos, efeito ao longo de semanas, *pode ser desagradável no começo*. Não removível sem um segundo procedimento | o comunicado | O procedimento |
 | **o cotejo** | conferir lista de morto a dois. Termo do ofício antigo, dito por Márcio com certo prazer | Márcio, Aurel | O revisor |
 | **deleatur** | o dê cortado: *tire isto daqui*. Vem dos copistas | Márcio → Aurel → Nina | A prova |
 | **errata** | o objeto que exige um *nós*, um *ontem* e um leitor que possa cobrar | Aurel | A prova |
@@ -110,15 +171,16 @@ os nomes. Essa diferença é a maior parte da caracterização que o livro preci
 | **o apartamento** | três quartos, dois fechados há onze anos. Sala com duas janelas, mantidas abertas até tarde. Cozinha **com janela** — foi por isso que Ilse escolheu em 2011 | 01 |
 | **o 41** | a linha de ônibus que passa na Aldan, a cada onze minutos. Aurel reconhece o som | 01 |
 | **rua Vetten** | onde foi o incêndio de 1991. **Continua existindo, e o desfile monta as grades até a esquina dela** — a rua do pior erro de Aurel está no trajeto. Ninguém no livro repara nisso, e ninguém pode reparar | 02, 05 |
-| **Kalden** | onde Rita mora e espera. A calçada da padaria, com o toldo, é onde ela espera alocação; o prédio da esquina é o de tijolo com as caixas de ar condicionado tortas, e a janela é a terceira do quarto andar | 06 |
-| **o 12** | a linha de ônibus de Rita, de Elias e de Voss. Passa em Kalden, em Brenna e na porta do Bloco C. **Fica desviada até as duas da tarde no dia do desfile** | 06 |
-| **Brenna** | os blocos, mais pobre. Onde Voss cresceu, onde mora a irmã dele, onde ficam as casas de dona Eszter, do seu Vilmar, da Juno e dos dois irmãos | 10 |
-| **rua Brenna Velha** | o sobrado de Anselm e Kasper: uma casa só, dois endereços de turno, uma escada do meio que nenhum dos dois usa quando o outro pode estar nela | 13 |
-| **Bloco C** | o prédio da administração. Sete degraus na frente, balaustrada de pedra ao lado da escada, porta giratória. O guichê fecha às cinco | 16 |
-| **a praça** | onde Voss almoça, sempre o mesmo, voltando cinco minutos antes | 21 |
-| **rua Halden** | onde o pai de Elias morou sozinho até o fim, e tinha razão de não querer sair | 12 |
-| **a Avenida** | onde passa o desfile. A esquina da farmácia é onde o azul da banda some. A curva é de onde as coisas vêm | 37 |
-| **a parede do mercado** | grande e lisa, na frente do mercado, do lado direito do trajeto grande do ônibus escolar. **É nela que passam as coisas, e duas pessoas olhando no mesmo segundo veem coisas diferentes** | 33 |
+| **Kalden** | onde Rita mora e espera. A calçada da padaria, com o toldo, é onde ela espera alocação; o prédio da esquina é o de tijolo com as caixas de ar condicionado tortas, e a janela é a terceira do quarto andar | 07 |
+| **o 12** | a linha de ônibus de Rita, de Elias e de Voss. Passa em Kalden, em Brenna e na porta do Bloco C. **Fica desviada até as duas da tarde no dia do desfile** | 07 |
+| **Brenna** | os blocos, mais pobre. Onde Voss cresceu, onde mora a irmã dele, onde ficam as casas de dona Eszter, do seu Vilmar, da Juno e dos dois irmãos | 11 |
+| **rua Brenna Velha** | o sobrado de Anselm e Kasper: uma casa só, dois endereços de turno, uma escada do meio que nenhum dos dois usa quando o outro pode estar nela | 14 |
+| **Bloco C** | o prédio da administração. Sete degraus na frente, balaustrada de pedra ao lado da escada, porta giratória. O guichê fecha às cinco | 17 |
+| **a praça** | onde Voss almoça, sempre o mesmo, voltando cinco minutos antes | 22 |
+| **rua Halden** | onde o pai de Elias morou sozinho até o fim, e tinha razão de não querer sair | 13 |
+| **a Avenida** | onde passa o desfile. A esquina da farmácia é onde o azul da banda some. A curva é de onde as coisas vêm | 38 |
+| **rua Solvig** | quatro paradas do 41 a partir da Aldan. A unidade fica no terceiro andar; a entrada tem uma rampa larga, com corrimão dos dois lados, no lugar dos três degraus que tinha | 06 |
+| **a parede do mercado** | grande e lisa, na frente do mercado, do lado direito do trajeto grande do ônibus escolar. **É nela que passam as coisas, e duas pessoas olhando no mesmo segundo veem coisas diferentes** | 34 |
 
 ## O elenco
 
@@ -150,6 +212,28 @@ de vista, e é ele que um capítulo fura sem perceber.
 - **O corpo** — a perna esquerda formiga do joelho para baixo depois de vinte
   minutos parado. Levanta e anda até a estante. Já tem falhas de memória e sabe
   distinguir muito bem uma falha de memória de outra coisa.
+- **O implante** — 18/10, à tarde, na unidade da rua Solvig. **Ele não pediu**: a
+  avaliação funcional foi oferecida no fim de uma consulta de rotina em agosto,
+  levou doze minutos, e três semanas depois veio um comunicado com a data já
+  dentro e com um jeito de desmarcar mais fácil do que o de marcar teria sido.
+  Sem fila, sem prazo, sem ninguém a convencer. **Ele acha isso fácil, e sabe que
+  *fácil* é uma palavra pior que *sinistro*.** (cap. 06)
+- **Não conta a ninguém, e os motivos estão em ordem** — Mira ia querer vir e ia
+  sair de uma reunião; a carta diz que não é necessário acompanhante e a carta
+  está certa; e se ela soubesse, não deixaria ele ir ao desfile no dia seguinte.
+  Ele tinha dito à neta que ia. **Mira nunca fica sabendo**, nem no desfile.
+  (cap. 06, 40)
+- **No desfile a perna não formiga.** Não é cura e ele não consegue chamar de
+  melhor nem de pior: é uma sensação de apertado por dentro, na altura da coxa,
+  que começou na véspera à noite, e sobre a qual disseram que podia ser
+  desagradável no começo. **O corpo dele parou de pedir para andar até a estante,
+  e não há nome para o que sobrou.** (cap. 40)
+- **O que ele procura e não acha** — durante os seis minutos em que a voz
+  descreve o procedimento, ele confere a fala do jeito que confere uma prova, e
+  não há erro nenhum. O que o alcança não é a frase estar certa: é que, se
+  estivesse errada, **não haveria margem, não haveria página, não haveria
+  errata.** Correto e impossível de pegar, pela primeira vez na vida dele, deixam
+  de ter relação uma coisa com a outra. (cap. 06)
 - **Sabe que** — o mundo não tem mais borda, e não consegue dizer isso — cap. 01
 
 ### Ilse
@@ -231,7 +315,7 @@ de vista, e é ele que um capítulo fura sem perceber.
 - **É** — 81 anos, Brenna. **Escondia comprimido embaixo do prato**, na maior cara
   de pau, como criança; Rita achava dois ou três por semana e os dois riam e ele
   tomava. É dele que Rita fala a Elias no domingo, e é o nome de que Elias lembra
-  no dia seguinte. (cap. 11, 15)
+  no dia seguinte. (cap. 12, 16)
 - **Sumiu.** Turno cancelado às 07h04, sem motivo; o código da porta ainda
   funcionava. Cama feita do jeito dele, xícara na pia, caixa de quinta vazia e a
   de sexta fechada. Nada caído, nada aberto, ninguém. O nome dele saiu da lista de
@@ -252,7 +336,7 @@ de vista, e é ele que um capítulo fura sem perceber.
   não tem uma única coisa nele que Rita possa usar** — e não é inveja: é passar
   três horas, três vezes por semana, dentro de um futuro que não é dela em
   sentido nenhum. Vai gostar, e vai acabar.
-- Pergunta a Rita o que ela queria ser. (cap. 17)
+- Pergunta a Rita o que ela queria ser. (cap. 18)
 
 ### Idalina
 
@@ -441,23 +525,23 @@ de vista, e é ele que um capítulo fura sem perceber.
   lugar nenhum: para sentar no banco de concreto em frente ao próprio prédio e
   ver o carrinho de pão passar. Custa quarenta e cinco minutos e uma pessoa
   segurando de um lado. Ficou dezoito minutos. Rita levou vinte e três minutos de
-  atraso e uma advertência registrada. (cap. 08)
+  atraso e uma advertência registrada. (cap. 09)
 - **O pedido que ele escreveu** — requerimento para **manter a cuidadora
   designada**. É a "coisa" que ele menciona sem explicar no fim do capítulo. Voss
   o indefere em quatro linhas, corretamente: continuidade de vínculo não é
   critério, e o serviço é equivalente prestado por qualquer profissional
-  habilitado. **Rita nunca fica sabendo que o pedido existiu.** (cap. 23)
+  habilitado. **Rita nunca fica sabendo que o pedido existiu.** (cap. 24)
 - **Ele é avisado do indeferimento, e ela não.** Por isso, no último turno, o
   horário mudou para as sete e ele estava de camisa às sete da manhã, e contou a
   história do armário do juiz fora do prazo dele, e disse *obrigado pela escada*,
   e deu a ela a caixinha. **Ele sabe que é a última vez. Ela não.** Nada no rosto
-  dele denuncia isso, e Rita confere essa lembrança muitas vezes depois. (cap. 19)
+  dele denuncia isso, e Rita confere essa lembrança muitas vezes depois. (cap. 20)
 - **A caixinha** — do tamanho de meio pão, madeira escura, tampa de correr, sem
   nada dentro. Feita em 1973 ou 1974, quando ele aprendeu a fazer a tampa: *fazia
   dez até sair uma que corria, e essa foi a primeira que correu*. Guardou setenta
   e três anos. Não dá ao filho porque *o meu filho não sabe o que é isso — ele
   acha bonitinho, ele acha tudo bonitinho, levou uma banqueta minha e botou planta
-  em cima.* Dá a Rita porque ela sabe que é difícil, **e isso basta.** (cap. 19)
+  em cima.* Dá a Rita porque ela sabe que é difícil, **e isso basta.** (cap. 20)
 
 ### Nadia
 
@@ -468,7 +552,7 @@ de vista, e é ele que um capítulo fura sem perceber.
 - **Acredita nos dois, e as duas versões não se contradizem para ela.** Uma diz
   que a casa está em ordem, a outra diz que o irmão está igual, e com essas duas
   coisas ela monta uma casa razoável que não é aquela. **E não tem ninguém para
-  desempatar.** Rita é a única pessoa viva que ouve as duas ligações. (cap. 13)
+  desempatar.** Rita é a única pessoa viva que ouve as duas ligações. (cap. 14)
 
 ### Anselm e Kasper
 
@@ -489,20 +573,20 @@ de vista, e é ele que um capítulo fura sem perceber.
   está comendo direito, e Anselm responde, com o rosto perfeitamente calmo, *ele
   perguntou na frente de alguém; ele queria ser um homem que pergunta — se ele
   quisesse saber, tem uma escada.* **Pode ser verdade, e Rita não tem como
-  saber.** (cap. 13)
+  saber.** (cap. 14)
 
 ### Bel, Lu e Teo — o pátio
 
 - **Lu** — inventa. Disse que o robô de quatro patas era do tamanho de um cavalo
   e o irmão dela tinha visto; era do tamanho de um cachorro grande. É por causa
   do braço dela, que teve alergia em maio e sarou em maio, que Bel manda Nina
-  para o cimento. (cap. 32, 35, 38)
+  para o cimento. (cap. 33, 36, 39)
 - **Teo** — senta duas carteiras à frente. No ano passado lia mal, alto e devagar,
   e ficava vermelho, e todo mundo sabia. **Este ano lê**, e ninguém fala mais
   nisso. Nina não sabe como aquilo aconteceu e nunca pensou em perguntar.
-  (cap. 31)
+  (cap. 32)
 - **A menina do glockenspiel** — a preferida da Dória, e é ruim. Olha quando Nina
-  grita, e a Nina não liga nem um pouco. (cap. 35, 38)
+  grita, e a Nina não liga nem um pouco. (cap. 36, 39)
 
 ### Os que só existem para uma cena
 
@@ -510,10 +594,10 @@ de vista, e é ele que um capítulo fura sem perceber.
   ver acima e a linha do tempo.
 - **Norn** — colega de Elias no depósito. Acha onze peças de divergência um
   assunto que não é assunto, ri dele, e depois diz que ele é obsessivo do jeito
-  que se diz um elogio de mentira. (cap. 07)
+  que se diz um elogio de mentira. (cap. 08)
 - **Larsen** — colega de Voss, **de licença naquela semana**, e é por isso que
   todas as revisões de alocação daquela quinta caíram na mesa dele, inclusive a
-  de Rita. Nunca aparece. (cap. 27)
+  de Rita. Nunca aparece. (cap. 28)
 - **A moça da faxina de quinta** — nunca a mesma; Aurel parou de aprender os
   nomes no terceiro. Ao telefone na cozinha dele, achando que ele dormia: pegou a
   manhã num endereço e a tarde do outro lado, não dá tempo, e não é com a pessoa
@@ -553,6 +637,53 @@ impossível de conseguir. Uma linha por regra.
   acende uma luz com a mão, a casa **recua**: baixa a geral meio tom para não
   brigar. Nunca explicada, nunca com nome comercial, nunca com voz. Só
   competente e gentil. (cap. 01)
+- **A casa paga pelas janelas abertas.** Aurel deixa as duas da sala abertas até
+  tarde com sete graus lá fora e a sala não muda de temperatura, sem sopro e sem
+  ruído. Levou dois invernos para entender que a casa estava compensando.
+  **Ninguém nunca lhe disse quanto custa, não há onde olhar, e ele nunca
+  procurou.** (cap. 01)
+- **O 41 não tem motorista há uns vinte anos.** Para no mesmo lugar e o horário
+  melhorou. O que mudou foi o som: não há motor subindo antes de sair, e da
+  janela do quarto andar se ouve só a porta e as pessoas. Aurel aprendeu o som
+  novo em uns dois anos, sem querer, **e às vezes ainda espera o motor.**
+  (cap. 01)
+- **Só papel pode ser perdido.** Aurel não perde uma conta, uma data, o nome de
+  um remédio nem a hora de nada — a coisa aparece antes de ele reparar que ia
+  precisar dela. Por isso levar quarenta minutos procurando o recorte numa gaveta
+  é uma experiência que já não existe em nenhuma outra área da vida dele.
+  (cap. 02)
+- **A porta abre para quem tem turno naquele endereço naquele horário.** Aurel
+  não precisa levantar, e já aconteceu de a faxina entrar, dizer bom dia, passar
+  três horas e ir embora sem que ele visse o rosto. **É parte de por que ele
+  parou de aprender os nomes.** (cap. 03)
+- **A escola responde por criança e não por turma.** O que está na frente da
+  Nina sobe quando ela acerta três e fica parecido quando ela erra, e ela e a Bel
+  podem estar em pontos diferentes do mesmo assunto e por isso não conversarem
+  sobre ele no recreio. Ela conta isso sem queixa nenhuma, do jeito que se conta o
+  tempo. **A pergunta *o que a turma está estudando* não tem resposta**, e Aurel
+  já a fez uma vez e foi corrigido com muita paciência. (cap. 04, 32)
+- **A avenida é contada em tempo real, pessoa por pessoa.** O número existe e é
+  exato, **e é por isso que não se publica**: contagem exata não dá matéria. O que
+  se publica são recortes, cada um bom, cada um de alguém. É a morte da briga do
+  número por precisão, e não por descaso. (cap. 05)
+- **A máquina faz a faixa e uma pessoa faz os cantos.** A que pinta anda sozinha,
+  devagar, e não erra; atrás dela vai um homem a pé com um rolo, e ele leva mais
+  tempo num canto do que ela num quarteirão. **Ninguém acha isso um problema.**
+  (cap. 05)
+- **A contagem do depósito é feita sozinha, à noite, e está certa às 5h40.** O
+  trabalho de Elias é andar o corredor com o número na mão e dizer se a
+  prateleira bate. Por isso o Norn ri: se a contagem está certa e a prateleira
+  não bate, o errado é a prateleira. **Elias acha que é assunto exatamente por
+  isso.** (cap. 08)
+- **A casa do Teodor é de dez anos atrás e ainda é boa.** Acende antes do
+  interruptor, esquenta a água antes do pedido, lembra o remédio das duas. **O
+  que ela não faz é descer dezenove degraus segurando um homem pelo braço** — isso
+  ainda é feito por uma pessoa, e a pessoa tem turno de três horas. (cap. 09)
+- **Os casos chegam classificados à mesa de Voss.** O enquadramento vem sugerido,
+  os dispositivos aplicáveis vêm do lado, o histórico já vem aberto na ordem em
+  que ele vai querer ler. Ele confere a sugestão em todos e a contraria umas três
+  vezes por mês. **É a favor, e não por preguiça: quanto menos coisa depende de
+  quem pegou o caso, melhor.** (cap. 22)
 - **Não chega mais jornal.** O papel que existe nas casas é o que já existia.
   (cap. 01)
 - **A errata deixou de ser possível** e não houve dia em que isso aconteceu.
@@ -595,126 +726,126 @@ impossível de conseguir. Uma linha por regra.
   sobre ele, e o que ele relata. Isso a mantém fora do papel de personagem, evita
   o pior clichê do gênero, e é muito pior assim — um homem falando sozinho numa
   cadeira quebrada, com metade da conversa ausente. **Regra dura: nunca citar.**
-  (cap. 07)
+  (cap. 08)
 - **A advertência de atraso entra e não se explica a ninguém.** A linha diz o que
   é verdade — *início registrado 23 min após o previsto* — sem adjetivo e sem
   cor. **E não existe campo onde escrever por quê.** Rita procurou quinze
   minutos: há disponibilidade, histórico, documentos e ajuda; não há caixa de
-  texto. (cap. 08, 09)
+  texto. (cap. 09, 10)
 - **Ninguém é punido; as pessoas são precavidas.** O sistema não fica bravo. Se
   há quatro cuidadoras para um turno e uma delas tem uma linha de vinte e três
   minutos, mandar o turno para outra é a coisa sensata — e Rita faria igual, e é
   isso que a mata. Corolário que ela leva semanas para olhar de frente: **se ela
   desistir de descer com o Teodor, os números melhoram.** Ninguém ameaçou nada.
-  (cap. 09)
+  (cap. 10)
 - **O custo de contar.** Rita passa o dia guardando uma coisa boa para contar à
   noite, arrumando a ordem, decidindo onde começar — trabalho pequeno e alegre
   que ela fazia havia onze anos. Agora ela calcula, antes de contar, quanto vai
-  custar contar. **Não fazia essa conta em 2043.** (cap. 11)
+  custar contar. **Não fazia essa conta em 2043.** (cap. 12)
 - **Não foi traída. Foi ocupada.** Não existe um dia em que Elias escolheu, e ele
   já procurou como se procura uma chave, mês a mês — porque um dia daria uma
   culpa de tamanho conhecido, e culpa de tamanho conhecido um homem carrega. O
   lugar ficou vazio às três da manhã durante sete meses, alguma coisa sentou
-  nele, e não vai levantar porque não está cansada. (cap. 12)
+  nele, e não vai levantar porque não está cansada. (cap. 13)
 - **O Bloco C é bom.** Limpo, com ar, cadeira de encosto alto, bebedouro que
   funciona, banheiro limpo às dez da manhã, painel sempre certo. Todo mundo é
   educado do começo ao fim. **Tudo o que Rita sente ali, ela sente dentro de um
   prédio bem cuidado**, e é isso que torna a coisa impossível de contar depois.
-  (cap. 16)
+  (cap. 17)
 - **O que ela queria não era corrigir um erro.** Não havia erro: ela chegou
   atrasada, o horário está certo, descer dezenove degraus não é atribuição do
   turno. Ela queria que o *motivo* ficasse escrito junto com o atraso, para serem
   lidos juntos alguma vez. E ficou — Idalina digitou tudo — e foi lido, e foi
   respondido em dezenove minutos, corretamente, e a resposta foi que aquilo não é
-  objeto de revisão. (cap. 16)
+  objeto de revisão. (cap. 17)
 - **Ela sai sem raiva, e isso a assusta.** Raiva serve para alguma coisa: é o que
   faz contar aos outros, procurar quem mais passou por aquilo, voltar. Rita já
   teve raiva de um plano de saúde e ganhou. Na escada do Bloco C ela sente
   cansaço bem administrado e mais nada, e não tem com quem brigar nem sobre o
-  quê. (cap. 16)
+  quê. (cap. 17)
 - **Não haverá cena nenhuma.** Para brigar é preciso que o outro precise de
   alguma coisa que só você pode dar. Rita testa as três — gritar, ameaçar ir
   embora, chorar — e em todas ele fica mal de verdade, pede desculpa sinceramente,
   abraça bem, **e continua abastecido**. Não existe embargo possível. Acabou sem
-  data, sem nome e sem mala na porta, e pode durar seis anos assim. (cap. 18)
+  data, sem nome e sem mala na porta, e pode durar seis anos assim. (cap. 19)
 - **A primeira coisa que Rita escolhe em duas semanas** é ficar parada numa
   calçada, num sábado, esperando uma música que ela já entendeu que não vai
   tocar — e ficar mais um pouco só para que seja ela a decidir a hora de ir
-  embora. Não é bonito e não a consola. (cap. 20)
+  embora. Não é bonito e não a consola. (cap. 21)
 - **Ninguém decide ir ao desfile.** Rita desce a rua atrás de uma família com
   duas crianças, sem ter decidido nada, do jeito que chegou a todo o resto. O som
   chega primeiro: o bombo separável do resto, uma coisa aguda por cima, e o
   murmúrio grosso de muita gente junto — que uma pessoa reconhece antes de saber o
-  que é. (cap. 20)
+  que é. (cap. 21)
 - **Manifestação de próprio punho não é documento.** Documento é o que comprova
   fato verificável por terceiro; uma pessoa dizendo o que prefere só comprova que
   prefere. A regra é plantada no primeiro caso do primeiro capítulo de Voss e é
-  ela que mata o pedido de Teodor três capítulos depois. (cap. 21, 23)
+  ela que mata o pedido de Teodor três capítulos depois. (cap. 22, 24)
 - **Quase nenhum caso tem decisão dentro.** Em trinta e oito casos, talvez dois
   exijam que uma pessoa pense; os outros trinta e seis são conferência. Um homem
   competente não decide trinta e oito vezes numa manhã: decide duas e confere
   trinta e seis. **A velocidade não é descuido — é o que sobra quando não há nada
-  a decidir.** (cap. 22)
+  a decidir.** (cap. 23)
 - **O critério não considera vínculo.** Considera qualificação, disponibilidade,
   distância, continuidade de *modalidade* — não de pessoa — e histórico de
   cumprimento. *Se vínculo entrasse no critério, a fila deixaria de ser fila.*
-  (cap. 23)
+  (cap. 24)
 - **A matrícula 88-2214 é de Rita**, e aparece no registro do capítulo 16 e no do
   capítulo 23. **É o único fio que liga as duas cenas, e o livro nunca o aponta.**
 - **O registro estrangeiro** — cabeçalho de três linhas em vez de duas, sigla de
   jurisdição desconhecida, e todo o resto idêntico: mesma estrutura de protocolo,
   mesmos campos na mesma ordem, mesmos quarenta dias úteis. Voss vê uns dois por
-  mês e não acha notável. (cap. 22)
+  mês e não acha notável. (cap. 23)
 - **O acompanhamento preventivo não é punição e não consta como antecedente** —
   está escrito na primeira linha do próprio instrumento. Entra por composição de
   fatores (endereço, faixa etária, histórico familiar, ocorrências no núcleo
   domiciliar em que a pessoa não figura como parte) e o efeito é exigir análise
   adicional. **Não impede: retarda.** E como as listas fecham em data fixa, o
   retardo impede — o que não está escrito em lugar nenhum e é sabido por todo o
-  andar. (cap. 24)
+  andar. (cap. 25)
 - **Não existe documento para provar o que não vai acontecer.** Documento prova
   o que aconteceu; o objeto ainda não está no mundo. Tudo o que o requerente pode
   apresentar é ausência, e a ausência é justamente o que o instrumento diz que
   não basta. **Voss enuncia isso com precisão total e indefere assim mesmo.** Ele
-  absorve injustiça sem dificuldade: é treinado. (cap. 24)
+  absorve injustiça sem dificuldade: é treinado. (cap. 25)
 - **O campo de observações** — existe no fim do formulário do revisor, não é
   obrigatório, não entra na resposta ao requerente, e ninguém que Voss tenha
   conhecido em vinte e dois anos jamais o leu. Diz-se no andar que foi criado em
   2035 para uma revisão de metodologia que nunca aconteceu. Voss escreve nele
-  pela primeira vez em anos. (cap. 24)
+  pela primeira vez em anos. (cap. 25)
 - **A métrica que o elogia mede o oposto.** Taxa de reversão em segunda instância
   de 0,4 contra média de 2,1 — e ele explica na reunião que reversão não mede
   acerto, porque a segunda instância aplica a mesma tabela, e uma tabela ruim
   aplicada com consistência dá 0,4 do mesmo jeito. **Ouvem como rigor.** A
-  desconfiança dele no número vira um atributo do número. (cap. 25)
+  desconfiança dele no número vira um atributo do número. (cap. 26)
 - **O parâmetro de doze semanas não tem fundamento empírico.** Voss ajudou a
   escrevê-lo em 2043, num grupo de quatro: alguém queria dezesseis, alguém queria
   oito, ficou doze. **Ele estava na sala quando o doze foi inventado.** É por isso
   que ele defende critério — não porque a linha esteja certa, mas porque enquanto
   houver linha o que decide é a linha, e não quem você conhece. Concorda por
-  escrito com a redução para seis. (cap. 26)
+  escrito com a redução para seis. (cap. 27)
 - **A gentileza, e por que ele não consegue arquivá-la.** Rita devolve o livro
   que ele esqueceu na balaustrada e diz *imagina*, e vai embora sem usar os quatro
   segundos seguintes, que eram dela. Ele vê depois o papel dobrado em três na mão
   dela, com o prefixo **G** — revisão de alocação —, e sabe que fez todas as
   quatro daquele dia, e **nunca vai saber qual das quatro ela era.** Culpa não
   serve, porque não houve erro. O que não roda é a única operação que ele sabe
-  fazer: achar o objeto. *Ela não tinha nada a ganhar.* (cap. 27)
+  fazer: achar o objeto. *Ela não tinha nada a ganhar.* (cap. 28)
 - **A nota das duas páginas é o instrumento.** Brann pede na quarta, na frente de
   onze pessoas, como elogio — e era elogio. Voss escreve na quinta à noite:
   método em sete passos, dois exemplos, limitações declaradas. Vai anexada à
   redistribuição dele como Anexo II. **Se o método está descrito, é
   transmissível; se é transmissível, não depende da pessoa.** Ele mesmo forneceu
-  a prova. Não foi armadilha, e Voss tem certeza disso. (cap. 25, 28)
+  a prova. Não foi armadilha, e Voss tem certeza disso. (cap. 26, 29)
 - **O parecer 0912/47 é dele.** A redistribuição cita, corretamente e sem
   recorte, a manifestação que ele assinou na quinta às 10h52 — inclusive o
   registro de que o parâmetro anterior era mera convenção. Um princípio serve
   para os casos que descreve, e o caso dele é um deles. Novo posto: conferência
   geral do sétimo andar, o trabalho que ele fazia em 2029, por **oitenta e um por
-  cento** do salário a partir de janeiro. (cap. 28)
+  cento** do salário a partir de janeiro. (cap. 29)
 - **As três portas de uma manifestação** — erro material, vício de forma, fato
   novo. Quem não sabe escreve nove linhas de sentimento e é indeferido em quatro
-  minutos. Voss passou dezoito anos indeferindo essas nove linhas. (cap. 29)
+  minutos. Voss passou dezoito anos indeferindo essas nove linhas. (cap. 30)
 - **A tese que ele achou e não usou** — o parecer 0912/47 trata de continuidade
   de vínculo entre *prestador e beneficiário*, uma relação de atendimento entre
   duas pessoas; lotação de servidor em matéria não é isso. A analogia é razoável
@@ -727,14 +858,14 @@ impossível de conseguir. Uma linha por regra.
   redistribuídas com o mesmo fundamento nos últimos dois anos, nenhuma das quais
   sabe que ela existe. **Sair de baixo de uma regra que continua caindo sobre
   quem não sabe formulá-la não é ser tratado com justiça: é ser tratado com
-  exceção.** (cap. 29)
+  exceção.** (cap. 30)
 - **O que ele faz em vez de recorrer.** Salva o texto num arquivo com a data no
   nome, deixa o campo de manifestação em branco — não escreve nem *ciente* —,
   marca a caixa de conhecimento e envia às 3h19. E então escreve **no campo de
   observações**, que ninguém lê, que a distinção existe, que é provavelmente
   relevante, e que não a suscitou porque não estaria disponível a um requerente
   sem formação técnica e porque o ato alcança outros servidores em idêntica
-  situação. (cap. 29)
+  situação. (cap. 30)
 - **Na escola ninguém lê a mesma página.** Cada criança na coisa dela, no ponto
   dela, no ritmo dela; a escola tem orgulho disso e diz nas reuniões. **Ninguém
   fica para trás** — o Teo, que lia mal e ficava vermelho no ano passado, lê. O
@@ -742,40 +873,40 @@ impossível de conseguir. Uma linha por regra.
   erra bastante, e não existe ficar para trás. **Nada dá errado.** Não existe o
   momento de não entender a explicação e ficar quieta com medo de perguntar,
   porque não existe uma coisa sendo explicada de uma vez para trinta pessoas.
-  (cap. 31)
+  (cap. 32)
 - **A banda é a única coisa da escola em que todo mundo faz a mesma coisa ao
   mesmo tempo.** Trinta e um adolescentes tentando começar juntos pela quarta
   vez, às cinco da tarde, no pátio. Nina reclama todo dia e desce todo dia.
-  **Isso, e não o desfile, é o que a leva à rua no sábado.** (cap. 31)
+  **Isso, e não o desfile, é o que a leva à rua no sábado.** (cap. 32)
 - **A parede do mercado.** Nina e Bel olham para a mesma parede no mesmo segundo
   e veem coisas diferentes — pássaros saindo do cabelo de uma menina; um carro
   azul de porta que abre para cima. Discutem trinta segundos e concluem que é
   porque uma gosta de pássaro e a outra de carro, **o que é mais ou menos
   verdade.** Ninguém acha estranho. É a erosão da realidade compartilhada inteira,
-  numa conversa de ônibus, sem uma palavra de explicação. (cap. 33)
+  numa conversa de ônibus, sem uma palavra de explicação. (cap. 34)
 - **Criança ainda aguenta.** Bel é injusta e sabe que é; manda Nina para o
   cimento por causa de um braço que sarou em maio. Nina fica vinte e dois minutos
   no cimento decidindo não falar com ela nunca mais. Bel senta do lado e não pede
   desculpa — **isso não existe e nunca existiu** — e fala do robô de quatro patas,
   e acabou. As duas ficam no cimento com os quatro lugares bons vazios do outro
   lado. **É a última tolerância de imperfeição humana que existe no livro**, e ela
-  tem nove anos. (cap. 32)
+  tem nove anos. (cap. 33)
 - **Entra errado junto.** A instrução da Dória no último ensaio, e é a frase que
   o livro inteiro estava esperando: *vocês não entram no meu braço, vocês entram
   no bumbo; se o bumbo está errado, vocês entram errado junto — isso é melhor.*
   Na oitava tentativa trinta e uma pessoas começam na mesma hora, ainda
   desafinadas, e fica bom de um jeito que Nina não sabe nomear. **É a tese do
   livro dita por uma professora de banda marcial, e ninguém no livro pode
-  repeti-la.** (cap. 35)
+  repeti-la.** (cap. 36)
 - **Ela não vai ver robô.** Vai por causa da oitava. Todo mundo na escola fala
   dos robôs e ela acha aquilo interessante do jeito que se acha uma coisa
-  interessante. (cap. 35)
+  interessante. (cap. 36)
 - **A rua cheia é normal para ela.** Cabeças até a curva dos dois lados, todas
   viradas para o mesmo lado, e Nina acha bonito e acha normal — *do jeito que se
   acha normal um estádio cheio, ou uma fila de supermercado no domingo.* Não
   pensa mais nada a respeito. **É a única vez no livro em que muita gente olha
   para a mesma coisa ao mesmo tempo, e a personagem que está vendo não tem como
-  saber disso.** (cap. 37)
+  saber disso.** (cap. 38)
 - **O desfile, e onde cada um está.** Nina e Aurel na grade, oitenta metros
   depois da esquina; Mira quatro metros atrás, encostada na parede, com o
   telefone. **Voss na quinta fileira. Rita na sexta, atrás dele.** Ela o vê — um
@@ -819,21 +950,21 @@ impossível de conseguir. Uma linha por regra.
 - **Escala não é objeto de revisão por solicitação do prestador.** É a frase que
   mata o pedido de Rita, e Voss a aplica duas vezes na mesma semana sem saber que
   é a mesma mulher. Escopo de turno e critério de distribuição são *parâmetros de
-  serviço*, não decisões individuais. (cap. 16, 22, 26)
+  serviço*, não decisões individuais. (cap. 17, 23, 27)
 - **A revisão de alocação tem prefixo G** e volume baixo — quatro ou cinco por
   dia no andar inteiro. Naquela semana caíram todas na mesa de Voss porque a
   Larsen estava de licença, **e é só por isso que ele sabe que indeferiu a dela e
-  nunca vai saber qual das quatro era.** (cap. 27)
+  nunca vai saber qual das quatro era.** (cap. 28)
 - **As grades sobem na quinta à noite** e na sexta de manhã já estão até a esquina
   da Vetten. O aviso está no ponto do 12 há três semanas e a linha fica desviada
   até as duas da tarde — que é o único aspecto do desfile que tem relação com a
-  vida de Rita. (cap. 05, 20)
+  vida de Rita. (cap. 05, 21)
 - **Ninguém sabe quantas pessoas foram ao desfile.** Existem números, existem
   muitos, e não existe briga nenhuma, porque não há nada que precise ser decidido
   em comum. Voss é o único que estima — por quadrante e densidade, três pessoas
   por metro no apertado — e chega a mil e duzentas no trecho dele, **usando
   exatamente o método da briga do número que morreu**. Ninguém aponta isso.
-  (cap. 05, 41)
+  (cap. 05, 42)
 - **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
   pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
   obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela
@@ -848,10 +979,13 @@ o outro.
 
 | Questão | O que o livro adota | Por quê | Cap. |
 |---|---|---|---|
-| **O modelo de risco por composição de fatores é estatisticamente válido?** | **Sim. A série é robusta e Voss não tem nenhuma objeção técnica a fazer.** | É a decisão mais importante do livro. Se o modelo estivesse errado, a injustiça teria conserto técnico e o leitor sairia aliviado. Ela não tem: o modelo está certo *sobre perfis* e é aplicado *sobre uma pessoa*, e não existe documento para provar o que não vai acontecer. **Nenhum capítulo pode sugerir que os números estão errados.** | 24 |
-| **Taxa de reversão em segunda instância mede qualidade de decisão?** | **Não. Mede consistência.** A segunda instância aplica a mesma tabela; uma tabela ruim aplicada com consistência dá 0,4 do mesmo jeito. | O livro precisa de uma métrica que elogia a coisa errada sem que ninguém esteja mentindo. Nenhum capítulo pode tratar um 0,4 como prova de acerto — nem a favor de Voss, nem contra ele. | 25 |
-| **Rotação de cuidador piora o atendimento?** | **A literatura de cuidado mede desfecho clínico, e o desfecho clínico não piora em seis semanas.** O que as pessoas querem dizer quando reclamam é outra coisa e não tem instrumento. | É o que torna a mudança de doze para seis semanas genuinamente defensável, e é o que faz Voss concordar de boa-fé com o parágrafo que vai alcançá-lo. Se a redução fosse indefensável, ele seria tolo em vez de íntegro. | 26 |
-| **O parâmetro de doze semanas tem fundamento empírico?** | **Não. Saiu de uma negociação em 2043 — alguém queria dezesseis, alguém queria oito.** | Um critério não é uma verdade descoberta, é uma linha que alguém traçou num dia. Voss estava na sala, sabe disso, e defende a linha assim mesmo, porque enquanto houver linha o que decide é a linha. | 26 |
-| **Como funciona a personalização da parede do mercado?** | **Não se explica, e nunca se explicará.** Nenhum personagem sabe o mecanismo e nenhum acha a coisa notável. | `CLAUDE.md`, *Voz e registro*: descrever a tecnologia pelo que ela faz com alguém, nunca por como funciona. É também o único momento em que o livro chega perto de precisar de tecnobabble, e o jeito de não precisar é não olhar. | 33 |
-| **Houve um dia em que a errata e o balcão deixaram de existir?** | **Não houve dia.** Foi como a perna: em algum momento você percebe que já faz um tempo. | É a mesma recusa da mentira da ruptura e da mentira do interruptor. Nada no livro pode ter uma data de virada, inclusive o fim do casamento de Rita e Elias. | 01, 02, 18 |
+| **O modelo de risco por composição de fatores é estatisticamente válido?** | **Sim. A série é robusta e Voss não tem nenhuma objeção técnica a fazer.** | É a decisão mais importante do livro. Se o modelo estivesse errado, a injustiça teria conserto técnico e o leitor sairia aliviado. Ela não tem: o modelo está certo *sobre perfis* e é aplicado *sobre uma pessoa*, e não existe documento para provar o que não vai acontecer. **Nenhum capítulo pode sugerir que os números estão errados.** | 25 |
+| **Taxa de reversão em segunda instância mede qualidade de decisão?** | **Não. Mede consistência.** A segunda instância aplica a mesma tabela; uma tabela ruim aplicada com consistência dá 0,4 do mesmo jeito. | O livro precisa de uma métrica que elogia a coisa errada sem que ninguém esteja mentindo. Nenhum capítulo pode tratar um 0,4 como prova de acerto — nem a favor de Voss, nem contra ele. | 26 |
+| **Rotação de cuidador piora o atendimento?** | **A literatura de cuidado mede desfecho clínico, e o desfecho clínico não piora em seis semanas.** O que as pessoas querem dizer quando reclamam é outra coisa e não tem instrumento. | É o que torna a mudança de doze para seis semanas genuinamente defensável, e é o que faz Voss concordar de boa-fé com o parágrafo que vai alcançá-lo. Se a redução fosse indefensável, ele seria tolo em vez de íntegro. | 27 |
+| **O parâmetro de doze semanas tem fundamento empírico?** | **Não. Saiu de uma negociação em 2043 — alguém queria dezesseis, alguém queria oito.** | Um critério não é uma verdade descoberta, é uma linha que alguém traçou num dia. Voss estava na sala, sabe disso, e defende a linha assim mesmo, porque enquanto houver linha o que decide é a linha. | 27 |
+| **Como funciona a personalização da parede do mercado?** | **Não se explica, e nunca se explicará.** Nenhum personagem sabe o mecanismo e nenhum acha a coisa notável. | `CLAUDE.md`, *Voz e registro*: descrever a tecnologia pelo que ela faz com alguém, nunca por como funciona. É também o único momento em que o livro chega perto de precisar de tecnobabble, e o jeito de não precisar é não olhar. | 34 |
+| **Uma máquina pode falar com um personagem?** | **Uma vez, em *O procedimento*, e nunca mais.** Decisão do autor, contra a regra que o resto do livro cumpre. | A objeção foi registrada e mantida: o `registro` só funciona porque nada mais no livro tem voz de máquina. O autor decidiu assim mesmo, e a exceção é única, declarada e documentada — o que a torna exceção em vez de erosão. Ver *As duas exceções declaradas*. | 06 |
+| **O implante cura a perna?** | **Não, e o livro nunca diz que sim.** No desfile a perna não formiga; o que há é uma sensação de apertado por dentro que ele não consegue chamar nem de melhor nem de pior. | Uma cura no dia seguinte seria tecnologia milagrosa e resolveria alguma coisa, e este livro não resolve nada. O que o procedimento entrega é real, foi de graça, chegou sem ser pedido, **e é ilegível.** Nenhum capítulo pode dizer que ele melhorou. | 06, 40 |
+| **Aurel pediu o procedimento?** | **Não. Foi oferecido, e a data veio pronta.** | É a tese da conveniência aplicada ao personagem que passa o livro inteiro sem tocar na máquina. Aurel recebe sem pedir exatamente o tipo de coisa que Rita não consegue nem sendo ouvida, e **nenhum dos dois sabe da existência do outro**. Nenhum capítulo pode apontar o contraste. | 06 |
+| **Houve um dia em que a errata e o balcão deixaram de existir?** | **Não houve dia.** Foi como a perna: em algum momento você percebe que já faz um tempo. | É a mesma recusa da mentira da ruptura e da mentira do interruptor. Nada no livro pode ter uma data de virada, inclusive o fim do casamento de Rita e Elias. | 01, 02, 19 |
 | **Citação de Hobsbawm** | O livro cita a edição Paz e Terra de 1990 e depois parafraseia de perto a sequência de abertura. **Pendente de verificação de permissão** — ver `docs/references.md`. | Ficção não tem mais latitude que ensaio aqui, e o livro vai para a KDP. | 01 |

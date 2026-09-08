@@ -14,6 +14,8 @@ threads:
 - fio-do-desfile
 - fio-do-registro
 pays:
+- o-implante
+- a-frase-sem-erro
 - o-recorte
 - o-nome-do-periodo
 - o-exemplo-da-nina
@@ -24,14 +26,21 @@ cast:
 sources: nenhuma
 status: draft
 ---
-A perna esquerda começou aos vinte minutos, como ele sabia que ia começar.
 
-Formiga do joelho para baixo e depois passa a doer de um jeito surdo, e o jeito
-é andar até a estante e voltar, e ali não havia estante nem havia para onde
-andar, porque atrás dele havia nove fileiras de gente e na frente havia uma
-grade.
+Aos vinte minutos ele reparou que não tinha acontecido nada.
 
-Ele passou o peso para a direita e ficou.
+Esperou mais um pouco, porque vinte minutos é vinte minutos e a perna esquerda
+dele não errava havia quinze anos. Aos vinte e cinco continuava não sendo
+formigamento. Era outra coisa, mais alta, na altura da coxa: uma sensação de
+apertado por dentro, que tinha começado na véspera à noite e que não incomodava
+e não passava. Tinham dito que podia ser desagradável no começo, e tinham dito
+com essa palavra.
+
+Não dava para chamar de melhor. Não dava para chamar de pior. Não tinha nome, e
+ele passou um tempo procurando um, do jeito que procura.
+
+Passou o peso para a direita por hábito, e depois passou de volta, porque não
+precisava.
 
 ---
 
@@ -39,8 +48,8 @@ A pedra do meio-fio estava fria através do sapato.
 
 Ele reparou nisso com uma precisão que o divertiu: fria, dura, um pouco
 inclinada para a sarjeta, de modo que o pé esquerdo ficava mais baixo que o
-direito o tempo todo, o que para uma perna que já está formigando é a
-combinação exata que ninguém escolheria.
+direito o tempo todo, o que é a combinação exata que ninguém escolheria para
+um homem de oitenta e dois anos ficar três horas em pé.
 
 Ninguém tinha escolhido. Era uma calçada.
 
@@ -92,6 +101,11 @@ consertar no meio, e que vai continuar tocando porque parar é pior.
 Aurel ficou de pé na pedra fria com a mão em cima da grade ouvindo trinta e uma
 pessoas fazerem, com o corpo, um som que ninguém tinha ajustado.
 
+Achou o lugar em dois compassos, do jeito que se acha. A mão direita fez um
+movimento pequeno em cima do ferro e parou.
+
+Depois não fez mais nada.
+
 Ele não sabia que música era. Não conhecia, não reconheceu nada, não ia lembrar
 depois.
 
@@ -121,7 +135,7 @@ sentiu no ouvido.
 
 ---
 
-E ali, de pé, com a perna doendo e o pé esquerdo mais baixo que o direito, Aurel
+E ali, de pé, com a perna calada e o pé esquerdo mais baixo que o direito, Aurel
 entendeu por que não tinha conseguido nomear.
 
 Não era falta de palavra. Isso ele já sabia desde a poltrona, dez dias antes, e
@@ -181,6 +195,8 @@ bom.
 
 Não disse mais nada.
 
+Não disse à Mira, quatro metros atrás, onde ele tinha estado na véspera.
+
 Não disse que estava desafinado. Não disse que aquilo era a única coisa que ele
 tinha ouvido em onze anos que não tinha sido calibrada para ele. Não disse que ela
 tinha resolvido, aos nove anos, numa quinta-feira, com a boca cheia de bolacha, um
@@ -189,5 +205,5 @@ desde o velório da avó dela.
 
 Ela não tinha perdido nada. Continuava não tendo perdido.
 
-Ele passou o peso de volta para a perna esquerda, que já estava melhor, e ficou
-olhando a esquina da farmácia, onde o azul tinha sumido, até parar de ouvir.
+Ele passou o peso para a perna esquerda, que não disse nada, e ficou olhando a
+esquina da farmácia, onde o azul tinha sumido, até parar de ouvir.

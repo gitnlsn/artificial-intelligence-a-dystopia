@@ -77,6 +77,8 @@ e a correção foi encontrada numa releitura, não por uma ferramenta.
 | 2046-05-24 | O pai morre às 4h40. Elias chega em casa às 5h03; o despertador de Rita toca às 5h20. Ele espera dezessete minutos, e fala | Elias | O ano passado |
 | ≈2047-03 | Teodor para de descer. Serão sete meses | Teodor | A casa do velho Teodor |
 | ≈2047-03 | A semana em que Rita fez dezoito turnos e comprou a máquina de lavar. Sete meses antes do livro | Rita | A escala |
+| 2047-08-12 | Aurel faz uma avaliação funcional de doze minutos no fim de uma consulta de rotina. **Foi oferecida; ele disse sim porque já estava sentado** | Aurel | O procedimento |
+| ≈2047-09 | Chega o comunicado 2208-K, com a data do procedimento já dentro. Ele imprime no dia e dobra em três | Aurel | O procedimento |
 
 ## Durante o livro
 
@@ -111,6 +113,7 @@ fecha no Dia da Fundação.
 | 10-18, sexta, 0h01 | Entra a comunicação 4415-P — redistribuição de carteira de Voss, fundamentada no parecer 0912/47 | — | O critério o alcança |
 | 10-18, sexta, manhã | As grades já estão até a esquina da Vetten. Mira liga às 10h20 e Aurel diz que vai ao desfile — não pelo desfile, e sim por quatro palavras ditas na véspera | Aurel | O inventário |
 | 10-18, sexta, manhã | O crachá de Voss não abre o oitavo andar. Ele confere o enquadramento, o fundamento e a citação, e tudo está correto. A nota das duas páginas foi anexada como Anexo II: ele mesmo forneceu a prova | Voss | O critério o alcança |
+| 10-18, sexta, 14h30 | **O procedimento.** Aurel vai sozinho, de 41, sem contar a Mira, porque se ela soubesse não o deixaria ir ao desfile. Ouve a voz descrever tudo durante seis minutos procurando o erro e não acha nenhum. Pede uma música, não tem nome nenhum para dar, e a máquina escolhe — **a mesma que Rita ouviu de uma janela na sexta anterior, e nenhum dos dois sabe o nome** | Aurel | O procedimento |
 | 10-18, sexta, 8h–11h | A Juno mostra o mapa e pergunta a Rita o que ela queria ser. Rita responde de verdade, rápido demais, como quem guardava a resposta pronta havia quinze anos | Rita | A casa da moça que ia embora |
 | 10-18, sexta, dia | Nina na escola: ninguém lê a mesma página, nada dá errado. No recreio, vinte e dois minutos no cimento e a Bel senta do lado sem pedir desculpa. No ônibus, ela e a Bel olham a mesma parede e veem coisas diferentes | Nina | A escola; A amiga; O que ela vê |
 | 10-18, sexta, 16h30 | Nina liga para o avô e cobra a promessa. Ele pergunta a mesma coisa três vezes e ela responde três vezes sem achar nada | Nina | O avô é antigo |
@@ -127,6 +130,7 @@ fecha no Dia da Fundação.
 | 10-19, 9h40 | Voss desce sem ter decidido descer e fica na quinta fileira, que é ruim, porque chegar à frente exigiria pedir licença | Voss | O desfile — Voss |
 | 10-19, 10h12 | O desfile começa. Limpeza, transporte, obras. Passa um bloco com o painel de assistência domiciliar: Aurel o lê como se lê um painel e Rita olha a nuca do homem da frente até acabar | os quatro | O desfile — Nina/Aurel/Rita/Voss |
 | 10-19, ≈10h18 | O de quatro patas aparece na curva e mil pessoas fazem *ah* ao mesmo tempo. Nina faz junto sem ter decidido e depois ri de ter feito junto | Nina / Aurel | O desfile — Nina; O desfile — Aurel |
+| 10-19, 10h12 em diante | Aos vinte minutos a perna esquerda de Aurel **não formiga**, pela primeira vez em quinze anos. Não é melhor nem pior, e ele não acha nome para o que sobrou | Aurel | O desfile — Aurel |
 | 10-19, 10h21 | A banda da escola. Três batidas do bumbo sozinho e na quarta entra tudo. Quarenta segundos, desafinada, o trombone da ponta atrasado. Nina grita o nome da Bel. Aurel faz a conta e chega a 2036. Rita ouve no peito antes de ouvir. **Voss não acha nada a respeito e na segunda não lembra de um compasso** | os quatro | O desfile — Nina/Aurel/Rita/Voss |
 | 10-19, 10h33 | Os fiscais pedem recuo, em duplas, pela beirada, com quinze metros de antecedência. Voss avalia a instrução, considera que teria desenhado assim, e dá o passo atrás junto com as mil e duzentas pessoas do trecho. Ninguém olha para ele | Voss | O desfile — Voss |
 | 10-19, ≈11h20 | A rua se esvazia em dez minutos e vira gente separada indo embora. Sorvete de limão. Nina não olha para nenhuma delas em particular | Nina | Depois |

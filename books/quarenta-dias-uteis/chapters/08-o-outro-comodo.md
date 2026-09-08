@@ -43,7 +43,14 @@ aquilo, sempre chega no mesmo lugar constrangedor e pequeno: ele fala do dia.
 Naquela sexta ele falou da divergência do estoque, que já vinha da terça. Duas
 mil e quatrocentas peças de um código e duas mil trezentas e oitenta e nove na
 prateleira, e onze peças some assim, e ninguém no depósito acha que onze peças é
-assunto, e o Norn ri dele. Mas onze peças é assunto, porque ou alguém levou, ou
+assunto, e o Norn ri dele.
+
+A contagem não é dele. A contagem é feita sozinha, à noite, e está pronta às
+cinco e quarenta da manhã, e está certa. O que é dele é andar o corredor com o
+número na mão e olhar a prateleira e dizer se bate. É por isso que o Norn ri: se
+a contagem está certa e a prateleira não bate, o errado é a prateleira, e
+prateleira não é assunto de ninguém. Elias acha que é assunto exatamente por
+isso. Mas onze peças é assunto, porque ou alguém levou, ou
 alguém contou errado, ou entrou errado, e cada uma dessas três coisas é um
 problema diferente e ele quer saber qual.
 

@@ -161,6 +161,12 @@ anterior. Ele tinha parado de aprender os nomes lá pelo terceiro, o que o
 envergonhava um pouco, e aos oitenta e dois anos a vergonha é uma coisa que se
 administra em vez de resolver.
 
+Ajudava, para não aprender, que ele não precisasse abrir a porta. A porta abre
+para quem tem turno naquele endereço naquele horário, e fecha depois, e ele fica
+onde está. Já aconteceu de ele estar na poltrona de costas e a pessoa entrar e
+dizer bom dia e ele responder bom dia sem virar, e de a pessoa ir embora três
+horas depois, e de ele não ter visto o rosto dela em nenhum dos dois momentos.
+
 Não era culpa delas. Ele tinha entendido isso ouvindo uma delas falar ao
 telefone na cozinha, achando que ele estava dormindo: que tinha pegado a manhã
 naquele endereço e a tarde do outro lado e que não dava tempo, e que não era com

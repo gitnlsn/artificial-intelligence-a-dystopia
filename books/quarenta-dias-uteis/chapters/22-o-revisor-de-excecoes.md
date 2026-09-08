@@ -44,6 +44,16 @@ recusou duas vezes a mesa da janela quando ela vagou, uma vez em 2041 e uma em
 2045, o que naquele andar já virou uma anedota que ele conhece e que não o
 incomoda.
 
+Os casos chegam classificados. Isso é feito antes dele e é feito bem: quando o
+pedido cai na mesa, o enquadramento já está sugerido, os dispositivos aplicáveis
+já estão do lado, e o histórico do requerente já está aberto na ordem em que ele
+vai querer ler. Voss confere a sugestão em todos os casos e a contraria umas
+três vezes por mês.
+
+Ele é a favor, e não por preguiça. Quanto menos coisa depende de quem pegou o
+caso, melhor. É a mesma frase que ele diz sobre tudo, e ele a diz sem nenhuma
+ironia.
+
 Almoça na praça. Sempre o mesmo. Volta cinco minutos antes.
 
 Sai às cinco e meia. Não fica depois, nunca ficou, e considera que ficar depois é

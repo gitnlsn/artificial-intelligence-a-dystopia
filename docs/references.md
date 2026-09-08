@@ -60,9 +60,18 @@ Aplicado a este livro:
 
 | Obra | Situação | O que dá para fazer |
 |---|---|---|
-| *Great Divide*, The Cardigans (Sveningsson/Svensson), faixa 10 de *First Band on the Moon*, 1996 | Em direito autoral | Nomear, descrever, deixar chegar de longe. **Não imprimir a letra** sem licença da editora musical. Atenção: o título é "Great Divide", sem "The" |
+| *Great Divide*, The Cardigans (Sveningsson/Svensson), faixa 10 de *First Band on the Moon*, 1996 | Em direito autoral | Nomear, descrever, deixar chegar de longe. **Não imprimir a letra** sem licença da editora musical. Atenção: o título é "Great Divide", sem "The". **Aparece duas vezes** — ver a nota abaixo |
 | A música do desfile | **Inventada** — sem nome, sem letra, banda marcial de gente | Tudo. Música inventada não tem titular, e foi por isso, entre outras razões, que se decidiu assim |
 | Caetano Veloso, *Oração ao Tempo*, 1979 | Em direito autoral | Nomear e descrever apenas |
+
+**A música toca duas vezes, e em nenhuma delas é nomeada na prosa.** Em *O
+procedimento* a máquina a escolhe para Aurel; na abertura da Parte II ela desce
+de uma janela sobre a Rita. Os dois ouvem a mesma coisa em dias diferentes e
+**nenhum dos dois sabe o nome** — o que, além de ser a decisão narrativa (ver
+`docs/bible.md`, *As duas exceções declaradas*), mantém a situação de direitos
+exatamente onde ela já estava: descrição de som, nunca letra. Duas descrições em
+vez de uma não mudam nada juridicamente. Não passar a nomear a faixa na prosa
+para "ajudar" o leitor a ver a coincidência.
 
 ### Victor Hugo — domínio público
 

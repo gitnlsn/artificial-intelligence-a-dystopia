@@ -59,6 +59,17 @@ O turno dela ali é de três horas, das oito às onze, três vezes por semana. E
 na escala como *apoio domiciliar — higiene, medicação, mobilidade assistida*, que
 são três palavras para umas quarenta coisas.
 
+A casa dele faz o resto, e faz bem. Acende antes de ele chegar no interruptor,
+esquenta a água antes de ele pedir, lembra o remédio das duas com uma discrição
+que Rita já achou bonita. É de dez anos atrás e ainda é melhor que qualquer coisa
+que a Rita tenha em casa.
+
+Não segura ninguém pelo braço. Não desce escada. Não há nada nela que possa
+descer dezenove degraus com um homem de setenta e nove anos e ficar de pé ao lado
+dele no banco de concreto enquanto o carrinho de pão passa. Isso ainda é feito
+por uma pessoa, e a pessoa tem turno de três horas, e o turno seguinte começa do
+outro lado do bairro.
+
 O que ela faz de fato, em ordem: abre a janela do quarto, que ele não alcança.
 Tira a roupa de cama de quinta. Ajuda ele no banho, que é a parte que os dois
 resolveram há muito tempo tratando como serviço e não como intimidade, porque é

@@ -27,6 +27,11 @@ uma martelada no pino. Encaixe, martelada, três passos. Encaixe, martelada, tr�
 passos. Ele ficou olhando aquilo por uns dez minutos com o interesse de quem
 gosta de ver trabalho feito direito.
 
+Atrás do caminhão vinha a coisa que pinta a faixa, que anda sozinha e devagar e
+não erra, e atrás dela um quarto homem, a pé, com um rolo, fazendo os cantos
+onde ela não entra. O quarto homem levava mais tempo em cada canto do que a
+máquina levava num quarteirão inteiro. Ninguém parecia achar isso um problema.
+
 Depois foi assentar o café e a chaleira já estava quente, porque sexta de manhã é
 café e ele faz isso desde sempre, e desde algum momento a casa faz junto.
 
@@ -130,6 +135,12 @@ Ele não sabe quantas pessoas foram ao desfile do ano passado. Não porque não
 tenha procurado — ele procurou, uma vez, por curiosidade profissional. Sabe
 quantas *ele* poderia ter visto. Existem números. Existem muitos. Não existe
 briga nenhuma, porque não existe nada que precise ser decidido em comum.
+
+O número existe com uma precisão que teria deixado o Krall sem assunto. A
+avenida é contada em tempo real, pessoa por pessoa, e ninguém precisa estimar
+densidade por metro quadrado nem levar régua a foto nenhuma. É por isso que não
+se publica: contagem exata não dá matéria. O que se publica são recortes, e os
+recortes são bons, e cada um é o recorte de alguém.
 
 Ele ainda tem uma das cartas do Krall, em algum lugar. Ou tinha.
 
