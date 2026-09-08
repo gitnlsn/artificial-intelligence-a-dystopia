@@ -101,11 +101,19 @@ prose earns its position by describing them in particulars.
 - **Understate.** The flatter the sentence, the worse the fact lands. The book
   never tells the reader that something is horrifying; it reports it and moves
   on, and the silence afterwards does the work.
-- **No technobabble.** Describe technology by what it does to someone, never by
-  how it works. Invented vocabulary dates faster than anything else in science
-  fiction, and a novel that leans on it is unreadable in ten years. When a term
-  is needed, it should sound like something an institution would actually name:
-  bureaucratic, dull, faintly euphemistic.
+- **No technobabble — which is a rule about rendering, not about quantity.** The
+  book is dense with 2047: an overlay written on every surface, allocated
+  medicine, robotic care, universal translation, autonomous logistics, a talking
+  surgical machine. None of it is ever explained. Describe technology by what it
+  does to someone, never by how it works. Invented vocabulary dates faster than
+  anything else in science fiction, and *described hardware* dates second
+  fastest — so the overlay has no name and no device on the page, and the reader
+  knows it exists only from behaviour: an eye going to a point where there is
+  nothing, half a second of delay before an answer, a child in front of a blank
+  wall, someone turning a screen so another person can see. The full contract is
+  in `docs/bible.md`, *A sobreposição*. When a term is needed, it should sound
+  like something an institution would actually name: bureaucratic, dull, faintly
+  euphemistic.
 - **Dialogue does not explain the world.** Nobody tells another character what
   they both already know. If the reader needs a fact, they get it the way people
   get facts: incompletely, late, from someone with a reason to shade it.

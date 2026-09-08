@@ -37,8 +37,16 @@ As piores horas eram entre três e cinco.
 Ele morava sozinho até o fim, no apartamento da rua Halden, porque não quis sair
 de jeito nenhum e porque tinha razão de não querer.
 
-Tinha uma cuidadora de dia. De noite tinha um botão pendurado no pescoço e o
-telefone do filho.
+Tinha uma cuidadora de dia. De noite tinha o apartamento, que era bom — sabia
+quando ele levantava, sabia quando ele não levantava, acendia o caminho até o
+banheiro, e uma vez, em março, chamou ajuda sozinho antes de o Elias saber que
+havia o que chamar.
+
+O apartamento nunca falhou uma vez. O que ele não podia fazer era ser o Elias, e
+às três da manhã o velho não estava pedindo ajuda: estava chamando o nome do
+filho.
+
+Então o telefone tocava.
 
 E o filho, que é o Elias, dormia com o telefone na mesinha, com o som no
 máximo, com a tela virada para baixo, das dez e meia até tocar.

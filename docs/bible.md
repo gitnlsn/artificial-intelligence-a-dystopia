@@ -48,6 +48,74 @@ lado a quem pedir; e não julga — apenas se afasta do risco, do jeito que se
 desvia de uma poça. Um sistema sem limites explicáveis vira monstro, e monstro
 mata o argumento do livro (`CLAUDE.md`, *A regra da distopia*).
 
+## A sobreposição — a camada de 2047, e como escrevê-la
+
+A tecnologia mais presente do livro é a que nunca aparece. Toda superfície da
+cidade está escrita, e o que está escrito é diferente para cada pessoa.
+
+**As regras são duras porque é aqui que o livro vira ficção científica ruim se
+alguém relaxar:**
+
+- **Não tem nome.** Ninguém no livro diz *realidade aumentada*, *camada*,
+  *sobreposição*, *lente*, *óculos*, nem qualquer termo inventado. As pessoas
+  dizem *estava escrito*, *apareceu*, *tem o nome em cima*, *o preço estava lá*.
+  O narrador também não nomeia.
+- **O aparelho nunca é descrito.** Não há óculos na página, não há lente, não há
+  gesto de ligar, não há nada que se ponha ou se tire. **Proibido dizer como se
+  vê.** Um leitor de 2060 não pode pegar o livro errando o formato do
+  equipamento, porque o livro não declara formato nenhum.
+- **O leitor só sabe que existe pelo comportamento.** O olho de alguém indo a um
+  ponto onde não há nada. Meio segundo de atraso antes de uma resposta. Uma
+  criança parada diante de uma parede lisa. Um homem mexendo a boca sem som numa
+  sala de espera. Uma pessoa virando a tela para outra ver — que é um gesto
+  deliberado, e raro.
+- **Duas pessoas nunca leem a mesma coisa, e isso não é notável para ninguém.**
+  Nina e Bel diante da parede do mercado é o caso levado ao extremo; a Aldan
+  vista da janela de Aurel é o caso banal.
+- **Aurel tem, e funciona bem.** Ele **não** é o velho que recusa a tecnologia —
+  isso seria a mentira da nostalgia (`CLAUDE.md`). O que o alcança não é não ter:
+  é não saber mais o que a pessoa do lado está vendo. É o mesmo argumento da
+  errata em outro registro.
+- **O papel é o contraponto, e ninguém no livro faz esse discurso.** O
+  Hobsbawm de 1990 diz a mesma coisa para quem abrir; o recorte da errata diz
+  hoje o que dizia em 1991; o deleatur da Nina fica; o comunicado de Aurel é
+  impresso; Voss compra em sebo *porque o que se pode perder é o que se pode
+  devolver*. Quatro personagens, quatro motivos diferentes, nenhuma tese.
+- **O desfile é a última superfície não sobreposta do livro.** Plantado em *O
+  inventário* (a rua montada, sem nada escrito, e Aurel achando estranho sem
+  saber por quê) e cobrado em *O desfile — Aurel*. Em *Depois*, quando a rua
+  esvazia, **o nome da farmácia volta para cima da farmácia** e a Nina confere o
+  preço do sorvete. Ninguém comenta nenhuma das três coisas.
+
+## A medicina é excelente e é alocada
+
+O tratamento existe. O critério decide quem recebe. **Nenhum personagem reclama
+disso, nenhum capítulo aponta a assimetria, e ninguém jamais explica o
+critério.**
+
+| Quem | O que existe | O que recebe | Cap. |
+|---|---|---|---|
+| **Aurel** | implante de manejo álgico | recebe **sem pedir**, com a data pronta | 06 |
+| **Teodor** | reparo de sequela vascular, janela de dezoito meses | nada; o evento tem catorze meses quando Rita chega e vinte e nove quando alguém pede | 20, 23 |
+| **Juno** | *tem coisa melhor*, ela sabe o nome | fixador externo de metal, oito pinos | 18 |
+| **Anselm** | a úlcera fecharia | não fecha; quarenta minutos de curativo, três vezes por semana | 14 |
+| **a mulher de 67** | reparo tecidual em joelho | a faixa de indicação vai até sessenta e cinco | 23 |
+
+O elo é invisível de propósito: o leitor vê a recusa na mesa de Voss (cap. 23)
+umas dez páginas depois de ver a mão do Teodor, e **nada no texto liga as duas
+cenas.** Vale a mesma regra da matrícula 88-2214.
+
+## A tradução é universal, e a dona Eszter recusa três palavras
+
+Todo mundo se entende e ninguém repara nisso, do jeito que ninguém repara em
+água encanada. Nada no livro explica como.
+
+**A exceção são as três palavras da dona Eszter**, que chegam na Rita como som e
+não como sentido. Rita achou durante anos que fosse defeito. Não é: é a única
+coisa que ela não tem que traduzir, e ela diz isso na porta, e não explica.
+**A língua continua sem nome e as palavras continuam sem transcrição** — nomear
+o país dela quebraria a mesma regra que mantém este país sem nome.
+
 ## As duas exceções declaradas — decisão do autor, não corrigir
 
 Duas coisas neste livro contrariam regras que o resto do livro cumpre à risca.
@@ -234,6 +302,17 @@ de vista, e é ele que um capítulo fura sem perceber.
   estivesse errada, **não haveria margem, não haveria página, não haveria
   errata.** Correto e impossível de pegar, pela primeira vez na vida dele, deixam
   de ter relação uma coisa com a outra. (cap. 06)
+- **A Ilse sintética, oferecida em 2039 e recusada.** Não com essas palavras e não
+  por um vendedor: uma pergunta educada no fim de outra coisa. **A razão não é
+  lealdade nem pudor** — é que para tê-la de volta ele teria de descrevê-la, e
+  descreveria errado (deixaria de fora a impaciência, deixaria de fora a luz do
+  teto às duas da manhã), **e a versão errada seria a que responde**, todo dia,
+  sem ninguém para dizer *não foi bem assim*. Recusa de revisor. Nunca contou a
+  ninguém; a Mira perguntou duas vezes, em anos diferentes. (cap. 03)
+- **A conversa com a Mira sobre a mesma página.** Ele disse que hoje ninguém lê a
+  mesma página; ela respondeu que lia sim, que tinham falado da mesma coisa na
+  terça; **os dois estavam certos e falavam de coisas diferentes.** Não é censura
+  e não falta nada a ninguém. (cap. 01)
 - **Sabe que** — o mundo não tem mais borda, e não consegue dizer isso — cap. 01
 
 ### Ilse
@@ -261,6 +340,18 @@ de vista, e é ele que um capítulo fura sem perceber.
 - Faz café, e o café não está na escala.
 - Quem espera aloca no mesmo raio, então duas mulheres esperando no mesmo
   quarteirão não se falam. Não é antipatia.
+- **Usa o telefone de propósito.** Dá para aceitar um turno sem tocar em nada, e
+  todo mundo aceita assim. No primeiro ano ela jurou ter aceitado um turno que
+  não constava e não tinha o que mostrar a ninguém. Com o polegar existe um lugar
+  onde ela encostou e uma hora em que encostou. **Nunca precisou. Continua
+  fazendo.** (cap. 07)
+- **A primeira coisa que ela fez ao ouvir a música foi conferir se era para
+  ela** — o corpo fez sozinho, e ela levou cinco segundos para entender que
+  estava procurando a coisa errada. (cap. 07)
+- **Duas das dezoito casas daquela semana não são mais turno.** Não morreu
+  ninguém: puseram coisa nova. Na do seu Bertoldo puseram um negócio que levanta e
+  vira, e a filha dele disse à Rita, contente, que agora ele dorme melhor.
+  **Rita não faz conta nenhuma com isso.** (cap. 10)
 
 ### Elias
 
@@ -268,6 +359,14 @@ de vista, e é ele que um capítulo fura sem perceber.
   Sai às seis e meia, chega em casa às sete e dez. **Come em pé, na bancada**,
   porque comer sentado sozinho é uma coisa que ele nunca aprendeu a fazer sem
   ficar estranho.
+- **O quarto dos fundos é também o único com chão livre suficiente**, e foi
+  também por isso que sobrou para ele — e ele nunca pôs as duas coisas na mesma
+  frase. Nada além disso é mostrado, nunca. (cap. 08)
+- **O apartamento do pai nunca falhou.** Sabia quando ele levantava e quando não
+  levantava, acendia o caminho, e uma vez chamou ajuda sozinho antes de Elias
+  saber que havia o que chamar. **O que ele não podia fazer era ser o Elias** — às
+  três da manhã o velho não pedia ajuda, chamava o nome do filho. Então o
+  telefone tocava. (cap. 13)
 - **O quarto dos fundos** é o pior cômodo da casa — cadeira de escritório com um
   braço quebrado, mesa que era da mãe, janela para o poço de ventilação. **A
   porta nunca é trancada**, e ele faz questão disso consigo mesmo.
@@ -336,6 +435,14 @@ de vista, e é ele que um capítulo fura sem perceber.
   não tem uma única coisa nele que Rita possa usar** — e não é inveja: é passar
   três horas, três vezes por semana, dentro de um futuro que não é dela em
   sentido nenhum. Vai gostar, e vai acabar.
+- **O fixador é de metal e tem oito pinos.** *Tem coisa melhor* — ela sabe o nome,
+  disse o nome uma vez, e disse na mesma frase e sem mudar de tom que não era o
+  caso dela. Não foi queixa: foi informação, do jeito que se diz o preço de uma
+  coisa que não se vai comprar. **Rita não perguntou por quê.** (cap. 18)
+- **Vira a tela.** Faz sempre — com o mapa, com a foto da prima, com a casa que dá
+  para alugar — e nunca perguntou se Rita queria ver. Virar a tela é um gesto
+  deliberado e quase ninguém faz. É por isso que Rita gosta dela mais do que
+  devia, e ela sabe que é o motivo, e acha o motivo meio bobo. (cap. 18)
 - Pergunta a Rita o que ela queria ser. (cap. 18)
 
 ### Idalina
@@ -456,6 +563,10 @@ de vista, e é ele que um capítulo fura sem perceber.
   mal organizado. Lê em papel no ônibus, de sebo, mexendo um pouco os lábios.
   Apartamento sem foto na parede, cento e vinte livros, alguns com o nome de outra
   pessoa na folha de rosto, o que ele gosta.
+- **Compra em sebo por um motivo prático, não sentimental:** um livro de papel é
+  uma coisa que se pode deixar em cima de uma balaustrada — *o que se pode perder
+  é o que se pode devolver.* Nunca disse isso em voz alta porque soaria como
+  opinião sobre o mundo, e ele não tem opinião sobre o mundo. (cap. 28)
 - **Ele dorme bem**, e isso é o essencial: não com esforço, não depois de se
   convencer de nada.
 - **Ele gosta de deferir** — dia bom é dia de muitos deferimentos: é rápido, não
@@ -549,6 +660,12 @@ de vista, e é ele que um capítulo fura sem perceber.
   1998 e voltou quatro vezes. **Nunca fala na página**: o leitor só ouve os dois
   lados daqui.
 - Liga nas terças — embaixo às nove e vinte, em cima às onze.
+- **Tentou uma vez estar com os dois na mesma sala** — de estar mesmo, os três, do
+  jeito que se faz com quem mora longe. Explicou tudo por escrito e marcou a hora.
+  Não foi. **Nenhum dos dois diz qual foi o que não foi**, e Anselm conta a
+  história rindo, como bobagem de irmã mais nova. Rita entendeu naquele dia que
+  **o problema não é a escada**: tiraram a escada e sobrou exatamente o mesmo.
+  (cap. 14)
 - **Acredita nos dois, e as duas versões não se contradizem para ela.** Uma diz
   que a casa está em ordem, a outra diz que o irmão está igual, e com essas duas
   coisas ela monta uma casa razoável que não é aquela. **E não tem ninguém para
@@ -684,6 +801,27 @@ impossível de conseguir. Uma linha por regra.
   que ele vai querer ler. Ele confere a sugestão em todos e a contraria umas três
   vezes por mês. **É a favor, e não por preguiça: quanto menos coisa depende de
   quem pegou o caso, melhor.** (cap. 22)
+- **A Aldan está escrita, e não está escrita igual para duas pessoas.** Preço do
+  café, horário do 41, o nome da coisa que hoje ocupa o lugar da livraria — tudo
+  no ar, no tamanho certo, sem atrapalhar, e funcionando muito bem. Aurel não
+  desconfia de estar sendo enganado e provavelmente não está. **A rua parou de ser
+  um lugar onde duas pessoas leem a mesma coisa e virou um lugar onde duas pessoas
+  leem**, e ninguém percebe a diferença porque os dois olham para o mesmo poste e
+  os dois respondem depressa e os dois estão certos. (cap. 01)
+- **Ver alguma coisa junto virou trabalho.** O convite continua sendo feito entre
+  Rita e Elias e já não quer dizer o que dizia: o que vem para ele não é o que vem
+  para ela, e as duas coisas são melhores do que qualquer coisa que os dois
+  topassem ao mesmo tempo. Deu certo umas quatro vezes e foi ficando trabalhoso.
+  (cap. 12)
+- **O apartamento do seu Vilmar não foi avisado.** A luz sobe quando Rita entra, a
+  chaleira está quente às sete porque às sete de quinta alguém toma café ali há
+  anos. A casa e a Rita estão operando com a mesma instrução vencida, e **o livro
+  não diz isso.** (cap. 16)
+- **Ninguém na sala de espera está na sala** — nem no Bloco C nem na unidade. As
+  pessoas esperam ocupadas: mão pequena no colo, riso sozinho, boca mexendo sem
+  som, meio segundo de atraso para responder a quem está do lado. Rita olha o
+  painel, **que é a única coisa daquela sala escrita igual para todo mundo**, e
+  não formula isso. (cap. 06, 17)
 - **Não chega mais jornal.** O papel que existe nas casas é o que já existia.
   (cap. 01)
 - **A errata deixou de ser possível** e não houve dia em que isso aconteceu.
@@ -987,5 +1125,8 @@ o outro.
 | **Uma máquina pode falar com um personagem?** | **Uma vez, em *O procedimento*, e nunca mais.** Decisão do autor, contra a regra que o resto do livro cumpre. | A objeção foi registrada e mantida: o `registro` só funciona porque nada mais no livro tem voz de máquina. O autor decidiu assim mesmo, e a exceção é única, declarada e documentada — o que a torna exceção em vez de erosão. Ver *As duas exceções declaradas*. | 06 |
 | **O implante cura a perna?** | **Não, e o livro nunca diz que sim.** No desfile a perna não formiga; o que há é uma sensação de apertado por dentro que ele não consegue chamar nem de melhor nem de pior. | Uma cura no dia seguinte seria tecnologia milagrosa e resolveria alguma coisa, e este livro não resolve nada. O que o procedimento entrega é real, foi de graça, chegou sem ser pedido, **e é ilegível.** Nenhum capítulo pode dizer que ele melhorou. | 06, 40 |
 | **Aurel pediu o procedimento?** | **Não. Foi oferecido, e a data veio pronta.** | É a tese da conveniência aplicada ao personagem que passa o livro inteiro sem tocar na máquina. Aurel recebe sem pedir exatamente o tipo de coisa que Rita não consegue nem sendo ouvida, e **nenhum dos dois sabe da existência do outro**. Nenhum capítulo pode apontar o contraste. | 06 |
+| **A sobreposição é nomeada, descrita ou explicada em algum lugar?** | **Nunca, em nenhum lugar, por ninguém.** Sem termo, sem aparelho na página, sem gesto de ligar. Só comportamento. | Vocabulário inventado é o que envelhece mais rápido em ficção científica, e formato de equipamento é o que envelhece em segundo lugar. Um livro que não declara nem um nem outro não pode errar nenhum dos dois. Ver *A sobreposição*. | 01 em diante |
+| **Por que Teodor, Juno e Anselm não recebem o tratamento que existe?** | **Porque o critério não os alcança**, e o livro mostra o critério funcionando na mesa de Voss sem nunca ligar as cenas. | Se fosse falta de dinheiro, seria um livro sobre pobreza; se fosse crueldade, haveria um vilão. É uma faixa de indicação, uma janela de dezoito meses, um rol. **Nenhum personagem pode reclamar disso e nenhum capítulo pode apontar a assimetria com Aurel.** | 18, 20, 23 |
+| **Como funciona a tradução, e por que as três palavras não são traduzidas?** | **Não se explica.** Todo mundo se entende; as três palavras da Eszter chegam como som, porque são dela. | Mesma decisão da parede do mercado: o jeito de não precisar de tecnobabble é não olhar. E converte uma lacuna do mundo numa recusa da personagem, que é infinitamente melhor. | 11 |
 | **Houve um dia em que a errata e o balcão deixaram de existir?** | **Não houve dia.** Foi como a perna: em algum momento você percebe que já faz um tempo. | É a mesma recusa da mentira da ruptura e da mentira do interruptor. Nada no livro pode ter uma data de virada, inclusive o fim do casamento de Rita e Elias. | 01, 02, 19 |
 | **Citação de Hobsbawm** | O livro cita a edição Paz e Terra de 1990 e depois parafraseia de perto a sequência de abertura. **Pendente de verificação de permissão** — ver `docs/references.md`. | Ficção não tem mais latitude que ensaio aqui, e o livro vai para a KDP. | 01 |

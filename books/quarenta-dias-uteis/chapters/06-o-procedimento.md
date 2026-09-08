@@ -14,6 +14,8 @@ turn: não acha erro nenhum, e entende que não há onde marcar. Pede música, e
 threads:
 - fio-do-conforto
 - fio-do-registro
+pays:
+- o-corpo-observado
 seeds:
 - o-implante
 - a-frase-sem-erro
@@ -46,6 +48,11 @@ Uma senhora com o filho de meia-idade, e o filho segurando dois casacos.
 Um homem muito grande numa cadeira pequena. Uma moça com a perna esticada para
 a frente, com um fixador de metal do joelho para baixo, lendo alguma coisa na
 tela com a cara de quem não está lendo.
+
+Ninguém conversava, e não era silêncio de hospital. As pessoas estavam ocupadas.
+O filho de meia-idade olhava para um ponto acima do ombro da mãe e às vezes
+respondia a ela com meio segundo de atraso. A moça do fixador ria sozinha de uma
+coisa. Um homem no fundo mexia a boca sem som.
 
 O ar estava bom. As cadeiras tinham encosto alto. Havia bebedouro, e o
 bebedouro funcionava.
@@ -82,6 +89,12 @@ Foi assim: ele foi a uma consulta de rotina, que era de rotina de verdade, e no
 fim de tudo alguém — não uma pessoa, um aviso — perguntou se ele queria incluir
 uma avaliação funcional, que levava doze minutos e podia ser feita ali. Ele
 disse que sim porque já estava sentado.
+
+Não perguntaram por que. Não precisavam: quem sugeriu já sabia da perna. Ele mora
+num apartamento que conhece o passo dele nos últimos quatro metros do corredor
+desde o inverno passado, e nunca reclamou disso, e é a mesma coisa. A avaliação
+não foi para descobrir nada. Foi para escrever, num campo, uma coisa que já
+estava sabida em algum lugar onde não se escreve.
 
 Doze minutos. Andou de um lado para o outro num corredor com uma marca no chão,
 sentou, levantou, sentou. Não doeu nada. Não perguntaram nada que ele tivesse

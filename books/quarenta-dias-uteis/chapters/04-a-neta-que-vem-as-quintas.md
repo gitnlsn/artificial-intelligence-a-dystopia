@@ -40,7 +40,13 @@ Silêncio de três segundos. Depois:
 
 Nina sentou na cadeira do canto, que era a cadeira dela desde os quatro anos, com
 os dois pés em cima do assento e os joelhos na altura do queixo, numa posição
-que Aurel olhava com uma inveja física bastante concreta. Abriu o pacote pelo
+que Aurel olhava com uma inveja física bastante concreta.
+
+No caminho ela tinha parado dois segundos na frente da parede do corredor, que é
+lisa e bege e não tem nada, e olhado para ela, e seguido. Aurel viu e não
+perguntou. Perguntou uma vez, há uns dois anos, e ela explicou, e a explicação
+era comprida e ele entendeu a metade, e o que ficou dela foi que a pergunta em si
+tinha sido esquisita. Abriu o pacote pelo
 lado errado. Comeu duas de uma vez.
 
 Ele pôs a água para o chá dela, que era chá de mentira, morno e com muito
@@ -182,6 +188,19 @@ coisa que ele ainda faz melhor do que qualquer máquina.
 — Ah! — Genuína. Alta. — Está mesmo!
 
 — Está mesmo.
+
+— E fica?
+
+— Fica o quê?
+
+— A marca. Fica aí.
+
+— Fica aí. — Ele fechou o livro e abriu de novo na mesma página, para mostrar. —
+Vai estar aí amanhã, e vai estar aí quando você tiver a minha idade, e vai estar
+aí para quem abrir.
+
+Ela achou isso razoável e não achou notável, e voltou para o erro, que era o que
+interessava.
 
 — E você viu.
 

@@ -76,6 +76,14 @@ E por baixo, numa letra menor, dizendo que aquilo era uma projeção e podia mud
 Ela tinha trabalhado dezoito turnos numa semana, sete meses atrás. Ela lembra
 porque foi a semana em que comprou a máquina de lavar.
 
+Duas daquelas casas não existem mais como turno. Não morreu ninguém: puseram
+coisa nova. Na do seu Bertoldo puseram um negócio que levanta e vira, e o turno
+da tarde caiu fora, e a filha dele disse para a Rita, contente, que agora ele
+dorme melhor. Provavelmente dorme mesmo.
+
+Rita não fez conta nenhuma com isso. Ela guardou do jeito que se guarda: a casa
+do Bertoldo era boa e não é mais dela.
+
 ---
 
 Aqui está a coisa que a Rita levou meses para conseguir dizer, e que ela nunca

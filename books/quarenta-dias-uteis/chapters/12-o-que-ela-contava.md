@@ -161,7 +161,16 @@ E como ela não continuou, ele disse:
 — É.
 
 Depois ele levantou, levou os dois copos para a pia, e perguntou se ela ia querer
-ver alguma coisa. Ela disse que estava cansada. Ele disse tá bom.
+ver alguma coisa.
+
+Isso é uma frase antiga entre os dois e nenhum dos dois reparou em quando ela
+parou de querer dizer o que dizia. Ver alguma coisa juntos é escolher, e escolher
+junto é abrir mão, porque o que vem para ele não é o que vem para ela, e as duas
+coisas são melhores do que qualquer coisa que os dois topassem ao mesmo tempo. Já
+tinham feito isso. Deu certo umas quatro vezes e depois foi ficando trabalhoso, e
+o convite continuou.
+
+Ela disse que estava cansada. Ele disse tá bom.
 
 E foi para o quarto dos fundos.
 

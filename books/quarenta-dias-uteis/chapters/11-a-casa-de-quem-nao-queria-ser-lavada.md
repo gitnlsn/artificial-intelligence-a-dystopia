@@ -145,6 +145,16 @@ A Rita já ouviu aquilo umas trinta vezes em quatro anos. Sabe o som das três d
 cor, sabe onde a voz sobe e onde para, saberia imitar se alguém pedisse, e nunca
 soube o que queriam dizer.
 
+Tudo o mais que a dona Eszter diz chega na Rita na língua da Rita, e nenhuma das
+duas faz nada para que isso aconteça, e nenhuma das duas jamais comentou o
+assunto, do mesmo jeito que ninguém comenta a água sair da torneira. As três
+palavras não. As três chegam como som.
+
+A Rita achou durante muito tempo que fosse defeito — que fossem curtas demais, ou
+que a raiva embolasse. Depois parou de achar qualquer coisa a respeito, porque
+não é assunto de ninguém o que uma senhora de oitenta e seis anos diz para uma
+bacia de água.
+
 Depois dona Eszter respirou, endireitou o cardigã, e disse, na língua daqui,
 perfeitamente construída:
 

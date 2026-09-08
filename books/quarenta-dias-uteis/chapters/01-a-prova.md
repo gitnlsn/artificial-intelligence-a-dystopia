@@ -110,6 +110,20 @@ sala com duas janelas e uma quantidade de mundo entrando por elas que não
 diminuía nunca e não se organizava em lugar nenhum, e nada daquilo tinha um
 branco no mapa dizendo *aqui nós não sabemos*.
 
+E o pior nem era isso. O pior é que ele olhava pela janela e via a Aldan, e a
+Aldan estava escrita — o preço do café da esquina, o horário do 41, o nome da
+coisa que hoje ocupa o lugar da livraria, tudo no ar em cima das coisas, no
+tamanho certo, sem atrapalhar. Funcionava muito bem. Nunca tinha falhado.
+
+O que ele não sabia mais, e que não tinha como saber, é o que estava escrito na
+Aldan para o senhor do 408.
+
+Não é que ele desconfiasse de estar sendo enganado. Provavelmente não estava. É
+que a rua parou de ser um lugar onde duas pessoas leem a mesma coisa e ficou
+sendo um lugar onde duas pessoas leem, e ninguém percebeu a diferença porque a
+diferença não aparece: os dois olham para o mesmo poste e os dois respondem
+depressa e os dois estão certos.
+
 Do lado de fora a tarde estava naquele ponto em que a luz fica cor de papel
 velho e as coisas dentro de casa ficam mais nítidas do que foram o dia inteiro.
 A sala tinha duas janelas e ele mantinha as duas abertas até tarde, mesmo quando
@@ -229,7 +243,18 @@ muito mais difícil. Era com o vizinho.
 
 Porque o que ele fazia, junto com quatro mil pessoas em quatro mil redações,
 era manter uma coisa em pé que ninguém tinha combinado de manter em pé: uma
-página que era a mesma página na casa dele e na casa do vizinho. Podiam
+página que era a mesma página na casa dele e na casa do vizinho.
+
+Ele tentou explicar isso à Mira uma vez e escolheu mal as palavras. Disse que
+hoje ninguém lê a mesma página, e ela respondeu que lia sim, que tinham
+conversado sobre a mesma coisa na terça, e ela estava certa e ele estava certo e
+os dois estavam falando de coisas diferentes. Não é censura e não falta nada a
+ninguém. É que o que chega até uma pessoa é montado para aquela pessoa, e fica
+bom, e fica bom exatamente na medida — e duas coisas boas na medida para duas
+pessoas diferentes não são a mesma coisa, e não há nenhum lugar no mundo onde as
+duas possam ser postas lado a lado e conferidas.
+
+Podiam
 discordar de tudo o que estava escrito ali. Discordavam, aliás, e com prazer, e
 o Bendt e ele tinham quase brigado de verdade em 1996 por causa de um editorial.
 Mas discordavam *da mesma coisa*. A briga tinha um objeto. O objeto tinha
@@ -287,7 +312,13 @@ umas trezentas vezes na vida e tinha deixado passar sabe-se lá quantas.
 
 Aquele ali tinha cinquenta e sete anos. Tinha atravessado a revisão da editora,
 o gráfico, três reimpressões pelo menos, e a vida inteira do dono do livro, que
-podia ser ele ou podia ser a pessoa do pulso na folha de rosto. Ninguém ia
+podia ser ele ou podia ser a pessoa do pulso na folha de rosto.
+
+E estava ali para qualquer um. Essa era a parte que ele levava tempo demais
+para dizer sem soar sentimental, e por isso não dizia: se outra pessoa abrisse
+aquele exemplar naquela página, ia ver aquele *de* a mais. O mesmo. Não uma
+versão do *de*. O objeto era teimoso desse jeito. Tinta em papel não se ajusta
+a quem está olhando. Ninguém ia
 publicar errata de um livro de 1990. O tradutor estava morto. Hobsbawm estava
 morto. A rua Aldan tinha virado agência de alguma coisa.
 

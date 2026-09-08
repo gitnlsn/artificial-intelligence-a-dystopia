@@ -56,6 +56,12 @@ cadeira de encosto alto e não daquelas de plástico, tem um bebedouro que funci
 e um banheiro que estava limpo às dez da manhã de uma quinta-feira. Tem um painel
 que mostra a senha e o guichê, e o painel está sempre certo.
 
+Quase ninguém na sala está na sala. As pessoas esperam ocupadas: um rapaz mexe a
+mão pequeno, no colo, do jeito de quem está fazendo outra coisa; uma senhora ri;
+um homem de terno responde a alguém com meio segundo de atraso. A Rita fica
+olhando o painel, que é a única coisa naquela sala que está escrita igual para
+todo mundo, e é por isso que ela olha, embora ela não formule assim.
+
 Ela já esperou em lugares muito piores para conseguir coisas muito menores.
 
 Não tem nada errado com o Bloco C. É importante dizer isso porque tudo o que a

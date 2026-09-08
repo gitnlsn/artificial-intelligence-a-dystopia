@@ -59,6 +59,11 @@ e estava com o livro dele na mão.
 
 Ele levou uns segundos.
 
+Um livro de papel é uma coisa que se pode deixar em cima de uma balaustrada, e
+essa é uma das razões pelas quais ele compra em sebo. Voss nunca disse isso em
+voz alta porque soaria como opinião sobre o mundo, e ele não tem opinião sobre o
+mundo. É prático: o que se pode perder é o que se pode devolver.
+
 Passou a mão no braço, do lado em que o livro tinha estado, e não estava, e
 lembrou com clareza total do movimento — botar embaixo do braço, vestir o casaco,
 e em algum ponto entre a manga e o ombro ter apoiado na balaustrada.

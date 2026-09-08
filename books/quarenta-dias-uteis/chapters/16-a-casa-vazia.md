@@ -47,6 +47,14 @@ seguinte.
 
 ---
 
+A luz subiu quando ela entrou, como sobe. A chaleira estava quente, porque às
+sete da manhã de quinta alguém toma café naquela casa, e porque isso é verdade
+há anos.
+
+Ninguém tinha avisado o apartamento também.
+
+---
+
 O apartamento estava arrumado.
 
 Não arrumado como quem foi embora: arrumado como quinta-feira. A cama estava

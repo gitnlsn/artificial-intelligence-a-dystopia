@@ -38,6 +38,14 @@ Ele já estava acordado. Estava de camisa, o que às sete da manhã não é norm
 
 A mão esquerda estava embaixo da mesa.
 
+Não abre mais que dois terços e não vai abrir. Isso foi dito a ele em algum
+momento, por alguém, num lugar onde essas coisas são ditas, e ele nunca contou à
+Rita como foi dito nem quem disse. Ela sabe de gente que recuperou mais. Todo
+mundo sabe de gente que recuperou mais. É uma dessas coisas que se sabem sem que
+se saiba de onde, e sobre as quais não há ninguém a quem perguntar, e a Rita
+nunca perguntou, porque perguntar é abrir uma coisa que ela não tem como fechar
+antes das dez.
+
 ---
 
 Correu igual.

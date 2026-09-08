@@ -29,6 +29,12 @@ para aceitar. Noventa segundos é bastante tempo se você estiver com o telefone
 mão e for pouco tempo se você estiver com o telefone no bolso, e é por isso que
 Rita espera com o telefone na mão, com a tela apagada, o polegar por cima.
 
+Ela podia aceitar sem tocar em nada. Todo mundo aceita sem tocar em nada. Rita
+usa o telefone de propósito, porque uma vez, no primeiro ano, ela jurou ter
+aceitado um turno e o turno não constava, e não havia nada que ela pudesse
+mostrar a ninguém. Com o polegar existe um lugar onde ela encostou e uma hora em
+que encostou. Nunca precisou. Continua fazendo.
+
 Naquela manhã a tela não acendeu.
 
 Ela conferiu duas vezes se estava com sinal, do jeito que se confere, sabendo que
@@ -107,6 +113,17 @@ produto de limpeza descendo junto — e botou música alta do jeito que se bota
 música alta quando se vai lavar a casa inteira.
 
 E a música desceu.
+
+---
+
+A primeira coisa que ela fez foi conferir se era para ela.
+
+Não pensou nisso com essas palavras; o corpo fez sozinho, do jeito que a mão vai
+ao bolso. Ela olhou em volta procurando o lugar de onde aquilo tinha sido mandado
+e não havia lugar nenhum, e levou uns bons cinco segundos para entender que
+estava procurando a coisa errada.
+
+Vinha da janela. Só isso. Alguém tinha aberto uma janela.
 
 ---
 

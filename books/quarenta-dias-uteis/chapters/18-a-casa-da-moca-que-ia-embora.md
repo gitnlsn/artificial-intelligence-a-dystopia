@@ -29,6 +29,15 @@ perfeitamente bem e mandou mensagem duas vezes.
 O fixador sai em janeiro. Depois é fisioterapia. Depois, segundo a Juno, é o
 aeroporto.
 
+É de metal e tem oito pinos e ela o odeia com uma intimidade que a Rita respeita.
+Tem coisa melhor. A Juno sabe qual é, sabe o nome, disse o nome uma vez — e disse,
+na mesma frase e sem mudar de tom, que não era o caso dela. Não foi queixa. Foi
+informação, do jeito que se diz o preço de uma coisa que não se vai comprar.
+
+A Rita não perguntou por quê. Nas casas onde ela entra, o que existe e o que
+chega são dois assuntos diferentes, e ninguém confunde os dois, e ninguém
+conversa sobre isso.
+
 ---
 
 Ela é a única casa da Rita que não é de velho.
@@ -58,6 +67,12 @@ Naquela sexta a Juno estava com o mapa.
 
 Não um mapa de verdade — na tela, mas ela chama de mapa, e vira a tela para a
 Rita o tempo todo, e a Rita olha, e a Rita nunca sabe o que fazer com aquilo.
+
+Virar a tela é uma coisa que se faz de propósito e quase ninguém faz. A Juno faz
+sempre. Faz com o mapa, faz com a foto da prima, faz com a casa que a prima disse
+que dá para alugar, e nunca perguntou se a Rita queria ver. É o motivo pelo qual
+a Rita gosta dela mais do que devia, e ela sabe que é o motivo, e acha o motivo
+meio bobo.
 
 — Aqui — disse. — Este aqui. Vinte e dois graus o ano inteiro. O ano inteiro,
 Rita.

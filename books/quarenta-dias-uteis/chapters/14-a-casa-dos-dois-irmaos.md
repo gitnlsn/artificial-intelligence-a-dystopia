@@ -75,6 +75,19 @@ longe, atravessando o telefone dos dois.
 
 Liga primeiro embaixo, umas nove e vinte. Depois em cima, umas onze.
 
+Ela podia fazer melhor que isso e já tentou. Uma vez, faz uns três anos, marcou
+de estar com os dois — de estar mesmo, os três na mesma sala, do jeito que se faz
+hoje com quem mora longe, e ela explicou tudo direitinho por escrito e disse a
+hora. O Anselm contou isso à Rita rindo, como quem conta uma bobagem de irmã mais
+nova.
+
+Não foi. Nenhum dos dois diz qual foi o que não foi.
+
+E a Rita, que sobe e desce aquela escada três vezes por semana, entendeu naquele
+dia uma coisa que ela nunca falou com ninguém: **o problema não é a escada.**
+Tiraram a escada do meio e sobrou exatamente o mesmo. A Nadia continua ligando
+duas vezes.
+
 ---
 
 Às onze e dez, em cima, com a perna do Anselm no banquinho e a gaze na mão da

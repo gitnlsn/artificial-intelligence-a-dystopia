@@ -288,6 +288,12 @@ sentado na poltrona, e tinha achado que era o fundo.
 
 O que se perdeu foi o **balcão**.
 
+O recorte é de papel e por isso ainda é um recorte. Foi impresso noventa e quatro
+mil vezes numa noite de março e as noventa e quatro mil eram iguais, e a que
+sobrou está na mão dele, e diz hoje o que dizia então, e diria a mesma coisa para
+quem chegasse. Não é nostalgia: é uma propriedade física de uma coisa que não
+pode ser ajustada depois.
+
 Aurel botou o recorte de volta na pasta e a pasta em cima da escrivaninha, não na
 gaveta, e ficou olhando para ela do outro lado da sala enquanto esperava a água.
 Estava tentando pensar num lugar, um só, na cidade inteira, onde uma pessoa

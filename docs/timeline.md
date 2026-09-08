@@ -61,6 +61,7 @@ e a correção foi encontrada numa releitura, não por uma ferramenta.
 | 2038 | Num restaurante, Elias diz a Rita que acha lindo ela contar as coisas duas vezes. Ela fica constrangida e feliz | Elias, Rita | A paciência |
 | 2039 | Voss passa a sentar no terceiro lugar da esquerda na conferência trimestral, de costas para a janela | Voss | A conferência |
 | 2039 | Última madeira cortada na casa de Teodor. Continua cheirando | Rita | A casa do velho Teodor |
+| 2039 | Oferecem a Ilse a Aurel, no fim de outra coisa. Ele recusa, e nunca conta a ninguém. A Mira perguntará duas vezes, em anos diferentes | Aurel | A casa que ficou grande |
 | 2041 | Voss recusa a mesa da janela pela primeira vez | o andar | O revisor de exceções |
 | 2041–42 | A sala em cima da loja fecha; Selma se aposenta. Sem demissão, sem carta | Rita | A escala |
 | 2043 | O parâmetro de doze semanas é negociado por um grupo de quatro: alguém queria dezesseis, alguém queria oito. **Voss estava na sala quando o doze foi inventado** | Voss | O critério muda |
@@ -68,6 +69,7 @@ e a correção foi encontrada numa releitura, não por uma ferramenta.
 | 2043 | Rita ainda não calcula, antes de contar, quanto vai custar contar | Rita, depois | O que ela contava |
 | 2043 | O prédio do seu Vilmar fica sem porteiro | Rita | A casa vazia |
 | 2044 | Numa reunião, Voss diz em voz alta que a exceção é o buraco por onde o favor volta, e se arrepende porque soou duro | Voss | O revisor de exceções |
+| ≈2044 | Nadia marca de estar com os dois irmãos na mesma sala, do jeito que se faz com quem mora longe. Não foi, e nenhum dos dois diz qual foi o que não foi | Anselm, Kasper, depois Rita | A casa dos dois irmãos |
 | 2044 | Kasper tem um princípio de alguma coisa e fica com medo, e o medo vira a doença principal | Kasper, Rita | A casa dos dois irmãos |
 | 2045 | Voss recusa a mesa da janela pela segunda vez | o andar | O revisor de exceções |
 | 2045-10 | O pai de Elias adoece. Sete meses. As piores horas entre três e cinco | Elias | O ano passado |
@@ -75,6 +77,7 @@ e a correção foi encontrada numa releitura, não por uma ferramenta.
 | 2046-01 | Elias chora. Rita fica com ele até tarde e no dia seguinte trabalha mal dormida e não reclama | Elias | O ano passado |
 | 2046-04 | Uma noite às 3h40, no chão do corredor, Elias fala do pai em vez de falar de estoque. Não houve decisão nenhuma | Elias | O ano passado |
 | 2046-05-24 | O pai morre às 4h40. Elias chega em casa às 5h03; o despertador de Rita toca às 5h20. Ele espera dezessete minutos, e fala | Elias | O ano passado |
+| ≈2046 | Puseram coisa nova na casa do seu Bertoldo e o turno da tarde caiu fora. A filha dele diz a Rita, contente, que agora ele dorme melhor | Rita, sem fazer conta | A escala |
 | ≈2047-03 | Teodor para de descer. Serão sete meses | Teodor | A casa do velho Teodor |
 | ≈2047-03 | A semana em que Rita fez dezoito turnos e comprou a máquina de lavar. Sete meses antes do livro | Rita | A escala |
 | 2047-08-12 | Aurel faz uma avaliação funcional de doze minutos no fim de uma consulta de rotina. **Foi oferecida; ele disse sim porque já estava sentado** | Aurel | O procedimento |

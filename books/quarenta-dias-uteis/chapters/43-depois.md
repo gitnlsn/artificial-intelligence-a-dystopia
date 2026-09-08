@@ -85,6 +85,13 @@ A Nina não olhou para nenhuma delas em particular.
 
 ---
 
+O nome da farmácia estava de volta em cima da farmácia.
+
+O preço do sorvete estava em cima do carrinho, e a Nina conferiu, do jeito que se
+confere, e era o mesmo de sempre.
+
+---
+
 — Vô.
 
 — Oi.

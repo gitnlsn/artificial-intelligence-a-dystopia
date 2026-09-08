@@ -15,6 +15,7 @@ threads:
 - fio-do-registro
 pays:
 - o-implante
+- a-rua-sem-escrita
 - a-frase-sem-erro
 - o-recorte
 - o-nome-do-periodo
@@ -150,6 +151,13 @@ não ia achar nunca, porque o que faltava não estava na cabeça dele.
 Faltava a rua.
 
 Faltava mil pessoas fazendo *ah* na mesma fração de segundo.
+
+E não havia nada escrito em cima de nada. Ele tinha visto isso da janela na
+véspera, o trecho todo montado e limpo, e tinha achado estranho sem saber por
+quê, e tinha resolvido que era só uma rua sendo preparada.
+
+Era. Só que uma rua preparada é uma rua onde ninguém recebe a sua própria versão
+do que está passando.
 
 E uma menina de nove anos tinha respondido isso a ele numa cozinha, com bolacha
 na mão, em quatro palavras, e ele tinha levado dois dias para admitir que era uma

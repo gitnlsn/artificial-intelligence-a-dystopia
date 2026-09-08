@@ -13,6 +13,7 @@ threads:
 - fio-do-desfile
 seeds:
 - nina-leva-o-avo
+- a-rua-sem-escrita
 cast:
 - aurel
 - mira
@@ -204,6 +205,18 @@ facilidade que ele levou dois dias para admitir que era uma solução de verdade
 
 Todo mundo na rua olhando a mesma coisa. E depois dá para brigar sobre se foi
 bom.
+
+Ele voltou à janela antes de guardar a xícara.
+
+As grades já iam até a esquina da Vetten e não havia mais nada ali. Nenhum nome,
+nenhum horário, nenhum aviso pairando sobre o trecho, nada oferecido a ninguém —
+só ferro galvanizado numa rua, com três homens e um caminhão, e a marca de giz no
+asfalto onde o encaixe vai. Ele ficou olhando aquilo e demorou a entender o que
+tinha achado estranho, e o que tinha achado estranho era que não havia nada
+escrito.
+
+Depois entendeu que era só uma rua sendo preparada, e que ruas sendo preparadas
+são assim, e largou o assunto.
 
 Aurel enxaguou a xícara.
 

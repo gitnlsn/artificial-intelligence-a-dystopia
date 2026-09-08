@@ -16,6 +16,7 @@ cast:
 status: draft
 seeds:
 - o-piso-morno
+- o-corpo-observado
 ---
 Às três e dez ele acordou, como acorda um homem de oitenta e dois anos, sem
 motivo e sem sono, e ficou deitado no escuro fazendo a conta de quanto tempo
@@ -31,6 +32,12 @@ banheiro, dois metros e meio, estava numa temperatura agradável de pé descalç
 estava assim porque ele passa por ali entre três e três e meia quase todas as
 noites desde que a próstata resolveu ter opinião, e a casa aprendeu isso sozinha
 em algum momento do inverno passado.
+
+A casa sabe outras coisas. Sabe de quanto em quanto tempo ele levanta, e há
+quanto tempo é assim, e que a perna esquerda muda o passo dele nos últimos
+quatro metros do corredor. Ninguém nunca mediu nada nele. Ele nunca fez exame
+nenhum de perna. É só que ele mora aqui, e morar aqui é ser acompanhado, e ele
+sabe disso do mesmo jeito que sabe o som do 41: sem pensar, e o tempo todo.
 
 Ele nunca pediu. Não teria pedido. Pedir para aquecer dois metros e meio de
 corredor às três da manhã é o tipo de coisa que um homem não pede nem para a
@@ -181,6 +188,34 @@ ele tinha ficado deitado fingindo que dormia, e depois tinha ficado com aquilo
 na cabeça por um dia e meio, e depois tinha esquecido.
 
 Aurel não gostou de si mesmo por um instante razoavelmente longo.
+
+---
+
+Em 2039 ofereceram a Ilse.
+
+Não com essas palavras, e não foi um vendedor; foi uma pergunta educada no fim
+de outra coisa, do jeito que tudo chega. Ele podia ter a voz dela, o jeito dela
+de armar uma frase, as opiniões dela sobre as pessoas que os dois conheciam.
+Fizeram questão de dizer que muita gente da idade dele achava aquilo um alívio, e
+provavelmente é verdade.
+
+Ele recusou, e a razão não é bonita e ele nunca a contou a ninguém.
+
+Não foi lealdade. Não foi achar mórbido, e ele já viu chamarem de mórbido e não
+concorda. Foi isto: para ter a Ilse de volta ele teria que descrevê-la. Alguém ia
+perguntar como ela era, e ele ia responder, e ele responderia errado — não muito,
+mas errado, do jeito que um homem erra a mulher com quem viveu trinta e cinco
+anos. Ia deixar de fora a impaciência. Ia deixar de fora a luz do teto às duas da
+manhã, porque ninguém pede isso de volta.
+
+E aí a versão errada seria a que responde. Todo dia. Sem ninguém do outro lado
+para dizer *não foi bem assim*.
+
+Ele passou a vida conferindo o que estava escrito contra o que tinha acontecido,
+e não ia assinar aquilo.
+
+A Mira perguntou duas vezes, em anos diferentes, com muito cuidado. Nas duas ele
+disse que não precisava.
 
 ---
 

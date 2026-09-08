@@ -51,6 +51,25 @@ Deferido. Oito e catorze.
 
 ---
 
+Mulher, sessenta e sete, pede autorização para reparo tecidual em joelho.
+
+O procedimento consta. A faixa de indicação vai até sessenta e cinco.
+
+Indeferido. Oito e dezessete.
+
+---
+
+Homem, cinquenta e um, pede reavaliação de indicação recusada para a mão
+esquerda, sequela de evento vascular. Anexou dois laudos, e os dois dizem a mesma
+coisa que o primeiro dizia.
+
+A janela de indicação é de dezoito meses a contar do evento. O evento tem
+vinte e nove.
+
+Indeferido. Oito e dezenove.
+
+---
+
 Ele gosta de deferir.
 
 Isso é uma coisa que ninguém acredita quando ele diz e que é simplesmente

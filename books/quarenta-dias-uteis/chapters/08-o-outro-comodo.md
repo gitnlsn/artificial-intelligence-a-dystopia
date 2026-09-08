@@ -22,6 +22,9 @@ O quarto dos fundos tem uma cadeira de escritório com um braço quebrado, uma
 mesa que era da mãe dele, e uma janela que dá para o poço de ventilação. É o
 pior cômodo da casa. Foi por isso que sobrou para ele.
 
+E é o único com chão livre suficiente, o que também conta, embora ele nunca tenha
+posto as duas coisas na mesma frase.
+
 Elias chega em casa às sete e dez, quase todo dia, porque o depósito fecha às
 seis e meia e o 12 é razoavelmente pontual. Toma banho. Come alguma coisa em pé,
 na bancada, porque comer sentado sozinho é uma coisa que ele nunca aprendeu a
