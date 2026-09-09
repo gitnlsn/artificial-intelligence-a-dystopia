@@ -41,7 +41,8 @@ puxando para o tabaco, e se você dobrar ele racha em vez de vincar. Aurel não
 dobrou. Levou até a sala com as duas mãos, do jeito ligeiramente ridículo com
 que se carrega uma coisa que não é pesada.
 
-Eram quatro linhas, em corpo seis, no pé da página onze.
+Eram quatro linhas, em corpo seis, no pé da página onze da edição de 15 de
+março de 1991.
 
 > **ERRATA** — Na edição de 14 de março, na relação das vítimas do incêndio da
 > rua Vetten, foi publicado o nome de Emil Roht. Emil Roht está vivo. A vítima
@@ -51,31 +52,25 @@ Ele sabia de cor. Sabia até o corpo da letra. Mesmo assim leu.
 
 ---
 
+Ele tinha vinte e seis anos em 1991 e estava havia três na redação.
+
 A lista tinha chegado às onze e quarenta da noite, do corpo de bombeiros, com
 dezenove nomes e o número do apartamento ao lado de cada um, e o jornal fechava
 à uma. Isso não era um aperto: isso era terça-feira.
 
-A redação à meia-noite tinha um cheiro que ele saberia reconhecer hoje de olhos
-fechados, e que era feito de três coisas: cera quente da máquina de colagem,
-fixador da sala de fotolito, e café requentado num bule que ninguém lavava por
-superstição. Somava mal. Depois de uma hora você parava de sentir.
+O cheiro era de cera quente, de fixador e de café requentado, e somava mal, e
+depois de uma hora você parava de sentir. Uma lâmpada em cima da editoria de
+cidade piscava havia dois anos, e havia um bilhete pedindo a troca pregado na
+coluna, com a data.
 
-O som era o das teclas, do ar-condicionado que só funcionava de um lado da sala,
-e do telex antigo que já não servia para nada e que ninguém tinha desligado
-porque era do tempo do fundador. As lâmpadas eram fluorescentes e uma delas, em
-cima da editoria de cidade, piscava. Piscava havia dois anos. Existia um bilhete
-pedindo a troca, pregado na coluna, com a data.
+Nada daquilo importa e ele sabe que não importa. Um prédio inteiro montado para
+imprimir a mesma folha noventa e quatro mil vezes é uma coisa cara e desajeitada
+e ninguém tem por que ter saudade dela. O que estava sendo montado ali não era a
+folha.
 
 A mesa da revisão ficava no fundo, longe da janela, e era proposital: quem revisa
 não deve ver a rua. Eram quatro cadeiras e naquela noite duas estavam ocupadas.
 Ele e o Márcio.
-
-As provas chegavam da fotocomposição em tiras compridas, ainda com cheiro de
-químico, e a gente pendurava num varal de arame com prendedor de roupa, na
-ordem da página. Havia um varal. Isso é uma coisa que ele conta e as pessoas
-acham que ele está inventando: havia um varal de arame numa redação, com
-prendedor de madeira, e a página do dia seguinte ficava pendurada nele como
-roupa de bebê.
 
 ---
 
@@ -116,8 +111,8 @@ aquilo dava perto de meia hora e não tinha jeito de dar menos.
 
 No cadastro do prédio, no 402, estava escrito *Roht, A.*
 
-Ele tinha vinte e seis anos e três de casa. Quando entregou, o Márcio olhou o
-relógio e disse, sem levantar a cabeça, *rápido demais para lista*. Aurel
+Quando entregou, o Márcio olhou o relógio e disse, sem levantar a cabeça,
+*rápido demais para lista*. Aurel
 respondeu alguma coisa que na hora pareceu razoável.
 
 No apartamento 402 moravam dois irmãos. O cadastro tinha sido preenchido em 1986

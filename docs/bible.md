@@ -87,6 +87,73 @@ alguém relaxar:**
   esvazia, **o nome da farmácia volta para cima da farmácia** e a Nina confere o
   preço do sorvete. Ninguém comenta nenhuma das três coisas.
 
+## A casa de Aurel — o que ela mede, e o que ela não entende
+
+Descrita em detalhe em *A casa que ficou grande* e cobrada em *O procedimento*.
+Nada de mecanismo, nada de nome, e tudo o que está escrito aqui é coisa que
+Aurel poderia ter deduzido morando ali onze anos.
+
+**O que ela mede.** O chão pesa, a noite inteira, em todo cômodo — e o que pesa
+não é o peso, é *o jeito como o peso chega*: qual pé recebe primeiro, quanto
+tempo fica, se hesita antes de passar. Uma pessoa atravessando um corredor no
+escuro deixa uma assinatura tão específica quanto a da mão dela num papel, **e
+mais difícil de imitar, porque ninguém sabe fazer a sua de propósito.**
+
+**Os números, que são o que o leitor admira e o que Aurel pode ter contado:**
+
+- **umas onze mil travessias** do corredor desde a morte de Ilse;
+- o intervalo noturno **encurtou uns onze minutos em dois anos**;
+- o pé esquerdo fica **quatro décimos de segundo a mais** no chão antes de o
+  direito sair — **eram dois décimos havia dezoito meses**;
+- a mão direita apoia na parede **nos últimos quatro metros e não nos primeiros**.
+
+**Como ela aprendeu a temperatura do corredor, e este é o parágrafo que faz o
+trabalho todo:** não foi de uma vez. Durante umas duas semanas do inverno passado
+esteve um pouco morno, depois um pouco mais, depois um pouco mais que isso — e
+num certo ponto ele parou de atravessar depressa, e no dia seguinte estava igual
+ao dia anterior, e ficou. **Ela mexeu, olhou o que ele fez, e parou de mexer.**
+Isso é aprendizado de máquina inteiramente descrito, sem uma palavra de
+mecanismo e sem um termo inventado. É o modelo do que este livro faz com
+tecnologia.
+
+**O que ela não sabe, e é a metade que importa.** Não sabe por que ele levanta às
+três. Não sabe que ele fala sozinho — ou sabe que há som e não sabe o que é dito,
+ou sabe o que é dito e não tem onde guardar, **e as três possibilidades dão
+exatamente no mesmo.** Não sabe da Ilse. Não sabe que dois quartos estão
+fechados: sabe que duas portas não abrem há onze anos, *o que é a mesma coisa que
+saber que uma torneira não é usada.* A casa sente tudo e não compreende nada, e
+essa fronteira não pode ser atravessada em nenhum capítulo.
+
+**Não há tela.** Em lugar nenhum daquele apartamento está escrito *onze mil*.
+Aurel sabe o tamanho do que a casa repara do jeito que se sabe uma coisa com que
+se mora, e nunca lhe mostraram nada — que é o balcão outra vez, e ninguém diz
+isso.
+
+## Como a indicação de Aurel foi produzida — e por que é a mesma frase que mata o rapaz de Brenna
+
+Em *O procedimento*, a voz explica de onde veio a indicação, e explica bem. É a
+passagem mais técnica do livro e está na boca de uma máquina de propósito: ali,
+ser preciso é estar em personagem, e o relato é um documento lido em voz alta.
+
+O que ela diz: a indicação **não saiu da perna dele.** Saiu de uma comparação —
+onze anos de travessias, oitenta e dois anos de idade, um intervalo noturno que
+encurtou, uma hesitação que dobrou em dezoito meses — contra um número grande de
+pessoas cujas travessias mudaram do mesmo jeito e na mesma ordem, das quais uma
+proporção conhecida parou de sair de casa dentro de dezoito a trinta meses.
+
+E então, **sem que ele pergunte**, a limitação: aquela proporção é uma
+propriedade do grupo e não uma propriedade dele; não há como saber antes se ele
+está dentro dela; o procedimento é oferecido a todos daquela comparação porque
+não existe maneira de separar; **e isso é uma limitação do método e não uma
+informação sobre o caso dele.**
+
+**É literalmente o mesmo enunciado que destrói o rapaz de dezenove anos de
+Brenna** — *o modelo está certo sobre perfis e é aplicado sobre uma pessoa*
+(cap. 25, e a linha de *Decisões já tomadas*). A diferença inteira é que num caso
+o modelo oferece e no outro retarda. **Nenhum dos dois personagens sabe da
+existência do outro, e nenhum capítulo pode aproximar as duas cenas.** É o par
+mais forte do livro e ele funciona só enquanto ninguém apontar.
+
 ## A medicina é excelente e é alocada
 
 O tratamento existe. O critério decide quem recebe. **Nenhum personagem reclama

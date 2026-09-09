@@ -33,11 +33,43 @@ estava assim porque ele passa por ali entre três e três e meia quase todas as
 noites desde que a próstata resolveu ter opinião, e a casa aprendeu isso sozinha
 em algum momento do inverno passado.
 
-A casa sabe outras coisas. Sabe de quanto em quanto tempo ele levanta, e há
-quanto tempo é assim, e que a perna esquerda muda o passo dele nos últimos
-quatro metros do corredor. Ninguém nunca mediu nada nele. Ele nunca fez exame
-nenhum de perna. É só que ele mora aqui, e morar aqui é ser acompanhado, e ele
-sabe disso do mesmo jeito que sabe o som do 41: sem pensar, e o tempo todo.
+A casa sabe outras coisas.
+
+Sabe de quanto em quanto tempo ele levanta, e há quanto tempo é assim, e que o
+intervalo encurtou uns onze minutos em dois anos. Sabe que ele apoia a mão
+direita na parede nos últimos quatro metros do corredor e não nos primeiros.
+Sabe quanto tempo o pé esquerdo fica no chão antes de o direito sair, e sabe que
+essa diferença cresceu.
+
+Não é que ela olhe. O chão pesa. Pesa a noite inteira, em todo cômodo, e o que
+ele pesa não é o peso: é o jeito como o peso chega — qual pé recebe primeiro,
+quanto tempo fica, se hesita antes de passar. Uma pessoa atravessando um corredor
+no escuro deixa uma assinatura tão específica quanto a da mão dela num papel, e
+mais difícil de imitar, porque ninguém sabe fazer a sua de propósito.
+
+Ele atravessou aquele corredor umas onze mil vezes desde que a Ilse morreu.
+
+E a coisa que ele achou notável, quando finalmente parou para pensar naquilo com
+atenção, não foi o número. Foi como o corredor tinha chegado à temperatura certa.
+Não foi de uma vez. Durante umas duas semanas do inverno passado esteve um pouco
+morno, e depois um pouco mais, e depois um pouco mais que isso — e num certo
+ponto ele parou de atravessar depressa, e no dia seguinte estava exatamente igual
+ao dia anterior, e está assim desde então. A casa não perguntou nada a ninguém.
+Ela mexeu, olhou o que ele fez, e parou de mexer quando ele parou de se apressar.
+
+Não tem nada de misterioso nisso, e é por isso que assusta.
+
+E o que ela não sabe é todo o resto. Não sabe por que ele levanta às três. Não
+sabe que ele fala sozinho — ou sabe que há som e não sabe o que é dito, ou sabe o
+que é dito e não tem onde guardar, e as três possibilidades dão exatamente no
+mesmo. Não sabe da Ilse. Não sabe que dois quartos estão fechados: sabe que duas
+portas não abrem há onze anos, o que é outra coisa, e é a mesma coisa que saber
+que uma torneira não é usada.
+
+Ninguém nunca lhe mostrou nada disso. Não existe, em lugar nenhum daquele
+apartamento, uma tela onde esteja escrito *onze mil*. Aurel sabe porque um homem
+que passou onze anos sozinho com uma coisa atenciosa acaba entendendo, sem que
+ninguém explique, mais ou menos o tamanho do que ela repara.
 
 Ele nunca pediu. Não teria pedido. Pedir para aquecer dois metros e meio de
 corredor às três da manhã é o tipo de coisa que um homem não pede nem para a

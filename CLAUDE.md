@@ -101,19 +101,36 @@ prose earns its position by describing them in particulars.
 - **Understate.** The flatter the sentence, the worse the fact lands. The book
   never tells the reader that something is horrifying; it reports it and moves
   on, and the silence afterwards does the work.
-- **No technobabble — which is a rule about rendering, not about quantity.** The
-  book is dense with 2047: an overlay written on every surface, allocated
-  medicine, robotic care, universal translation, autonomous logistics, a talking
-  surgical machine. None of it is ever explained. Describe technology by what it
-  does to someone, never by how it works. Invented vocabulary dates faster than
-  anything else in science fiction, and *described hardware* dates second
-  fastest — so the overlay has no name and no device on the page, and the reader
-  knows it exists only from behaviour: an eye going to a point where there is
-  nothing, half a second of delay before an answer, a child in front of a blank
-  wall, someone turning a screen so another person can see. The full contract is
-  in `docs/bible.md`, *A sobreposição*. When a term is needed, it should sound
-  like something an institution would actually name: bureaucratic, dull, faintly
-  euphemistic.
+- **No technobabble — a rule about *rendering*, not about quantity or depth.**
+  The book is dense with 2047 and describes it in detail: an overlay written on
+  every surface, allocated medicine, robotic care, universal translation, a
+  talking surgical machine, a flat that has weighed eleven thousand crossings of
+  one corridor. **Go deep.** What is forbidden is one specific move — explaining
+  the working principle, or naming it. Invented vocabulary dates faster than
+  anything else in science fiction and *described hardware* dates second fastest,
+  so this book buys its depth in the three currencies that do not rot:
+
+  - **Behaviour.** The house warmed the corridor a little more each night for two
+    weeks, watched him stop hurrying, and stopped changing it. That is machine
+    learning, fully described, with no mechanism and no term.
+  - **Scale, with numbers.** Eleven thousand crossings. Four tenths of a second,
+    which were two tenths eighteen months ago. A named proportion, and the size
+    of the population it came from. Specific numbers are what a reader admires;
+    they are also what a character can plausibly have been told.
+  - **Declared limits.** What the thing cannot do is more interesting than what
+    it can, and it is the book's argument. The house senses everything and
+    understands nothing: it knows two doors have not opened in eleven years, the
+    way it knows a tap is unused.
+
+  The hard boundary is `pov:` — nothing on the page may be known that the POV
+  character does not know, so every technical fact must be something the
+  character worked out, was told, or could observe. **The deepest technical
+  passage in the book is therefore in the machine's mouth** in *O procedimento*,
+  where being precise is in character and the account is a document read aloud.
+  The overlay is the one thing that stays wholly unexplained — no name, no device
+  on the page, known only from behaviour; contract in `docs/bible.md`,
+  *A sobreposição*. When a term is needed, it should sound like something an
+  institution would actually name: bureaucratic, dull, faintly euphemistic.
 - **Dialogue does not explain the world.** Nobody tells another character what
   they both already know. If the reader needs a fact, they get it the way people
   get facts: incompletely, late, from someone with a reason to shade it.

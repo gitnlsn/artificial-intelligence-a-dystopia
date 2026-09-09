@@ -90,15 +90,27 @@ fim de tudo alguém — não uma pessoa, um aviso — perguntou se ele queria in
 uma avaliação funcional, que levava doze minutos e podia ser feita ali. Ele
 disse que sim porque já estava sentado.
 
-Não perguntaram por que. Não precisavam: quem sugeriu já sabia da perna. Ele mora
-num apartamento que conhece o passo dele nos últimos quatro metros do corredor
-desde o inverno passado, e nunca reclamou disso, e é a mesma coisa. A avaliação
-não foi para descobrir nada. Foi para escrever, num campo, uma coisa que já
-estava sabida em algum lugar onde não se escreve.
+Não perguntaram por que. Não precisavam: quem sugeriu já sabia da perna.
 
 Doze minutos. Andou de um lado para o outro num corredor com uma marca no chão,
-sentou, levantou, sentou. Não doeu nada. Não perguntaram nada que ele tivesse
-que responder por escrito.
+sentou, levantou, sentou, e uma moça que não olhou para ele em nenhum momento
+disse *pode ir*. Não doeu nada. Não perguntaram nada que ele tivesse que
+responder por escrito.
+
+E aquilo não foi um exame. Ele entendeu na hora e não disse nada, porque não
+havia com quem falar e porque não tinha objeção nenhuma a fazer.
+
+O que os doze minutos mediram não foi a perna. Foi a hesitação: os quatro
+décimos de segundo a mais que o pé esquerdo dele passa no chão antes de o direito
+sair. Quatro décimos. Eram dois havia dezoito meses, e ele não sabia disso, e o
+corredor da casa dele sabia desde o inverno passado.
+
+O que a avaliação fez, então, foi outra coisa, e ele levou algumas noites para
+formular com precisão: ela pegou uma coisa observada e transformou numa coisa
+escrita. Enquanto estava só observada não existia para ninguém — não dava para
+pedir com ela, não dava para recorrer dela, não dava para mostrar a ninguém. Doze
+minutos num corredor com uma marca no chão, e a mesma coisa passou a existir num
+campo, com uma data.
 
 Três semanas depois veio o comunicado com a data já dentro.
 
@@ -219,6 +231,33 @@ ele sentisse, era para falar, e que havia o que fazer.
 Disse que o efeito não era imediato. Que a sensibilidade da perna ia mudar ao
 longo de algumas semanas e que a mudança podia ser desagradável no começo. Não
 disse *desconforto*. Disse desagradável.
+
+---
+
+E disse como ele tinha chegado ali.
+
+Isso Aurel não esperava, e foi a parte que ele ouviu com mais atenção do que
+qualquer outra, porque foi a única em que ele não sabia o que vinha.
+
+A indicação não tinha saído da perna dele. Tinha saído de uma comparação: onze
+anos de travessias de corredor, oitenta e dois anos de idade, um intervalo
+noturno que encurtou, uma hesitação que dobrou em dezoito meses — e, do outro
+lado, um número grande de pessoas cujas travessias tinham mudado do mesmo jeito e
+na mesma ordem. Dessas, uma proporção conhecida tinha parado de sair de casa
+dentro de dezoito a trinta meses.
+
+A voz disse a proporção. Disse também quantas pessoas havia na comparação, e o
+número era alto, e Aurel achou o número alto.
+
+E disse depois, sem que ele tivesse perguntado, o seguinte: que aquela proporção é
+uma propriedade do grupo e não uma propriedade dele. Que não há como saber, antes,
+se ele está dentro dela ou fora. Que o procedimento é oferecido a todas as pessoas
+daquela comparação porque não existe maneira de separar as que precisam das que
+não precisam, e que isso é uma limitação do método e não uma informação sobre o
+caso dele.
+
+Disse essa última frase inteira, com essas palavras, e depois passou para o item
+seguinte.
 
 Disse que o implante não era removível sem um segundo procedimento e disse do
 que esse segundo procedimento consistia, sem que ele tivesse perguntado.
