@@ -111,9 +111,19 @@ diminuía nunca e não se organizava em lugar nenhum, e nada daquilo tinha um
 branco no mapa dizendo *aqui nós não sabemos*.
 
 E o pior nem era isso. O pior é que ele olhava pela janela e via a Aldan, e a
-Aldan estava escrita — o preço do café da esquina, o horário do 41, o nome da
-coisa que hoje ocupa o lugar da livraria, tudo no ar em cima das coisas, no
-tamanho certo, sem atrapalhar. Funcionava muito bem. Nunca tinha falhado.
+Aldan estava escrita.
+
+O preço do café ficava a uns dois palmos acima do toldo, em letra fina e clara,
+com o número maior que o resto, e acompanhava o toldo se o vento mexesse. O
+horário do 41 ficava em cima do ponto, três linhas, e a de cima ia mudando de
+minuto. O nome da coisa que hoje ocupa o lugar da livraria estava colado na
+fachada como se estivesse pintado ali, e não estava, e Aurel sabe que não está
+porque a fachada por baixo é de tijolo e ele viu o tijolo em 1994.
+
+As letras não brilham. Ficam do tom da parede, um pouco mais claras, e recuam
+quando ele olha para outra coisa. Quando um carro passa na frente de um preço, o
+preço fica atrás do carro, do jeito certo. Tudo no tamanho certo, tudo sem
+atrapalhar. Funcionava muito bem. Nunca tinha falhado.
 
 O que ele não sabia mais, e que não tinha como saber, é o que estava escrito na
 Aldan para o senhor do 408.

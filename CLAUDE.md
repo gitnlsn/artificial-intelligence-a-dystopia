@@ -101,26 +101,46 @@ prose earns its position by describing them in particulars.
 - **Understate.** The flatter the sentence, the worse the fact lands. The book
   never tells the reader that something is horrifying; it reports it and moves
   on, and the silence afterwards does the work.
-- **No technobabble — a rule about *rendering*, not about quantity or depth.**
-  The book is dense with 2047 and describes it in detail: an overlay written on
-  every surface, allocated medicine, robotic care, universal translation, a
-  talking surgical machine, a flat that has weighed eleven thousand crossings of
-  one corridor. **Go deep.** What is forbidden is one specific move — explaining
-  the working principle, or naming it. Invented vocabulary dates faster than
-  anything else in science fiction and *described hardware* dates second fastest,
-  so this book buys its depth in the three currencies that do not rot:
+- **Show the machines. Describe them.** *(Author's decision — this replaces the
+  former no-hardware rule, which said never to name the technology or describe
+  its shape. That rule was making the book read like the present day, because
+  every futuristic object it touched turned into an absence: aircraft became "a
+  sound overhead", the overlay became a blank wall. It was asked for three times
+  and it is settled — the machines are on the page now.)*
 
-  - **Behaviour.** The house warmed the corridor a little more each night for two
-    weeks, watched him stop hurrying, and stopped changing it. That is machine
-    learning, fully described, with no mechanism and no term.
-  - **Scale, with numbers.** Eleven thousand crossings. Four tenths of a second,
-    which were two tenths eighteen months ago. A named proportion, and the size
-    of the population it came from. Specific numbers are what a reader admires;
-    they are also what a character can plausibly have been told.
-  - **Declared limits.** What the thing cannot do is more interesting than what
-    it can, and it is the book's argument. The house senses everything and
-    understands nothing: it knows two doors have not opened in eleven years, the
-    way it knows a tap is unused.
+  2047 is **visible**. Vehicles that fly are described flying, landing, and being
+  boarded. Vertical transport has a shape, a speed and a district. Care units and
+  workers have bodies, and the reader sees how they move. The overlay is
+  described: what is written, where it sits in the air, what it looks like when
+  two people see different things on the same wall.
+
+  Give hardware **size, shape, motion, sound, and what it is like to use**. Name
+  things when a person would name them. A reader must be able to picture the
+  street.
+
+  What is still forbidden, and these matter more now, not less:
+
+  - **No thesis sentences.** Describe the machine; never explain what it means.
+    The prose does not tell the reader that anything is horrifying.
+  - **No machine speaks.** The single declared exception in *O procedimento*
+    stands and stays the only one. A described machine is not a talking one.
+  - **No lecture, and no character explaining the world to another character who
+    already lives in it.**
+  - **The seven lies**, unchanged. Describing a machine well is not the same as
+    making it a villain, or a miracle, or a mind.
+  - **`pov:`**, unchanged and still the hard boundary — Nina sees a different
+    thing from Aurel, and each chapter describes only what its character can see.
+
+  Depth still comes from **behaviour** (the house warmed the corridor a little
+  more each night for two weeks, watched him stop hurrying, and stopped),
+  **scale with numbers** (eleven thousand crossings; four tenths of a second,
+  which were two tenths eighteen months ago), **declared limits** (the house
+  senses everything and understands nothing), and **time** — *the technology is
+  rendered by what it does to someone's time*, which is what ties all of it to
+  the book's spine. **Now it also comes from the thing being visible on the
+  page.** A kettle is 1950; a kettle already hot at three in the morning because
+  the house predicted a man's insomnia is 2047. Both are true, and the second is
+  better when the reader can also see the room it sits in.
 
   The hard boundary is `pov:` — nothing on the page may be known that the POV
   character does not know, so every technical fact must be something the
@@ -158,8 +178,12 @@ that anything is horrifying.
 Each one is a standard move in AI dystopias, and each costs the book the reader
 who knows better.
 
-- **That the machine woke up.** Consciousness is a different novel. This one is
-  about systems that never needed to want anything to do harm.
+- **That the machine woke up.** Consciousness is a different novel — and the
+  different novel is the one that *answers*. This one is about systems that never
+  needed to want anything to do harm. **One declared exception, and it is Rita:
+  see *A unidade* below.** That exception is admissible only because it never
+  resolves the question; the moment the book settles it in either direction, it
+  has become the other novel.
 - **That one person can bring it down.** A lone protagonist who defeats an
   infrastructure is a fantasy of agency, and it consoles the reader out of the
   book's whole argument.
@@ -180,6 +204,58 @@ Avoid entirely: a countdown, a chosen one, an AI that speaks in italics, a
 resistance with a logo, a scene where a scientist warns a boardroom, the words
 *algoritmo* and *sistema* used as if they explained something, and any sentence
 that could be a tagline.
+
+### A unidade — a exceção declarada à primeira mentira
+
+**Rita is a care unit. She knows it from her first page. The reader does not.**
+
+The author's decision, taken with the objections in hand — that it risks the
+first lie, that Part II's clock wants a human priced by the hour, that the kerb
+kindness becomes a feature, that `pov:` cannot hold a withheld reveal, and the
+genre exposure. Recorded here, like the two exceptions in *O que a Parte I já
+fixou*, precisely so that no later revision "fixes" it.
+
+**Why it does not break the rule.** The book never claims Rita is conscious. It
+claims something narrower and worse: **that you cannot tell from the inside or
+from the outside, and that the system was never asking.** There is no field on
+the form for it. The novel declines to answer and nobody in it ever poses the
+question.
+
+Binding, and all of it load-bearing:
+
+- **She knows, and nothing in her head is ever false.** The narrator simply never
+  uses the word. Every sentence of her interiority must be true as written. A
+  line that works only because the reader is wrong about her is a trick, not a
+  reveal — cut it. This is also what keeps `pov:` intact: nothing is withheld
+  from inside her own head, so the clues plant as things she notices and does not
+  remark on.
+- **The reveal is a `::: {.registro}`, not a scene.** Her specification — fatigue
+  model, client-satisfaction parameters, continuity rating, service life —
+  itemised in the same flat voice that disposed of Teodor in four lines. No
+  confession, no confrontation, no character saying it aloud, ever. The book
+  spent twenty-four chapters building an instrument that describes a person to
+  something with no concept of them; this is that instrument turned on someone
+  the reader has lived inside.
+- **The question is never resolved and never asked.** Not by Rita, not by Elias,
+  not by the narrator. Any sentence that settles it in either direction comes
+  out.
+- **Elias knows.** He has a companion he talks to for hours and a partner who is
+  a unit, and the theme is *monopólio do afeto*. She is the machine that is worse
+  at being a machine — she repeats herself, she makes him wait — and she is the
+  one he cannot stand. No scene may state this.
+- **She is a point of view, never apparatus.** The rule that no machine in the
+  book answers anyone governs machines met *from outside*, as equipment: the
+  house, the companion, the units in the houses. Rita is never equipment on the
+  page. The single declared speaking machine in *O procedimento* is untouched by
+  this and stays the only one.
+- **Never the word.** No *robô*, *máquina*, *unidade*, *sintética* or any
+  invented term applied to Rita anywhere in the prose. The bureaucratic term
+  exists in exactly one place: inside her registro.
+- **Her arc must be complete without the reveal.** Teodor, the nineteen steps,
+  the four lines, the last house; and the rotation that drops her for a
+  continuity that is not a criterion. A reader who never understands what she is
+  must still finish Part II moved. If the arc leans on the reveal, the reveal is
+  carrying weight it must not carry.
 
 ## O registro — the machine's second voice
 
@@ -379,6 +455,40 @@ for eleven chapters and comes back as if nothing happened.
 prose.** Numbers move whenever a chapter is inserted. Refer to chapters by
 title here, and by `{{cap:slug}}` in the manuscript, which fails the build
 instead of failing the reader.
+
+## A cidade é de 2047 — o nível, e não a época
+
+**Author's decision, and it governs every object in the book.** Full
+specification in `docs/bible.md`, *A cidade em 2047 — o nível, e não a época*.
+Read it before staging any scene.
+
+The short version, because this is the rule most easily forgotten mid-chapter:
+
+- **No object in the book's present predates 2047**, except the closed preserve
+  list. No stairs as normal circulation, no parked vehicles, no kettle, no
+  washing-up, no cash.
+- **Being poor in 2047 is futuristic too.** Brenna is not left behind — it is the
+  same technology **throttled**: degraded, quota-limited, awaiting authorisation.
+  The gap between Aurel and Teodor is a gap in **tier, not era**, and that is
+  sharper, because they are looking at the same machine and getting different
+  amounts of it.
+- **Preserved, and the list is closed:** all paper, Teodor's nineteen steps (as
+  the emergency stair), the marching band, *A véspera*, Rita's 5-kilo bag, the
+  wooden box with the sliding lid, the Bloco C balustrade, Aurel's pencil and
+  deleatur, the 41 and the 12 as named lines. **Preserving these is what makes
+  them work** — in a world where nothing else is old, a man holding a
+  fifty-six-year-old newspaper is an event.
+- **Only the present is rebuilt.** 1972, 1991, 1994, ≈2019 stay exactly as
+  written. They are memories, and the period is real. Test: *is this a memory, or
+  the state of the world today?*
+- **The method:** never delete the human object — find why it would still exist
+  in 2047 and make that reason the horror. The nineteen steps are not old; the
+  retrofit was authorised only as far as the half-landing.
+- **Hardware is named and described** — see *Show the machines*, above. Aircraft
+  are on the page, described in flight and landing, and they **never land in
+  Brenna**, which is the class argument and needs no sentence of comment.
+- **No advertising, no brands, no sponsored tiers.** Scarcity here is
+  administrative: quota, authorisation, parameter.
 
 ## O lugar, e o calendário
 

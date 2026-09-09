@@ -39,14 +39,35 @@ outra.
 E a Rita diz *tá bom* e vai pôr a água para esquentar assim mesmo, porque isso
 faz parte, e as duas sabem que faz parte.
 
+A casa faria o banho.
+
+Faria às oito, na temperatura certa, e a temperatura certa é uma coisa que a casa
+sabe da dona Eszter melhor do que a Rita sabe. Está no nível dela. Três vezes por
+semana, e em quatro anos não falhou uma vez.
+
+Por isso a bacia.
+
+Água na bacia esfria. É a única água daquela casa que esfria.
+
 ---
 
 A casa é de um andar só, no fim de uma rua de Brenna que ainda é de paralelepípedo
 nos últimos trinta metros porque o asfalto acabou ali em 2019 e nunca continuou.
 
+Por cima passa o tempo todo. Passam altas, em corredor, uma a cada dois ou três
+minutos de manhã, e daqui de baixo o que se vê é a barriga clara e as quatro
+carenagens, e quando uma vira para o rio dá para ver a inclinação inteira.
+
+Nenhuma desce ali. Não tem onde: plataforma precisa de laje, e as casas da rua da
+dona Eszter são de telha. Em quatro anos a Rita não viu uma pousar em Brenna
+nenhuma vez.
+
+Dá para saber a hora pelo intervalo, do jeito que se sabe a hora por ônibus.
+
 Tem uma cortina de renda que ela lava a cada dois meses e não deixa ninguém
-tocar. Tem quatro fotografias em cima do rádio: um homem de terno, dois meninos
-de uns dez anos, e uma casa que não é aquela.
+tocar. Tem quatro fotografias em cima de um rádio que não liga há uns vinte anos
+e que veio com ela em 2007: um homem de terno, dois meninos de uns dez anos, e
+uma casa que não é aquela.
 
 A casa da foto tem um telhado diferente e uma árvore na frente. A Rita nunca
 perguntou.
@@ -115,6 +136,17 @@ Ela vai dizer não. Ela sabe que vai dizer sim depois, na maioria dos dias. Mas
 existe um intervalo entre as duas coisas, e o intervalo pertence a ela.
 
 A Rita decidiu, no quarto mês, que ia pagar aquele intervalo do bolso dela.
+
+Numa casa de Kalden onde ela fez quatro turnos no ano passado, antes de cair, não
+existe esse intervalo — e não é por falta de educação da coisa que lava. Ela
+pergunta. Pergunta bem, inclusive: pergunta, espera, diz tudo bem, e volta a
+perguntar onze minutos depois. E de novo. Não fica magoada e não tem onde estar
+às dez e meia.
+
+Contra uma coisa assim o *hoje não* não é uma resposta. É o começo de uma conversa
+que só acaba de um jeito.
+
+O que faz o não da dona Eszter valer alguma coisa é a Rita ter pressa.
 
 ---
 

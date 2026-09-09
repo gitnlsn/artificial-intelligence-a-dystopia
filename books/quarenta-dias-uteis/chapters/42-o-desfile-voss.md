@@ -159,6 +159,20 @@ Ele acreditava.
 Continuava acreditando ali, na quinta fileira, um passo mais atrás do que estava
 um minuto antes, enquanto o bloco largo entrava na reta e a rua fazia barulho.
 
+Era uma coisa só, e ocupava a avenida de linha a linha. Andava sobre esteiras
+largas e baixas, e por cima delas o corpo subia liso até uns quatro metros, sem
+janela e sem porta, cor de areia como as da limpeza mas fosco. Nos dois flancos
+havia uma fileira de portas quadradas, umas vinte de cada lado, todas fechadas, e
+atrás de cada porta havia uma unidade — dava para ver o alto dos ombros pelo vão
+de cima, todos na mesma altura, imóveis, e as vinte cabeças viradas para a
+frente.
+
+Levou onze segundos para passar por ele, e nesses onze segundos a rua ficou mais
+escura de um lado.
+
+Voss reparou que a folga até a linha branca tinha ficado em quarenta centímetros
+de cada lado, o que é a folga prevista, e achou bem calculado.
+
 ---
 
 Ninguém olhou para ele.

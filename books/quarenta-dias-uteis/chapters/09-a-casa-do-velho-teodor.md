@@ -70,6 +70,32 @@ dele no banco de concreto enquanto o carrinho de pão passa. Isso ainda é feito
 por uma pessoa, e a pessoa tem turno de três horas, e o turno seguinte começa do
 outro lado do bairro.
 
+No prédio da frente desce.
+
+A Rita já viu duas vezes, da calçada, esperando com uma senhora o carro chegar.
+
+É mais baixo que uma pessoa, na altura do ombro dela, e anda sobre duas pernas
+que dobram para trás como as de um pássaro, o que faz o passo parecer mais macio
+do que é. O corpo é uma peça só, cinza-clara, sem cara e sem nada na frente do
+lugar onde seria a cara — só uma faixa escura na altura da testa, que é por onde
+ele olha, e a faixa gira sozinha quando a senhora se mexe. Os braços são finos e
+compridos demais para o tronco, e a mão de baixo é forrada de uma coisa mole que
+faz um barulhinho de borracha quando fecha no antebraço dela.
+
+Fica meio passo atrás e do lado da mão ruim. Quando a senhora para, para junto,
+sem antecipar e sem atrasar — e a Rita, que levou doze anos para aprender a não
+puxar, olhou aquilo e achou bem feito, e depois ficou um tempo sem conseguir
+achar outra coisa.
+
+Aquilo é outra modalidade. Tem outro nome na escala, entra por outra porta, e a
+porta é uma avaliação que o Teodor teria de pedir.
+
+Ele não pede. Ele espera que perguntem.
+
+E a conta, que a Rita fez uma vez sem querer ter feito: o turno dela é de três
+horas, três vezes por semana. A coisa do prédio da frente fica o dia inteiro, e
+não tem o outro lado do bairro esperando por ela às onze e meia.
+
 O que ela faz de fato, em ordem: abre a janela do quarto, que ele não alcança.
 Tira a roupa de cama de quinta. Ajuda ele no banho, que é a parte que os dois
 resolveram há muito tempo tratando como serviço e não como intimidade, porque é
@@ -131,10 +157,33 @@ E depois:
 
 Rita parou com a toalha na mão.
 
-A escada do prédio tem dezenove degraus até o térreo e um corrimão só, do lado
-direito. O elevador é de 1998 e para no meio-andar, o que quer dizer que quem
-usa elevador ainda sobe seis degraus. Ela sabe esses números porque sobe aquilo
-três vezes por semana.
+O prédio do Teodor tem poço, e o poço é dos antigos.
+
+É uma cabine de verdade, de metal, com porta que corre para o lado e uma tira de
+luz no batente que pisca quando vai fechar. Cabem quatro pessoas se ninguém
+estiver com nada na mão. Sobe com um ronco baixo e demora onze segundos entre o
+térreo e o quarto, e no meio do percurso dá um solavanco que todo mundo daquele
+prédio já espera com o joelho.
+
+E para no meio-andar.
+
+Foi o que se autorizou em 2038. A segunda etapa — a que levaria o poço até os
+patamares — nunca foi autorizada, então a cabine encosta meio lance abaixo da
+porta do Teodor e quem sai dela ainda sobe seis degraus. Não é defeito. Está
+funcionando exatamente como foi aprovado.
+
+Em Kalden a Rita já andou nos de agora. Não têm cabine: é um vão aberto no meio
+do prédio e uma plataforma de piso claro que sobe sem parede nenhuma, com uma
+faixa de luz correndo no chão à frente do pé da pessoa. Sete andares em quatro
+segundos e sem barulho, e quando ela desceu do primeiro ficou com as duas mãos
+abertas do lado do corpo, procurando um corrimão que não existe.
+
+Do meio-andar até o térreo do prédio do Teodor são dezenove degraus e um corrimão
+só, do lado direito. É a escada de emergência, que é de concreto e não tem mais
+nada, porque escada de emergência existe em todo prédio por causa do regulamento
+e não porque alguém vá usar.
+
+A Rita sabe esses números porque sobe aquilo três vezes por semana.
 
 Com ele, com o andador, com uma pessoa segurando de um lado: quarenta minutos
 para descer e subir. Talvez cinquenta.

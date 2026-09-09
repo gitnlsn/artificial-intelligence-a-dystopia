@@ -30,6 +30,15 @@ oito havia quatro anos. Mas horário muda, e horário muda o tempo todo, e ela
 tinha uma casa nova na terça e a semana com dois turnos a menos, e ela guardou o
 estranhamento na mesma gaveta onde guarda todos os outros.
 
+No hall de baixo tinha um aviso impresso, colado no vidro do quadro, dizendo que
+na quarta-feira das oito ao meio-dia haveria medição para a segunda etapa da
+obra, e que os moradores não precisavam estar em casa.
+
+Estava escrito também em cima do vão da escada de emergência, para quem lê ali, e
+o de cima tinha mais coisa — a Rita viu o comprimento do texto e não parou para
+ler, porque eram sete e dois, e ela sobe aqueles dezenove degraus em cinquenta
+segundos, e naquele dia subiu em cinquenta segundos.
+
 Ele já estava acordado. Estava de camisa, o que às sete da manhã não é normal.
 
 — Bom dia, seu Teodor.
@@ -187,7 +196,7 @@ Ela sorriu.
 
 ---
 
-A escada tem dezenove degraus e um corrimão só, do lado direito.
+A escada de emergência tem dezenove degraus e um corrimão só, do lado direito.
 
 Ela desceu rápido, porque estava atrasada para nada, e no meio-andar — no
 patamar onde eles tinham parado quase dois minutos naquela manhã de sábado, onde

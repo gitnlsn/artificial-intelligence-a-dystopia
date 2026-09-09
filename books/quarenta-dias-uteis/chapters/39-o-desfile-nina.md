@@ -29,18 +29,37 @@ A Nina bateu palma por educação.
 
 Depois veio a limpeza urbana.
 
-Isso ela não esperava e foi melhor do que ela esperava. São umas coisas baixas,
-largas, cor de areia, que andam em fila com um espaço igual entre uma e outra —
-igual mesmo, o mesmo espaço o tempo todo, e é isso que faz ficar bonito. Passaram
-catorze.
+Ela conhece as de limpeza. Passam na rua dela de madrugada e ela já viu da
+janela, sujas, sozinhas, uma de cada vez.
+
+Assim ela não tinha visto.
+
+São baixas, na altura do joelho dela, e largas como uma porta deitada, cor de
+areia. Não têm roda: por baixo tem uma saia de borracha grossa que quase encosta
+no chão e esconde o que quer que seja que as faça andar. Em cima são lisas, sem
+nada escrito, com uma ranhura fina no meio de ponta a ponta. Estavam limpas de
+um jeito que ela nunca tinha visto uma ficar, cor de areia clara, sem uma marca.
+
+Fazem um som de sopro, e catorze juntas fazem um sopro só.
+
+Andam em fila com um espaço igual entre uma e outra — igual mesmo, o mesmo espaço
+o tempo todo, e é isso que faz ficar bonito. Passaram catorze.
 
 Um moço atrás dela disse *olha o alinhamento* para outro moço, e a Nina achou que
 ele tinha razão.
 
 ---
 
-Depois veio transporte, que era grande e barulhento, e depois obras, que era
-grande e mais barulhento, e a Nina começou a ficar com fome.
+Depois veio transporte, que era grande e barulhento — três carros de linha, dos
+compridos, sem cabine na frente, com o vidro descendo até o chão na ponta de modo
+que dava para ver os bancos vazios do primeiro até o último.
+
+Depois obras, que era grande e mais barulhento: uma coisa amarela do tamanho de
+meia casa, com um braço dobrado três vezes por cima do corpo e amarrado com uma
+fita vermelha para não abrir no caminho. O braço acabava numa concha virada para
+cima, cheia de nada.
+
+E a Nina começou a ficar com fome.
 
 ---
 
@@ -50,14 +69,31 @@ A Lu tinha exagerado, obviamente. Não era do tamanho de um cavalo. Era do taman
 de um cachorro grande, um daqueles pretos de orelha em pé, e andava do jeito que
 um cachorro anda quando está com pressa mas não está correndo.
 
+As pernas são finas e dobram para trás, com três dobras cada uma, e são de um
+metal escuro que não brilha. O corpo é uma caixa curta cor de chumbo, mais ou
+menos do tamanho de uma mochila, e o corpo **não balança**. As pernas sobem e
+descem e a caixa fica exatamente na mesma altura o tempo inteiro, como se
+estivesse pendurada num fio, e é isso que dá a impressão errada — de longe parece
+um cachorro, e de perto não parece nada.
+
+Não faz barulho de pata. Faz um clique curto em cada apoio, quatro cliques por
+vez, sempre na mesma ordem.
+
 A rua inteira fez um barulho.
 
 Não foi palma. Foi um *ah* comprido, de mil pessoas ao mesmo tempo, e a Nina fez
 junto sem ter decidido fazer, e depois riu porque tinha feito junto.
 
-Passaram três. O do meio parou por um segundo, virou a cabeça — que não é uma
-cabeça, é uma caixa com uma coisa na frente — na direção da grade, e depois
-seguiu, e a rua fez outro barulho.
+Passaram três, e passaram mais perto do que ela achava que ia ser: o do meio
+passou a uns quatro metros da grade, e ela viu a poeira que os cliques levantavam
+do asfalto.
+
+O do meio parou por um segundo e virou a cabeça — que não é uma cabeça, é uma
+caixa menor presa na frente da caixa grande, com um vidro escuro do tamanho de
+uma mão e um anel de luz fraca em volta do vidro, e o anel não pisca. Virou na
+direção da grade, ficou assim um segundo, e depois seguiu.
+
+E a rua fez outro barulho.
 
 O vô disse alguma coisa que ela não ouviu.
 

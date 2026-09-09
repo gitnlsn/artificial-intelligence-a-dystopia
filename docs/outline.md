@@ -554,7 +554,7 @@ música que abre a Parte II na calçada de outra pessoa.
 - **Elenco** — aurel
 - **Fontes** — nenhuma. O implante, a unidade e o comunicado são invenção; ver `docs/bible.md`
 
-**Nota — as duas exceções declaradas, e são decisão do autor.** Este capítulo é o
+**Nota — a primeira das três exceções declaradas, e são decisão do autor.** Este capítulo é o
 único lugar do livro em que **uma máquina fala com um personagem**, com travessão,
 como quem fala. Em todo o resto do romance a casa é muda, a companhia do Elias
 nunca é citada e a única voz de máquina é um `::: {.registro}`, que é documento.

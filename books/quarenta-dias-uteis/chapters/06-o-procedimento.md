@@ -52,9 +52,21 @@ a frente, com um fixador de metal do joelho para baixo, lendo alguma coisa na
 tela com a cara de quem não está lendo.
 
 Ninguém conversava, e não era silêncio de hospital. As pessoas estavam ocupadas.
-O filho de meia-idade olhava para um ponto acima do ombro da mãe e às vezes
-respondia a ela com meio segundo de atraso. A moça do fixador ria sozinha de uma
-coisa. Um homem no fundo mexia a boca sem som.
+
+O filho de meia-idade tinha três blocos de texto parados no ar um pouco acima do
+ombro da mãe, na altura em que se põe uma prateleira, do tamanho de cartões de
+visita e virados só para ele — Aurel via a borda de trás dos três, que é cinza e
+não tem nada. Um deles trocava sozinho de dois em dois minutos. O homem lia sem
+mexer a cabeça e às vezes respondia à mãe com meio segundo de atraso.
+
+A moça do fixador ria sozinha de uma coisa que ficava logo acima do joelho ruim
+dela, e que dali era um retângulo claro sem espessura, do tamanho de um prato.
+
+Um homem no fundo mexia a boca sem som, e na frente dele, na altura do peito,
+havia uma coluna de linhas curtas que subia uma linha cada vez que ele parava.
+
+Aurel via a posição de todas e não via o que estava escrito em nenhuma. Sempre
+foi assim e nunca incomodou ninguém. O que se vê do lado de fora é o lugar.
 
 O ar estava bom. As cadeiras tinham encosto alto. Havia bebedouro, e o
 bebedouro funcionava.
@@ -89,14 +101,24 @@ A avaliação tinha sido em agosto e ele não tinha ido a lugar nenhum para faz�
 
 Foi assim: ele foi a uma consulta de rotina, que era de rotina de verdade, e no
 fim de tudo alguém — não uma pessoa, um aviso — perguntou se ele queria incluir
-uma avaliação funcional, que levava doze minutos e podia ser feita ali. Ele
-disse que sim porque já estava sentado.
+uma avaliação funcional, que levava doze minutos e podia ser feita ali.
+
+O aviso ficou parado a meio metro dele, na altura do peito, do tamanho de uma
+folha pequena, com a pergunta em cima e duas palavras embaixo, uma de cada lado.
+*Agora* e *outra hora*. Não piscava e não tinha prazo escrito. Quando ele virou a
+cara para a parede, continuou onde estava, e quando ele voltou a olhar, estava do
+mesmo tamanho, no mesmo lugar.
+
+Ele disse que sim porque já estava sentado.
 
 Não perguntaram por que. Não precisavam: quem sugeriu já sabia da perna.
 
-Doze minutos. Andou de um lado para o outro num corredor com uma marca no chão,
-sentou, levantou, sentou, e uma moça que não olhou para ele em nenhum momento
-disse *pode ir*. Não doeu nada. Não perguntaram nada que ele tivesse que
+Doze minutos. Um corredor curto, de piso claro e fosco, com uma marca preta
+pintada no meio e mais nada — sem aparelho na parede, sem nada no teto que se
+pudesse apontar. Andou de um lado para o outro até a marca, sentou, levantou,
+sentou. O piso não fez nada que ele pudesse notar; era piso.
+
+Uma moça que não olhou para ele em nenhum momento disse *pode ir*. Não doeu nada. Não perguntaram nada que ele tivesse que
 responder por escrito.
 
 E aquilo não foi um exame. Ele entendeu na hora e não disse nada, porque não

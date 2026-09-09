@@ -100,6 +100,15 @@ verdade, que a Rita é a pessoa mais interessante que ele já conheceu.
 
 É o corpo. O corpo dele aprendeu que existe uma versão sem espera.
 
+E tem a parte que ele não deixou formar e que formou assim mesmo, com a torneira
+aberta: ela não tinha esquecido.
+
+Ela sabia perfeitamente que tinha contado na terça. Contou de novo porque a
+segunda vez acha coisa, e achou — a parte de o Anselm talvez estar certo, que era
+a melhor parte da noite e que ele ouviu fazendo conta de quanto faltava.
+
+Ninguém conta uma coisa duas vezes de propósito por descuido.
+
 ---
 
 Ele ficou com as mãos na pia depois que os pratos acabaram.

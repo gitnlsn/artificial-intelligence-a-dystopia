@@ -29,8 +29,22 @@ Ele tem orgulho de poucas coisas e escrever bem é uma delas.
 
 Na sexta o crachá abriu a porta da rua e não abriu o oitavo andar.
 
-Ele passou o crachá duas vezes, achou que era o leitor, subiu pela escada até o
-sétimo, e no sétimo a porta abriu.
+O crachá é uma placa de uns cinco centímetros, de plástico fosco, sem nada
+escrito de fora, e a pessoa não faz nada com ele: anda, e a porta sabe. Ele
+passou pela porta da rua às sete e trinta e um e a porta sabia.
+
+No poço, o oitavo simplesmente não estava. Os andares aparecem numa coluna à
+altura da mão quando alguém entra, e a coluna aparece com os andares daquela
+pessoa e não com os do prédio, e a dele sempre teve nove entradas. Naquela manhã
+tinha oito. Não havia um oitavo apagado, nem riscado, nem em cinza: havia o
+sétimo, e depois o nono, e o espaço entre os dois era do mesmo tamanho que o
+espaço entre todos os outros.
+
+Ele achou que era o leitor. Saiu, entrou de novo, e a coluna apareceu igual.
+
+Subiu pela escada de emergência até o sétimo, que são dois lances de concreto que
+ninguém usa, e contou os degraus sem querer, e são vinte e dois. No sétimo a
+porta abriu.
 
 Foi assim que ele soube.
 
@@ -153,7 +167,8 @@ Ele fez a conta no papel, à tarde, com o lápis, e a conta dá. Não dá bem. D
 
 ---
 
-Às cinco e meia ele desligou o terminal que não era o dele e desceu.
+Às cinco e meia ele fechou com a mão aberta a mesa que não era a dele, da
+esquerda para a direita, e desceu.
 
 No ônibus, com o livro fechado em cima da perna, ele pensou uma coisa que não
 tinha nada a ver e que ficou:

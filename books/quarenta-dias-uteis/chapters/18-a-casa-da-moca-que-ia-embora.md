@@ -47,7 +47,8 @@ velho o corpo é o assunto: o que dói, o que não dobra, o que a gente vai
 conseguir fazer hoje. Ali o corpo era um contratempo. A Juno falava do fixador do
 jeito que se fala de uma obra no prédio — irritante, temporário, com data.
 
-E ela falava de tudo o mais o tempo todo, alto, com a televisão ligada sem som.
+E ela falava de tudo o mais o tempo todo, alto, com uma coisa correndo sem som
+num canto da parede que ela nem olhava.
 
 ---
 

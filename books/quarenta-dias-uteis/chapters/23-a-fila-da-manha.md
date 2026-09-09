@@ -85,7 +85,7 @@ Mulher, trinta e três, pede revisão de escala.
 
 Escala não é objeto de revisão por solicitação do prestador.
 
-Indeferido. Oito e dezoito.
+Indeferido. Oito e vinte e três.
 
 ---
 

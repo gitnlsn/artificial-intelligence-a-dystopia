@@ -53,6 +53,12 @@ há anos.
 
 Ninguém tinha avisado o apartamento também.
 
+Às duas da tarde ia lembrar do remédio. Ia lembrar na sexta também, e no sábado.
+Uma casa sabe a hora do comprimido do mesmo jeito que sabe a hora da chaleira, e
+não sabe mais nada — sabe que o das duas não foi tomado, e sabia disso duas ou
+três vezes por semana havia dois anos, e nunca teve o que fazer com aquilo, e
+continuava sem ter.
+
 ---
 
 O apartamento estava arrumado.
@@ -60,7 +66,8 @@ O apartamento estava arrumado.
 Não arrumado como quem foi embora: arrumado como quinta-feira. A cama estava
 feita do jeito que ele fazia, com o lençol dobrado por cima da coberta, mal
 esticado do lado da parede porque ele não dava a volta. Tinha uma xícara na pia
-com fundo de café. O rádio estava desligado na tomada.
+com fundo de café. O rádio dele, que não liga desde antes de a Rita entrar
+naquela casa, estava no lugar de sempre, virado para a poltrona.
 
 A caixa de remédio de quinta estava aberta e vazia. A de sexta estava fechada.
 
@@ -93,17 +100,20 @@ atraso, e alguma parte dela ainda achava que devia haver uma diferença.
 Não havia. Cancelado é uma palavra e a palavra estava lá, e do lado dela o
 horário, e mais nada.
 
-Ligou para a central.
+Perguntou à central.
 
-Tem uma central. Isso as pessoas não acreditam, mas tem: ela ligou, e atendeu um
-menu, e o menu tinha uma opção para *turno cancelado*, e a opção para turno
-cancelado dizia que turnos cancelados são comunicados pelo aplicativo e que não é
-necessário nenhum procedimento adicional. Depois voltava para o menu.
+Tem central. Isso as pessoas não acreditam, mas tem, e responde na hora. Ela
+perguntou por turno cancelado e a resposta chegou antes de ela terminar de
+perguntar: turnos cancelados são comunicados no aplicativo, e não é necessário
+nenhum procedimento adicional. Estava correta e estava completa.
 
-Ela tentou a opção de *outros assuntos* e caiu numa espera, e ficou na espera
-onze minutos, e desligou porque não sabia o que ia dizer.
+Perguntou de outro jeito. Veio a mesma resposta, na mesma ordem, com as mesmas
+palavras.
 
-Era isso o problema. Ela não sabia o que ia dizer. *Eu estou na casa dele e ele
+Ela ficou onze minutos naquilo, e os onze minutos não foram de espera. Não tem
+espera. Foram dela procurando a pergunta.
+
+Era isso o problema. Ela não sabia o que ia perguntar. *Eu estou na casa dele e ele
 não está.* E aí a pessoa do outro lado, se existisse, ia perguntar o que ela
 queria, e a resposta honesta era: eu quero saber.
 

@@ -66,10 +66,19 @@ calçada vissem o que existe e vissem que está em ordem. Passou limpeza, passou
 transporte, passou obras.
 
 Passou um bloco com o nome de assistência domiciliar num painel, e ele leu o
-painel do jeito que se lê um painel, e passou.
+painel do jeito que se lê um painel.
 
-As quatro patas ele achou notável. Não pela máquina em si — ele já viu foto —,
-mas pelo som que a rua fez quando ela apareceu na curva, aquele *ah* de mil
+Atrás do painel vinham as unidades, umas doze, em duas fileiras. São da altura do
+ombro de uma pessoa e andam sobre duas pernas que dobram para trás, e o corpo é
+uma peça só, cinza-clara, sem cara. Iam com o braço de baixo dobrado à frente, na
+posição em que se oferece o antebraço para alguém segurar, e iam todas com o
+braço na mesma altura, e nenhuma estava segurando ninguém.
+
+Aurel olhou aquilo até passar e não pensou em nada que ele conseguisse formular.
+
+As quatro patas ele achou notável — não pela máquina, que ele vê descer o
+caminhão do outro lado da Aldan de vez em quando, mas pelo som que a rua fez
+quando ela apareceu na curva, aquele *ah* de mil
 pessoas ao mesmo tempo, que é um som que ele não ouvia desde não sabe quando.
 
 A Nina fez junto e depois riu de ter feito junto.

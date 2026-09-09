@@ -46,10 +46,14 @@ O apartamento nunca falhou uma vez. O que ele não podia fazer era ser o Elias, 
 às três da manhã o velho não estava pedindo ajuda: estava chamando o nome do
 filho.
 
-Então o telefone tocava.
+Então o apartamento passava adiante.
 
-E o filho, que é o Elias, dormia com o telefone na mesinha, com o som no
-máximo, com a tela virada para baixo, das dez e meia até tocar.
+Não é bobo. Sabe a diferença entre um homem que caiu e um homem que disse um
+nome, e sabe de quem é o nome, e faz o que tem de fazer com ele. Chegava no
+quarto do Elias e chegava baixo, do lado dele e não do lado dela, e insistia até
+ele responder, e nunca uma vez insistiu do lado errado da cama.
+
+Ele dormia esperando aquilo das dez e meia em diante.
 
 ---
 
@@ -70,8 +74,8 @@ letras *me acorda, Elias*, e falou sério.
 
 E ele não acordou.
 
-Porque às três e dez da manhã, com o telefone na mão, com o pai gritando do
-outro lado por causa de uma coisa que não existia no quarto, um homem faz uma
+Porque às três e dez da manhã, no escuro, sentado na beirada, com o pai gritando
+do outro lado por causa de uma coisa que não existia no quarto, um homem faz uma
 conta muito simples: se eu acordar ela agora, ela vai levantar às cinco e vinte
 com duas horas de sono, vai carregar três velhos hoje, e vai carregar mal.
 

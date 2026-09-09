@@ -47,27 +47,50 @@ Ela perguntou o que era o G.
 
 Eram nove e cinquenta e a Rita foi chamada às onze e vinte e seis.
 
+Uma hora e trinta e seis minutos, e não era fila de guichê cheio. Os quatro
+estavam abertos e nenhum deles teve alguém na frente por mais de seis ou sete
+minutos.
+
+A fila de dentro não anda porque o que se espera ali não é o guichê. O guichê
+leva quatro minutos. O resto é esperar que uma pessoa olhe, e pessoa tem horário
+e tem quantidade, e é a única coisa naquele prédio que tem.
+
 ---
 
 A sala de espera do Bloco C é boa.
 
 Ela reparou nisso e ficou incomodada de ter reparado. É limpa, tem ar, tem
-cadeira de encosto alto e não daquelas de plástico, tem um bebedouro que funciona
-e um banheiro que estava limpo às dez da manhã de uma quinta-feira. Tem um painel
+cadeira de encosto alto e não daquelas de plástico, tem água fria em três pontos
+da sala e nenhum deles com fila, e um banheiro que estava limpo às dez da manhã
+de uma quinta-feira. Tem um painel
 que mostra a senha e o guichê, e o painel está sempre certo.
 
-Quase ninguém na sala está na sala. As pessoas esperam ocupadas: um rapaz mexe a
-mão pequeno, no colo, do jeito de quem está fazendo outra coisa; uma senhora ri;
-um homem de terno responde a alguém com meio segundo de atraso. A Rita fica
-olhando o painel, que é a única coisa naquela sala que está escrita igual para
-todo mundo, e é por isso que ela olha, embora ela não formule assim.
+Quase ninguém na sala está na sala.
+
+Um rapaz mexe a mão pequeno, no colo, e a uns quarenta centímetros do peito dele
+tem uma coisa aberta em três colunas que ele empurra para o lado com dois dedos.
+Uma senhora ri para um retângulo do tamanho de uma bandeja, parado na altura do
+rosto, um pouco inclinado, como se estivesse apoiado numa mesa que não existe. Um
+homem de terno responde a alguém com meio segundo de atraso, e o alguém está na
+poltrona vazia ao lado dele, ou está onde a poltrona vazia está.
+
+De onde a Rita senta, o que se vê é a parte de trás daquilo tudo, que é cinza e
+lisa e não tem nada, e são umas nove ou dez formas cinzentas paradas no ar de uma
+sala de espera. Ninguém acha isso digno de nota. A Rita também não.
+
+O painel fica na parede da frente, acima da porta dos guichês. É comprido, do
+tamanho de uma porta deitada, com as senhas numa coluna e o número do guichê na
+outra, e é chapado na parede mesmo — pintura, não ar. Quando uma senha muda, a
+linha inteira desliza uma posição para cima e a de baixo entra. Não faz som.
+
+A Rita fica olhando o painel, que é a única coisa naquela sala que está escrita
+igual para todo mundo, e é por isso que ela olha, embora ela não formule assim.
 
 Ela já esperou em lugares muito piores para conseguir coisas muito menores.
 
 Não tem nada errado com o Bloco C. É importante dizer isso porque tudo o que a
-Rita vai sentir naquele dia ela vai sentir dentro de um prédio bem cuidado, com
-ar-condicionado, tendo sido tratada com educação por todas as pessoas com quem
-falou.
+Rita vai sentir naquele dia ela vai sentir dentro de um prédio bem cuidado, com o
+ar bom, tendo sido tratada com educação por todas as pessoas com quem falou.
 
 ---
 

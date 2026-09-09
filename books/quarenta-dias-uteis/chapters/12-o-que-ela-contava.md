@@ -176,8 +176,8 @@ E foi para o quarto dos fundos.
 
 ---
 
-O que a Rita ficou pensando, sozinha na sala, com a televisão desligada, não foi
-sobre ele.
+O que a Rita ficou pensando, sozinha na sala, sem nada aberto e sem pôr nada,
+que é uma coisa que quase ninguém faz, não foi sobre ele.
 
 Foi que ela tinha passado o dia inteiro guardando uma coisa boa para contar de
 noite. Tinha arrumado a ordem, tinha decidido onde começar. É trabalho. É um

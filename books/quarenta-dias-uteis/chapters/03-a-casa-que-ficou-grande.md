@@ -226,8 +226,17 @@ Aurel não gostou de si mesmo por um instante razoavelmente longo.
 Em 2039 ofereceram a Ilse.
 
 Não com essas palavras, e não foi um vendedor; foi uma pergunta educada no fim
-de outra coisa, do jeito que tudo chega. Ele podia ter a voz dela, o jeito dela
-de armar uma frase, as opiniões dela sobre as pessoas que os dois conheciam.
+de outra coisa, do jeito que tudo chega.
+
+Ficou aberta na sala uns quatro minutos, no vão entre a poltrona e a estante, na
+altura de uma pessoa sentada. Era um bloco de texto curto, do tamanho de uma
+folha, com o nome da Ilse escrito no meio dele em letra igual à do resto — foi
+isso que ele achou pior, depois, e levou uns dias para conseguir dizer por quê: o
+nome dela estava no mesmo corpo e no mesmo tom que *procedimento* e que *sem
+custo adicional no primeiro ano*.
+
+Ele podia ter a voz dela, o jeito dela de armar uma frase, as opiniões dela sobre
+as pessoas que os dois conheciam.
 Fizeram questão de dizer que muita gente da idade dele achava aquilo um alívio, e
 provavelmente é verdade.
 
@@ -281,7 +290,9 @@ Ele lavou a xícara à mão, que é uma coisa que ele faz e que não precisa faz
 
 Ficou um tempo com as mãos na água quente, olhando pela janela da cozinha — a
 janela pela qual Ilse tinha escolhido o apartamento inteiro — e do lado de fora
-não havia nada, porque às quatro e vinte não há nada, só a lateral do prédio da
+quase não havia nada, porque às quatro e vinte quase não há nada — o corredor do
+céu fica vazio a essa hora, e a primeira só passa pouco depois das cinco e meia,
+e ele conhece esse horário sem nunca ter procurado. Só a lateral do prédio da
 frente e uma luz acesa num sexto andar, que estava acesa toda madrugada e que
 ele nunca ia saber por quê.
 

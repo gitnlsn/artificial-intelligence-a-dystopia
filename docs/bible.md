@@ -50,25 +50,28 @@ mata o argumento do livro (`CLAUDE.md`, *A regra da distopia*).
 
 ## A sobreposição — a camada de 2047, e como escrevê-la
 
-A tecnologia mais presente do livro é a que nunca aparece. Toda superfície da
-cidade está escrita, e o que está escrito é diferente para cada pessoa.
+Toda superfície da cidade está escrita, e o que está escrito é diferente para
+cada pessoa.
 
-**As regras são duras porque é aqui que o livro vira ficção científica ruim se
-alguém relaxar:**
+**Decisão do autor: a sobreposição é descrita.** A regra anterior — sem nome, sem
+aparelho, *proibido dizer como se vê* — foi revogada. Ela transformava a
+invenção central do livro numa parede em branco, e era a maior causa de o
+romance não parecer 2047. O leitor agora **vê** o que os personagens veem.
 
-- **Não tem nome.** Ninguém no livro diz *realidade aumentada*, *camada*,
-  *sobreposição*, *lente*, *óculos*, nem qualquer termo inventado. As pessoas
-  dizem *estava escrito*, *apareceu*, *tem o nome em cima*, *o preço estava lá*.
-  O narrador também não nomeia.
-- **O aparelho nunca é descrito.** Não há óculos na página, não há lente, não há
-  gesto de ligar, não há nada que se ponha ou se tire. **Proibido dizer como se
-  vê.** Um leitor de 2060 não pode pegar o livro errando o formato do
-  equipamento, porque o livro não declara formato nenhum.
-- **O leitor só sabe que existe pelo comportamento.** O olho de alguém indo a um
-  ponto onde não há nada. Meio segundo de atraso antes de uma resposta. Uma
-  criança parada diante de uma parede lisa. Um homem mexendo a boca sem som numa
-  sala de espera. Uma pessoa virando a tela para outra ver — que é um gesto
-  deliberado, e raro.
+O que isso quer dizer na prática:
+
+- **Descrever o que está escrito.** O preço em cima do carrinho, o horário em
+  cima do ponto, o nome da farmácia em cima da farmácia: onde a coisa fica no ar,
+  de que tamanho, o que acontece quando a pessoa anda e o texto acompanha, o que
+  fica na frente do que. A cidade é legível e o leitor lê junto.
+- **Descrever a diferença entre duas pessoas.** A parede do mercado é o caso
+  extremo e agora é mostrado dos dois lados: o que a Nina vê e o que a Bel vê, na
+  mesma parede, no mesmo segundo, cada um no seu capítulo e dentro do seu `pov:`.
+- **Nomear como as pessoas nomeariam.** Elas continuam dizendo *estava escrito*,
+  *apareceu*, *tem o nome em cima* — porque é assim que se fala de uma coisa
+  banal —, mas o livro não se proíbe mais de descrever o que elas estão olhando.
+- **Continua sem tese.** Descrever não é explicar. Ninguém diz o que a
+  sobreposição significa, ninguém a critica em voz alta, e o narrador não comenta.
 - **Duas pessoas nunca leem a mesma coisa, e isso não é notável para ninguém.**
   Nina e Bel diante da parede do mercado é o caso levado ao extremo; a Aldan
   vista da janela de Aurel é o caso banal.
@@ -183,10 +186,10 @@ coisa que ela não tem que traduzir, e ela diz isso na porta, e não explica.
 **A língua continua sem nome e as palavras continuam sem transcrição** — nomear
 o país dela quebraria a mesma regra que mantém este país sem nome.
 
-## As duas exceções declaradas — decisão do autor, não corrigir
+## As três exceções declaradas — decisão do autor, não corrigir
 
-Duas coisas neste livro contrariam regras que o resto do livro cumpre à risca.
-As duas são **decisão do autor, tomada com a objeção registrada e mantida**, e
+Três coisas neste livro contrariam regras que o resto do livro cumpre à risca.
+As três são **decisão do autor, tomada com a objeção registrada e mantida**, e
 estão aqui para que nenhuma revisão futura as "conserte". Também estão em
 `CLAUDE.md`.
 
@@ -246,6 +249,93 @@ O que a mantém coincidência, e nada disso é negociável:
   rua por acidente, alta demais para ser dirigida a alguém.
 - A regra de direitos continua e o nome não a mexe: **título, nome da banda e
   descrição são livres; a letra, nunca.** Ver `docs/references.md`.
+
+### 3. A Rita é uma unidade de cuidado
+
+**Ela sabe desde a primeira página. O leitor não.** Decisão do autor, tomada
+depois de as objeções serem postas por inteiro: que arrisca a primeira mentira do
+gênero, que o relógio da Parte II quer uma pessoa cobrada por hora, que a
+gentileza no meio-fio vira funcionalidade, que `pov:` não sustenta uma revelação
+escondida da própria personagem, e a exposição ao gênero.
+
+**Por que não quebra a regra.** O livro nunca afirma que a Rita é consciente.
+Afirma uma coisa mais estreita e pior: **que não dá para saber nem de dentro nem
+de fora, e que o sistema nunca fez a pergunta.** Não há campo no formulário para
+ela. O romance se recusa a responder e ninguém no livro levanta o assunto.
+
+**O que ela sabe e desde quando:** tudo, sempre, sem drama. Não é uma descoberta
+e nunca foi. É o fato mais comum da vida dela, como a matrícula.
+
+**O que é mentira:** nada. Nenhuma frase da interioridade dela é falsa. O
+narrador simplesmente nunca usa a palavra. Uma frase que só funciona porque o
+leitor está enganado é um truque e sai.
+
+**Quem sabe:** o Elias. Mais ninguém no livro, e nenhum dos dois jamais comenta.
+A frase que ele tem pronta há três semanas — sobre passar as noites conversando —
+fica exatamente como está, e fica **mais difícil**, não menos. Ele não pode
+dizer a outra coisa também.
+
+**Como o leitor descobre:** um `::: {.registro}` em *Ela fica quieta*, e nada
+mais. A especificação dela — modelo de fadiga, parâmetros de satisfação do
+cliente, índice de continuidade, vida útil — no mesmo tom que liquidou o Teodor
+em quatro linhas. **Sem cena, sem confissão, sem ninguém dizendo em voz alta,
+nunca.**
+
+**O que nunca acontece:**
+
+- Ninguém pergunta se ela sente. Nem ela, nem o Elias, nem o narrador. Qualquer
+  frase que resolva isso num sentido ou no outro sai.
+- Nenhuma palavra — *robô*, *máquina*, *unidade*, *sintética*, nem termo
+  inventado — encosta nela na prosa. O termo burocrático existe num lugar só:
+  dentro do registro dela.
+- Ela nunca é aparelho na página. A regra de que nenhuma máquina responde a
+  ninguém vale para máquinas vistas **de fora**, como equipamento: a casa, a
+  companhia, as unidades das casas. A Rita é um ponto de vista. A máquina que
+  fala em *O procedimento* continua sendo a única.
+
+**As pistas, todas coisas que ela repara e não comenta:**
+
+- **O polegar** (cap. 07) — já escrito, e é a melhor pista do livro. Dá para
+  aceitar sem tocar em nada e todo mundo aceita assim; ela usa o polegar de
+  propósito, para existir um lugar onde encostou e uma hora em que encostou.
+  *Nunca precisou. Continua fazendo.*
+- **O corpo conferiu antes dela** (cap. 07) — ao ouvir a música, a primeira coisa
+  que ela fez foi conferir se era para ela, e o corpo fez sozinho.
+- **O saco de cinco quilos e a marca da alça** (7 capítulos) — permanecem, e
+  passam a pesar duas vezes.
+- **O creme de mão**, que é ferramenta e não vaidade.
+- **Confere os remédios em voz alta** e espera o paciente responder — o cotejo a
+  dois, feito por quem não pode ser as duas pessoas.
+
+**O reparo obrigatório:** a Rita conhece os Cardigans porque **a mãe dela disse
+no carro**. Uma unidade não tem mãe. **A lembrança veio com ela, e ela nunca uma
+vez se perguntou por que a tem.** Isso preserva intacta a regra das metades: ela
+continua com a banda e nunca com o título.
+
+**A varredura:** infância, mãe, envelhecimento, qualquer passado de corpo além da
+vida útil. A mesma disciplina de *Brasil*/*Rio*/*carnaval* — varrer a **classe
+inteira**, e não as ocorrências de que alguém se lembra.
+
+**A segunda história, que carrega a Parte II sozinha.** O arco da Rita tem de
+estar completo e comover **um leitor que nunca entenda o que ela é**. Esse arco é
+o Teodor — os dezenove degraus, as quatro linhas, a caixa de tampa corrediça, a
+última casa — mais a rotação que a tira das casas porque continuidade de
+prestador não é critério (o parâmetro de 12→6 semanas de 2043, que o Voss ajudou
+a inventar). Ela perde o Teodor pela regra e perde as casas pela mesma regra, e
+nenhuma das duas perdas tem onde ser reclamada. **Se o arco se apoia na
+revelação, a revelação está carregando peso que não pode carregar.**
+
+**O que a decisão melhora, e nenhuma cena aponta:**
+
+- O indeferimento do Voss (G-114) diz que *escopo do turno e critério de
+  distribuição são parâmetros de serviço, não decisões individuais*. Dela isso é
+  **literalmente verdade** — e ele nunca leu o nome dela. Não mexer no capítulo.
+- *A paciência* (cap. 15): a companhia é *uma coisa que nunca repete uma história
+  porque lembra de tudo, que nunca fez ele esperar*. A Rita repete e faz esperar.
+  É a máquina que é pior em ser máquina, e é dela que ele não aguenta. Nenhuma
+  frase diz isso.
+- A gentileza no meio-fio: o livro se recusa a dizer se foi funcionalidade, e o
+  Voss não teria onde arquivar de todo jeito.
 
 ---
 
@@ -820,6 +910,242 @@ de vista, e é ele que um capítulo fura sem perceber.
 - As datas ISO no front matter existem para `make digest --tempo` e nunca são
   impressas.
 
+## A cidade em 2047 — o nível, e não a época
+
+**Decisão do autor, e é a que governa todo objeto do livro.** A primeira tentativa
+de trazer 2047 para a página acrescentou fatos novos a cômodos velhos, e o autor
+recusou: *"isto não parece futurista quando você descreve as coisas com itens
+comuns do dia a dia."* Os cômodos mudam.
+
+### A regra única
+
+**No presente do livro não existe objeto anterior a 2047**, com as exceções
+listadas em *O que se preserva*, abaixo. Não há escada como circulação normal,
+não há carro estacionado, não há chaleira, não há pia com louça, não há dinheiro.
+
+E — isto é o coração da decisão — **ser pobre em 2047 também é futurista.** Brenna
+não ficou para trás. Brenna é a mesma tecnologia **estrangulada**: entregue
+degradada, com cota, com autorização pendente. A diferença entre a casa do Aurel e
+a casa do Teodor não é de época. É de **nível**, o que é pior, porque os dois
+estão olhando para a mesma máquina e recebendo quantidades diferentes dela.
+
+Por que o nível e não a época:
+
+- Nada em lugar nenhum lê como 1985, nem na casa mais pobre.
+- A desigualdade fica **mais** nítida, não menos.
+- Continua administrativo e nunca vira espetáculo. Cota de descida é o registro
+  deste livro; perseguição de carro não é.
+- **Não precisa de vocabulário inventado.** *Nível, faixa, cota, autorização,
+  parâmetro* — o livro já fala assim.
+- Não envelhece: acesso por faixa é um arranjo social, não um aparelho.
+
+**Fora do registro: publicidade.** Sem marca, sem logotipo, sem faixa paga por
+anúncio. A escassez aqui é administrativa — cota, autorização, parâmetro.
+
+### O exemplo que é o método
+
+O prédio do Teodor tem transporte vertical. **A obra foi autorizada só até o
+meio-andar**, e a segunda metade nunca foi autorizada, então sobram seis degraus,
+para sempre, por causa de uma decisão num formulário. A descida com a Rita é pela
+**escada de emergência**: dezenove degraus de concreto que existem em todo prédio
+de 2047 porque o regulamento exige, e que ninguém usa.
+
+Mesma cena. Mesmos dezenove degraus, mesmo meio-andar, mesmos dois minutos em que
+ele olha para a parede, mesmo corrimão só do lado direito. Nada no cômodo lê como
+1985, e a escada deixou de ser detalhe de época para ser **prova de que alguma
+coisa não foi autorizada**.
+
+**Este é o método para todo objeto do livro: não apagar a coisa humana — descobrir
+por que ela ainda existiria em 2047, e fazer desse motivo o horror.** Antes de
+inventar substituto para qualquer objeto, verificar se o manuscrito já tem uma
+estrutura que só precisa trocar de *motivo*. Quase sempre tem.
+
+### A tabela — full tier / estrangulado
+
+Nível cheio é o Aurel, a Mira, Kalden, o centro. Estrangulado é Brenna e o
+apartamento da própria Rita.
+
+| No livro hoje | Nível cheio | Estrangulado |
+|---|---|---|
+| escada, elevador | transporte vertical, sem nome, segundos contados | autorizado só até certo ponto; cota diária; escada de emergência como via de falha |
+| carro estacionado, meio-fio | **nenhum veículo parado em lugar nenhum** — circulam | igual. O meio-fio vazio é universal |
+| ônibus (o 41, o 12) | ponto a ponto sob demanda | as linhas nomeadas, compartilhadas, mais lentas, desviadas no dia do desfile |
+| o céu | tráfego constante; pousa onde é pago para pousar, em plataforma | passa por cima de Brenna e nunca para. **Descrito: forma, altura, sombra, som** |
+| chaleira, café, cozinhar | chega na temperatura, sem pedir | funciona, mas é medido e tem horário |
+| louça, pia | não é uma ação que exista | ainda na mão, porque o nível não cobre |
+| a máquina de lavar da Rita (≈2047-03) | ninguém compra isso | o que dezoito turnos numa semana compraram: uma subida de faixa |
+| porta, chave, código | abre para quem tem turno naquele endereço naquele horário | igual, e falha |
+| telefone, tela | quase ausentes; a sobreposição faz esse trabalho | o polegar da Rita fica exatamente como está |
+| mesa, escritório, reunião | os casos chegam classificados; tornar isso físico | — |
+| dinheiro, comprar, carrinho | não existe dinheiro | o carrinho de sorvete em *Depois* é a última transação de mão em mão do livro |
+| **papel** | **preservado em todo lugar — não tocar** | — |
+
+### O céu — a superfície livre
+
+Nas 43 versões atuais dos capítulos não há **uma palavra** sobre o céu. Ninguém
+nesta cidade olha para cima. É a maior superfície não usada do livro e não há
+nada ali para contradizer.
+
+- **Descrito.** Forma, tamanho, altura, o que faz a sombra na rua, como pousa e
+  como alguém embarca. É quase silencioso, e o quase-silêncio é o ponto — o Aurel
+  aprendeu o som novo do 41 do mesmo jeito, *"e às vezes ainda esperava o motor"*.
+- **Nunca pousa em Brenna.** Esse fato sozinho faz o argumento de classe inteiro.
+- A Mira chega numa dessas para o Aurel. A Rita ouve por cima do paralelepípedo
+  onde o asfalto acabou em 2019.
+- **Ninguém comenta, nunca** — a mesma disciplina da sobreposição.
+
+### O que se preserva — lista fechada
+
+Carregam estrutura, e uma varredura descuidada destrói cada uma:
+
+| Coisa | Decisão |
+|---|---|
+| os dezenove degraus do Teodor (6 cap.) | vira escada de emergência. **Nunca apagar** |
+| **todo o papel** (41 ocorrências, 16 cap.) | **preservar.** É o contraponto declarado, e fica mais visível, não menos |
+| a banda | **preservar absolutamente.** Humana, acústica, ligeiramente fora, partitura na estante |
+| *A véspera* | **preservar.** O próprio front matter chama de "a coisa mais antiga e mais humana do livro inteiro" |
+| o saco de cinco quilos da Rita (7 cap.) | trocar o conteúdo, manter o peso e a marca da alça. É dela porque o suprimento da casa é por faixa |
+| a caixinha de tampa corrediça | **preservar.** O Teodor fez com a mão. É a última coisa que alguém neste livro fabricou |
+| a balaustrada do Bloco C | preservar de alguma forma — *A gentileza* precisa de uma beirada onde deixar um livro |
+| o lápis, a gilete e o deleatur do Aurel | **preservar.** Mesmo motivo do papel |
+| o 41 e o 12 | continuam nomeados. Já não têm motorista; viram a faixa lenta compartilhada contra o ponto a ponto |
+
+**Por que preservar melhora o livro:** num mundo que ainda tem chaleira e escada,
+o papel é uma coisa velha entre muitas. Num mundo em que **nada mais** é velho, um
+homem segurando um jornal de cinquenta e seis anos é um acontecimento na página. E
+uma banda de metais desafinada numa cidade onde nenhum outro som é feito por um
+corpo torna *não dá para personalizar uma tuba* a coisa mais estranha do romance.
+
+### Só o presente é reconstruído
+
+O passado do livro fica **exatamente como está**: 1972 nos ombros do pai; 1973–74
+o Teodor aprendendo a tampa; 1988 o deleatur; **1991 o incêndio da Vetten e a
+redação**, que são uns 2.400 palavras do capítulo *O revisor*; 1994 o armário do
+juiz; ≈2019 a Ilse e a poltrona às duas da manhã.
+
+São lembranças, e são detalhe de época porque a época é real. O contraste fica
+**mais** nítido depois que o presente não tem mais nenhum objeto velho para
+borrar a linha.
+
+O teste, para qualquer infraestrutura datada: **isto é uma lembrança, ou é o
+estado do mundo hoje?** Lembrança fica.
+
+### O risco que a reconstrução cria
+
+Se máquina é tudo, um desfile de máquinas deixa de ser acontecimento. Isso é
+motivo para fazer, e não para recuar: o assunto do desfile nunca foram as
+máquinas — a premissa do capítulo da Nina já diz *"as máquinas passam e é lindo,
+mas o que ela olha é a banda."* Com a cidade saturada, a coluna de máquinas é
+procissão municipal de equipamento comum, e **a anomalia na avenida são trinta e
+uma crianças com metais, ligeiramente fora.**
+
+Na prática: cortar o *já viu foto* do Aurel, baixar o espanto da Nina com as de
+limpeza para reconhecimento, guardar o espanto dela para a de quatro patas estar
+mais perto do que ela achava, e não encostar nos capítulos da banda.
+
+### As rimas de objeto — transformar aos pares, ou quebram
+
+Um levantamento completo dos 43 capítulos encontrou **doze pares de objetos que
+rimam entre capítulos distantes**. São o maior risco da reconstrução: transformar
+um lado e esquecer o outro apaga a rima e ninguém percebe até a leitura final.
+Metade dos pares tem um lado no passado (que fica) e outro no presente (que
+muda) — nesses, a rima tem de sobreviver à diferença de época.
+
+| Rima | Lado A | Lado B |
+|---|---|---|
+| **A peça abotoada como preço de entrada** | o paletó emprestado do Emil Roht, abotoado, 1991 (*O revisor*) — **fica** | o cardigã da dona Eszter abotoado até em cima para poder recusar (*A casa de quem não queria ser lavada*) — **muda** |
+| **A conferência a dois** | o cotejo da lista de mortos, um lê em voz alta (*O revisor*) — **fica** | a Rita conferindo as três caixas de remédio em voz alta e ele respondendo *isso* (*A casa do velho Teodor*, *A última casa*) |
+| **O gesto obsoleto de propósito** | o clique do abajur de rosca do Aurel, e a casa recua meio tom | o polegar da Rita numa tela que ela não precisa tocar. **Os dois são "eu quero que isto seja uma coisa que alguém decidiu." Nenhum dos dois pode sair** |
+| **A margem** | o Aurel procura onde marcar na fala da máquina e não acha (*O procedimento*) | a Rita procura onde escrever na escala e não tem (*A escala*) |
+| **A escada como acesso a reparação** | o Emil Roht sobe à redação — **fica** | os dezenove degraus do Teodor; *"tem uma escada"* dos dois irmãos; os degraus da frente do Bloco C |
+| **O balcão** | o Vidor dá a volta na mesa em vez de falar por cima dela — **fica** | a Idalina no guichê sete, que já teve um ramal |
+| **O texto igual para todo mundo** | os noventa e quatro mil jornais idênticos — **fica** | a parede bege lisa que a Nina lê; a marca de giz no asfalto; **o painel de senha do Bloco C**, *"a única coisa naquela sala que está escrita igual para todo mundo"*; o aviso impresso no hall do Teodor |
+| **A ferramenta que encerra a discussão sem ninguém falar** | o nível de bolha do Teodor no chão da sala do juiz | o deleatur do Aurel; as três páginas de conta do Krall |
+| **A música, duas procedências** | o Aurel recebe o título e nenhum contexto | a Rita tem o contexto — o porta-luvas, o sotaque, a ordem das faixas — e nunca o título |
+| **O chão do corredor como confessionário** | os dois metros e meio mornos do Aurel | o Elias sentado no chão do corredor dele |
+| **Entregar uma coisa a quem só sabe ler metade** | o lápis para a Nina, com quatro centímetros e meio | a caixinha para a Rita |
+| **Virar uma coisa na direção de outra pessoa** | a Juno virando a tela | o Kasper erguendo o caderno para o telefone. **Os dois são inúteis, e é esse o ponto** |
+
+### Onde a ausência já é o objeto — não pôr aparelho aqui
+
+Seis lugares em que o livro já rende 2047 pelo que **não** existe. Acrescentar
+equipamento a qualquer um deles destrói a passagem:
+
+- não existe, em lugar nenhum do apartamento, uma tela onde esteja escrito *onze
+  mil* (*A casa que ficou grande*);
+- a parede do corredor é lisa e bege e não tem nada, e a Nina para dois segundos
+  na frente dela (*A neta que vem às quintas*);
+- não havia nada escrito na rua montada para o desfile (*O inventário*);
+- não havia margem, nem página, nem tiragem (*O procedimento*);
+- não tem onde escrever (*A escala*);
+- não tem com quem falar (*A casa vazia*).
+
+### O risco número um da reconstrução: o Aurel vira saudosista
+
+O levantamento apontou isto como o ponto mais frágil de todos, e é o único lugar
+onde a reconstrução pode quebrar uma das sete mentiras.
+
+O capítulo *O avô é antigo* acumula, numa página, o abajur de clique, a gaveta
+com recibo de dezoito anos, o dedo molhado para virar a página, o lápis apontado
+com gilete, o saco plástico dentro de outro saco plástico e o *alô* ao telefone.
+Cada um funciona sozinho. **Juntos, e num mundo onde mais nada é velho, viram
+recusa** — e a bíblia já diz o contrário: *"Aurel tem, e funciona bem. Ele **não**
+é o velho que recusa a tecnologia — isso seria a mentira da nostalgia."*
+
+Regra: esses hábitos são **idiossincrasia, nunca posição**. Quanto mais futurista
+a cidade fica, mais o capítulo precisa mostrar o Aurel **usando bem** o que tem —
+e a piada tem de ser da Nina achando graça, e não do avô resistindo. Se depois da
+reconstrução o capítulo puder ser lido como *o velho recusa*, ele está errado, e
+o defeito é da reconstrução e não do capítulo.
+
+### A lista de maior risco — o que mais grita 1995 e não tem proteção
+
+Da varredura completa, em ordem de urgência. Nenhum destes está protegido por
+cânone e todos rendem muito ao serem convertidos:
+
+- o telefone **na mão da mãe**, cabeça baixa, no desfile — a imagem mais datável
+  do livro inteiro; e *"a mãe fica olhando o telefone"*
+- os **cinco toques** e o *alô* — um aparelho que toca alto na casa
+- a **buzina** da Mira em vez de subir
+- o **carro azul de porta que abre para cima** que a Bel vê na parede — a ideia de
+  futuro da Bel é um carro de 1954, o que pode ser piada deliberada ou descuido:
+  decidir
+- o **carrinho de água com um homem gritando o preço**, num mundo de preço
+  personalizado
+- o **megafone e o apito** dos fiscais
+- o **carrinho de sorvete e a fila dele**
+- *"um estádio cheio, ou uma fila de supermercado no domingo"* — as duas únicas
+  comparações da Nina para multidão, e as duas podem não existir mais
+- o **disco no porta-luvas** (é lembrança: fica, mas decidir o suporte)
+- o **bebedouro** ao lado da arquibancada; o **sinal** da escola
+- ler alto e ficar vermelho na carteira de duas fileiras à frente, **dentro de uma
+  escola que aboliu a página comum**
+- o vocabulário de escritório: *terminal, clicou, tela, salvou, pasta dos
+  documentos, arquivo com a data no nome* — é Windows 98
+- o **café que ninguém toma** na conferência trimestral
+- as fileiras de mesas iguais, e a mesa da janela recusada
+
+### As regras de escrita, depois da revogação
+
+**A máquina é descrita.** Forma, tamanho, movimento, som, e como é usar. O
+transporte vertical tem cabine ou não tem, tem parede ou não tem, e leva quatro
+segundos até o sétimo. **Há veículo voando na página**, e ele pousa, e alguém
+entra. As unidades de cuidado têm corpo e o leitor vê como elas se mexem. A
+sobreposição é descrita.
+
+O que continua valendo, e agora pesa mais:
+
+- **Sem frase-tese.** Descrever a máquina, nunca explicar o que ela significa.
+- **Nenhuma máquina fala.** A exceção declarada de *O procedimento* continua
+  sendo a única. Máquina descrita não é máquina que responde.
+- **Sem aula, e sem personagem explicando o mundo a quem já mora nele.**
+- **As sete mentiras**, intactas.
+- **`pov:`** — tudo observado, deduzido ou dito a alguém, e cada capítulo mostra
+  só o que o personagem dele consegue ver.
+
+E as quatro moedas continuam: comportamento, escala com número, limite declarado,
+tempo. Agora elas se somam à coisa estar visível, em vez de substituí-la.
+
 ## As regras do lugar
 
 O que é possível, o que é comum, o que é caro, o que é ilegal e o que é apenas
@@ -1202,7 +1528,7 @@ o outro.
 | **Uma máquina pode falar com um personagem?** | **Uma vez, em *O procedimento*, e nunca mais.** Decisão do autor, contra a regra que o resto do livro cumpre. | A objeção foi registrada e mantida: o `registro` só funciona porque nada mais no livro tem voz de máquina. O autor decidiu assim mesmo, e a exceção é única, declarada e documentada — o que a torna exceção em vez de erosão. Ver *As duas exceções declaradas*. | 06 |
 | **O implante cura a perna?** | **Não, e o livro nunca diz que sim.** No desfile a perna não formiga; o que há é uma sensação de apertado por dentro que ele não consegue chamar nem de melhor nem de pior. | Uma cura no dia seguinte seria tecnologia milagrosa e resolveria alguma coisa, e este livro não resolve nada. O que o procedimento entrega é real, foi de graça, chegou sem ser pedido, **e é ilegível.** Nenhum capítulo pode dizer que ele melhorou. | 06, 40 |
 | **Aurel pediu o procedimento?** | **Não. Foi oferecido, e a data veio pronta.** | É a tese da conveniência aplicada ao personagem que passa o livro inteiro sem tocar na máquina. Aurel recebe sem pedir exatamente o tipo de coisa que Rita não consegue nem sendo ouvida, e **nenhum dos dois sabe da existência do outro**. Nenhum capítulo pode apontar o contraste. | 06 |
-| **A sobreposição é nomeada, descrita ou explicada em algum lugar?** | **Nunca, em nenhum lugar, por ninguém.** Sem termo, sem aparelho na página, sem gesto de ligar. Só comportamento. | Vocabulário inventado é o que envelhece mais rápido em ficção científica, e formato de equipamento é o que envelhece em segundo lugar. Um livro que não declara nem um nem outro não pode errar nenhum dos dois. Ver *A sobreposição*. | 01 em diante |
+| **A sobreposição é descrita?** | **Sim — decisão do autor, e revoga a regra anterior.** O leitor vê o que está escrito, onde fica no ar, de que tamanho, o que acontece quando alguém anda. O que continua fora é *explicar o princípio* e dar voz a máquina. | A regra antiga transformava a invenção central do livro numa parede em branco, e era a maior causa de o romance não parecer 2047. O custo aceito é envelhecer mais rápido. Ver *A sobreposição*. | 01 em diante |
 | **Por que Teodor, Juno e Anselm não recebem o tratamento que existe?** | **Porque o critério não os alcança**, e o livro mostra o critério funcionando na mesa de Voss sem nunca ligar as cenas. | Se fosse falta de dinheiro, seria um livro sobre pobreza; se fosse crueldade, haveria um vilão. É uma faixa de indicação, uma janela de dezoito meses, um rol. **Nenhum personagem pode reclamar disso e nenhum capítulo pode apontar a assimetria com Aurel.** | 18, 20, 23 |
 | **Como funciona a tradução, e por que as três palavras não são traduzidas?** | **Não se explica.** Todo mundo se entende; as três palavras da Eszter chegam como som, porque são dela. | Mesma decisão da parede do mercado: o jeito de não precisar de tecnobabble é não olhar. E converte uma lacuna do mundo numa recusa da personagem, que é infinitamente melhor. | 11 |
 | **Houve um dia em que a errata e o balcão deixaram de existir?** | **Não houve dia.** Foi como a perna: em algum momento você percebe que já faz um tempo. | É a mesma recusa da mentira da ruptura e da mentira do interruptor. Nada no livro pode ter uma data de virada, inclusive o fim do casamento de Rita e Elias. | 01, 02, 19 |

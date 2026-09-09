@@ -101,9 +101,19 @@ Full rules in `CLAUDE.md`. The five that get broken most often:
 
 - **Understate.** The flatter the sentence, the worse the fact lands. Never tell
   the reader something is horrifying.
-- **No technobabble.** Technology is described by what it does to someone. An
-  invented term must sound like something an institution would name: dull,
-  bureaucratic, faintly euphemistic.
+- **Show the machines. Describe them.** 2047 is visible: aircraft are described
+  flying and landing, vertical transport has a shape and a speed, care units have
+  bodies, and the overlay is described — what is written, where it sits in the
+  air, what it looks like. Give hardware size, shape, motion, sound, and what it
+  is like to use. Still forbidden: explaining a working principle, giving any
+  machine a voice (the one exception in *O procedimento* stands), and thesis
+  sentences. Depth still comes from behaviour, scale-with-numbers, declared
+  limits and **time** — now added to visibility, not replacing it. Full rule in
+  `CLAUDE.md`.
+- **Stage, don't decorate.** Before writing a scene, ask *why is this happening
+  in this room, in this way, in 2047?* If the answer works equally well in 1985,
+  the scene was never about its own year. Adding a gadget to a 1985 room does not
+  fix it; restaging does.
 - **Dialogue does not explain the world.** Nobody says what both characters
   already know.
 - **The system is legible, and nobody in it is evil.** Every person enforcing it

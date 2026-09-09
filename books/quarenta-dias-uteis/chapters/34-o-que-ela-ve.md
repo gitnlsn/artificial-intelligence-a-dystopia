@@ -33,6 +33,12 @@ mercado.
 
 Na frente do mercado tem uma parede grande e lisa e é nela que passam as coisas.
 
+A parede é de bloco pintado de bege e tem uns doze metros, sem janela nenhuma, e
+é a maior parede lisa do caminho inteiro. As coisas não ficam grudadas nela.
+Ficam um pouco à frente, um palmo talvez, e por isso quando o ônibus anda elas
+viram junto e dá para ver que têm lado. Uma vez a Nina viu de baixo, andando com
+a mãe, e por baixo não tem nada: a coisa acaba, e continua a parede bege.
+
 ---
 
 Naquela sexta passou a menina do cabelo.

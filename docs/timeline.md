@@ -35,7 +35,7 @@ e a correção foi encontrada numa releitura, não por uma ferramenta.
 | 1994 | O armário de embuia do juiz, e o nível de bolha no chão da sala dele | Teodor | A casa do velho Teodor |
 | 1996 | Aurel e Bendt quase brigam de verdade por causa de um editorial | Aurel | A prova |
 | 1998 | Nadia vai embora para outro continente. Voltará quatro vezes | Anselm, Kasper | A casa dos dois irmãos |
-| 1998 | O elevador do prédio de Teodor é instalado. Para no meio-andar, então ainda restam seis degraus | Teodor, Rita | A casa do velho Teodor |
+| 2038 | O transporte vertical do prédio de Teodor é autorizado **só até o meio-andar**. A segunda metade da obra nunca é autorizada, então sobram seis degraus, para sempre, por decisão em formulário. A escada de emergência tem os dezenove | Teodor, Rita | A casa do velho Teodor |
 | 1998 | Morre a mãe do pai de Elias — a quem ele chamará depois da meia-noite, quarenta e oito anos depois | Elias | O ano passado |
 | 2007 | Dona Eszter chega à cidade, aos 46 | Eszter | A casa de quem não queria ser lavada |
 | 2011 | Ilse escolhe o apartamento da rua Aldan pela cozinha com janela | Aurel | A prova |

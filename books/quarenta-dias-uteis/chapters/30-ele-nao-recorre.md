@@ -156,21 +156,27 @@ coisa dela naquele mesmo dia. Quatro segundos que eram dela. E ela disse imagina
 
 Ela não tinha nada a ganhar.
 
-E Voss, às três e cinco da manhã, com uma manifestação pronta na tela, entendeu
+E Voss, às três e cinco da manhã, com uma manifestação pronta em cima da mesa da
+sala, entendeu
 que ele tinha.
 
 ---
 
 Ele não apagou o texto. Isso ele não fez, e talvez devesse ter feito.
 
-Salvou num arquivo, na pasta dos documentos dele, com a data no nome, e fechou.
+Guardou no próprio histórico, com a data no nome, que é onde se guarda uma coisa
+para que outra pessoa possa achar depois. Levou um minuto a mais do que precisava
+e conferiu o nome do arquivo duas vezes.
+
+Depois fechou.
 
 Depois abriu o formulário de manifestação, foi até o campo, e deixou em branco.
 
 Não escreveu *ciente*. Não escreveu nada. O campo é opcional e ele deixou
 opcional.
 
-Marcou a caixa que diz que tomou conhecimento.
+Encostou o polegar na caixa que diz que tomou conhecimento, e segurou o segundo
+que ela pede, e a caixa fechou.
 
 Enviou às três e dezenove da manhã.
 
@@ -193,7 +199,8 @@ outros servidores em idêntica situação.*
 
 Leu duas vezes. Corrigiu uma vírgula.
 
-Salvou.
+Encostou dois dedos no canto do campo, e o campo recolheu, e a sala ficou escura
+de novo.
 
 ---
 

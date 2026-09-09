@@ -64,6 +64,24 @@ muitas vezes.
 
 O 12 passou às sete e seis com gente em pé.
 
+O 12 é linha e para em ponto, e é por isso que ela toma o 12. O que não é linha
+não encosta em Kalden àquela hora por um preço que caiba num turno, e a Rita
+sabe o preço de cor do jeito que se sabe o preço de uma coisa que não se compra.
+
+Às sete e nove passaram três por cima, em fila, na altura do sexto andar.
+
+São do tamanho de um carro pequeno e não têm asa nem hélice: têm quatro carenagens
+redondas nos cantos, inclinadas para a frente quando estão indo depressa, e por
+baixo são lisas e claras. Fazem um som de ar sendo empurrado, e o som chega
+depois delas. A sombra das três atravessou o toldo uma atrás da outra, bem
+rápido, e o rapaz da mangueira nem parou de molhar a calçada.
+
+Vão para o outro lado do rio. Descem em Kalden alto e no centro, em plataforma, e
+não descem em Brenna, e a Rita sabe disso do jeito que se sabe onde o ônibus não
+passa.
+
+Ela não levantou a cabeça. Ninguém levanta.
+
 Havia outra mulher esperando na esquina de baixo, de costas, mais velha,
 com um saco parecido. Elas não se falam. Não é antipatia. É que quem espera
 aloca no mesmo raio, e quem está esperando ao seu lado é quem pode pegar o que
@@ -135,6 +153,11 @@ disco que a mãe dela ouvia no carro, aquele que ficava no porta-luvas, e sabe
 que a mãe dizia Cardigans com sotaque de quem está inventando o sotaque, e sabe
 que a mãe gostava mais dessa que das outras e passava para a frente até chegar
 nela.
+
+O carro ela não sabe. Já tentou, sem esforço, do jeito que se tenta lembrar de
+uma coisa sem importância enquanto se espera outra: a cor, o banco, se era de
+manhã. Não vem. Vem o porta-luvas, vem o sotaque, vem a ordem das músicas. O
+resto nunca esteve lá, e ela nunca uma vez achou isso estranho.
 
 Uma mulher cantando devagar, sem forçar nada. Um violão que faz a mesma coisa
 umas quatro vezes antes de mudar. Um baixo grande e mole por baixo. E aquele

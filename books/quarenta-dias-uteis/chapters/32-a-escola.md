@@ -19,15 +19,23 @@ status: draft
 A primeira aula de sexta é a que ela gosta menos e mesmo assim é boa.
 
 É de números. A Nina não é boa de números e sabe que não é, e não liga muito,
-porque não é uma coisa que apareça. O que aparece é que ela senta, começa, e o que
-está na frente dela é difícil o suficiente para ela ter que pensar e fácil o
-suficiente para ela conseguir.
+porque não é uma coisa que apareça.
+
+O que aparece é a mesa dela acendendo quando ela senta. O tampo é branco e liso e
+não tem nada até a pessoa encostar os dois braços, e aí a metade de cima enche
+com o que é dela naquela manhã, em letra preta grande, três coisas por vez, e a
+metade de baixo fica clara para ela escrever com o dedo. Ela escreve com o dedo.
+Quase todo mundo escreve com o dedo; o Teo escreve com os dois.
+
+E o que está na frente dela é difícil o suficiente para ela ter que pensar e fácil
+o suficiente para ela conseguir.
 
 Sempre é.
 
 Ela não sabe explicar isso porque nunca precisou explicar, e porque não tem com o
 que comparar. Ela só sabe que quando ela erra, o seguinte é parecido, e quando ela
-acerta três, o seguinte é mais difícil.
+acerta três, o seguinte é mais difícil. Some e vem outro no lugar, e o outro já
+está lá antes de ela terminar de ler que acertou.
 
 Ela erra bastante. Não é que não erre. É que não tem aquela coisa de errar e ficar
 para trás.
@@ -96,9 +104,12 @@ Ela escreveu sobre pássaros, obviamente. Escreveu que eles não sabem para onde
 estão indo e que mesmo assim chegam todos no mesmo lugar, e que ela achou isso
 esquisito e bom.
 
-Isso foi elogiado. Veio uma coisa dizendo que estava bom, que a segunda parte
-estava melhor que a primeira, e uma sugestão de uma palavra que ela não conhecia
-e que era melhor que a que ela tinha usado.
+Isso foi elogiado.
+
+O texto dela subiu para o alto do tampo e ficou menor, e embaixo abriu uma linha
+verde dizendo que estava bom e que a segunda parte estava melhor que a primeira.
+Uma palavra do meio ficou sublinhada, e do lado dela apareceu outra palavra, que
+a Nina não conhecia e que era melhor que a que ela tinha usado.
 
 Ela usou a palavra. Ficou melhor mesmo.
 

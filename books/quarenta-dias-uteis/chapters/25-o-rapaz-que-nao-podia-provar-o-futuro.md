@@ -129,7 +129,11 @@ dois anos de casa.
 Ele não sabe para onde vai. Ninguém sabe. Existe uma versão, no andar, de que o
 campo foi criado em 2035 para alguma revisão de metodologia que nunca aconteceu.
 
-Voss clicou nele e escreveu, sem pressa:
+Voss puxou o campo para o meio da mesa com dois dedos. Quando há onde escrever, a
+metade de baixo do tampo acende num cinza um pouco mais claro, e o que a pessoa
+escreve ali vai subindo para dentro do campo.
+
+Escreveu, sem pressa:
 
 *Requerente não dispõe de meio probatório para o objeto da sinalização. A
 sinalização não descreve conduta do requerente. Não é possível a ele, por
@@ -137,7 +141,7 @@ nenhum documento existente, demonstrar o que se exige que demonstre.*
 
 Leu duas vezes. Corrigiu uma vírgula.
 
-Salvou.
+Encostou dois dedos no canto do campo, e o campo recolheu, e o tampo apagou.
 
 ---
 

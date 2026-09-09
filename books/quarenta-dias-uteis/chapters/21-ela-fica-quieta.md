@@ -111,3 +111,29 @@ Ela olhou para a janela do quarto andar mais uma vez.
 
 Depois desceu a rua atrás da família com as duas crianças, sem ter decidido nada,
 do jeito que ela tinha chegado a tudo o mais naquelas duas semanas.
+
+---
+
+::: {.registro}
+Avaliação periódica de prestador. Matrícula 88-2214. Ciclo 2047-3.
+
+Modalidade: apoio domiciliar, nível dois. Em operação desde 14/03/2035.
+Revisão programada: 02/2048.
+
+Satisfação declarada pelo beneficiário: 4,7. Média da modalidade: 4,1.
+Ocorrências de atraso no período: 1 (12/10, 23 min).
+Modelo de fadiga dentro do previsto para o intervalo de operação. Sem ajuste.
+Acervo biográfico de referência: pacote padrão, revisão 2034. Sem alterações
+desde a instalação.
+
+Vínculo percebido acima do intervalo previsto em 9 das 18 residências do
+período. O parâmetro correlaciona-se com resistência do beneficiário à
+substituição programada e com abertura de revisão de alocação. Registradas duas
+no período, ambas indeferidas, uma delas de iniciativa da própria matrícula
+(G-114/17-10).
+
+Ajuste aplicado: redução progressiva de exposição por residência, conforme
+parecer 0912/47. Continuidade de prestador não constitui critério.
+
+Prazo para manifestação: 40 dias úteis.
+:::

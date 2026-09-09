@@ -28,9 +28,18 @@ uma martelada no pino. Encaixe, martelada, três passos. Encaixe, martelada, tr�
 passos. Ele ficou olhando aquilo por uns dez minutos com o interesse de quem
 gosta de ver trabalho feito direito.
 
-Atrás do caminhão vinha a coisa que pinta a faixa, que anda sozinha e devagar e
-não erra, e atrás dela um quarto homem, a pé, com um rolo, fazendo os cantos
-onde ela não entra. O quarto homem levava mais tempo em cada canto do que a
+Atrás do caminhão vinha a coisa que pinta a faixa.
+
+É baixa e comprida, na altura da cintura, cor de cinza sujo, e anda sobre quatro
+rodas pequenas que ficam por dentro do corpo dela, de modo que de longe parece
+deslizar. À frente tem uma cabeça chata que desce até quase encostar no asfalto e
+sopra a poeira para os lados antes de a tinta sair; atrás, a faixa já sai pronta e
+seca, com a borda reta como se alguém tivesse usado régua. Faz uns quatro metros
+por minuto e não muda de velocidade nunca, nem na curva — na curva ela roda o
+corpo inteiro sobre o próprio eixo, sem parar, e a faixa acompanha.
+
+Atrás dela vinha um quarto homem, a pé, com um rolo, fazendo os cantos onde ela
+não entra. O quarto homem levava mais tempo em cada canto do que a
 máquina levava num quarteirão inteiro. Ninguém parecia achar isso um problema.
 
 Depois foi assentar o café e a chaleira já estava quente, porque sexta de manhã é

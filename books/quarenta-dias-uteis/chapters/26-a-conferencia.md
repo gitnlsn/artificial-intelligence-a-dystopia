@@ -17,11 +17,18 @@ cast:
 sources: nenhuma
 status: draft
 ---
-A conferência trimestral é às dez, no sétimo andar, e dura quarenta minutos, e
-tem café que ninguém toma.
+A conferência trimestral é às dez, no sétimo andar, e dura quarenta minutos.
 
-São onze pessoas em volta de uma mesa comprida. Voss senta no mesmo lugar desde
-2039, que é o terceiro da esquerda, de costas para a janela.
+São onze pessoas em volta de uma mesa comprida, e sete delas estão na sala. As
+outras quatro estão sentadas do mesmo jeito, na mesma mesa, um pouco mais claras
+que as sete, e quando alguém passa entre a mesa e a parede a pessoa que passa não
+some atrás delas — é assim que se sabe qual é qual, e ninguém olha para saber.
+Uma das quatro é de outra cidade e chega sempre com meio segundo de atraso em
+tudo o que diz, e há três anos ninguém comenta isso.
+
+Voss senta no mesmo lugar desde 2039, que é o terceiro da esquerda, de costas
+para a janela. Sentar de costas para a janela é a razão pela qual ele recusou a
+mesa da janela lá embaixo, e é a mesma razão: material contra claridade.
 
 ---
 
@@ -31,10 +38,18 @@ Ela dirige o setor há três anos, tem quarenta e poucos, é competente e é rá
 e Voss gosta dela do jeito que ele gosta de gente: sem intimidade nenhuma e com
 uma boa opinião estável.
 
-Ela passou os quadros do trimestre. Volume, tempo médio de tratamento,
-distribuição por tipo, e o último quadro.
+Ela passou os quadros do trimestre.
 
-O último quadro é a taxa de reversão em segunda instância.
+Os quadros ficam no meio da mesa, deitados sobre o tampo como se estivessem
+impressos nele, do tamanho de uma folha grande, e giram devagar de modo que cada
+um dos onze recebe o quadro virado para si. Volume, tempo médio de tratamento,
+distribuição por tipo. Quando a Brann troca de quadro, os onze trocam juntos, e
+por uns dois décimos de segundo a mesa inteira fica em branco.
+
+O último quadro é a taxa de reversão em segunda instância. Nesse, cada um vê o
+próprio nome na primeira linha e os outros dez em ordem embaixo, e a ordem é a
+mesma para todo mundo — é o único quadro do trimestre em que as onze pessoas
+estão lendo exatamente a mesma coisa.
 
 ---
 

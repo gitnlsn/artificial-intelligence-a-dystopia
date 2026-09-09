@@ -59,6 +59,26 @@ circulação, e o curativo leva quarenta minutos e dói, e ele conversa o tempo 
 para não pensar, e a conversa dele é sobre política e sobre a rua e sobre um
 vizinho que estaciona errado.
 
+O curativo em si dá onze minutos.
+
+A Rita sabe porque numa das casas que ela não faz mais puseram uma coisa que faz
+curativo, e ela chegou a ver fazer duas vezes antes de o turno cair. Abre, limpa,
+mede a borda, fecha, anota a medida. Onze minutos, e não erra a medida, que é a
+parte que a Rita erra de vez em quando.
+
+Ninguém nunca lhe explicou por que ali não puseram, e ela nunca perguntou, porque
+a conta não é difícil de fazer: três vezes por semana, em horário quebrado, numa
+casa que é um endereço e dois turnos. Para uma coisa desse tamanho ainda compensa
+mandar gente. Onde é todo dia e no mesmo horário, não mandam mais.
+
+Os quarenta minutos, então, não são o curativo. O curativo são onze. Os outros
+vinte e nove são o Anselm falando do vizinho que estaciona errado, e a Rita
+respondendo, e a perna doendo menos porque ele está falando do vizinho que
+estaciona errado.
+
+Isso não entra em lugar nenhum. Não é atribuição do turno e não tem onde ser
+anotado, e a Rita faz assim mesmo, e faz há quatro anos.
+
 Embaixo é outra coisa. Kasper teve um princípio de alguma coisa em 2044 e ficou
 com medo, e o medo virou a doença principal. Ele mede a pressão quatro vezes por
 dia e anota num caderno. A Rita confere o caderno com ele, o que não está na

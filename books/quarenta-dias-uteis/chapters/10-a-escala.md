@@ -74,7 +74,13 @@ Quinta: um.
 E por baixo, numa letra menor, dizendo que aquilo era uma projeção e podia mudar.
 
 Ela tinha trabalhado dezoito turnos numa semana, sete meses atrás. Ela lembra
-porque foi a semana em que comprou a máquina de lavar.
+porque foi a semana em que subiu a faixa da casa e a roupa passou a voltar
+dobrada.
+
+Não é que antes não lavasse. Lavava, e lavava bem. Só que era ela quem tirava, e
+quem estendia, e quem dobrava, e são cinquenta minutos numa terça à noite, e por
+cinquenta minutos numa terça à noite ela fez dezoito turnos numa semana e achou
+que valia.
 
 Duas daquelas casas não existem mais como turno. Não morreu ninguém: puseram
 coisa nova. Na do seu Bertoldo puseram um negócio que levanta e vira, e o turno
@@ -83,6 +89,16 @@ dorme melhor. Provavelmente dorme mesmo.
 
 Rita não fez conta nenhuma com isso. Ela guardou do jeito que se guarda: a casa
 do Bertoldo era boa e não é mais dela.
+
+E tem um jeito nas que ficam.
+
+Ficam as de escada. Ficam as de horário quebrado, as de duas vezes por semana em
+dia diferente, as de quarenta minutos numa terça e vinte num sábado, as de gente
+que grita, as de gente que não quer ser lavada. Sai o que é todo dia no mesmo
+horário e dura sempre o mesmo tanto.
+
+Essa conta ela também não fez. Mas sabe as dezoito casas de cor, e sabe quais
+caíram, e as que caíram eram as boas.
 
 ---
 

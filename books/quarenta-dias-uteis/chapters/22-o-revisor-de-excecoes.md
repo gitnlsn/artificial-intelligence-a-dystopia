@@ -39,16 +39,32 @@ Ele não hesitou e não pensou naquilo de novo.
 O prédio abre às sete e meia. Ele chega às sete e vinte e espera do lado de fora,
 no primeiro degrau, porque entrar antes da hora é uma coisa que ele não faz.
 
-A mesa dele é a quarta da terceira fileira, e é igual a todas as outras, e ele
-recusou duas vezes a mesa da janela quando ela vagou, uma vez em 2041 e uma em
-2045, o que naquele andar já virou uma anedota que ele conhece e que não o
-incomoda.
+A mesa dele é a quarta da terceira fileira, e é igual a todas as outras: um tampo
+claro de um metro e vinte, sem gaveta, sem nada em cima. As mesas do oitavo andar
+são iguais porque não precisam ser diferentes — o trabalho não fica nelas, fica
+em cima delas, no ar, e vai embora com a pessoa. Um andar de sessenta mesas
+vazias, às sete e meia da manhã, parece um depósito de tampos.
 
-Os casos chegam classificados. Isso é feito antes dele e é feito bem: quando o
-pedido cai na mesa, o enquadramento já está sugerido, os dispositivos aplicáveis
-já estão do lado, e o histórico do requerente já está aberto na ordem em que ele
-vai querer ler. Voss confere a sugestão em todos os casos e a contraria umas
-três vezes por mês.
+Ele recusou duas vezes a mesa da janela quando ela vagou, uma vez em 2041 e uma
+em 2045, o que naquele andar já virou uma anedota que ele conhece e que não o
+incomoda. A anedota não entende a objeção: numa mesa de janela o material fica
+mais fraco contra a claridade e a pessoa passa o dia inclinando a cabeça.
+
+Os casos chegam classificados. Isso é feito antes dele e é feito bem.
+
+Um caso aberto ocupa uns oitenta centímetros de mesa e sobe uns quarenta acima do
+tampo. O pedido fica no meio, de frente para ele. O enquadramento sugerido fica
+logo acima do pedido, mais curto, numa letra um pouco menor, e é a única parte
+que vem numa cor diferente — um cinza mais quente, que é como o andar inteiro
+sabe que aquilo foi sugerido e não decidido. Os dispositivos aplicáveis ficam à
+direita, empilhados, o mais provável na frente. O histórico do requerente fica à
+esquerda, já aberto, e já na ordem em que ele vai querer ler: primeiro o que
+contradiz o pedido, depois o resto.
+
+Voss confere a sugestão em todos os casos. Quando contraria, arrasta o
+enquadramento sugerido para fora com dois dedos e ele encolhe e some, e o cinza
+mais quente sai da mesa, e o que fica é só o que ele escreveu. Faz isso umas três
+vezes por mês.
 
 Ele é a favor, e não por preguiça. Quanto menos coisa depende de quem pegou o
 caso, melhor. É a mesma frase que ele diz sobre tudo, e ele a diz sem nenhuma
@@ -138,7 +154,9 @@ defende o critério porque é a única coisa que já esteve do lado dele.
 
 ---
 
-Às cinco e meia ele desligou.
+Às cinco e meia ele fechou a mesa, que é passar a mão aberta uma vez sobre o
+tampo, da esquerda para a direita. Tudo recolhe na direção da mão e some, e fica
+o tampo claro.
 
 Setenta e um casos naquela segunda, dos quais deferiu dezenove.
 

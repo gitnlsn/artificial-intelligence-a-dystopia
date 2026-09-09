@@ -18,7 +18,7 @@ status: draft
 ---
 Ela chegou às nove e vinte e ele tinha feito comida.
 
-Isso é importante. Ele tinha feito comida — não esquentado, feito, com a
+Isso é importante. Ele tinha feito comida — não pedido, não montado: feito, com a
 frigideira suja na pia e o cheiro ainda na casa — e tinha deixado o prato dela
 coberto com outro prato, do jeito que a mãe dele fazia, e tinha lavado o resto.
 
