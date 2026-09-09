@@ -44,11 +44,13 @@ A Nina desceu do vão com as pernas dormentes e quase caiu.
 
 ---
 
-A mãe apareceu de trás com o telefone na mão e disse que tinha visto tudo.
+A mãe apareceu de trás e disse que tinha visto tudo.
 
 Ela não tinha visto tudo. Estava a quatro metros, encostada na parede, e a Nina
 sabe que ela não viu a banda passar porque a Nina se virou uma vez para chamar e
-a mãe estava com a cabeça baixa.
+a mãe estava atrás de três retângulos cinzentos abertos em leque na altura do
+queixo, virados para o outro lado. De onde a Nina estava dava para ver as costas
+dos três, que são lisas e não têm nada, e o queixo da mãe embaixo deles, baixo.
 
 A Nina não falou nada disso.
 
