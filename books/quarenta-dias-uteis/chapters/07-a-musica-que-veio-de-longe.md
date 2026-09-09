@@ -16,8 +16,9 @@ seeds:
 - a-musica-de-longe
 cast:
 - rita
-sources: '*Great Divide*, The Cardigans, 1996 — só o título e a descrição; a letra
-  não pode ser impressa. Ela não sabe o nome da música. Ver docs/references.md'
+sources: '*Great Divide*, The Cardigans, 1996 — aqui a banda é nomeada (a mãe dela
+  a dizia no carro) e o título nunca; a letra não pode ser impressa. Ela não sabe
+  o nome da música. Ver docs/references.md'
 status: draft
 ---
 Às seis e quarenta ela já estava embaixo do toldo da padaria, que é onde se
@@ -129,10 +130,11 @@ Vinha da janela. Só isso. Alguém tinha aberto uma janela.
 
 Rita conhecia.
 
-Não o nome. Nunca soube o nome e não sabe até hoje. Sabe que é do disco que a mãe
-dela ouvia no carro, aquele que ficava no porta-luvas, e sabe que a mãe dizia o
-nome da banda com sotaque de quem está inventando o sotaque, e sabe que a mãe
-gostava mais dessa que das outras e passava para a frente até chegar nela.
+Não o nome da música. Esse ela nunca soube e não sabe até hoje. Sabe que é do
+disco que a mãe dela ouvia no carro, aquele que ficava no porta-luvas, e sabe
+que a mãe dizia Cardigans com sotaque de quem está inventando o sotaque, e sabe
+que a mãe gostava mais dessa que das outras e passava para a frente até chegar
+nela.
 
 Uma mulher cantando devagar, sem forçar nada. Um violão que faz a mesma coisa
 umas quatro vezes antes de mudar. Um baixo grande e mole por baixo. E aquele

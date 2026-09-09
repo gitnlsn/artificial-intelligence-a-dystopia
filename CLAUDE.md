@@ -247,7 +247,16 @@ neither of them knows the name, the two never meet, and nobody in the book —
 narrator included — ever connects them. What the reader feels is the inversion,
 not a kinship: Aurel's arrived requested, selected and delivered at the right
 volume; Rita's fell into the street by accident, too loud to be aimed at anyone.
-Do not name the track in the prose to help the reader see it.
+
+**The track is named on the page, in two halves — the author's decision, and it
+replaces an earlier rule that it was never named at all.** The voice tells Aurel
+the *title* and he knows it is the name and does not keep it; Rita never knew the
+title and knows the *band*, because her mother said it in the car. **Never give
+the title to Rita or the band to Aurel**, and the narrator names neither — both
+names are in someone's mouth, which is what keeps them inside `pov:`. Neither
+character holds the whole name, so nobody in the book can connect the two
+hearings; the reader who knows the record joins the halves, and the reader who
+does not loses nothing.
 
 That is deliberate. A song everyone knows would hand the reader a shared
 reference back, which is the exact consolation Part I says is gone. Unnamed, the

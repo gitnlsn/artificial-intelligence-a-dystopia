@@ -225,17 +225,27 @@ pede desculpa.
 
 O que a mantém coincidência, e nada disso é negociável:
 
-- **Nenhum dos dois sabe o nome.** Rita nunca soube; Aurel não tem nome nenhum
-  para dar quando lhe perguntam, e por isso a máquina escolhe.
+- **Cada um recebe metade do nome, e nunca a mesma metade.** Decisão do autor,
+  tomada depois de a regra anterior ter sido "não nomear a faixa em lugar
+  nenhum". A voz diz a Aurel o **título** — duas palavras numa língua que ele
+  não fala — e ele sabe que é o nome e não fica com ele. Rita nunca soube o
+  título e sabe a **banda**, porque a mãe dela dizia Cardigans no carro com
+  sotaque de quem está inventando o sotaque. **Não dar o título a Rita nem a
+  banda a Aurel**, e nenhum dos dois em itálico na boca da voz. Aurel continua
+  sem nome nenhum para dar quando lhe perguntam, e por isso a máquina escolhe:
+  o título chega *depois* de ele abrir mão de escolher.
 - **São dias diferentes** — Aurel na sexta 18/10, Rita na sexta 11/10 — e os dois
   nunca se encontram, nem sabem um do outro.
-- **Ninguém no livro liga uma coisa à outra**, e o narrador tampouco. Só o leitor
-  vê, porque leu as duas descrições com uma página de distância.
+- **Ninguém no livro liga uma coisa à outra**, e o narrador tampouco — e agora
+  isso é verdade *literal*: nenhum dos dois tem o nome inteiro, então nenhum dos
+  dois teria como ligar. Só o leitor vê, porque leu as duas descrições com uma
+  página de distância; o leitor que conhece o disco junta as duas metades e o
+  que não conhece não perde nada.
 - O que o leitor sente é a **inversão**, e não o parentesco: a de Aurel foi
   pedida, escolhida por uma máquina e entregue no volume exato; a de Rita caiu na
   rua por acidente, alta demais para ser dirigida a alguém.
-- A regra de direitos continua: **título e descrição, nunca a letra.** Ver
-  `docs/references.md`.
+- A regra de direitos continua e o nome não a mexe: **título, nome da banda e
+  descrição são livres; a letra, nunca.** Ver `docs/references.md`.
 
 ---
 

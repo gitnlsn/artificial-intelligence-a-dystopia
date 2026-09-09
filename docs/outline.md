@@ -76,6 +76,12 @@ A Parte II abre com o segundo protagonista **ouvindo uma música de longe**:
 on the Moon*, 1996, de Sveningsson e Svensson). Chega sem ser pedida, escolhida
 por ninguém, de uma janela ou de um carro.
 
+**A faixa é nomeada na página, em duas metades.** A voz diz o título ao Aurel em
+*O procedimento*, e ele não fica com ele; a Rita sabe a banda, e não o título,
+porque a mãe dela dizia Cardigans no carro. Nenhum dos dois tem o nome inteiro,
+o narrador não nomeia nada, e portanto ninguém no livro pode ligar as duas
+audições. Regra completa em `docs/bible.md`, *As duas exceções declaradas*.
+
 O desfile fecha com uma música **sem nome**. Não é uma canção conhecida, não é
 citada, não tem letra e não precisa ser reconhecida por ninguém — nem pelos
 personagens, nem pelo leitor. É uma banda marcial de gente: bombo, caixa,

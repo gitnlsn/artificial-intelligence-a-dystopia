@@ -64,14 +64,23 @@ Aplicado a este livro:
 | A música do desfile | **Inventada** — sem nome, sem letra, banda marcial de gente | Tudo. Música inventada não tem titular, e foi por isso, entre outras razões, que se decidiu assim |
 | Caetano Veloso, *Oração ao Tempo*, 1979 | Em direito autoral | Nomear e descrever apenas |
 
-**A música toca duas vezes, e em nenhuma delas é nomeada na prosa.** Em *O
-procedimento* a máquina a escolhe para Aurel; na abertura da Parte II ela desce
-de uma janela sobre a Rita. Os dois ouvem a mesma coisa em dias diferentes e
-**nenhum dos dois sabe o nome** — o que, além de ser a decisão narrativa (ver
-`docs/bible.md`, *As duas exceções declaradas*), mantém a situação de direitos
-exatamente onde ela já estava: descrição de som, nunca letra. Duas descrições em
-vez de uma não mudam nada juridicamente. Não passar a nomear a faixa na prosa
-para "ajudar" o leitor a ver a coincidência.
+**A música toca duas vezes, e cada um dos dois recebe metade do nome.** Em *O
+procedimento* a máquina a escolhe para Aurel e diz o **título**; na abertura da
+Parte II ela desce de uma janela sobre a Rita, que nunca soube o título e sabe a
+**banda**, porque a mãe dela a dizia no carro. Nenhum dos dois tem o nome
+inteiro, e é por isso que nenhum dos dois pode ligar uma coisa à outra — ver
+`docs/bible.md`, *As duas exceções declaradas*, para a regra narrativa.
+
+**Isto não mexe na situação de direitos.** Título e nome de banda não são
+protegidos, então imprimi-los é livre, e o que o livro imprime continua sendo
+descrição de som. **A letra segue proibida**, e nomear a faixa não abre nenhuma
+margem para citá-la: a regra é a mesma com ou sem o nome na página. O que mudou
+foi uma decisão narrativa, não uma jurídica.
+
+**Não dar o nome inteiro a nenhum dos dois** — nem o título à Rita, nem a banda
+ao Aurel — e não fazer o narrador nomear nada em lugar nenhum: os dois nomes que
+existem na página estão na boca de alguém (a voz, no primeiro caso; a mãe da
+Rita, lembrada, no segundo), e é isso que os mantém dentro do `pov:`.
 
 ### Victor Hugo — domínio público
 

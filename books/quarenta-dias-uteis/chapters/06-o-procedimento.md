@@ -21,7 +21,9 @@ seeds:
 - a-frase-sem-erro
 cast:
 - aurel
-sources: nenhuma
+sources: '*Great Divide*, The Cardigans, 1996 — a voz diz o título, e só o título;
+  nunca a banda, nunca o ano, nunca a letra. Ele não fica com o nome. Ver
+  docs/references.md'
 status: draft
 ---
 
@@ -362,6 +364,11 @@ ela sabia.
 — O senhor prefere que eu escolha?
 
 — Prefiro — disse ele.
+
+— Great Divide.
+
+Duas palavras na outra língua, ditas no mesmo volume que todo o resto. Era o
+nome. Ele soube que era o nome e não ficou com ele.
 
 ---
 
