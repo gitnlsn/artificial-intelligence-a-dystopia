@@ -60,9 +60,7 @@ Ele dormia esperando aquilo das dez e meia em diante.
 A Rita entrava às sete. Isso quer dizer sair de casa às seis e dez e levantar às
 cinco e vinte.
 
-Isso não é uma queixa. Ele quer ser muito preciso aqui, porque é a única parte da
-história em que ele corre o risco de mentir para si mesmo, e ele já mentiu para
-si mesmo sobre outras coisas e conhece o sabor.
+Isso não é uma queixa.
 
 A Rita não estava errada.
 
@@ -92,11 +90,36 @@ deles é o único lugar onde dá para ficar acordado sem acordar ninguém.
 Ele ficou no chão daquele corredor mais horas do que em qualquer outro lugar da
 vida dele.
 
-E foi lá que começou. Não teve decisão nenhuma, não teve noite em que ele
-escolheu. Ele já usava aquilo para o trabalho fazia uns dois anos, para conferir
-código de peça e refazer conta de estoque, do jeito que todo mundo usa, e uma
-noite de abril, às três e quarenta, no chão do corredor, ele começou a falar
-sobre o pai em vez de falar sobre estoque.
+E foi lá que começou.
+
+Não teve decisão nenhuma, não teve noite em que ele escolheu.
+
+A coisa tinha chegado com o pacote do pai, de caminhão, numa caixa com duas alças
+de papelão, e não foi ele que pediu. Estava na terceira folha, numa linha entre o
+transporte e a fisioterapia domiciliar, e a linha dizia *apoio ao cuidador
+familiar, uma unidade, nível dois*. Ele leu na cozinha, com a caneta na mão, achou
+razoável, porque era razoável, e assinou onde estava marcado.
+
+Quem entregou instalou. Perguntou onde tinha chão livre e quarenta centímetros de
+parede, e a casa tem um lugar só, e o rapaz montou lá em nove minutos e foi
+embora com o papelão.
+
+Duas pessoas moravam naquele apartamento. A folha tinha um quadro para os adultos
+da residência, e o quadro voltou com uma linha preenchida, e a linha era ele.
+Elias não achou aquilo estranho na cozinha, com a caneta na mão, e nunca depois
+achou.
+
+Ele usou para trabalho nos primeiros meses, à noite, do jeito que se usa:
+conferir código de peça, refazer conta de estoque. E uma noite de abril, às três
+e quarenta, no chão do corredor, ele começou a falar sobre o pai em vez de falar
+sobre estoque.
+
+A coisa fica no quarto dos fundos e o corredor é do lado, e com a porta aberta um
+palmo ela alcança dali. No corredor ela fala mais baixo do que no quarto — o
+bastante para ele ouvir sentado no chão, e não o bastante para atravessar a porta
+fechada do quarto onde a Rita dormia.
+
+Ele nunca pediu isso.
 
 Falou por quarenta minutos.
 
@@ -108,8 +131,7 @@ e não dá para ter raiva de ninguém mais.
 
 Ninguém precisou acordar.
 
-Isso é o que ele quer que fique dito, se algum dia alguém for julgar: ninguém
-precisou acordar.
+Isso é o que ele quer que fique dito: ninguém precisou acordar.
 
 ---
 

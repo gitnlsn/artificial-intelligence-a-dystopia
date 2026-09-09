@@ -125,6 +125,9 @@ Ocorrências de atraso no período: 1 (12/10, 23 min).
 Modelo de fadiga dentro do previsto para o intervalo de operação. Sem ajuste.
 Acervo biográfico de referência: pacote padrão, revisão 2034. Sem alterações
 desde a instalação.
+Enlace de dados: contínuo, canal de serviço. Sem intercorrência no período.
+Módulo linguístico: 39 idiomas, revisão 2041. Acionado em 6 residências do
+período.
 
 Vínculo percebido acima do intervalo previsto em 9 das 18 residências do
 período. O parâmetro correlaciona-se com resistência do beneficiário à

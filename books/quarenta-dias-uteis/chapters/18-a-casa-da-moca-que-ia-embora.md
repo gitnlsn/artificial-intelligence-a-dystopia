@@ -26,12 +26,21 @@ Foi moto. Não a dela — ela estava na garupa, o que ela conta com uma raiva
 específica, porque *nem era a minha moto*, e porque o rapaz que dirigia está
 perfeitamente bem e mandou mensagem duas vezes.
 
-O fixador sai em janeiro. Depois é fisioterapia. Depois, segundo a Juno, é o
+O fixador sai em três meses. Depois é fisioterapia. Depois, segundo a Juno, é o
 aeroporto.
 
 É de metal e tem oito pinos e ela o odeia com uma intimidade que a Rita respeita.
+
 Tem coisa melhor. A Juno sabe qual é, sabe o nome, disse o nome uma vez — e disse,
-na mesma frase e sem mudar de tom, que não era o caso dela. Não foi queixa. Foi
+na mesma frase e sem mudar de tom, que não era o caso dela.
+
+O que tem melhor não é aparelho. É uma coisa que se põe dentro, e o osso fecha
+sozinho em cinco semanas, e a pessoa sai andando com a perna inteira e sem nada
+por fora. A Rita já viu duas. Uma foi num rapaz de Kalden que caiu de bicicleta, e
+o rapaz tinha três pontos na coxa do tamanho de uma unha e mais nada, e quinze
+dias depois estava sentado no chão da sala com a perna cruzada.
+
+A Juno tem oito pinos e sai em três meses. Não foi queixa. Foi
 informação, do jeito que se diz o preço de uma coisa que não se vai comprar.
 
 A Rita não perguntou por quê. Nas casas onde ela entra, o que existe e o que
@@ -58,7 +67,10 @@ banquinho, e o resto é presença.
 
 Presença é o que está na escala como *apoio*.
 
-Na prática significa que a Rita fica três horas num quarto e sala com uma mulher
+Na prática significa três horas de pé, porque a Rita não senta em casa de cliente
+— não é regra de lugar nenhum, é dela, e são doze anos assim, e no fim do dia ela
+não sente as três horas mais do que sente as outras. Três horas num quarto e sala
+com uma mulher
 de vinte e seis anos que não pode sair, e que se ela ficar calada a mulher
 enlouquece.
 
@@ -87,7 +99,7 @@ Rita.
 — Muito. — Ela riu. — Tipo, muito muito.
 
 A prima da Juno mora lá há quatro anos e diz que precisa de gente. A Juno vai com
-o dinheiro do seguro, se sair. Vai em março, se a perna deixar. Vai ficar dois
+o dinheiro do seguro, se sair. Vai em cinco meses, se a perna deixar. Vai ficar dois
 anos e depois vê.
 
 Ela conta isso três vezes por semana com pequenas variações e a Rita já conhece o
@@ -111,7 +123,7 @@ inveja. É que ela senta naquele quarto e sala três vezes por semana e passa tr
 horas dentro de um futuro, e o futuro é bom, e o futuro não é dela em nenhum
 sentido — nem por identificação, nem por esperança, nem por aquela coisa que as
 pessoas dizem de *ver os filhos irem mais longe*, porque a Juno não é filha dela,
-é uma moça que ela conhece há sete meses e que em março vai embora e não vai
+é uma moça que ela conhece há sete meses e que em cinco meses vai embora e não vai
 mandar mensagem depois do segundo mês.
 
 Ela vai gostar. E vai acabar.

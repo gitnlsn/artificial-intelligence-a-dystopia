@@ -31,6 +31,10 @@ A cozinha estava à esquerda e a luz estava apagada.
 
 — Seu Vilmar, é a Rita.
 
+Ela já sabia que não tinha ninguém. Soube na porta, antes de entrar, do jeito que
+se sabe — casa com gente dentro é diferente de casa sem, e a diferença chega
+antes do resto. Chamou assim mesmo, as duas vezes, porque é o que se faz.
+
 ---
 
 Ele tem oitenta e um anos e não toma o remédio.
@@ -206,3 +210,18 @@ por quê, com uma teimosia que ela reconhecia e da qual já estava começando a 
 vergonha.
 
 Na terça seguinte ela não tinha turno em Brenna.
+
+---
+
+::: {.registro}
+Revogação de credencial de acesso. Endereço 4-B, Brenna.
+Credencial: prestador domiciliar, matrícula 88-2214.
+
+Motivo: encerramento de vínculo de atendimento em 17/10.
+Data de efetivação: 20/10.
+
+Registra-se acesso em 17/10, 07h41, posterior ao encerramento e anterior à
+efetivação. Permanência de 64 min. Acesso regular. Sem irregularidade a apurar.
+
+Prazo para manifestação: 40 dias úteis.
+:::

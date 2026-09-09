@@ -96,9 +96,18 @@ longe, atravessando o telefone dos dois.
 Liga primeiro embaixo, umas nove e vinte. Depois em cima, umas onze.
 
 Ela podia fazer melhor que isso e já tentou. Uma vez, faz uns três anos, marcou
-de estar com os dois — de estar mesmo, os três na mesma sala, do jeito que se faz
-hoje com quem mora longe, e ela explicou tudo direitinho por escrito e disse a
-hora. O Anselm contou isso à Rita rindo, como quem conta uma bobagem de irmã mais
+de estar com os dois — de estar mesmo, os três na mesma sala.
+
+A Rita já viu funcionar. Numa casa de Kalden, num domingo em que ela pegou turno
+extra, a filha da senhora esteve na sala durante uma hora e vinte. Ficou na
+poltrona da esquerda, do tamanho certo, com a luz daquela sala em cima dela e não
+a luz de onde ela estava. Sentava. Cruzava a perna. Quando a senhora passou na
+frente, a filha ficou atrás da senhora, do jeito que uma pessoa fica.
+
+A única coisa que a Rita reparou em uma hora e vinte foi que ela não encostou em
+nada. Nem no braço da poltrona, nem na mesa, nem na mãe.
+
+A Nadia explicou tudo direitinho por escrito e disse a hora. O Anselm contou isso à Rita rindo, como quem conta uma bobagem de irmã mais
 nova.
 
 Não foi. Nenhum dos dois diz qual foi o que não foi.

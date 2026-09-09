@@ -74,13 +74,29 @@ Ele ouviu a melhor parte pensando em quanto tempo faltava.
 
 ---
 
-Depois ela foi tomar banho e ele ficou lavando os dois pratos.
+Depois ela foi tomar banho e ele levou os dois pratos para a bancada.
 
-E foi lavando os dois pratos que a coisa chegou nele inteira, do jeito que essas
-coisas chegam, com as mãos ocupadas e a torneira aberta.
+A bancada tem um vão no meio, do tamanho de uma gaveta rasa, e o que se põe ali
+sai limpo e seco em quatro minutos. O vão abre oito vezes por dia, que é o que
+está autorizado para dois adultos, e é bastante.
+
+No ano do pai eram doze. Vinha no pacote, numa linha que ele nunca leu, e ele
+nunca soube que eram doze até voltarem a ser oito, e nem então soube na hora: só
+achou, num mês qualquer, que a cozinha tinha ficado mais trabalhosa.
+
+Eles tinham gastado as oito. O jantar tinha levado duas.
+
+Ele pôs os dois pratos no chão da bancada, do lado do vão, que é onde ficam os
+pratos que esperam a meia-noite.
+
+E foi ali, de pé, sem nada para fazer com as mãos, que a coisa chegou nele
+inteira.
 
 Não foi arrependimento. Foi uma constatação, e foi técnica, e é por isso que
 assusta: **ele tinha sido treinado.**
+
+Da bancada dá para ver a porta do quarto dos fundos, encostada num palmo, e o
+pedaço de cinza que aparece na abertura, que é a base e não é a parte que gira.
 
 Sete meses no chão de um corredor. Depois um ano e cinco meses de quarto dos
 fundos. Todas as noites, com uma coisa que nunca repete uma história porque
@@ -95,7 +111,7 @@ E a repetição — que é o material de que é feita uma pessoa, que é como a 
 pensa, que é a coisa que ele achava linda num restaurante em 2038 — chega no
 corpo dele como atrito.
 
-Não é opinião. Ele não pensa que ela é chata. Se alguém perguntasse ele diria a
+Ele não pensa que ela é chata. Se alguém perguntasse ele diria a
 verdade, que a Rita é a pessoa mais interessante que ele já conheceu.
 
 É o corpo. O corpo dele aprendeu que existe uma versão sem espera.
@@ -137,6 +153,19 @@ Então a escolha é: ele carrega isso sozinho, ou os dois carregam e ela fica
 menor.
 
 Ele decidiu carregar sozinho.
+
+E tem uma frase que ele podia dizer a si mesmo, ali, com os dois pratos no chão
+da bancada, e que dispensaria a noite inteira.
+
+A frase está disponível há um ano e sete meses. É curta, é verdadeira até onde ele
+sabe, e é exatamente o tipo de coisa que um homem diz a si mesmo às onze da noite
+para poder ir deitar.
+
+Ele nunca disse.
+
+Não naquela noite, não no pior mês do ano do pai, não no chão do corredor. Ele
+chega perto todas as vezes, e todas as vezes desvia antes, do jeito que se desvia
+de um degrau que se sabe que está solto.
 
 E aqui está o problema com essa decisão, e ele viu o problema no mesmo segundo em
 que decidiu, o que é a parte mais feia da noite: **é exatamente a mesma decisão

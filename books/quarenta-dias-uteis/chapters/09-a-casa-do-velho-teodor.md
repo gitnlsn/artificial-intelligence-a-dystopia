@@ -53,6 +53,22 @@ mulher dele é dele, com uma tampa de correr que corre até hoje sem prender.
 
 E a mão esquerda não abre mais que uns dois terços.
 
+Abriu um terço quando ele voltou. Chegou aos dois em catorze semanas, parou nos
+dois, e faz onze meses que está nos dois.
+
+Foram três aplicações. A Rita viu a última, porque caiu num turno dela: veio uma
+moça com uma bolsa térmica, ficou dezoito minutos, e o que ela pôs foi na dobra
+do braço e não na mão, e duas semanas depois a mão abria um pouco mais. Não dói.
+Ele disse que não dói, e ele diria se doesse.
+
+Foram autorizadas três. Está no papel: três.
+
+E existe seguir. A Rita sabe que existe seguir porque numa casa de Kalden, no ano
+passado, um senhor de oitenta e dois anos fazia aquilo de seis em seis semanas e
+a mão dele abria inteira, e ele reclamava do gosto que ficava na boca depois.
+
+O Teodor fez três.
+
 ---
 
 O turno dela ali é de três horas, das oito às onze, três vezes por semana. Está
@@ -99,7 +115,10 @@ não tem o outro lado do bairro esperando por ela às onze e meia.
 O que ela faz de fato, em ordem: abre a janela do quarto, que ele não alcança.
 Tira a roupa de cama de quinta. Ajuda ele no banho, que é a parte que os dois
 resolveram há muito tempo tratando como serviço e não como intimidade, porque é
-o único jeito de os dois saírem inteiros. Passa o creme nas costas. Confere as
+o único jeito de os dois saírem inteiros. Passa o creme nas costas — e ele disse
+uma vez, no segundo ano, que a mão dela está sempre na mesma temperatura, e que
+isso é bom, porque as outras chegavam frias no inverno. A Rita disse que era o
+creme. Não é o creme, e ela não corrigiu depois. Confere as
 três caixas de remédio contra a lista, que é uma conferência que ela faz em voz
 alta, sempre, dizendo o nome e a hora, e ele responde *isso* — e ela faz em voz
 alta porque foi assim que aprendeu e porque ele gosta.

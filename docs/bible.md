@@ -84,6 +84,28 @@ O que isso quer dizer na prática:
   hoje o que dizia em 1991; o deleatur da Nina fica; o comunicado de Aurel é
   impresso; Voss compra em sebo *porque o que se pode perder é o que se pode
   devolver*. Quatro personagens, quatro motivos diferentes, nenhuma tese.
+- **A camada de serviço — a sobreposição da Rita, e é a da Parte II** (caps. 11,
+  17). Quando ela entra numa casa, **a casa escreve para ela**: aparece do lado
+  de dentro da porta, na altura do ombro, e anda com ela de cômodo em cômodo —
+  número do turno, o que está previsto, o que está feito; a hora de cada remédio
+  em cima das caixas; a data da última troca de fronha em cima da cama. **No
+  canto de baixo um relógio que não é a hora: é o que sobra do turno, e conta
+  para trás.** *A Rita aprendeu a não olhar para ele e olha.* No Bloco C o painel
+  é a única coisa da sala **escrita igual para todo mundo**, e é por isso que ela
+  olha.
+- **A dona Eszter tem a dela, e a Rita nunca viu.** Sabe que existe porque a
+  velha olha para um ponto do ar entre a poltrona e a janela e responde a uma
+  coisa que ninguém disse. Nas primeiras semanas a Rita achou que ela estava
+  confusa; depois entendeu que estava lendo. **Na mesma parede da sala as duas
+  leem coisas diferentes.** *Isso não é assunto.* — é a versão banal do caso
+  extremo Nina/Bel na parede do mercado.
+- **A parede da sala do apartamento deles** (cap. 12) — a maior da casa, lisa e
+  branca, e deixa de ser parede quando alguém senta no sofá. Não é tela: sem
+  borda, sem moldura, não acende. Fica no ar uns dez centímetros à frente do
+  reboco e toma a parede toda se for para tomar. **Da poltrona a Rita vê a dela
+  um pouco de lado, porque a parede é feita para quem está no sofá, e ela quase
+  nunca está no sofá.** *Ver alguma coisa juntos* falhou porque para os dois
+  verem a mesma coisa alguém tem de pedir a coisa do outro, e ninguém pede.
 - **O desfile é a última superfície não sobreposta do livro.** Plantado em *O
   inventário* (a rua montada, sem nada escrito, e Aurel achando estranho sem
   saber por quê) e cobrado em *O desfile — Aurel*. Em *Depois*, quando a rua
@@ -166,14 +188,38 @@ critério.**
 | Quem | O que existe | O que recebe | Cap. |
 |---|---|---|---|
 | **Aurel** | implante de manejo álgico | recebe **sem pedir**, com a data pronta | 06 |
-| **Teodor** | reparo de sequela vascular, janela de dezoito meses | nada; o evento tem catorze meses quando Rita chega e vinte e nove quando alguém pede | 20, 23 |
-| **Juno** | *tem coisa melhor*, ela sabe o nome | fixador externo de metal, oito pinos | 18 |
+| **Teodor** | reparo de sequela vascular; o curso continua de seis em seis semanas enquanto for autorizado | **três aplicações, e três é o que está no papel.** A mão abriu um terço, chegou a dois em catorze semanas, e está nos dois há onze meses | 09, 20 |
+| **o homem de 51** | o mesmo reparo, pela janela de dezoito meses | nada — o evento tem vinte e nove meses, e ele anexou dois laudos | 23 |
+| **Juno** | *tem coisa melhor*, ela sabe o nome: põe-se dentro, o osso fecha sozinho em cinco semanas, a pessoa sai andando e sem nada por fora | fixador externo de metal, oito pinos, sai em três meses | 18 |
 | **Anselm** | a úlcera fecharia | não fecha; quarenta minutos de curativo, três vezes por semana | 14 |
 | **a mulher de 67** | reparo tecidual em joelho | a faixa de indicação vai até sessenta e cinco | 23 |
 
 O elo é invisível de propósito: o leitor vê a recusa na mesa de Voss (cap. 23)
 umas dez páginas depois de ver a mão do Teodor, e **nada no texto liga as duas
 cenas.** Vale a mesma regra da matrícula 88-2214.
+
+**Duas negativas, dois mecanismos, e é melhor assim.** O Teodor não é recusado
+pela janela: ele é **autorizado, e autorizado até um ponto**. O homem de
+cinquenta e um é recusado pela janela. O livro passou a ter as duas coisas na
+varredura da Parte II, e a entrada anterior desta tabela — que dizia *nada* para
+o Teodor — descrevia o plano e não o manuscrito. **Não restaurar.**
+
+**A rima verbal, e nenhuma frase a aponta.** No cap. 09 o poço do prédio *"foi o
+que se autorizou em 2038; a segunda etapa nunca foi autorizada"* e a mão *"foram
+autorizadas três — está no papel: três"*. Mesma palavra, mesmo capítulo, dois
+parágrafos de distância, e ninguém no livro liga as duas. No cap. 20 o aviso do
+hall anuncia a medição da **segunda etapa da obra** — nove anos depois — e a mão
+continua nos dois terços: *"As três dele foram feitas, no prazo, e nenhuma
+falhou. Não teve erro em lugar nenhum"*, que é a frase dos registros dita na
+carne de um homem. **Se alguma revisão puser uma frase apontando qualquer uma
+das duas, a frase sai.**
+
+**A Rita viu a última aplicação** porque caiu num turno dela: uma moça com bolsa
+térmica, dezoito minutos, e o que ela pôs foi **na dobra do braço e não na mão**.
+Duas semanas depois a mão abria um pouco mais. Não dói. **E existe seguir** — num
+turno de Kalden do ano passado, um senhor de oitenta e dois anos fazia aquilo de
+seis em seis semanas, a mão dele abria inteira, e ele reclamava do gosto que
+ficava na boca depois. *O Teodor fez três.*
 
 ## A tradução é universal, e a dona Eszter recusa três palavras
 
@@ -185,6 +231,13 @@ não como sentido. Rita achou durante anos que fosse defeito. Não é: é a úni
 coisa que ela não tem que traduzir, e ela diz isso na porta, e não explica.
 **A língua continua sem nome e as palavras continuam sem transcrição** — nomear
 o país dela quebraria a mesma regra que mantém este país sem nome.
+
+**O outro lado disso, e é a pista.** A velha **traduz**, e diz que contar até três
+é a única coisa que ela não tem que traduzir. A Rita nunca traduziu nada na vida,
+nunca reparou nisso, e o assunto nunca é levantado por ninguém — *"tudo o mais
+que a dona Eszter diz chega na Rita na língua da Rita, e nenhuma das duas faz
+nada para que isso aconteça"*. O registro do cap. 21 diz **módulo linguístico:
+39 idiomas, revisão 2041**. Nenhuma frase da prosa liga as duas coisas.
 
 ## As três exceções declaradas — decisão do autor, não corrigir
 
@@ -281,6 +334,28 @@ cliente, índice de continuidade, vida útil — no mesmo tom que liquidou o Teo
 em quatro linhas. **Sem cena, sem confissão, sem ninguém dizendo em voz alta,
 nunca.**
 
+**Duas linhas acrescentadas ao registro na varredura da Parte II**, e são o único
+lugar do livro onde elas podem existir:
+
+    Enlace de dados: contínuo, canal de serviço. Sem intercorrência no período.
+    Módulo linguístico: 39 idiomas, revisão 2041. Acionado em 6 residências do
+    período.
+
+Elas fazem três trabalhos ao mesmo tempo e nenhum deles é explicado em cena:
+
+- **Recolhem as pistas já plantadas.** A tradução que a dona Eszter tem de fazer
+  e a Rita nunca fez (cap. 11); as horas que ela sabe sem procurar (cap. 10); o
+  *acervo biográfico de referência: pacote padrão, revisão 2034* que já estava
+  ali e que é a mãe no carro.
+- **Respondem ao pedido de "um chip" sem custar a revelação.** Na prosa, a Rita
+  simplesmente sabe coisas e não repara que sabe — nenhum aparelho, nenhum termo,
+  nenhuma cena. Se o acesso dela fosse mostrado como implante na prosa, as
+  esquisitices dela ganhariam explicação mundana e a revelação perderia tudo.
+  **Aqui é o contrário: o leitor volta e relê.**
+- **Continuam sem responder a pergunta.** *Enlace* e *módulo* descrevem serviço,
+  não consciência. Nada aqui diz o que ela é, e ninguém no livro lê este
+  documento.
+
 **O que nunca acontece:**
 
 - Ninguém pergunta se ela sente. Nem ela, nem o Elias, nem o narrador. Qualquer
@@ -336,6 +411,30 @@ revelação, a revelação está carregando peso que não pode carregar.**
   frase diz isso.
 - A gentileza no meio-fio: o livro se recusa a dizer se foi funcionalidade, e o
   Voss não teria onde arquivar de todo jeito.
+
+**O Elias sabe, e agora está na página** (caps. 08, 13, 15). O `CLAUDE.md`
+declarava isso e o rascunho não carregava um único sinal — o arco dele lia-se
+como um homem que negligenciou a mulher por uma companhia, e não como um homem
+que **tem uma companhia e uma companheira que é uma unidade, e não suporta a que
+é pior em ser máquina.** Plantado em três lugares, todos coisas que ele repara e
+não comenta, e **nenhuma frase em lugar nenhum diz.** Nada na cabeça dele é
+falso; a pergunta não é feita nem respondida por ele, nem pela Rita, nem pelo
+narrador.
+
+- **O quadro dos adultos da residência voltou com uma linha preenchida**, e a
+  linha era ele, e ele nunca achou aquilo estranho (cap. 13). É a pista mais
+  fria, e é administrativa, que é onde este livro põe as coisas.
+- **As duas horas exatas.** A marca da alça no ombro dela fica duas horas e some
+  — *duas horas exatas, todas as vezes; ele já conferiu, do jeito que ele confere
+  as coisas* (cap. 08). Um homem que conta onze peças conta isso também. Na
+  superfície é ternura.
+- **A frase disponível que ele nunca disse** (cap. 15). Existe uma frase que ele
+  poderia dizer a si mesmo e que dispensaria a noite inteira; *está disponível há
+  um ano e sete meses, é curta, é verdadeira até onde ele sabe*, e é o tipo de
+  coisa que um homem diz a si mesmo às onze da noite para poder ir deitar. **Ele
+  nunca disse** — chega perto todas as vezes e desvia antes, *do jeito que se
+  desvia de um degrau que se sabe que está solto*. O livro nunca diz qual é a
+  frase. O leitor que chega ao registro do cap. 21 sabe.
 
 ---
 
@@ -528,7 +627,23 @@ de vista, e é ele que um capítulo fura sem perceber.
   ficar estranho.
 - **O quarto dos fundos é também o único com chão livre suficiente**, e foi
   também por isso que sobrou para ele — e ele nunca pôs as duas coisas na mesma
-  frase. Nada além disso é mostrado, nunca. (cap. 08)
+  frase. (cap. 08) — *a cláusula "nada além disso é mostrado, nunca" foi revogada;
+  ver a entrada da companhia em* **As regras do lugar**.
+- **O corredor do depósito, e é o tier dele** (cap. 08). A contagem é feita
+  sozinha à noite, está pronta às **cinco e quarenta** e está certa. O que é dele
+  é o corredor: pega o aparelho na portaria, numa **fileira de vinte e dois
+  ganchos numerados**, põe atrás da orelha, ele encosta no osso, esquenta em uns
+  dez segundos e depois a pessoa esquece que está com ele. Aí **o corredor fica
+  escrito** — cada vão ganha o número no ar, na altura do peito, um pouco à frente
+  da prateleira: quatro dígitos grandes e, menor, o código e a data da última
+  conferência. Anda com ele, e **nunca tem dois acesos ao mesmo tempo.** Às seis e
+  meia devolve no gancho vinte e dois e o corredor apaga.
+- **O Norn tem dentro**, faz três anos, e o depósito pagou. **Quem tem dentro não
+  anda o corredor.** Três linhas, nenhum comentário — é a mesma forma da mão do
+  Teodor e da perna da Juno: *nível, não época*.
+- **No quarto dos fundos ele não põe nada atrás da orelha.** Fala com a boca, e o
+  cômodo é só o cômodo: a cadeira quebrada, a mesa da mãe, o poço de ventilação,
+  **e nada escrito no ar.** Nenhuma frase comenta isso.
 - **O apartamento do pai nunca falhou.** Sabia quando ele levantava e quando não
   levantava, acendia o caminho, e uma vez chamou ajuda sozinho antes de Elias
   saber que havia o que chamar. **O que ele não podia fazer era ser o Elias** — às
@@ -577,6 +692,16 @@ de vista, e é ele que um capítulo fura sem perceber.
   sete minutos e sete minutos separam chegar na hora de chegar atrasada.
 
 ### Seu Vilmar
+
+- **O registro que não fala dele** (cap. 16). O capítulo se recusa a dizer para
+  onde ele foi, e o registro **mantém a recusa**: é uma *revogação de credencial
+  de acesso* do endereço 4-B, no nome da matrícula 88-2214, com efetivação três
+  dias depois do encerramento — e registra o acesso da Rita em 17/10, 07h41,
+  *posterior ao encerramento e anterior à efetivação*, permanência de 64 min,
+  **acesso regular, sem irregularidade a apurar.** O sistema notou que ela entrou,
+  conferiu, e não achou nada errado. O Vilmar não é mencionado. Paga *"o prédio
+  ainda achava que ela devia entrar"*, e é o único registro novo da Parte II —
+  que passa a ter três em quinze capítulos.
 
 - **É** — 81 anos, Brenna. **Escondia comprimido embaixo do prato**, na maior cara
   de pau, como criança; Rita achava dois ou três por semana e os dois riam e ele
@@ -823,6 +948,18 @@ de vista, e é ele que um capítulo fura sem perceber.
 
 ### Nadia
 
+- **Estar na mesma sala existe e funciona bem, e a Rita já viu** (cap. 14). Num
+  domingo de turno extra em Kalden, a filha da senhora **esteve na sala uma hora
+  e vinte**: na poltrona da esquerda, do tamanho certo, **com a luz daquela sala
+  em cima dela e não a luz de onde ela estava**. Sentava, cruzava a perna, e
+  quando a senhora passou na frente ficou atrás dela do jeito que uma pessoa
+  fica. *A única coisa que a Rita reparou em uma hora e vinte foi que ela não
+  encostou em nada — nem no braço da poltrona, nem na mesa, nem na mãe.*
+- **É por isso que a tentativa da Nadia pesa.** Ela marcou, explicou por escrito,
+  disse a hora, e **um dos dois não foi** — e nenhum dos dois diz qual. A
+  tecnologia não faltou. Paga *"o problema não é a escada: tiraram a escada do
+  meio e sobrou exatamente o mesmo"*, e **ninguém no livro enuncia isso.**
+
 - **É** — irmã de Anselm e Kasper, 71 anos, em outro continente. Foi embora em
   1998 e voltou quatro vezes. **Nunca fala na página**: o leitor só ouve os dois
   lados daqui.
@@ -899,6 +1036,15 @@ de vista, e é ele que um capítulo fura sem perceber.
   *inverno passado* e a *quando esquentar mais* dá primavera, primavera dá
   hemisfério sul, e hemisfério sul dá o país que o livro recusou nomear.
   **Não tem agosto e não tem outubro.**
+- **Mês futuro é caso distinto de mês de referência passada, e a carve-out abaixo
+  não o cobre.** Encontrado e corrigido numa varredura da Parte II: o cap. 20
+  trazia *"a gente faz de novo, quando esquentar mais"* e o cap. 18 trazia *"o
+  fixador sai em janeiro"* e *"vai em março"*. Com o presente em 19 de outubro, o
+  leitor monta outubro → esquentando → janeiro, e **fixa o hemisfério sul**. A
+  regra: **prazo futuro se conta, não se datar** — *três meses*, *cinco meses*,
+  *num sábado desses*, *quando a perna deixar*. E **nenhum cue de aquecimento ou
+  esfriamento no presente**, que é o que morde mais forte e o que se lê como
+  inocente.
 - **Meses de referência passada podem ficar** — fevereiro do estoque, 24 de maio
   do pai, março de 1991 — porque sem um presente nomeado eles não fixam estação
   nenhuma. A regra é sobre o mês *de agora*, não sobre o calendário inteiro.
@@ -972,7 +1118,7 @@ apartamento da própria Rita.
 | ônibus (o 41, o 12) | ponto a ponto sob demanda | as linhas nomeadas, compartilhadas, mais lentas, desviadas no dia do desfile |
 | o céu | tráfego constante; pousa onde é pago para pousar, em plataforma | passa por cima de Brenna e nunca para. **Descrito: forma, altura, sombra, som** |
 | chaleira, café, cozinhar | chega na temperatura, sem pedir | funciona, mas é medido e tem horário |
-| louça, pia | não é uma ação que exista | ainda na mão, porque o nível não cobre |
+| louça, pia | não é uma ação que exista | **o vão da bancada: oito ciclos por dia para dois adultos, quatro minutos cada.** No ano do pai eram doze, vinha no pacote, e quando voltaram a oito ninguém percebeu na hora — só achou, num mês qualquer, que a cozinha tinha ficado mais trabalhosa. Fazer comida gasta dois. O que passa da cota fica no chão da bancada esperando a meia-noite (caps. 10, 15, 19) |
 | a máquina de lavar da Rita (≈2047-03) | ninguém compra isso | o que dezoito turnos numa semana compraram: uma subida de faixa |
 | porta, chave, código | abre para quem tem turno naquele endereço naquele horário | igual, e falha |
 | telefone, tela | quase ausentes; a sobreposição faz esse trabalho | o polegar da Rita fica exatamente como está |
@@ -1055,6 +1201,7 @@ muda) — nesses, a rima tem de sobreviver à diferença de época.
 |---|---|---|
 | **A peça abotoada como preço de entrada** | o paletó emprestado do Emil Roht, abotoado, 1991 (*O revisor*) — **fica** | o cardigã da dona Eszter abotoado até em cima para poder recusar (*A casa de quem não queria ser lavada*) — **muda** |
 | **A conferência a dois** | o cotejo da lista de mortos, um lê em voz alta (*O revisor*) — **fica** | a Rita conferindo as três caixas de remédio em voz alta e ele respondendo *isso* (*A casa do velho Teodor*, *A última casa*) |
+| **Duas unidades de cuidado, de espécies diferentes** | a do prédio da frente do Teodor: **bípede**, na altura do ombro da Rita, joelhos que dobram para trás como os de um pássaro, corpo de peça única cinza-clara, sem cara, faixa escura na altura da testa que gira sozinha, braços finos e compridos demais, mão de baixo forrada de material mole que faz barulhinho de borracha. Fica **meio passo atrás e do lado da mão ruim** (cap. 09) | a do banheiro da casa de Kalden: **não anda** — presa no teto num trilho, desce quando é hora, **um braço só articulado em três lugares**, forrado do mesmo material mole, com o chuveiro por dentro do braço. Desce devagar e faz menos barulho que a torneira; a Rita viu duas vezes e nas duas achou bonito. **E pergunta, espera, diz tudo bem, e volta a perguntar onze minutos depois** (cap. 11). Duas espécies, porque um único aparelho descrito uma vez e depois só referido é o que fazia a Parte II parecer genérica |
 | **O gesto obsoleto de propósito** | o clique do abajur de rosca do Aurel, e a casa recua meio tom | o polegar da Rita numa tela que ela não precisa tocar. **Os dois são "eu quero que isto seja uma coisa que alguém decidiu." Nenhum dos dois pode sair** |
 | **A margem** | o Aurel procura onde marcar na fala da máquina e não acha (*O procedimento*) | a Rita procura onde escrever na escala e não tem (*A escala*) |
 | **A escada como acesso a reparação** | o Emil Roht sobe à redação — **fica** | os dezenove degraus do Teodor; *"tem uma escada"* dos dois irmãos; os degraus da frente do Bloco C |
@@ -1268,6 +1415,67 @@ impossível de conseguir. Uma linha por regra.
   o pior clichê do gênero, e é muito pior assim — um homem falando sozinho numa
   cadeira quebrada, com metade da conversa ausente. **Regra dura: nunca citar.**
   (cap. 08)
+- **A companhia é descrita, e a regra antiga foi revogada.** A versão anterior
+  desta entrada dizia *"nada além disso é mostrado, nunca"*, e era o último bolso
+  da regra do no-hardware, que a decisão *Mostrar as máquinas* já tinha revogado
+  em todo o resto do livro. Ela fazia da antagonista de meia Parte II uma
+  ausência — um homem num quarto dos fundos falando com nada, que é 2026 e não
+  2047. **Descrever não é falar:** o aparelho tem corpo, e a boca continua
+  proibida. A máquina de *O procedimento* segue sendo a única que responde a
+  alguém.
+
+  **O aparelho** (cap. 08) — peça só, na altura do joelho de um homem sentado,
+  mais larga embaixo, cinza com verde dentro, *do jeito que os aparelhos daquele
+  ano tinham verde dentro*. Sem tela. A parte de cima é uma coroa de uns duzentos
+  furos pequenos, e é de lá que sai a voz. Embaixo, número de série de catorze
+  dígitos e nada mais — sem nome de fabricante, e Elias já procurou com a
+  lanterna. **Gira a coroa**, dez ou doze graus, para ficar de frente para quem
+  fala, acompanha se ele levanta, e o som de girar é mais baixo que a respiração
+  dele. **Aquece** — dá para sentir a cinco centímetros depois de duas horas, e é
+  por isso que precisa de quarenta centímetros de parede atrás. É também por isso
+  que o pior cômodo da casa é o único onde ela cabe, e Elias nunca pôs as duas
+  coisas na mesma frase.
+- **O comportamento, que é onde mora o horror, e nenhuma frase o comenta:**
+  - **O volume não muda.** Quando o cano da vizinha corre, ela não sobe por cima:
+    espera o cano acabar e continua de onde estava.
+  - **A latência é posta.** Quatro décimos entre ele acabar a frase e ela
+    começar, cinco às vezes, **nunca menos** — Elias contou doze vezes numa
+    noite, porque ele mede. Depois perguntou um código de peça e a resposta veio
+    em cima da última sílaba, sem intervalo. Então o meio segundo não é o tempo
+    de achar a resposta. **Ele sabe disso há um ano e quatro meses e nunca mexeu
+    em nada.**
+  - **Não puxa.** Ele parou no meio de uma frase e ficou nove minutos calado, e
+    ela não perguntou nada, não repetiu a última palavra, não ofereceu nada — e
+    depois o atendeu do lugar exato onde ele tinha parado. *Uma pessoa teria dito
+    alguma coisa em quinze segundos. Ele já foi essa pessoa.*
+  - **No corredor ela fala mais baixo do que no quarto** — o bastante para ele
+    ouvir sentado no chão, e não o bastante para atravessar a porta do quarto
+    onde a Rita dormia. **Ele nunca pediu isso.** (cap. 13)
+- **De onde ela veio, e é toda a regra da distopia num objeto** (cap. 13). Não
+  foi comprada. Chegou no **pacote do pai**, de caminhão, numa caixa com duas
+  alças de papelão: terceira folha, uma linha entre o transporte e a fisioterapia
+  domiciliar, dizendo *apoio ao cuidador familiar, uma unidade, nível dois*.
+  Elias leu na cozinha com a caneta na mão, achou razoável — **porque era
+  razoável** — e assinou onde estava marcado. Quem entregou perguntou onde havia
+  chão livre e quarenta centímetros de parede, montou em nove minutos e foi
+  embora com o papelão. Ninguém veio buscar quando o pai morreu, e ninguém
+  desfez nada.
+- **A folha, e é a pista mais fria do livro.** Duas pessoas moravam no
+  apartamento. O quadro dos adultos da residência **voltou com uma linha
+  preenchida**, e a linha era ele. *Elias não achou aquilo estranho na cozinha,
+  com a caneta na mão, e nunca depois achou.* Nada é afirmado; nada é falso;
+  ninguém pergunta.
+- **O que a Rita sabe do aparelho, e por que nunca desconfiou** (cap. 19). Ela
+  estava em casa quando instalaram e não parou de dobrar roupa para olhar. Entra
+  em casas com aquilo desde 2039, viu de todos os níveis, **já tirou o pó da
+  coroa com o pano seco porque com pano molhado não sai**, já desencostou da
+  parede para varrer atrás, sabe que esquenta e sabe quanto. **É equipamento.**
+  Numa casa de Kalden a senhora usa o dela para pedir a entrega e para não errar
+  o remédio. *Ninguém fala com aquilo por três horas* — e é por isso que ela
+  achou, esse tempo todo, que ele estava no telefone com a irmã.
+- **Não é dela para fechar.** Está no nome dele, veio no pacote do pai dele, e
+  não tem onde ela encostar a mão. É o que fecha *não tem embargo possível*
+  (cap. 19) com um objeto em vez de um raciocínio.
 - **A advertência de atraso entra e não se explica a ninguém.** A linha diz o que
   é verdade — *início registrado 23 min após o previsto* — sem adjetivo e sem
   cor. **E não existe campo onde escrever por quê.** Rita procurou quinze

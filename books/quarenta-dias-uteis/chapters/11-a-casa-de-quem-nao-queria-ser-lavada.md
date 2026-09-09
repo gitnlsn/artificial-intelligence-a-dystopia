@@ -51,6 +51,26 @@ Por isso a bacia.
 
 ---
 
+Quando a Rita entra numa casa, a casa escreve para ela.
+
+Aparece do lado de dentro da porta, na altura do ombro, e anda com ela de cômodo
+em cômodo: o número do turno, o que está previsto, o que está feito. Em cima das
+caixas de remédio fica a hora de cada uma. Em cima da cama fica a data da última
+troca de fronha. E no canto de baixo tem um relógio que não é a hora — é o que
+sobra do turno — e ele conta para trás, e a Rita aprendeu a não olhar para ele e
+olha.
+
+A dona Eszter tem a dela. É outra coisa, e a Rita nunca viu: sabe que existe
+porque a velha às vezes olha para um ponto do ar entre a poltrona e a janela e
+responde a uma coisa que ninguém disse. Nas primeiras semanas a Rita achou que
+ela estava confusa. Depois entendeu que estava lendo.
+
+Na mesma parede da sala, as duas leem coisas diferentes.
+
+Isso não é assunto.
+
+---
+
 A casa é de um andar só, no fim de uma rua de Brenna que ainda é de paralelepípedo
 nos últimos trinta metros porque o asfalto acabou ali em 2019 e nunca continuou.
 
@@ -128,8 +148,7 @@ ficar mais de um mês. Não decide se quer ficar naquela casa, porque a casa é 
 ela está e mudar de lugar é uma coisa que exige uma quantidade de decisão que ela
 não tem mais como reunir.
 
-E de manhã, uma vez por dia, chega uma mulher de trinta e quatro anos com uma
-bacia de água quente, e naquele momento, naquele momento específico, existe uma
+E de manhã, uma vez por dia, chega a Rita com uma bacia de água quente, e naquele momento, naquele momento específico, existe uma
 pergunta no mundo cuja resposta ainda é dela.
 
 Ela vai dizer não. Ela sabe que vai dizer sim depois, na maioria dos dias. Mas
@@ -138,9 +157,15 @@ existe um intervalo entre as duas coisas, e o intervalo pertence a ela.
 A Rita decidiu, no quarto mês, que ia pagar aquele intervalo do bolso dela.
 
 Numa casa de Kalden onde ela fez quatro turnos no ano passado, antes de cair, não
-existe esse intervalo — e não é por falta de educação da coisa que lava. Ela
-pergunta. Pergunta bem, inclusive: pergunta, espera, diz tudo bem, e volta a
-perguntar onze minutos depois. E de novo. Não fica magoada e não tem onde estar
+existe esse intervalo.
+
+A de lá não anda. Fica no banheiro, presa no teto num trilho, e desce quando é
+hora: é um braço só, articulado em três lugares, forrado do mesmo material mole
+das mãos, com o chuveiro por dentro do braço. Desce devagar e faz menos barulho
+que a torneira. Rita já viu descer duas vezes e nas duas achou bonito.
+
+E ela pergunta. Pergunta bem, inclusive: pergunta, espera, diz tudo bem, e volta
+a perguntar onze minutos depois. E de novo. Não fica magoada e não tem onde estar
 às dez e meia.
 
 Contra uma coisa assim o *hoje não* não é uma resposta. É o começo de uma conversa

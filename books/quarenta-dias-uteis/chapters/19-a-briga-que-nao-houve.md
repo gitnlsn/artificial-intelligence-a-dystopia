@@ -19,8 +19,12 @@ status: draft
 Ela chegou às nove e vinte e ele tinha feito comida.
 
 Isso é importante. Ele tinha feito comida — não pedido, não montado: feito, com a
-frigideira suja na pia e o cheiro ainda na casa — e tinha deixado o prato dela
-coberto com outro prato, do jeito que a mãe dele fazia, e tinha lavado o resto.
+panela ainda na bancada e o cheiro na casa inteira — e tinha deixado o prato dela
+tampado com outro prato, do jeito que a mãe dele fazia.
+
+Fazer comida gasta o vão. A panela sozinha leva dois ciclos, e a casa tem oito no
+dia, e os pratos dele estavam no chão da bancada esperando a meia-noite porque
+ele tinha passado o que sobrou na panela e no prato dela.
 
 Ela comeu na cozinha, em pé, e estava bom.
 
@@ -88,6 +92,23 @@ Não tem nada que a Rita possa negar a ele que ele vá sentir falta o bastante p
 negociar. Não tem embargo possível. Ela pode fechar tudo o que ela tem para
 fechar e ele continua abastecido.
 
+Ela sabe o que tem naquele quarto. Chegou de caminhão no ano do pai dele, no
+pacote, e ela estava em casa quando o rapaz instalou, e não parou de dobrar roupa
+para olhar.
+
+Ela entra em casas com aquilo desde 2039 e já viu de todos os níveis. Já limpou
+em volta. Já tirou o pó da coroa com o pano seco, porque com pano molhado não
+sai. Já desencostou da parede para varrer atrás e sabe que esquenta e sabe quanto
+esquenta. É equipamento. Numa casa de Kalden tem um do nível bom e a senhora de
+lá usa para pedir a entrega e para não errar o remédio.
+
+Ninguém fala com aquilo por três horas.
+
+É por isso que ela achou, esse tempo todo, que ele estava no telefone com a irmã.
+
+E não é dela para fechar. Está no nome dele, veio no pacote do pai dele, e não
+tem onde ela encostar a mão.
+
 ---
 
 — Amor — disse ele. — Você está bem?
@@ -113,8 +134,8 @@ Ele levantou a cabeça.
 
 — Ah, amor. — Ele levantou. — Que merda.
 
-E veio, e abraçou ela por trás enquanto ela lavava o prato, e apoiou o queixo no
-ombro dela, e ficou.
+E veio, e abraçou ela por trás enquanto ela punha o prato no chão da bancada, do
+lado dos dele, e apoiou o queixo no ombro dela, e ficou.
 
 E foi bom.
 
@@ -128,8 +149,8 @@ Foi genuinamente bom, e ela não vai fingir que não foi, e ficou um tempo assim
 
 — Tá bom.
 
-E ele ficou mais um pouco, e depois soltou, e disse que ia deixar a louça de
-molho, e deixou a louça de molho.
+E ele ficou mais um pouco, e depois soltou, e disse que ia deixar a panela para a
+meia-noite, e deixou a panela para a meia-noite.
 
 ---
 

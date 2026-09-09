@@ -51,6 +51,10 @@ que perguntar por sabonete é uma coisa que constrange as duas pessoas. Uma
 garrafa de meio litro. Uma banana, que ela come às dez, e que naquele dia não
 sabia se ia comer às dez.
 
+A banana volta para casa mais vezes do que não volta. Ela leva assim mesmo,
+porque cuidadora que passa três horas numa casa e não come nada é uma coisa que
+as famílias reparam, e reparar dá conversa, e conversa dá atraso.
+
 E o creme da mão. Isso é o que ela não empresta e não deixa em casa. Quem lava
 mão dezoito vezes por dia tem uma escolha entre passar creme ou ter a pele
 rachando entre os dedos, e não é vaidade, é ferramenta: mão rachada dói quando
@@ -98,8 +102,8 @@ Antes vinha três, quatro por dia. Ela sabe a semana exata em que começou a cai
 porque anotava — anotava num caderninho, à mão, no começo, e depois parou de
 anotar porque anotar deixava a coisa muito visível.
 
-Ninguém disse nada a ela. É importante entender isso, e ela já tentou explicar
-para umas três pessoas e nunca conseguiu: **ninguém disse nada.** Não houve
+Ninguém disse nada a ela. Ela já tentou explicar isso para umas três pessoas e
+nunca conseguiu: **ninguém disse nada.** Não houve
 carta, não houve advertência, ela não foi chamada em lugar nenhum, não tem
 reclamação de família nenhuma contra ela. Ela conferiu. Ela é boa no que faz, e
 sabe que é, e as pessoas de quem ela cuidou gostam dela e algumas ligam depois.
@@ -168,9 +172,8 @@ Ela ficou parada.
 
 ---
 
-Não foi bonito e ela não chorou. É importante para ela que isso fique claro, se
-algum dia ela contar a alguém, o que não vai acontecer: não teve nada de
-cinematográfico. Ela ficou de pé numa calçada molhada com um saco no ombro
+Não foi bonito e ela não chorou. Não teve nada de cinematográfico: ela ficou de
+pé numa calçada molhada com um saco no ombro
 ouvindo uma música que alguém pôs para lavar a casa.
 
 O que aconteceu foi mais chato e muito pior.

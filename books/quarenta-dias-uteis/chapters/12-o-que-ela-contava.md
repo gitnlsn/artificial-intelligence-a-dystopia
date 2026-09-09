@@ -42,9 +42,8 @@ cabeça no prato.
 
 — A que não quer tomar banho.
 
-Ele lembrava. Ele sempre lembra — isso é verdade sobre ele e é importante que
-seja dito, porque tudo o que vem depois seria mais fácil se ele fosse um homem
-desatento, e ele não é.
+Ele lembrava. Ele sempre lembra — e tudo o que vem depois seria mais fácil se ele
+fosse um homem desatento.
 
 — Essa. Hoje ela ficou brava comigo.
 
@@ -121,8 +120,7 @@ E ela olhou para ele, com a boca já aberta, e não veio.
 
 ---
 
-Não foi mágoa. Ela quer deixar isso claro para ela mesma, ali no sofá, naquele
-segundo, porque a Rita tem horror de ser injusta com as pessoas.
+Não foi mágoa. A Rita tem horror de ser injusta com as pessoas.
 
 Ele não fez nada. Ele estava sentado na poltrona, com as mãos no colo, olhando
 para ela, disponível.
@@ -160,15 +158,21 @@ E como ela não continuou, ele disse:
 
 — É.
 
-Depois ele levantou, levou os dois copos para a pia, e perguntou se ela ia querer
-ver alguma coisa.
+Depois ele levantou, levou os dois copos para a bancada, e perguntou se ela ia
+querer ver alguma coisa.
+
+A parede da sala é a maior da casa, é lisa, é branca, e quando alguém senta no
+sofá ela deixa de ser uma parede. Não é tela: não tem borda, não tem moldura, não
+acende. A coisa fica no ar, uns dez centímetros à frente do reboco, e toma a
+parede toda se for para tomar. Da poltrona a Rita vê a dela um pouco de lado,
+porque a parede é feita para quem está no sofá, e ela quase nunca está no sofá.
 
 Isso é uma frase antiga entre os dois e nenhum dos dois reparou em quando ela
 parou de querer dizer o que dizia. Ver alguma coisa juntos é escolher, e escolher
-junto é abrir mão, porque o que vem para ele não é o que vem para ela, e as duas
-coisas são melhores do que qualquer coisa que os dois topassem ao mesmo tempo. Já
-tinham feito isso. Deu certo umas quatro vezes e depois foi ficando trabalhoso, e
-o convite continuou.
+junto é abrir mão, porque o que aparece na parede para ele não é o que aparece
+para ela, e para os dois verem a mesma coisa alguém tem de pedir a coisa do
+outro. Já tinham feito isso. Deu certo umas quatro vezes e depois foi ficando
+trabalhoso, e o convite continuou.
 
 Ela disse que estava cansada. Ele disse tá bom.
 

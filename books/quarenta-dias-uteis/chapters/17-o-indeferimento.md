@@ -84,20 +84,18 @@ outra, e é chapado na parede mesmo — pintura, não ar. Quando uma senha muda,
 linha inteira desliza uma posição para cima e a de baixo entra. Não faz som.
 
 A Rita fica olhando o painel, que é a única coisa naquela sala que está escrita
-igual para todo mundo, e é por isso que ela olha, embora ela não formule assim.
+igual para todo mundo, e é por isso que ela olha.
 
 Ela já esperou em lugares muito piores para conseguir coisas muito menores.
 
-Não tem nada errado com o Bloco C. É importante dizer isso porque tudo o que a
-Rita vai sentir naquele dia ela vai sentir dentro de um prédio bem cuidado, com o
-ar bom, tendo sido tratada com educação por todas as pessoas com quem falou.
+Não tem nada errado com o Bloco C. Tudo o que a Rita vai sentir naquele dia ela
+vai sentir dentro de um prédio bem cuidado, com o ar bom, tendo sido tratada com
+educação por todas as pessoas com quem falou.
 
 ---
 
 O guichê sete tinha uma mulher de uns cinquenta anos chamada Idalina, segundo o
 crachá, e a Idalina foi boa com ela.
-
-Isso também precisa ser dito.
 
 Ela ouviu a Rita inteira. Não interrompeu. Quando a Rita começou a explicar a
 história dos dezenove degraus — porque ela contou, ela tinha carregado aquela

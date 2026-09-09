@@ -30,7 +30,10 @@ que aconteceu.
 E era verdade.
 
 Rita ficou olhando aquilo mais tempo do que a linha merecia, procurando alguma
-coisa para discordar, e não tinha. Ela chegou vinte e três minutos atrasada. Ela
+coisa para discordar, e não tinha. Ela chegou vinte e três minutos atrasada — e
+sabia que eram vinte e três antes de o aviso entrar, do jeito que ela sabe as
+horas sem procurar, que é uma coisa que ela nunca precisou explicar a ninguém
+porque ninguém nunca perguntou. Ela
 sabe que chegou. Se alguém tivesse escrito quarenta, ela teria alguma coisa a
 fazer; escreveram vinte e três, que é exatamente o que foi.
 
@@ -116,8 +119,7 @@ uma coisa que se atravessa.
 Isto não estava bravo com ela.
 
 Uma pessoa que chega vinte e três minutos atrasada uma vez é uma pessoa que pode
-chegar atrasada de novo. Isso não é uma acusação, é uma frase verdadeira. E se
-existem quatro cuidadoras disponíveis para um turno das onze e meia, e uma delas
+chegar atrasada de novo. E se existem quatro cuidadoras disponíveis para um turno das onze e meia, e uma delas
 tem uma linha de vinte e três minutos e as outras três não têm, então mandar o
 turno para uma das outras três não é punir ninguém. É só a coisa sensata a
 fazer.
@@ -172,8 +174,8 @@ Ela achou que ele estava no telefone com a irmã.
 
 ---
 
-Rita levantou e foi lavar a caneca, que era a única coisa suja na pia, e ficou um
-tempo com a água correndo em cima dela.
+Rita levantou, pôs a caneca no vão da bancada e ficou de pé na frente dele os
+quatro minutos inteiros, olhando, sem ter por que olhar.
 
 Ninguém tinha feito nada.
 
@@ -198,8 +200,8 @@ ligados.
 
 ---
 
-Ela enxugou a caneca e botou no escorredor, e não no armário, porque ia usar de
-manhã.
+Ela tirou a caneca do vão, seca, e botou na bancada e não no armário, porque ia
+usar de manhã.
 
 Depois ficou de pé no meio da cozinha por uns segundos, com o pano na mão,
 tentando decidir se ia contar para o Elias.

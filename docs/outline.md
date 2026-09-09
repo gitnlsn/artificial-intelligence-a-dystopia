@@ -689,9 +689,10 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 *(The Empty House)*
 - **POV** — Rita
 - **Quando** — 2047-10-17 — quinta, primeiro turno
-- **Onde** — um apartamento em Kalden
+- **Onde** — um apartamento em Brenna
 - **A ideia** — ela chega para o turno e não há mais ninguém para cuidar; o turno foi cancelado no sistema quarenta minutos antes e ninguém achou necessário dizer por quê.
 - **A virada** — ela arruma a casa mesmo assim, e não é bondade: é não saber o que fazer com o corpo.
+- **Registro** — a revogação da credencial de acesso, efetivada três dias depois do encerramento, que registra a entrada dela e conclui *sem irregularidade a apurar*. Não menciona o Vilmar.
 - **Fios** — fio-do-turno, fio-das-casas
 - **Elenco** — rita
 
