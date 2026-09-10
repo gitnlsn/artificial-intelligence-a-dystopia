@@ -120,7 +120,7 @@ segundos parada com um prato vazio.
 
 — Foi pesado hoje?
 
-— Foi. — Ela abriu a torneira. — Ontem eu fui no Bloco C.
+— Foi. — Ela virou para a bancada. — Ontem eu fui no Bloco C.
 
 Ele levantou a cabeça.
 

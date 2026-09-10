@@ -1118,6 +1118,7 @@ apartamento da própria Rita.
 | ônibus (o 41, o 12) | ponto a ponto sob demanda | as linhas nomeadas, compartilhadas, mais lentas, desviadas no dia do desfile |
 | o céu | tráfego constante; pousa onde é pago para pousar, em plataforma | passa por cima de Brenna e nunca para. **Descrito: forma, altura, sombra, som** |
 | chaleira, café, cozinhar | chega na temperatura, sem pedir | funciona, mas é medido e tem horário |
+| calçada, mangueira | **a lavadora da padaria**: do tamanho de uma mala de mão, chata, anda sozinha, sai da porta, encosta no meio-fio e vai do toldo até a esquina e volta três vezes, sempre pelo mesmo caminho. Molha, escova e enxuga na mesma passada e deixa meio metro de calçada seca; a água corre para a sarjeta. Zumbido por dentro, escovas por fora. **Nos cantos ela não entra, e o rapaz faz os cantos depois, agachado, com um pano** (caps. 07, 21) | o rapaz continua existindo, porque a máquina toma o meio e sobra o canto. Nenhuma frase comenta, e é a mesma forma do arco da Rita |
 | louça, pia | não é uma ação que exista | **o vão da bancada: oito ciclos por dia para dois adultos, quatro minutos cada.** No ano do pai eram doze, vinha no pacote, e quando voltaram a oito ninguém percebeu na hora — só achou, num mês qualquer, que a cozinha tinha ficado mais trabalhosa. Fazer comida gasta dois. O que passa da cota fica no chão da bancada esperando a meia-noite (caps. 10, 15, 19) |
 | a máquina de lavar da Rita (≈2047-03) | ninguém compra isso | o que dezoito turnos numa semana compraram: uma subida de faixa |
 | porta, chave, código | abre para quem tem turno naquele endereço naquele horário | igual, e falha |
@@ -1271,6 +1272,26 @@ cânone e todos rendem muito ao serem convertidos:
   documentos, arquivo com a data no nome* — é Windows 98
 - o **café que ninguém toma** na conferência trimestral
 - as fileiras de mesas iguais, e a mesa da janela recusada
+
+**Já convertidos desta lista:** o telefone na mão da mãe (agora três retângulos
+cinzentos abertos em leque na altura do queixo, virados para o outro lado) e os
+cinco toques com o *alô* (a chamada chega na hora, como em todo mundo, e os cinco
+segundos são do Aurel).
+
+**A mangueira da padaria não estava nesta lista, e é a lição.** Um leitor a
+encontrou no cap. 07 — *o rapaz jogou água na calçada com uma mangueira* — e o
+objeto tinha atravessado duas varreduras inteiras sem ser visto, porque a atenção
+estava nos objetos **domésticos e de escritório** e este era **de rua e de
+serviço**. Convertido em cima da hora, com o mesmo método: não apagar o rapaz,
+achar por que ele ainda existe. A máquina toma o meio da calçada e ele fica com
+os cantos.
+
+**Portanto, a classe que ainda falta varrer é: equipamento de trabalho braçal em
+via pública** — o que quem limpa, carrega, entrega, monta grade, rega, poda ou
+descarrega tem na mão. É a classe mais invisível de todas, porque essas pessoas
+são cenário e ninguém revisa cenário. Sempre que uma dessas aparecer, a pergunta
+é a mesma: *a máquina existe, então por que esta pessoa está aqui, e o que
+sobrou para ela?*
 
 ### As regras de escrita, depois da revogação
 

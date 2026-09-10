@@ -203,8 +203,8 @@ ligados.
 Ela tirou a caneca do vão, seca, e botou na bancada e não no armário, porque ia
 usar de manhã.
 
-Depois ficou de pé no meio da cozinha por uns segundos, com o pano na mão,
-tentando decidir se ia contar para o Elias.
+Depois ficou de pé no meio da cozinha por uns segundos, tentando decidir se ia
+contar para o Elias.
 
 E resolveu que ia. Que ia contar naquela noite, depois que ele saísse do quarto,
 porque era o tipo de coisa que uma pessoa conta.

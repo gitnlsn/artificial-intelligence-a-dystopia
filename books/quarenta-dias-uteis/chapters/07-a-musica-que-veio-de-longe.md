@@ -62,9 +62,17 @@ segura o braço de alguém, e a pessoa que está sendo segurada percebe.
 
 ---
 
-Às sete horas a padaria tirou as grades e o rapaz jogou água na calçada com uma
-mangueira, e ela deu três passos para o lado sem pensar, como quem já fez isso
-muitas vezes.
+Às sete horas a padaria recolheu as grades e o rapaz pôs a lavadora na calçada.
+
+Ele só põe. É do tamanho de uma mala de mão, chata, e depois anda sozinha: sai da
+porta, encosta no meio-fio, e vai do toldo até a esquina e volta, três vezes,
+sempre pelo mesmo caminho. Molha, escova e enxuga na mesma passada, deixa atrás
+dela meio metro de calçada seca, e a água que sobra corre para a sarjeta. Por
+dentro faz um zumbido; o barulho de fora são as escovas.
+
+Nos cantos ela não entra. O rapaz faz os cantos depois, agachado, com um pano.
+
+Rita deu três passos para o lado sem pensar, como quem já fez isso muitas vezes.
 
 O 12 passou às sete e seis com gente em pé.
 
@@ -78,7 +86,7 @@ São do tamanho de um carro pequeno e não têm asa nem hélice: têm quatro car
 redondas nos cantos, inclinadas para a frente quando estão indo depressa, e por
 baixo são lisas e claras. Fazem um som de ar sendo empurrado, e o som chega
 depois delas. A sombra das três atravessou o toldo uma atrás da outra, bem
-rápido, e o rapaz da mangueira nem parou de molhar a calçada.
+rápido, e o rapaz nem levantou a cabeça do canto que estava limpando.
 
 Vão para o outro lado do rio. Descem em Kalden alto e no centro, em plataforma, e
 não descem em Brenna, e a Rita sabe disso do jeito que se sabe onde o ônibus não

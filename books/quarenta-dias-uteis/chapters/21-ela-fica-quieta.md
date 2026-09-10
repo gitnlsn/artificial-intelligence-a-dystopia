@@ -29,10 +29,10 @@ Ela pegou o 12 no sentido contrário.
 
 A calçada da padaria estava igual.
 
-O toldo, a grade recolhida, a mancha escura no meio-fio onde o rapaz joga água
-todo dia. Era sábado, quase dez, então a padaria estava cheia e o rapaz não
-estava com a mangueira, e tinha uma fila de gente comprando pão para o fim de
-semana com aquela pressa que só existe em fila de padaria.
+O toldo, a grade recolhida, a mancha escura na sarjeta onde a água corre todo
+dia. Era sábado, quase dez, então a padaria estava cheia e a lavadora já estava
+guardada, e tinha uma fila de gente comprando pão para o fim de semana com aquela
+pressa que só existe em fila de padaria.
 
 A Rita ficou embaixo do toldo.
 

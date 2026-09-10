@@ -111,13 +111,13 @@ E a repetição — que é o material de que é feita uma pessoa, que é como a 
 pensa, que é a coisa que ele achava linda num restaurante em 2038 — chega no
 corpo dele como atrito.
 
-Ele não pensa que ela é chata. Se alguém perguntasse ele diria a
-verdade, que a Rita é a pessoa mais interessante que ele já conheceu.
+Ele não pensa que ela é chata. Se alguém perguntasse ele diria a verdade, que a
+Rita é a pessoa mais interessante que ele já conheceu.
 
 É o corpo. O corpo dele aprendeu que existe uma versão sem espera.
 
-E tem a parte que ele não deixou formar e que formou assim mesmo, com a torneira
-aberta: ela não tinha esquecido.
+E tem a parte que ele não deixou formar e que formou assim mesmo, de pé ali na
+bancada: ela não tinha esquecido.
 
 Ela sabia perfeitamente que tinha contado na terça. Contou de novo porque a
 segunda vez acha coisa, e achou — a parte de o Anselm talvez estar certo, que era
@@ -127,7 +127,7 @@ Ninguém conta uma coisa duas vezes de propósito por descuido.
 
 ---
 
-Ele ficou com as mãos na pia depois que os pratos acabaram.
+Ele ficou ali de pé depois que já não havia nada para fazer na cozinha.
 
 O que um homem faz com isso.
 
