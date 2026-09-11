@@ -18,9 +18,8 @@ status: draft
 ---
 Ela devia ter ido para casa.
 
-Não tinha mais turno. Tinha uma sexta-feira inteira de louça na pia, tinha a
-roupa da semana, tinha uma cama, tinha um homem que provavelmente ia fazer
-almoço.
+Não tinha mais turno. Tinha uma sexta-feira inteira no chão da bancada, tinha a
+roupa da semana, tinha um homem que provavelmente ia fazer almoço.
 
 Ela pegou o 12 no sentido contrário.
 
@@ -50,9 +49,9 @@ Estava fechada.
 
 Ela esperou treze minutos.
 
-Isso ela sabe porque conferiu duas vezes, e conferir a hora enquanto se espera
-uma coisa que não vai acontecer é uma humilhação pequena e privada que ela
-aceitou como parte do preço.
+Soube dos treze sem precisar procurar, do jeito que ela sabe as horas, e saber
+a hora enquanto se espera uma coisa que não vai acontecer é uma
+humilhação pequena e privada que ela aceitou como parte do preço.
 
 A janela não abriu. Não tinha por que abrir. Sábado de manhã ninguém lava a casa
 inteira; lava-se na sexta, para o fim de semana ficar limpo, que é exatamente o

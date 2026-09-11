@@ -5,10 +5,10 @@ title_en: Four Lines
 pov: Voss
 when: 2047-10-14 — segunda, ainda de manhã
 where: a mesa
-premise: um dos casos da fila é a casa de Teodor, onde o leitor passou um
-  capítulo inteiro. O que ele escreveu foi um pedido para manter a cuidadora
-  designada. Voss lê quatro linhas, indefere corretamente, e passa ao próximo.
-  Nada no capítulo assinala que o leitor já esteve lá.
+premise: um dos casos da fila é a casa de Teodor, onde o leitor passou um capítulo
+  inteiro. O que ele escreveu foi um pedido para manter a cuidadora designada. Voss
+  lê quatro linhas, indefere corretamente, e passa ao próximo. Nada no capítulo
+  assinala que o leitor já esteve lá.
 turn: nenhuma, para ele. Toda, para quem lê.
 threads:
 - fio-da-excecao

@@ -12,6 +12,7 @@ threads:
 - fio-do-turno
 seeds:
 - a-musica-de-longe
+- a-mao-de-julho
 cast:
 - rita
 sources: '*Great Divide*, The Cardigans, faixa 10 de *First Band on the Moon*, 1996
@@ -33,6 +34,9 @@ usa o telefone de propósito, porque uma vez, no primeiro ano, ela jurou ter
 aceitado um turno e o turno não constava, e não havia nada que ela pudesse
 mostrar a ninguém. Com o polegar existe um lugar onde ela encostou e uma hora em
 que encostou. Nunca precisou. Continua fazendo.
+
+Dos noventa segundos ela nunca usou os noventa. Nem uma vez, em doze anos, e não
+é disciplina: é que a mão já está lá.
 
 Naquela manhã a tela não acendeu.
 

@@ -5,8 +5,8 @@ title_en: The Other Room
 pov: Elias
 when: 2047-10-11 — sexta, à noite
 where: o quarto dos fundos
-premise: a companhia dele não é sórdida nem secreta; é confortável, e ele está
-  mais leve do que há anos, e é isso que faz o capítulo doer.
+premise: a companhia dele não é sórdida nem secreta; é confortável, e ele está mais
+  leve do que há anos, e é isso que faz o capítulo doer.
 turn: adia contar de novo, e o adiamento já não parece adiamento.
 threads:
 - fio-da-companhia

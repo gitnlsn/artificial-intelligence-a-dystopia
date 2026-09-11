@@ -1,14 +1,13 @@
 ---
 title: A casa do velho Teodor
 part: II — O TURNO
-title_en: The House of Old Teodor
+title_en: The House of Teodor
 pov: Rita
 when: 2047-10-12 — sábado, turno da manhã
 where: um apartamento de dois quartos em Marvik
-premise: a primeira casa. Um homem de setenta e nove anos, as mãos dele, a
-  cozinha dele, o que ele tem medo de pedir. É a casa que o leitor precisa
-  conhecer inteira, porque vai reencontrá-la na mesa de Voss valendo quatro
-  linhas.
+premise: a primeira casa. Um homem de setenta e nove anos, as mãos dele, a cozinha
+  dele, o que ele tem medo de pedir. É a casa que o leitor precisa conhecer inteira,
+  porque vai reencontrá-la na mesa de Voss valendo quatro linhas.
 turn: ele pede uma coisa pequena que não estava na escala, e ela faz.
 threads:
 - fio-do-turno
@@ -143,8 +142,8 @@ Nessa parte ele sempre para. Toda vez. Deixa o silêncio do mesmo tamanho.
 
 — E aí ele olhou.
 
-E aí os dois riem, e Rita ri de verdade, o que a surpreende, porque ela sabe
-exatamente o que vem e ri assim mesmo.
+E aí os dois riem, e o dela sai mais alto do que ela esperava, o que acontece
+toda vez, porque ela sabe exatamente o que vem e ri assim mesmo.
 
 ---
 

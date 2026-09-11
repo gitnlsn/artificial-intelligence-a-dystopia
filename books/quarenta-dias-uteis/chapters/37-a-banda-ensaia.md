@@ -5,8 +5,8 @@ title_en: The Band Rehearses
 pov: Nina
 when: 2047-10-18 — sexta, fim de tarde
 where: o pátio da escola
-premise: a banda marcial da escola ensaia há semanas para o desfile e é ruim.
-  A amiga dela toca caixa. Nina reclama todo dia e vai assistir todo dia.
+premise: a banda marcial da escola ensaia há semanas para o desfile e é ruim. A
+  amiga dela toca caixa. Nina reclama todo dia e vai assistir todo dia.
 turn: decide ir ao desfile por causa da banda, e não por causa das máquinas.
 threads:
 - fio-da-nina

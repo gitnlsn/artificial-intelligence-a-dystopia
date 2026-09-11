@@ -5,9 +5,8 @@ title_en: He Does Not Appeal
 pov: Voss
 when: 2047-10-18 — sexta, a madrugada inteira
 where: o apartamento
-premise: recorrer significaria admitir que o sistema erra, e ele passou a vida
-  na proposição contrária. A integridade dele exige que concorde com a própria
-  anulação.
+premise: recorrer significaria admitir que o sistema erra, e ele passou a vida na
+  proposição contrária. A integridade dele exige que concorde com a própria anulação.
 turn: não recorre.
 threads:
 - fio-da-excecao

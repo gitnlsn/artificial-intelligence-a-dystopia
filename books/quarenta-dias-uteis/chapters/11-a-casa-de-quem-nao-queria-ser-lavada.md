@@ -8,8 +8,8 @@ where: uma casa em Brenna
 premise: uma mulher recusa o banho todos os dias, e a recusa é a última coisa que
   ela ainda decide sozinha. Chegou a esta cidade há quarenta anos e ainda conta
   em outra língua quando está com raiva.
-turn: Rita deixa que ela ganhe, e ouve os números na língua de origem sem
-  entender nenhum.
+turn: Rita deixa que ela ganhe, e ouve os números na língua de origem sem entender
+  nenhum.
 threads:
 - fio-do-turno
 - fio-das-casas
@@ -64,6 +64,10 @@ A dona Eszter tem a dela. É outra coisa, e a Rita nunca viu: sabe que existe
 porque a velha às vezes olha para um ponto do ar entre a poltrona e a janela e
 responde a uma coisa que ninguém disse. Nas primeiras semanas a Rita achou que
 ela estava confusa. Depois entendeu que estava lendo.
+
+A da dona Eszter cai. Cai umas duas vezes por turno, e a velha bate duas vezes no
+braço da poltrona e espera, e às vezes espera bastante. A da Rita nunca caiu — nem
+ali, nem no dia em que caiu a do bloco inteiro.
 
 Na mesma parede da sala, as duas leem coisas diferentes.
 

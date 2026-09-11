@@ -229,13 +229,32 @@ Binding, and all of it load-bearing:
   reveal — cut it. This is also what keeps `pov:` intact: nothing is withheld
   from inside her own head, so the clues plant as things she notices and does not
   remark on.
-- **The reveal is a `::: {.registro}`, not a scene.** Her specification — fatigue
-  model, client-satisfaction parameters, continuity rating, service life —
-  itemised in the same flat voice that disposed of Teodor in four lines. No
-  confession, no confrontation, no character saying it aloud, ever. The book
-  spent twenty-four chapters building an instrument that describes a person to
-  something with no concept of them; this is that instrument turned on someone
-  the reader has lived inside.
+- **The reveal is a `::: {.registro}`.** Her specification — fatigue model,
+  client-satisfaction parameters, continuity rating, service life — itemised in
+  the same flat voice that disposed of Teodor in four lines. No confession, no
+  confrontation, no character saying it aloud, ever. The book spent twenty-four
+  chapters building an instrument that describes a person to something with no
+  concept of them; this is that instrument turned on someone the reader has lived
+  inside.
+- **One scene follows it, and it is the author's decision.** *(This replaces the
+  former clause "not a scene… and nothing more", which held that the registro was
+  the only place the reader could learn anything. The rest of the rule —* no
+  confession, no character saying it aloud, ever *— is untouched and governs that
+  scene like every other.)* Part II now closes on *A mão esquerda*, the one
+  analepsis in the part: the Tuesday its clock skipped, and the morning she took
+  a left hand that had not been right since July to a posto in Brenna.
+
+  **The scene does not reveal. It collects.** The registro has just said
+  `Modelo de fadiga dentro do previsto para o intervalo de operação. Sem ajuste.`
+  and this is those words said to her face, politely, by someone in their
+  twenties. The objection was put in full — a maintenance scene is exactly what
+  the old rule forbade, because it hands her oddities a mundane explanation and
+  can turn the reveal into a mechanism — and what answers it is **position**.
+  Before the registro the scene would have cost everything. After it there is
+  nothing left to spoil: the reader already knows, and what the scene does is
+  show the rule falling on her in the same grammar that refused Teodor, the
+  guichê and the escala. **It is the fourth refusal, and the only one that lands
+  on her.** Contract in `docs/bible.md`, *3b. O posto*.
 - **The question is never resolved and never asked.** Not by Rita, not by Elias,
   not by the narrator. Any sentence that settles it in either direction comes
   out.
@@ -646,7 +665,7 @@ embed, and KDP rejects a PDF with an unembedded font. Vendor an OFL mono into
 Marked `[[?autor: …]]` in `docs/outline.md` so `make marcadores` keeps asking.
 Nothing here can be decided by a draft.
 
-**The draft is complete** — 43 chapters, ~47,000 words, every gate passing. What
+**The draft is complete** — 44 chapters, ~57,000 words, every gate passing. What
 follows is revision, not construction, and the standing instruction for revision is that `docs/outline.md`, `docs/bible.md` and
 `docs/timeline.md` must keep describing the manuscript that exists rather than
 the one that was planned.

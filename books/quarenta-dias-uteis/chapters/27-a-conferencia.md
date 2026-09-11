@@ -5,9 +5,8 @@ title_en: The Review Meeting
 pov: Voss
 when: 2047-10-16 — quarta
 where: a sala de reunião do sétimo andar
-premise: os números dele são excelentes, e ele é elogiado por uma métrica que
-  mede exatamente o oposto do que ele acha que faz. Ele diz isso, e ouvem como
-  modéstia.
+premise: os números dele são excelentes, e ele é elogiado por uma métrica que mede
+  exatamente o oposto do que ele acha que faz. Ele diz isso, e ouvem como modéstia.
 turn: aceita o elogio.
 threads:
 - fio-da-excecao

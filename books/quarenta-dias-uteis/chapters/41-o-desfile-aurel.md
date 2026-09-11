@@ -5,10 +5,9 @@ title_en: The Parade — Aurel
 pov: Aurel
 when: 2047-10-19 — sábado, 10h12
 where: o meio-fio, ao lado dela
-premise: ele não conhece a música e não precisa conhecer. Percebe, antes de
-  qualquer outra coisa, que a banda está ligeiramente desafinada, e que portanto
-  é gente. Faz anos que ele não ouve um som que ninguém tenha ajustado para
-  ele.
+premise: ele não conhece a música e não precisa conhecer. Percebe, antes de qualquer
+  outra coisa, que a banda está ligeiramente desafinada, e que portanto é gente.
+  Faz anos que ele não ouve um som que ninguém tenha ajustado para ele.
 turn: não diz isso a ninguém. Fica ouvindo até o fim.
 threads:
 - fio-do-desfile
@@ -28,7 +27,6 @@ cast:
 sources: nenhuma
 status: draft
 ---
-
 Aos vinte minutos ele reparou que não tinha acontecido nada.
 
 Esperou mais um pouco, porque vinte minutos é vinte minutos e a perna esquerda

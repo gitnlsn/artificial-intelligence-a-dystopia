@@ -7,19 +7,18 @@ when: 2047-10-18 — sexta, à tarde
 where: a unidade da rua Solvig, terceiro andar; a sala
 premise: ele não pediu nada. A avaliação veio, a data veio, e a perna vai parar
   de formigar. Passou sessenta anos conferindo frase contra mundo, e passa seis
-  minutos ouvindo uma máquina falar sem achar uma única coisa para marcar na
-  margem.
+  minutos ouvindo uma máquina falar sem achar uma única coisa para marcar na margem.
 turn: não acha erro nenhum, e entende que não há onde marcar. Pede música, tem um
   nome para dar — um só, e antigo —, e o volume não é dele.
 threads:
 - fio-do-conforto
 - fio-do-registro
-pays:
-- o-corpo-observado
 seeds:
 - o-implante
 - a-frase-sem-erro
 - o-volume-certo
+pays:
+- o-corpo-observado
 cast:
 - aurel
 sources: '*Great Divide*, The Cardigans, faixa 10 de *First Band on the Moon*, 1996
@@ -28,7 +27,6 @@ sources: '*Great Divide*, The Cardigans, faixa 10 de *First Band on the Moon*, 1
   por isso ele a pronuncia como se lê. Ver docs/references.md'
 status: draft
 ---
-
 Ele fez a barba, o que não era necessário, e trocou a camisa, o que era menos
 necessário ainda.
 

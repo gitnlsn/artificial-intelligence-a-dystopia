@@ -44,7 +44,8 @@ Ficou olhando a nuca do homem na frente dela até aquele bloco acabar.
 Ela quase foi embora aos vinte minutos.
 
 Tinha saído de casa às cinco e vinte, tinha subido dezenove degraus e descido
-dezenove degraus, tinha uma caixinha de madeira no saco e uma louça de sexta na pia, e
+dezenove degraus, tinha uma caixinha de madeira no saco e uma sexta-feira
+inteira no chão da bancada, e
 estava de pé há uma hora e dez sem ver quase nada, no meio de uma quantidade
 absurda de gente, com um cheiro de milho de um lado e uma criança chorando atrás.
 

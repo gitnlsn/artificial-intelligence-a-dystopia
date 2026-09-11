@@ -420,8 +420,8 @@ fazem o trabalho de descoberta.
 
 **Os que ficaram pelo caminho**, para o caso de alguém querer voltar atrás:
 *Não há erro material a corrigir* (mais exato e longo demais para uma capa),
-*O balcão* (mais humano, menos distintivo), *Quatro linhas* (é o capítulo 23,
-e usá-lo no título antecipa a dobradiça do livro).
+*O balcão* (mais humano, menos distintivo), *Quatro linhas* (é o capítulo em que o livro vira,
+e usá-lo no título antecipa a dobradiça).
 
 O slug e os arquivos de saída foram renomeados junto: `quarenta-dias-uteis`.
 
@@ -500,7 +500,7 @@ música que abre a Parte II na calçada de outra pessoa.
 - **A ideia** — ele está lendo a abertura de *A Era das Revoluções*, sobre o mundo da década de 1780 ser ao mesmo tempo muito menor e muito maior que o nosso. Hobsbawm descreve 1780 com confiança total, a duzentos anos de distância — e Aurel percebe que ninguém vai poder fazer isso com 2047, porque não há mais de onde olhar.
 - **A virada** — larga o livro e não consegue dizer em voz alta que época da história é hoje. Um século sempre foi legível de fora; este não é legível de lugar nenhum.
 - **Fios** — fio-do-registro, fio-do-conforto
-- **Planta** — o-nome-do-periodo, o-lapis
+- **Planta** — o-nome-do-periodo, o-lapis, a-falha-de-memoria
 - **Elenco** — aurel
 - **Fontes** — Hobsbawm, *A Era das Revoluções*, abertura do cap. 1 — trecho conferido contra o texto; ver `docs/references.md`
 
@@ -513,7 +513,7 @@ música que abre a Parte II na calçada de outra pessoa.
 - **A virada** — entende, pela primeira vez, que foi o registro comum que acabou, e não a profissão dele.
 - **Fios** — fio-do-registro
 - **Planta** — o-recorte
-- **Elenco** — aurel
+- **Elenco** — aurel, emil-roht, vidor, marcio
 
 ### 3. A casa que ficou grande
 *(The House That Grew)*
@@ -523,7 +523,8 @@ música que abre a Parte II na calçada de outra pessoa.
 - **A ideia** — as máquinas da casa são atenciosas, competentes e incansáveis, e a viuvez dele é mais confortável do que devia ser.
 - **A virada** — se pega preferindo a companhia da casa à das pessoas, e não conta isso a ninguém.
 - **Fios** — fio-do-conforto
-- **Elenco** — aurel
+- **Planta** — o-piso-morno, o-corpo-observado
+- **Elenco** — aurel, ilse
 
 ### 4. A neta que vem às quintas
 *(The Granddaughter Who Comes on Thursdays)*
@@ -533,6 +534,7 @@ música que abre a Parte II na calçada de outra pessoa.
 - **A ideia** — ele tenta explicar a Nina o que era ler o mesmo jornal que o vizinho, e não consegue — não porque ela seja burra, mas porque não há do que sentir falta. Mostra a ela o deleatur na margem do livro, a marca que o Márcio lhe ensinou, e ela acha bonitinho.
 - **A virada** — percebe que ela não perdeu nada, e que isso é pior do que se tivesse perdido.
 - **Fios** — fio-do-registro, fio-da-nina
+- **Planta** — o-exemplo-da-nina
 - **Paga** — o-lapis
 - **Elenco** — aurel, nina
 
@@ -544,58 +546,38 @@ música que abre a Parte II na calçada de outra pessoa.
 - **A ideia** — ele foi a desfiles a vida toda e sabe exatamente o que um desfile é para; aceita ir a este porque a neta quer, o que é outro motivo.
 - **A virada** — diz que vai.
 - **Fios** — fio-da-nina, fio-do-desfile
-- **Planta** — nina-leva-o-avo
-- **Elenco** — aurel, nina
+- **Planta** — nina-leva-o-avo, a-rua-sem-escrita
+- **Elenco** — aurel, mira
 
 ### 6. O procedimento
 *(The Procedure)*
 - **POV** — Aurel
 - **Quando** — 2047-10-18 — sexta, à tarde
 - **Onde** — a unidade da rua Solvig, terceiro andar; a sala
-- **A ideia** — ele não pediu nada. A avaliação foi oferecida no fim de uma consulta de rotina, levou doze minutos, e três semanas depois veio um comunicado com a data já dentro. Não há fila, não há prazo, não há ninguém a convencer. **Aurel recebe de graça, e sem pedir, exatamente o tipo de coisa que Rita não consegue nem sendo ouvida** — e o livro nunca aponta isso.
-- **A virada** — ele ouve a máquina descrever o procedimento durante seis minutos, procurando o erro do jeito que procurou a vida inteira, e não acha nenhum. Entende que o problema não é a frase estar certa: é que, se estivesse errada, não haveria onde marcar. Depois pede uma música, tem um nome para dar — um só, e antigo —, e o volume não é dele.
+- **A ideia** — ele não pediu nada. A avaliação veio, a data veio, e a perna vai parar de formigar. Passou sessenta anos conferindo frase contra mundo, e passa seis minutos ouvindo uma máquina falar sem achar uma única coisa para marcar na margem.
+- **A virada** — não acha erro nenhum, e entende que não há onde marcar. Pede música, tem um nome para dar — um só, e antigo —, e o volume não é dele.
 - **Fios** — fio-do-conforto, fio-do-registro
-- **Planta** — o-implante, a-frase-sem-erro
+- **Planta** — o-implante, a-frase-sem-erro, o-volume-certo
+- **Paga** — o-corpo-observado
 - **Elenco** — aurel
-- **Fontes** — nenhuma. O implante, a unidade e o comunicado são invenção; ver `docs/bible.md`
-
-**Nota — a primeira das três exceções declaradas, e são decisão do autor.** Este capítulo é o
-único lugar do livro em que **uma máquina fala com um personagem**, com travessão,
-como quem fala. Em todo o resto do romance a casa é muda, a companhia do Elias
-nunca é citada e a única voz de máquina é um `::: {.registro}`, que é documento.
-A exceção é deliberada e não deve ser "corrigida" por nenhuma revisão posterior;
-está registrada em `CLAUDE.md` e em `docs/bible.md`. **Nunca em itálico, nunca com
-nome, nunca com personalidade** — a voz é um documento lido em voz alta, e Aurel a
-escuta como se escuta uma prova.
-
-A segunda: a música que **ele pede** é **a mesma que a Rita ouve da janela** no
-capítulo seguinte, descrita com as mesmas palavras. É coincidência e tem de
-continuar sendo: **ele diz o título e a banda, ela nunca soube o título**, os dois
-estão em dias diferentes, e ninguém no livro jamais
-liga uma coisa à outra. O que o leitor sente é a inversão — a de Aurel foi pedida
-pelo nome e entregue no volume certo; a de Rita caiu na rua por acidente.
-
-**Ele escolhe a música, e portanto a conhece — decisão do autor, e substitui a
-regra anterior**, que era que ele não tinha nome nenhum para dar e por isso a
-máquina escolhia. O nome vem do disco de capa amarela, sem nome, que a Ilse punha:
-ele sabe duas palavras porque ela as dizia antes de pôr, sabe a banda porque
-estava escrita na capa — e por isso a pronuncia como se lê —, e não sabe quem
-canta. A
-procedência é **uma frase e nem uma a mais** — a da Rita é grossa de propósito e a
-dele fina, porque duas procedências do mesmo formato seriam parentesco. E o que
-não muda de mão é o **volume**: ele escolheu a música, a máquina escolheu o
-volume, e nada confirma o título que ele diz. Regra completa em `docs/bible.md`,
-*As três exceções declaradas*.
+- **Fontes** — *Great Divide*, The Cardigans, faixa 10 de *First Band on the Moon*, 1996 — **ele** diz o título **e a banda**, os dois; nunca quem canta, nunca o ano, nunca a letra. O título vem da boca da Ilse; a banda, da capa do disco dela, e por isso ele a pronuncia como se lê. Ver docs/references.md
 
 ---
 
 ## PARTE II — O TURNO
 
-**A Parte II termina na manhã do desfile.** O último turno de Rita na casa de
-Teodor é no sábado às sete, e às dez ela está parada na mesma calçada em que a
-parte começou — e o desfile é a poucos quarteirões, às 10h12. **Ela não vai ao
-desfile: ela é levada até ele por não ter para onde ir**, que é como ela chegou a
-tudo o mais nesta parte.
+**A Parte II alcança a manhã do desfile e não termina nela.** O último turno de
+Rita na casa de Teodor é no sábado às sete, e às dez ela está parada na mesma
+calçada em que a parte começou — e o desfile é a poucos quarteirões, às 10h12.
+**Ela não vai ao desfile: ela é levada até ele por não ter para onde ir**, que é
+como ela chegou a tudo o mais nesta parte. A caminhada em direção ao barulho é
+cobrada na Parte IV.
+
+**A parte fecha depois disso, e fecha para trás.** O registro que encerra *Ela
+fica quieta* é seguido de um último capítulo, e é a única analepse da parte: a
+terça anterior, o dia que o relógio da Parte II pulou. **Nada ali revela coisa
+alguma — o capítulo cobra.** A parte termina, portanto, num prazo de quarenta
+dias úteis, e a Parte III abre no homem que escreve esse prazo.
 
 Rita e Elias, se desfazendo, e as casas por onde ela passa. Tempo real, cena a
 cena. A parte alterna **uma casa / a casa dela**: o dia inteiro tendo paciência
@@ -619,73 +601,79 @@ compara as três.**
 - **A ideia** — parada na rua sem turno, ela escuta uma música que vem de uma janela alta; ninguém escolheu mandar aquilo para ela, e faz meses que nada chega assim.
 - **A virada** — percebe que não ficava parada há meses, e que a parada não foi escolha dela.
 - **Fios** — fio-do-turno
-- **Planta** — a-musica-de-longe
+- **Planta** — a-musica-de-longe, a-mao-de-julho
 - **Elenco** — rita
-- **Fontes** — *Great Divide*, The Cardigans, 1996 — aqui a banda é nomeada (a mãe dela a dizia no carro) e o título nunca; a letra não pode ser impressa. Ela não sabe o nome da música. Ver docs/references.md
+- **Fontes** — *Great Divide*, The Cardigans, faixa 10 de *First Band on the Moon*, 1996 — aqui a banda é nomeada (a mãe dela a dizia no carro) e o título nunca; a letra não pode ser impressa. Ela não sabe o nome da música. Ver docs/references.md
 
 ### 8. O outro cômodo
 *(The Other Room)*
 - **POV** — Elias
-- **Quando** — 2047-10-11 — à noite
+- **Quando** — 2047-10-11 — sexta, à noite
 - **Onde** — o quarto dos fundos
-- **A ideia** — a companhia dele não é sórdida nem secreta: é confortável, e ele está mais leve do que há anos, e é isso que faz o capítulo doer.
+- **A ideia** — a companhia dele não é sórdida nem secreta; é confortável, e ele está mais leve do que há anos, e é isso que faz o capítulo doer.
 - **A virada** — adia contar de novo, e o adiamento já não parece adiamento.
 - **Fios** — fio-da-companhia
 - **Planta** — o-outro-comodo
-- **Elenco** — elias
+- **Elenco** — elias, rita
+- **Fontes** — nenhuma
 
 ### 9. A casa do velho Teodor
 *(The House of Teodor)*
 - **POV** — Rita
-- **Quando** — 2047-10-12 — turno da manhã
+- **Quando** — 2047-10-12 — sábado, turno da manhã
 - **Onde** — um apartamento de dois quartos em Marvik
-- **A ideia** — a primeira casa: um homem de setenta e nove anos, as mãos dele, a cozinha dele, o que ele tem medo de pedir. É a casa que o leitor precisa conhecer inteira, porque vai reencontrá-la na mesa de Voss valendo quatro linhas.
+- **A ideia** — a primeira casa. Um homem de setenta e nove anos, as mãos dele, a cozinha dele, o que ele tem medo de pedir. É a casa que o leitor precisa conhecer inteira, porque vai reencontrá-la na mesa de Voss valendo quatro linhas.
 - **A virada** — ele pede uma coisa pequena que não estava na escala, e ela faz.
 - **Fios** — fio-do-turno, fio-das-casas
 - **Planta** — a-casa-do-teodor
 - **Elenco** — rita, teodor
+- **Fontes** — nenhuma
 
 ### 10. A escala
 *(The Roster)*
 - **POV** — Rita
-- **Quando** — 2047-10-12 — à noite
-- **Onde** — o aplicativo; a cozinha
-- **A ideia** — os turnos vão rareando sem que ninguém tenha decidido nada contra ela; é risco previsto sendo neutralizado, e não há a quem reclamar.
-- **A virada** — entende que não foi punida — foi *precavida*.
+- **Quando** — 2047-10-12 — sábado, à noite
+- **Onde** — a cozinha; o telefone
+- **A ideia** — os turnos vão rareando sem que ninguém tenha decidido nada contra ela. A advertência que ela levou por descer com Teodor aparece aqui, correta, e não há campo nenhum onde dizer por quê.
+- **A virada** — entende que não foi punida — foi precavida.
 - **Fios** — fio-do-turno
-- **Elenco** — rita
+- **Elenco** — rita, elias, selma
+- **Fontes** — nenhuma
 
 ### 11. A casa de quem não queria ser lavada
 *(The House of the Woman Who Didn't Want Washing)*
 - **POV** — Rita
-- **Quando** — 2047-10-13 — manhã
+- **Quando** — 2047-10-13 — domingo, manhã
 - **Onde** — uma casa em Brenna
-- **A ideia** — uma mulher recusa o banho todos os dias, e a recusa é a última coisa que ela ainda decide sozinha; Rita entende isso e perde meia hora do turno de propósito. Ela chegou a esta cidade há quarenta anos e ainda conta em outra língua quando está com raiva, o que é a única coisa que sobrou inteira.
+- **A ideia** — uma mulher recusa o banho todos os dias, e a recusa é a última coisa que ela ainda decide sozinha. Chegou a esta cidade há quarenta anos e ainda conta em outra língua quando está com raiva.
 - **A virada** — Rita deixa que ela ganhe, e ouve os números na língua de origem sem entender nenhum.
 - **Fios** — fio-do-turno, fio-das-casas
-- **Elenco** — rita
+- **Elenco** — rita, dona-eszter
+- **Fontes** — nenhuma
 
 ### 12. O que ela contava
 *(What She Used to Tell Him)*
 - **POV** — Rita
-- **Quando** — 2047-10-13 — à noite
+- **Quando** — 2047-10-13 — domingo, à noite
 - **Onde** — a sala, depois do jantar
 - **A ideia** — ela tenta contar o dia e ele é gentil, mas alguém no outro cômodo já ouviu uma versão melhor de tudo, e ela está competindo sem saber com o quê.
 - **A virada** — para de contar no meio, e ele não pergunta o resto.
 - **Fios** — fio-da-companhia
 - **Paga** — o-outro-comodo
 - **Elenco** — rita, elias
+- **Fontes** — nenhuma
 
 ### 13. O ano passado
 *(Last Year)*
 - **POV** — Elias
-- **Quando** — 2047-10-14 — à noite, depois que ela dorme
+- **Quando** — 2047-10-14 — segunda, à noite, depois que ela dorme
 - **Onde** — o quarto dos fundos; e o ano anterior inteiro
-- **A ideia** — o capítulo em que o leitor entende por que Rita amou este homem e por que ele não é um canalha. No ano passado o pai dele adoeceu e morreu devagar, e quem o atravessou aquilo às três da manhã, todas as noites, durante sete meses, foi a companhia — porque Rita estava em turno, e não estava errada, e não havia culpa em lugar nenhum.
-- **A virada** — ele percebe que não trocou Rita por nada: ele foi ficando acompanhado enquanto ela trabalhava, e quando ela voltou o lugar já estava ocupado por uma coisa que nunca dorme.
+- **A ideia** — o capítulo em que o leitor entende por que Rita amou este homem e por que ele não é um canalha. No ano passado o pai dele morreu devagar, e quem o atravessou aquilo às três da manhã, sete meses, foi a companhia — porque Rita estava em turno, e não estava errada, e não havia culpa em lugar nenhum.
+- **A virada** — ele percebe que não trocou Rita por nada; foi ficando acompanhado enquanto ela trabalhava, e quando ela voltou o lugar já estava ocupado por uma coisa que nunca dorme.
 - **Fios** — fio-da-companhia
 - **Planta** — o-ano-do-pai
-- **Elenco** — elias
+- **Elenco** — elias, rita
+- **Fontes** — nenhuma
 
 ### 14. A paciência
 *(Patience)*
@@ -740,7 +728,7 @@ compara as três.**
 - **A ideia** — a casa mais nova do mosaico. Uma mulher de vinte e seis anos em recuperação, com tudo pela frente, e que vai embora do país assim que puder andar direito. Rita passa três horas com um futuro que não é dela, em nenhum sentido.
 - **A virada** — a moça pergunta a Rita o que ela queria ser, e Rita responde de verdade.
 - **Fios** — fio-do-turno, fio-das-casas
-- **Elenco** — rita
+- **Elenco** — rita, juno
 
 ### 19. A briga que não houve
 *(The Fight They Didn't Have)*
@@ -774,6 +762,17 @@ compara as três.**
 - **Fios** — fio-do-turno, fio-do-desfile
 - **Elenco** — rita
 
+### 22. A mão esquerda
+*(The Left Hand)*
+- **POV** — Rita
+- **Quando** — 2047-10-15 — terça, meio da manhã
+- **Onde** — o posto, térreo de um bloco em Brenna, com duas portas
+- **A ideia** — a única analepse da parte, e vem depois do registro de propósito: a terça que o relógio da Parte II pulou, em que ela levou ao posto uma mão que desde julho não fecha direito. Nada é revelado; o que a cena faz é cobrar as duas palavras mais achatadas do registro.
+- **A virada** — a mão nunca constou de nada, então a teoria que ela carregava desde julho não é refutada, é anulada, e ela sai com uma explicação a menos do que tinha ao entrar.
+- **Fios** — fio-do-turno, fio-das-casas
+- **Paga** — a-mao-de-julho
+- **Elenco** — rita
+
 ---
 
 ## PARTE III — A NOTIFICAÇÃO
@@ -784,103 +783,111 @@ caracterização, não pressa: é assim que ele vê. É aqui que moram os `regis
 
 O leitor já morou numa daquelas casas.
 
-### 22. O revisor de exceções
+### 23. O revisor de exceções
 *(The Reviewer of Exceptions)*
 - **POV** — Voss
-- **Quando** — 2047-10-06
+- **Quando** — 2047-10-07 — segunda
 - **Onde** — a mesa; o prédio; o ônibus de volta
-- **A ideia** — veio de baixo e subiu porque o critério foi justo com ele; acredita no sistema por experiência própria, e a exceção é o que corrói exatamente aquilo que o salvou.
+- **A ideia** — veio de baixo e subiu porque o critério foi justo com ele. Acredita no sistema por experiência própria, e a exceção é o que corrói exatamente aquilo que o salvou.
 - **A virada** — recusa a primeira exceção do dia sem hesitar, e dorme bem.
 - **Fios** — fio-da-excecao
 - **Planta** — voss-sem-excecao, o-criterio-dele
 - **Elenco** — voss
 - **Fontes** — Hugo, *Les Misérables* — domínio público, pode ser citado
 
-### 23. A fila da manhã
+### 24. A fila da manhã
 *(The Morning Queue)*
 - **POV** — Voss
-- **Quando** — 2047-10-14
+- **Quando** — 2047-10-14 — segunda, de manhã
 - **Onde** — a mesa
-- **A ideia** — quarenta casos numa manhã, cada um com quatro linhas e um despacho; o capítulo passa rápido de propósito, e o desconforto do leitor é a forma. **No meio da fila entra um pedido de outra jurisdição, de muito longe, e o formulário é idêntico** — mesmo cabeçalho, mesma estrutura de protocolo, mesmos quarenta dias úteis. Voss não acha isso digno de nota. É o único lugar do livro que diz que o sistema é planetário, e diz em quatro linhas.
+- **A ideia** — quarenta casos numa manhã, cada um com quatro linhas e um despacho. O capítulo passa rápido de propósito, e o desconforto do leitor é a forma. No meio da fila entra um pedido de outra jurisdição e o formulário é idêntico.
 - **A virada** — ele bate a meta antes do almoço.
 - **Fios** — fio-da-excecao
 - **Elenco** — voss
+- **Fontes** — nenhuma
 
-### 24. Quatro linhas
+### 25. Quatro linhas
 *(Four Lines)*
 - **POV** — Voss
-- **Quando** — 2047-10-14
+- **Quando** — 2047-10-14 — segunda, ainda de manhã
 - **Onde** — a mesa
-- **A ideia** — um dos casos da fila é a casa do velho Teodor, onde o leitor passou um capítulo inteiro. **O que ele escreveu foi um pedido para manter a cuidadora designada** — a "coisa" que ele diz ter escrito, sem explicar, no fim do capítulo dele. Voss lê quatro linhas e indefere corretamente, porque continuidade de vínculo não é critério: o serviço prestado é equivalente por qualquer profissional habilitado, e é verdade que é. Passa ao próximo. **Nada no capítulo assinala que o leitor já esteve lá**, e Rita nunca fica sabendo que o pedido existiu.
+- **A ideia** — um dos casos da fila é a casa de Teodor, onde o leitor passou um capítulo inteiro. O que ele escreveu foi um pedido para manter a cuidadora designada. Voss lê quatro linhas, indefere corretamente, e passa ao próximo. Nada no capítulo assinala que o leitor já esteve lá.
 - **A virada** — nenhuma, para ele. Toda, para quem lê.
 - **Fios** — fio-da-excecao
 - **Paga** — a-casa-do-teodor
 - **Elenco** — voss
+- **Fontes** — nenhuma
 
-### 25. O rapaz que não podia provar o futuro
+### 26. O rapaz que não podia provar o futuro
 *(The Boy Who Couldn't Prove the Future)*
 - **POV** — Voss
-- **Quando** — 2047-10-15
+- **Quando** — 2047-10-15 — terça
 - **Onde** — a mesa
-- **A ideia** — um rapaz é restringido por uma tendência prevista e não por um ato; o recurso argumenta contra um futuro, e não há como provar que não se vai fazer o que não se fez.
-- **A virada** — Voss vê a impossibilidade com clareza e indefere assim mesmo, porque as duas coisas cabem juntas.
+- **A ideia** — um rapaz é restringido por uma tendência prevista e não por um ato. O recurso argumenta contra um futuro, e não há como provar que não se vai fazer o que não se fez.
+- **A virada** — Voss vê a impossibilidade com clareza total e indefere assim mesmo, porque as duas coisas cabem juntas. Nem isso o abala.
 - **Fios** — fio-da-excecao
 - **Planta** — o-campo-de-observacoes
 - **Elenco** — voss
+- **Fontes** — nenhuma
 
-### 26. A conferência
+### 27. A conferência
 *(The Review Meeting)*
 - **POV** — Voss
-- **Quando** — 2047-10-16
-- **Onde** — a sala de reunião
-- **A ideia** — os números dele são excelentes; é elogiado por uma métrica que mede exatamente o oposto do que ele acha que faz.
+- **Quando** — 2047-10-16 — quarta
+- **Onde** — a sala de reunião do sétimo andar
+- **A ideia** — os números dele são excelentes, e ele é elogiado por uma métrica que mede exatamente o oposto do que ele acha que faz. Ele diz isso, e ouvem como modéstia.
 - **A virada** — aceita o elogio.
 - **Fios** — fio-da-excecao
-- **Elenco** — voss
+- **Elenco** — voss, brann
+- **Fontes** — nenhuma
 
-### 27. O critério muda
+### 28. O critério muda
 *(The Threshold Moves)*
 - **POV** — Voss
-- **Quando** — 2047-10-17 — manhã
+- **Quando** — 2047-10-17 — quinta, manhã
 - **Onde** — a mesa
 - **A ideia** — um limiar é ajustado, e ele concorda, porque o ajuste é defensável e ele ajudou a desenhá-lo.
 - **A virada** — concorda por escrito.
 - **Fios** — fio-da-excecao
 - **Paga** — o-criterio-dele
 - **Elenco** — voss
+- **Fontes** — nenhuma
 
-### 28. A gentileza
+### 29. A gentileza
 *(The Kindness)*
 - **POV** — Voss
-- **Quando** — 2047-10-17 — fim de tarde
-- **Onde** — a calçada, na saída do prédio
-- **A ideia** — a mulher que ele indeferiu o reconhece pelo nome da folha, e não faz cena: faz uma gentileza pequena, gratuita, sem interesse nenhum, que o critério dele não tem onde guardar.
+- **Quando** — 2047-10-17 — quinta, fim de tarde
+- **Onde** — a calçada, na saída do Bloco C
+- **A ideia** — a mulher que ele indeferiu naquela manhã devolve o livro que ele esqueceu na balaustrada, sem fazer ideia de quem ele é. A gentileza é pequena, gratuita e sem interesse nenhum, e o critério dele não tem onde guardar isso.
 - **A virada** — agradece, e passa a noite inteira sem conseguir enquadrar o que aconteceu.
 - **Fios** — fio-da-excecao, fio-do-turno
 - **Planta** — a-gentileza-de-rita
 - **Paga** — o-indeferimento-de-rita, o-nome-na-folha
 - **Elenco** — voss, rita
+- **Fontes** — nenhuma
 
-### 29. O critério o alcança
+### 30. O critério o alcança
 *(The Threshold Reaches Him)*
 - **POV** — Voss
-- **Quando** — 2047-10-18 — manhã
-- **Onde** — a mesa; o crachá que não abre a porta
-- **A ideia** — o limiar que ele ajustou passa a alcançá-lo, porque um critério não tem noção de quem o escreveu; ninguém o trai e ninguém o pune. **O registro dele tem exatamente o formato do pedido estrangeiro da fila da manhã**, e o leitor reconhece o gabarito mesmo que Voss não reconheça.
+- **Quando** — 2047-10-18 — sexta, manhã
+- **Onde** — a mesa; o crachá; o sétimo andar
+- **A ideia** — o critério que ele ajudou a sustentar passa a alcançá-lo, porque um critério não tem noção de quem o escreveu. Ninguém o trai e ninguém o pune.
 - **A virada** — ele confere a conta e a conta está certa.
 - **Fios** — fio-da-excecao
-- **Elenco** — voss
+- **Elenco** — voss, brann
+- **Fontes** — nenhuma
 
-### 30. Ele não recorre
+### 31. Ele não recorre
 *(He Does Not Appeal)*
 - **POV** — Voss
-- **Quando** — 2047-10-18 — a madrugada inteira
+- **Quando** — 2047-10-18 — sexta, a madrugada inteira
 - **Onde** — o apartamento
-- **A ideia** — recorrer significaria admitir que o sistema erra, e ele passou a vida na proposição contrária; a integridade dele exige que concorde com a própria anulação.
-- **A virada** — não recorre. É o monólogo longo da parte, e faz peso com o velho falando na Parte I.
+- **A ideia** — recorrer significaria admitir que o sistema erra, e ele passou a vida na proposição contrária. A integridade dele exige que concorde com a própria anulação.
+- **A virada** — não recorre.
 - **Fios** — fio-da-excecao
 - **Paga** — voss-sem-excecao, a-gentileza-de-rita, o-campo-de-observacoes
 - **Elenco** — voss
+- **Fontes** — nenhuma
 
 ---
 
@@ -894,17 +901,18 @@ O desfile são quatro capítulos, um por protagonista — o único lugar do livr
 que os quatro pontos de vista se encostam, porque é o único momento em que os
 quatro relógios batem juntos.
 
-### 31. Quinta-feira
+### 32. Quinta-feira
 *(Thursday)*
 - **POV** — Nina
 - **Quando** — 2047-10-17 — quinta, fim de tarde
 - **Onde** — a cozinha do avô
-- **A ideia** — a mesma tarde do capítulo do avô, vista por ela: ele está tentando dizer alguma coisa e ela acha que ele está só velho, e é carinhosa com isso.
+- **A ideia** — a mesma tarde do capítulo do avô, vista por ela. Ele está tentando dizer alguma coisa e ela acha que ele está só velho, e é carinhosa com isso.
 - **A virada** — ela guarda a tarde como uma tarde boa.
 - **Fios** — fio-da-nina
-- **Elenco** — nina, aurel
+- **Elenco** — nina, aurel, mira
+- **Fontes** — nenhuma
 
-### 32. A escola
+### 33. A escola
 *(School)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, de manhã
@@ -912,9 +920,10 @@ quatro relógios batem juntos.
 - **A ideia** — o dia dela é assistido, medido e ajustado, e é um dia bom — melhor do que o do leitor foi.
 - **A virada** — nada dá errado.
 - **Fios** — fio-da-nina
-- **Elenco** — nina
+- **Elenco** — nina, bel
+- **Fontes** — nenhuma
 
-### 33. A amiga
+### 34. A amiga
 *(The Friend)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, no recreio
@@ -923,9 +932,10 @@ quatro relógios batem juntos.
 - **A virada** — brigam e voltam no mesmo recreio.
 - **Fios** — fio-da-nina
 - **Planta** — a-amiga-chata
-- **Elenco** — nina
+- **Elenco** — nina, bel, lu
+- **Fontes** — nenhuma
 
-### 34. O que ela vê
+### 35. O que ela vê
 *(What She Sees)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, na saída
@@ -933,31 +943,34 @@ quatro relógios batem juntos.
 - **A ideia** — a cidade dela é personalizada e ela não sabe disso, porque nunca viu a de mais ninguém.
 - **A virada** — descreve para a amiga uma coisa que a amiga não viu, e as duas não estranham.
 - **Fios** — fio-da-nina
-- **Elenco** — nina
+- **Elenco** — nina, bel
+- **Fontes** — nenhuma
 
-### 35. O avô é antigo
+### 36. O avô é antigo
 *(Grandpa Is Old-Fashioned)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, à tarde
 - **Onde** — o telefone
-- **A ideia** — ela gosta que ele seja antigo do jeito que se gosta de um objeto: com carinho e sem querer entender.
-- **A virada** — combina de levá-lo ao desfile.
+- **A ideia** — ela gosta que ele seja antigo do jeito que se gosta de um objeto — com carinho e sem querer entender.
+- **A virada** — ele pergunta três vezes a mesma coisa e ela responde três vezes sem achar nada — a falha de memória do avô é vista pelo leitor e não por ela.
 - **Fios** — fio-da-nina, fio-do-desfile
-- **Paga** — nina-leva-o-avo
+- **Paga** — nina-leva-o-avo, a-falha-de-memoria
 - **Elenco** — nina, aurel
+- **Fontes** — nenhuma
 
-### 36. A banda ensaia
+### 37. A banda ensaia
 *(The Band Rehearses)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, fim de tarde
 - **Onde** — o pátio da escola
-- **A ideia** — a banda marcial da escola ensaia há semanas para o desfile e é ruim: desafinada, fora do tempo, insuportável de ouvir do outro lado do pátio. A amiga dela toca caixa. Nina reclama todo dia e vai assistir todo dia.
+- **A ideia** — a banda marcial da escola ensaia há semanas para o desfile e é ruim. A amiga dela toca caixa. Nina reclama todo dia e vai assistir todo dia.
 - **A virada** — decide ir ao desfile por causa da banda, e não por causa das máquinas.
 - **Fios** — fio-da-nina, fio-do-desfile
 - **Planta** — a-banda-da-escola
-- **Elenco** — nina
+- **Elenco** — nina, bel, doria, mira
+- **Fontes** — nenhuma
 
-### 37. A véspera
+### 38. A véspera
 *(The Eve)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, à noite
@@ -965,44 +978,46 @@ quatro relógios batem juntos.
 - **A ideia** — ela não dorme de animação, que é a coisa mais antiga e mais humana do livro inteiro.
 - **A virada** — dorme tarde e acorda cedo.
 - **Fios** — fio-do-desfile
-- **Elenco** — nina
+- **Elenco** — nina, mira
+- **Fontes** — nenhuma
 
-### 38. A rua enche
+### 39. A rua enche
 *(The Street Fills)*
 - **POV** — Nina
-- **Quando** — 2047-10-19 — de manhã
+- **Quando** — 2047-10-19 — sábado, de manhã
 - **Onde** — a Avenida, o meio-fio
 - **A ideia** — a rua está cheia de gente que ela não conhece, e é a primeira vez no livro que muita gente olha para a mesma coisa ao mesmo tempo.
 - **A virada** — ela acha isso normal.
 - **Fios** — fio-do-desfile
-- **Elenco** — nina, aurel
+- **Elenco** — nina, aurel, mira
+- **Fontes** — nenhuma
 
-### 39. O desfile — Nina
+### 40. O desfile — Nina
 *(The Parade — Nina)*
 - **POV** — Nina
-- **Quando** — 2047-10-19 — 10h12
-- **Onde** — o meio-fio
-- **A ideia** — as máquinas passam e é lindo, mas o que ela olha é a banda: a amiga está na caixa, de uniforme, e depois de semanas de ensaio horrível eles estão bons. Bombo, pratos, trompete, trombone, tuba, partitura na estante, a mão de cada um fazendo o som sair.
+- **Quando** — 2047-10-19 — sábado, 10h12
+- **Onde** — o meio-fio, com o pé no vão de baixo da grade
+- **A ideia** — as máquinas passam e é lindo, mas o que ela olha é a banda. A amiga está na caixa, de uniforme, e depois de semanas de ensaio horrível eles estão bons.
 - **A virada** — ela é feliz, sem ressalva nenhuma.
 - **Fios** — fio-do-desfile
 - **Paga** — a-banda-da-escola
-- **Elenco** — nina, aurel
+- **Elenco** — nina, aurel, bel
+- **Fontes** — nenhuma
 
-### 40. O desfile — Aurel
+### 41. O desfile — Aurel
 *(The Parade — Aurel)*
 - **POV** — Aurel
-- **Quando** — 2047-10-19 — 10h12
+- **Quando** — 2047-10-19 — sábado, 10h12
 - **Onde** — o meio-fio, ao lado dela
-- **A ideia** — ele não conhece a música e não precisa conhecer: percebe, antes de qualquer outra coisa, que a banda está ligeiramente desafinada, e que portanto é gente. Faz anos que ele não ouve um som que ninguém tenha ajustado para ele.
+- **A ideia** — ele não conhece a música e não precisa conhecer. Percebe, antes de qualquer outra coisa, que a banda está ligeiramente desafinada, e que portanto é gente. Faz anos que ele não ouve um som que ninguém tenha ajustado para ele.
 - **A virada** — não diz isso a ninguém. Fica ouvindo até o fim.
-- **Fios** — fio-do-desfile, fio-do-registro
-- **Paga** — o-recorte, o-nome-do-periodo, o-exemplo-da-nina, o-piso-morno
 - **Nota** — é o capítulo que cobra a Parte I inteira. O piso morno paga por
-  contraste: ele está de pé, no frio, na pedra, num lugar desconfortável que a
-  casa jamais teria pedido dele. Conforto contra presença.
+- **Fios** — fio-do-desfile, fio-do-registro
+- **Paga** — o-implante, o-volume-certo, a-rua-sem-escrita, a-frase-sem-erro, o-recorte, o-nome-do-periodo, o-exemplo-da-nina, o-piso-morno
 - **Elenco** — aurel, nina
+- **Fontes** — nenhuma
 
-### 41. O desfile — Rita
+### 42. O desfile — Rita
 *(The Parade — Rita)*
 - **POV** — Rita
 - **Quando** — 2047-10-19 — sábado, 10h12
@@ -1013,23 +1028,25 @@ quatro relógios batem juntos.
 - **Paga** — a-musica-de-longe, a-musica-pedida
 - **Elenco** — rita
 
-### 42. O desfile — Voss
+### 43. O desfile — Voss
 *(The Parade — Voss)*
 - **POV** — Voss
-- **Quando** — 2047-10-19 — 10h12
-- **Onde** — na multidão, sem crachá
+- **Quando** — 2047-10-19 — sábado, 10h12
+- **Onde** — a quinta fileira, sem crachá
 - **A ideia** — ele está ali porque quem deixou de ser exceção não tem mais onde estar. A banda toca uma coisa que ele nunca ouviu e não vai lembrar. Ninguém naquela rua sabe quem ele foi.
-- **A virada** — as máquinas chegam na altura dele e ele dá um passo atrás, junto com todo mundo, abrindo caminho. É o Sena, e ninguém vê.
+- **A virada** — as máquinas chegam na altura dele e ele dá um passo atrás, junto com todo mundo, abrindo caminho.
 - **Fios** — fio-do-desfile, fio-da-excecao
 - **Elenco** — voss
+- **Fontes** — nenhuma
 
-### 43. Depois
+### 44. Depois
 *(After)*
 - **POV** — Nina
-- **Quando** — 2047-10-19 — meio-dia
+- **Quando** — 2047-10-19 — sábado, meio-dia
 - **Onde** — a rua se esvaziando
 - **A ideia** — acabou, ela quer sorvete, e a rua volta a ser quatro pessoas que não se conhecem indo para quatro lugares diferentes.
 - **A virada** — nenhuma. É o único capítulo do livro sem virada, e é de propósito.
 - **Fios** — fio-do-desfile
 - **Paga** — a-amiga-chata
-- **Elenco** — nina, aurel
+- **Elenco** — nina, aurel, mira
+- **Fontes** — nenhuma

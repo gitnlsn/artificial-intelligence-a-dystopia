@@ -5,9 +5,9 @@ title_en: The Morning Queue
 pov: Voss
 when: 2047-10-14 — segunda, de manhã
 where: a mesa
-premise: quarenta casos numa manhã, cada um com quatro linhas e um despacho. O
-  capítulo passa rápido de propósito, e o desconforto do leitor é a forma. No
-  meio da fila entra um pedido de outra jurisdição e o formulário é idêntico.
+premise: quarenta casos numa manhã, cada um com quatro linhas e um despacho. O capítulo
+  passa rápido de propósito, e o desconforto do leitor é a forma. No meio da fila
+  entra um pedido de outra jurisdição e o formulário é idêntico.
 turn: ele bate a meta antes do almoço.
 threads:
 - fio-da-excecao

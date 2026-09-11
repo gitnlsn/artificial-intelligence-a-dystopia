@@ -236,7 +236,7 @@ Foi por isso que ela ficou parada na escada.
 Porque uma pessoa que sai de um prédio público com um papel que diz não costuma
 estar com raiva, e a raiva serve para alguma coisa: a raiva é o que te faz
 contar para os outros, e procurar quem mais passou por aquilo, e voltar. A Rita
-já teve raiva de um plano de saúde e ganhou.
+já teve raiva de um plano de saúde, por causa de outra pessoa, e ganhou.
 
 E ali, na escada, com sol na cara, ela reparou que não sentia nada além de um
 cansaço bem administrado, e que tinha sido tratada com educação do começo ao

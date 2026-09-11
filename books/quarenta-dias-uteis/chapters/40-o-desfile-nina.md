@@ -5,9 +5,8 @@ title_en: The Parade — Nina
 pov: Nina
 when: 2047-10-19 — sábado, 10h12
 where: o meio-fio, com o pé no vão de baixo da grade
-premise: as máquinas passam e é lindo, mas o que ela olha é a banda. A amiga
-  está na caixa, de uniforme, e depois de semanas de ensaio horrível eles estão
-  bons.
+premise: as máquinas passam e é lindo, mas o que ela olha é a banda. A amiga está
+  na caixa, de uniforme, e depois de semanas de ensaio horrível eles estão bons.
 turn: ela é feliz, sem ressalva nenhuma.
 threads:
 - fio-do-desfile

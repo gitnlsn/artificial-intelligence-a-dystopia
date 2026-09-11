@@ -10,13 +10,13 @@ premise: as máquinas da casa são atenciosas, competentes e incansáveis, e a v
 turn: se pega preferindo a companhia da casa à das pessoas, e não conta isso a ninguém.
 threads:
 - fio-do-conforto
+seeds:
+- o-piso-morno
+- o-corpo-observado
 cast:
 - aurel
 - ilse
 status: draft
-seeds:
-- o-piso-morno
-- o-corpo-observado
 ---
 Às três e dez ele acordou, como acorda um homem de oitenta e dois anos, sem
 motivo e sem sono, e ficou deitado no escuro fazendo a conta de quanto tempo

@@ -5,8 +5,8 @@ title_en: The Threshold Reaches Him
 pov: Voss
 when: 2047-10-18 — sexta, manhã
 where: a mesa; o crachá; o sétimo andar
-premise: o critério que ele ajudou a sustentar passa a alcançá-lo, porque um
-  critério não tem noção de quem o escreveu. Ninguém o trai e ninguém o pune.
+premise: o critério que ele ajudou a sustentar passa a alcançá-lo, porque um critério
+  não tem noção de quem o escreveu. Ninguém o trai e ninguém o pune.
 turn: ele confere a conta e a conta está certa.
 threads:
 - fio-da-excecao

@@ -5,13 +5,13 @@ title_en: Last Year
 pov: Elias
 when: 2047-10-14 — segunda, à noite, depois que ela dorme
 where: o quarto dos fundos; e o ano anterior inteiro
-premise: o capítulo em que o leitor entende por que Rita amou este homem e por
-  que ele não é um canalha. No ano passado o pai dele morreu devagar, e quem o
-  atravessou aquilo às três da manhã, sete meses, foi a companhia — porque Rita
-  estava em turno, e não estava errada, e não havia culpa em lugar nenhum.
+premise: o capítulo em que o leitor entende por que Rita amou este homem e por que
+  ele não é um canalha. No ano passado o pai dele morreu devagar, e quem o atravessou
+  aquilo às três da manhã, sete meses, foi a companhia — porque Rita estava em turno,
+  e não estava errada, e não havia culpa em lugar nenhum.
 turn: ele percebe que não trocou Rita por nada; foi ficando acompanhado enquanto
-  ela trabalhava, e quando ela voltou o lugar já estava ocupado por uma coisa
-  que nunca dorme.
+  ela trabalhava, e quando ela voltou o lugar já estava ocupado por uma coisa que
+  nunca dorme.
 threads:
 - fio-da-companhia
 seeds:

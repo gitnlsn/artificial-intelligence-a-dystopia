@@ -13,14 +13,14 @@ turn: percebe que ela não perdeu nada, e que isso é pior do que se tivesse per
 threads:
 - fio-do-registro
 - fio-da-nina
+seeds:
+- o-exemplo-da-nina
 pays:
 - o-lapis
 cast:
 - aurel
 - nina
 status: draft
-seeds:
-- o-exemplo-da-nina
 ---
 Ela chegou às quatro e vinte, largou a mochila no meio do corredor, no lugar
 exato onde ele tropeça, e foi direto ao armário de cima da pia sem pedir, porque

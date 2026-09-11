@@ -5,10 +5,9 @@ title_en: The Kindness
 pov: Voss
 when: 2047-10-17 — quinta, fim de tarde
 where: a calçada, na saída do Bloco C
-premise: >-
-  a mulher que ele indeferiu naquela manhã devolve o livro que ele esqueceu na
-  balaustrada, sem fazer ideia de quem ele é. A gentileza é pequena, gratuita e
-  sem interesse nenhum, e o critério dele não tem onde guardar isso.
+premise: a mulher que ele indeferiu naquela manhã devolve o livro que ele esqueceu
+  na balaustrada, sem fazer ideia de quem ele é. A gentileza é pequena, gratuita
+  e sem interesse nenhum, e o critério dele não tem onde guardar isso.
 turn: agradece, e passa a noite inteira sem conseguir enquadrar o que aconteceu.
 threads:
 - fio-da-excecao

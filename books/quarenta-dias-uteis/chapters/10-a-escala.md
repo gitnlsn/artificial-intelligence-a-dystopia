@@ -6,8 +6,8 @@ pov: Rita
 when: 2047-10-12 — sábado, à noite
 where: a cozinha; o telefone
 premise: os turnos vão rareando sem que ninguém tenha decidido nada contra ela.
-  A advertência que ela levou por descer com Teodor aparece aqui, correta, e
-  não há campo nenhum onde dizer por quê.
+  A advertência que ela levou por descer com Teodor aparece aqui, correta, e não
+  há campo nenhum onde dizer por quê.
 turn: entende que não foi punida — foi precavida.
 threads:
 - fio-do-turno
@@ -46,8 +46,10 @@ de ter visto, uma vez, em algum lugar, uma caixa de texto — e ficou abrindo as
 telas uma por uma, voltando, entrando de novo pelo mesmo caminho para ver se
 mudava.
 
-Tem *disponibilidade*. Tem *histórico*. Tem *documentos*. Tem *ajuda*, que abre
-uma lista de perguntas que não são a dela.
+Tem *disponibilidade*. Tem *histórico*. Tem *documentos*, que tem uma entrada só,
+de catorze de março de 2035, e que não abre — ela tentou umas vezes no segundo
+ano e parou de tentar. Tem *ajuda*, que abre uma lista de perguntas que não são a
+dela.
 
 Não tem onde escrever.
 
@@ -181,9 +183,10 @@ Ninguém tinha feito nada.
 
 Essa é a frase. Não teve gerente, não teve ligação, não teve reunião sobre ela,
 não teve uma sala em que o nome dela foi dito. Ela é razoavelmente boa em brigar
-— brigou com uma escola por causa do sobrinho, brigou com um plano de saúde e
-ganhou — e brigar exige que exista alguém do outro lado que possa dizer sim ou
-não. Aqui não tem outro lado. Tem uma projeção em cinza claro que pode mudar.
+— brigou com um plano de saúde por causa da dona Eszter e ganhou, brigou com uma
+entrega que não subia dois lances por causa do seu Vilmar e ganhou — e brigar
+exige que exista alguém do outro lado que possa dizer sim ou não. Aqui não tem
+outro lado. Tem uma projeção em cinza claro que pode mudar.
 
 Ela não foi punida.
 

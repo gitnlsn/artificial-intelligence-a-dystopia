@@ -5,9 +5,9 @@ title_en: The Boy Who Couldn't Prove the Future
 pov: Voss
 when: 2047-10-15 — terça
 where: a mesa
-premise: um rapaz é restringido por uma tendência prevista e não por um ato. O
-  recurso argumenta contra um futuro, e não há como provar que não se vai fazer
-  o que não se fez.
+premise: um rapaz é restringido por uma tendência prevista e não por um ato. O recurso
+  argumenta contra um futuro, e não há como provar que não se vai fazer o que não
+  se fez.
 turn: Voss vê a impossibilidade com clareza total e indefere assim mesmo, porque
   as duas coisas cabem juntas. Nem isso o abala.
 threads:

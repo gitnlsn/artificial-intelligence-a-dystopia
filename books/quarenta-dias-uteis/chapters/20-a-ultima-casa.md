@@ -60,7 +60,11 @@ antes das dez.
 
 Correu igual.
 
-A janela do quarto, o lençol, o banho, o creme nas costas. Ela conferiu as três
+A janela do quarto, o lençol, o banho, o creme nas costas.
+
+O creme da mão dela é três vezes num turno de três horas: quando chega, depois do
+banho, antes do café. Nunca houve uma quarta, e nunca houve um turno em que uma
+das três não coubesse. Ela conferiu as três
 caixas em voz alta, dizendo nome e hora, e ele respondeu *isso* em todas, e numa
 delas respondeu antes de ela terminar de falar, o que ele faz quando está de bom
 humor.

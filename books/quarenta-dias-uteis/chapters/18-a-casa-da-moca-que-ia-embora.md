@@ -5,10 +5,9 @@ title_en: The House of the Girl Who Was Leaving
 pov: Rita
 when: 2047-10-18 — sexta, manhã
 where: um quarto e sala em Brenna
-premise: a casa mais nova do mosaico. Uma mulher de vinte e seis anos em
-  recuperação, com tudo pela frente, e que vai embora do país assim que puder
-  andar direito. Rita passa três horas com um futuro que não é dela, em nenhum
-  sentido.
+premise: a casa mais nova do mosaico. Uma mulher de vinte e seis anos em recuperação,
+  com tudo pela frente, e que vai embora do país assim que puder andar direito.
+  Rita passa três horas com um futuro que não é dela, em nenhum sentido.
 turn: a moça pergunta a Rita o que ela queria ser, e Rita responde de verdade.
 threads:
 - fio-do-turno
@@ -163,8 +162,8 @@ A Juno soltou uma gargalhada.
 
 — O quê?!
 
-— Perita criminal. — A Rita estava rindo também, e estava um pouco vermelha. —
-Eu tinha dezessete anos.
+— Perita criminal. — A Rita estava rindo também, e tinha parado de dobrar a
+toalha no meio. — Eu tinha dezessete anos.
 
 — Por quê?!
 
