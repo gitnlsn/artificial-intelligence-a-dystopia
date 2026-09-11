@@ -14,9 +14,9 @@ seeds:
 - a-musica-de-longe
 cast:
 - rita
-sources: '*Great Divide*, The Cardigans, 1996 — aqui a banda é nomeada (a mãe dela
-  a dizia no carro) e o título nunca; a letra não pode ser impressa. Ela não sabe
-  o nome da música. Ver docs/references.md'
+sources: '*Great Divide*, The Cardigans, faixa 10 de *First Band on the Moon*, 1996
+  — aqui a banda é nomeada (a mãe dela a dizia no carro) e o título nunca; a letra
+  não pode ser impressa. Ela não sabe o nome da música. Ver docs/references.md'
 status: draft
 ---
 Às seis e quarenta ela já estava embaixo do toldo da padaria, que é onde se
@@ -175,6 +175,9 @@ Uma mulher cantando devagar, sem forçar nada. Um violão que faz a mesma coisa
 umas quatro vezes antes de mudar. Um baixo grande e mole por baixo. E aquele
 negócio de música de outro país que a Rita nunca soube dizer o que é — uma
 tristeza que não está pedindo desculpa por ser tristeza.
+
+De onde ela estava, o baixo era a coisa mais alta. Andava mais que a mulher que
+cantava, e a bateria entrava sempre um pouco atrasada.
 
 Ela ficou parada.
 

@@ -9,8 +9,8 @@ premise: ele não pediu nada. A avaliação veio, a data veio, e a perna vai par
   de formigar. Passou sessenta anos conferindo frase contra mundo, e passa seis
   minutos ouvindo uma máquina falar sem achar uma única coisa para marcar na
   margem.
-turn: não acha erro nenhum, e entende que não há onde marcar. Pede música, e é
-  respondido.
+turn: não acha erro nenhum, e entende que não há onde marcar. Pede música, tem um
+  nome para dar — um só, e antigo —, e o volume não é dele.
 threads:
 - fio-do-conforto
 - fio-do-registro
@@ -19,11 +19,13 @@ pays:
 seeds:
 - o-implante
 - a-frase-sem-erro
+- o-volume-certo
 cast:
 - aurel
-sources: '*Great Divide*, The Cardigans, 1996 — a voz diz o título, e só o título;
-  nunca a banda, nunca o ano, nunca a letra. Ele não fica com o nome. Ver
-  docs/references.md'
+sources: '*Great Divide*, The Cardigans, faixa 10 de *First Band on the Moon*, 1996
+  — **ele** diz o título **e a banda**, os dois; nunca quem canta, nunca o ano,
+  nunca a letra. O título vem da boca da Ilse; a banda, da capa do disco dela, e
+  por isso ele a pronuncia como se lê. Ver docs/references.md'
 status: draft
 ---
 
@@ -369,28 +371,20 @@ não se sustenta:
 
 Ele abriu a boca.
 
-E não veio nada.
-
-Não era falta de memória. Ele sabia distinguir muito bem uma falta de memória.
-Isto era outra coisa: ele estava deitado numa mesa com a boca preparada e não
-havia nome nenhum atrás dela.
-
 A casa punha música todo dia. Punha desde 2036. Era sempre boa e ele nunca tinha
 precisado escolher nenhuma, e portanto nunca tinha precisado saber o nome de
-nenhuma, e agora tinha um segundo e meio para produzir um nome e não tinha um.
+nenhuma. O nome que ele tinha era mais velho que isso, e era um só.
 
-Passou pela cabeça dele, muito rápido, um disco de capa amarela que a Ilse
-punha, e ele não sabia o nome do disco nem o nome de quem cantava, e sabia que
-ela sabia.
+Um disco de capa amarela que a Ilse punha. Ele não sabia o nome do disco nem o
+nome de quem cantava; sabia duas palavras porque ela as dizia antes de pôr, e
+sabia o nome da banda porque estava escrito na capa e ele lia tudo.
 
-— O senhor prefere que eu escolha?
+— Great Divide — disse ele. — Cardigans.
 
-— Prefiro — disse ele.
+Três palavras na outra língua, ditas em voz alta numa sala pequena. Disse a
+última como se lê, que é como ele a tinha aprendido.
 
-— Great Divide.
-
-Duas palavras na outra língua, ditas no mesmo volume que todo o resto. Era o
-nome. Ele soube que era o nome e não ficou com ele.
+Não houve confirmação.
 
 ---
 
@@ -401,11 +395,11 @@ umas quatro vezes antes de mudar. Um baixo grande e mole por baixo de tudo, e a
 mulher cantando em outra língua, uma que ele não fala e reconhece de longe, e a
 coisa toda tinha uma tristeza que não estava pedindo desculpa por ser tristeza.
 
-Ele não conhecia.
+No volume em que aquilo chegou nele dava para ouvir que a voz não subia. Havia um
+lugar, na metade, em que outra cantora teria subido. Ela não subiu, e nada veio
+buscar a música.
 
-Tentou, por hábito, colocar aquilo em algum lugar — ano, país, alguma coisa — e
-não colocou em lugar nenhum, e desistiu sem esforço, o que aos oitenta e dois
-anos é uma habilidade adquirida.
+Não precisou colocar aquilo em lugar nenhum. Já estava colocado.
 
 Era bonita. Era exatamente bonita.
 

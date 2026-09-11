@@ -7,14 +7,15 @@ when: 2047-10-19 — sábado, 10h12
 where: o meio-fio, ao lado dela
 premise: ele não conhece a música e não precisa conhecer. Percebe, antes de
   qualquer outra coisa, que a banda está ligeiramente desafinada, e que portanto
-  é gente. Faz anos que ele não ouve um som que não tenha sido escolhido para
-  ele por alguém.
+  é gente. Faz anos que ele não ouve um som que ninguém tenha ajustado para
+  ele.
 turn: não diz isso a ninguém. Fica ouvindo até o fim.
 threads:
 - fio-do-desfile
 - fio-do-registro
 pays:
 - o-implante
+- o-volume-certo
 - a-rua-sem-escrita
 - a-frase-sem-erro
 - o-recorte
@@ -126,10 +127,10 @@ Não fazia a menor diferença.
 Ele tentou lembrar da última vez.
 
 Não da última vez que ouviu música — ele ouve música todo dia, a casa põe música,
-e a música da casa é sempre boa, sempre exatamente boa, e ele nunca precisou
-escolher nada.
+e a música da casa é sempre boa, sempre exatamente boa, e sempre no volume em que
+ele ia querer.
 
-Da última vez que ouviu um som que não tinha sido escolhido para ele por alguém.
+Da última vez que ouviu um som que ninguém tinha ajustado para ele.
 
 Não achou. Ficou procurando durante os quarenta segundos inteiros em que a banda
 passou na frente dele e não achou, e chegou a 2036, que foi quando eles compraram

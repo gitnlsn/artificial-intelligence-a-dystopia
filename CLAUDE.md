@@ -315,42 +315,65 @@ human marching band, brass and drums and sheet music on stands, playing
 something nobody recognises.
 
 **The same song closes Part I, and that is also the author's decision.** In
-*O procedimento* Aurel asks for music, is asked which one, and has no name to
-give — he has not chosen a song in eleven years — so the machine chooses, and
-what it chooses is the song Rita hears from the window a page later, described in
-the same words. **It is a coincidence and must stay one:** different days,
-neither of them knows the name, the two never meet, and nobody in the book —
-narrator included — ever connects them. What the reader feels is the inversion,
-not a kinship: Aurel's arrived requested, selected and delivered at the right
-volume; Rita's fell into the street by accident, too loud to be aimed at anyone.
+*O procedimento* Aurel asks for music, is asked which one, and **names it
+himself** — and what he names is the song Rita hears from the window a page later,
+described in the same words. **It is a coincidence and must stay one:** different
+days, the two never meet, and nobody in the book — narrator included — ever
+connects them. What the reader feels is the inversion, not a kinship: Aurel's
+arrived requested by name and delivered at the right volume; Rita's fell into the
+street by accident, too loud to be aimed at anyone.
 
-**The track is named on the page, in two halves — the author's decision, and it
-replaces an earlier rule that it was never named at all.** The voice tells Aurel
-the *title* and he knows it is the name and does not keep it; Rita never knew the
-title and knows the *band*, because her mother said it in the car. **Never give
-the title to Rita or the band to Aurel**, and the narrator names neither — both
-names are in someone's mouth, which is what keeps them inside `pov:`. Neither
-character holds the whole name, so nobody in the book can connect the two
-hearings; the reader who knows the record joins the halves, and the reader who
-does not loses nothing.
+**He chooses the song, and therefore knows it — the author's decision, and it
+replaces the earlier rule** that he had no name to give and so the machine chose.
+*(Also superseded: the rule that he had not chosen a song in eleven years.)* The
+name comes from a **yellow-sleeved, nameless record Ilse used to put on**: he
+knows the *title* because she said those two words before putting it on, and he
+knows the *band* because it was printed on the sleeve and he read everything. He
+does not know who sings, and **the singer is never named anywhere** — there is a
+Nina in this book and she is not her.
+
+**He says the title and the band; Rita has the band and never the title.** *(This
+replaces the two-halves rule — "never give the title to Rita or the band to
+Aurel" — by the author's decision. The half that still binds is Rita's: **never
+give her the title.**)* The narrator names nothing anywhere; every name in the
+book is in somebody's mouth, which is what keeps them inside `pov:`.
+
+**Neither of them says the band's name correctly, and they get it wrong in
+different ways.** This is what does the work the two halves used to do. Rita's is
+inherited by ear — her mother's invented accent, inside a car. Aurel's is *as it
+is spelled*, because he only ever saw it written, which is how a proofreader
+learns a foreign word: a life with printed words does not hand you the
+pronunciation. **No sentence in the book points at this**, and the two wrong
+versions sit a page apart. If a later revision corrects either pronunciation, the
+repeated name stops reading as the world and starts reading as the author.
+
+**The eleven-year count runs on calibration, not choice.** At the parade Aurel
+looks for the last sound **nobody adjusted for him** and arrives at 2036. He chose
+the song on the Friday and the machine chose the volume — *começou baixo e subiu
+até um ponto que ele não precisou escolher* — so the Friday song fails the test
+and 2036 still answers. Any rewording around *choice* collapses the count.
 
 **A third song, and it is the author's decision.** Part II gained a chapter,
 *A música que ela pediu*, in which Rita — alone in the kitchen on a Thursday
 night — says a title and a singer **out loud** and the music plays: *Better*,
-Regina Spektor. **This does not touch the two-halves rule**, which belongs to
-*Great Divide* alone and is what keeps Aurel and Rita from ever connecting their
-two hearings. *Better* is a different song, heard by one person, and the whole
-point is that she holds the **whole** name — and has never once asked herself
-where she got it. The reader who reaches the registro in *Ela fica quieta* finds
+Regina Spektor. **This does not touch the naming rule for *Great Divide***, which
+belongs to that song alone. *Better* is a different song, heard by one person, and
+the whole point is that she holds the **whole** name — and has never once asked
+herself where she got it. The reader who reaches the registro in *Ela fica quieta* finds
 *acervo biográfico de referência: pacote padrão, revisão 2034* waiting, and no
 line was added to it.
 
-It is the **exact inversion of *O procedimento***: Aurel asks for music and has no
-name to give, so the machine chooses; Rita has the whole name, asks, and it
-arrives in under a second at the right volume — and it is worth less than the one
-that fell out of a window. Nothing responds to her; the machine in *O
-procedimento* is still the only one that speaks. The narrator names nothing,
-here as everywhere: both names are in her mouth.
+It is the **pair to *O procedimento*, and the axis is provenance**: both of them
+hold a name and both of them ask. His came from the mouth of a dead woman and the
+sleeve of her record, and he knows exactly where he got it; hers came whole, and
+she has never once asked where from — *acervo biográfico de referência: pacote
+padrão, revisão 2034*. **Provenance against package.** Hers arrives in under a
+second at the right volume, and it is worth less than the one that fell out of a
+window. Nothing responds to her; the machine in *O procedimento* is still the only
+one that speaks — and the fine distinction there is worth keeping: that machine
+had just confirmed his name and date of birth, and it does not repeat the song
+name back. The narrator names nothing, here as everywhere: both names are in her
+mouth.
 
 Part II therefore has **three musics and she chose none of them** — the one that
 fell from a window, the one she asked for by name, and the band, which is too

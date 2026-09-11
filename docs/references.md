@@ -60,17 +60,36 @@ Aplicado a este livro:
 
 | Obra | Situação | O que dá para fazer |
 |---|---|---|
-| *Great Divide*, The Cardigans (Sveningsson/Svensson), faixa 10 de *First Band on the Moon*, 1996 | Em direito autoral | Nomear, descrever, deixar chegar de longe. **Não imprimir a letra** sem licença da editora musical. Atenção: o título é "Great Divide", sem "The". **Aparece duas vezes** — ver a nota abaixo |
-| *Better*, Regina Spektor, faixa de *Begin to Hope*, 2006 | Em direito autoral | Nomear e descrever. A Rita diz **o título e a cantora em voz alta**, e é a única personagem do livro que tem um nome de música inteiro. **Não imprimir a letra.** Ver a nota abaixo |
+| *Great Divide*, The Cardigans (Sveningsson/Svensson), faixa 10 de *First Band on the Moon*, 1996 | Em direito autoral | Nomear, descrever, deixar chegar de longe. **Não imprimir a letra** sem licença da editora musical. Atenção: o título é "Great Divide", sem "The". **Aparece duas vezes** — ver as notas abaixo |
+| *Better*, Regina Spektor, faixa de *Begin to Hope*, 2006 | Em direito autoral | Nomear e descrever. A Rita diz **o título e a cantora em voz alta** — e é a única personagem do livro que tem um nome de música inteiro **sem saber de onde o tirou**. **Não imprimir a letra.** Ver a nota abaixo |
 | A música do desfile | **Inventada** — sem nome, sem letra, banda marcial de gente | Tudo. Música inventada não tem titular, e foi por isso, entre outras razões, que se decidiu assim |
 | Caetano Veloso, *Oração ao Tempo*, 1979 | Em direito autoral | Nomear e descrever apenas |
 
-**A música toca duas vezes, e cada um dos dois recebe metade do nome.** Em *O
-procedimento* a máquina a escolhe para Aurel e diz o **título**; na abertura da
-Parte II ela desce de uma janela sobre a Rita, que nunca soube o título e sabe a
-**banda**, porque a mãe dela a dizia no carro. Nenhum dos dois tem o nome
-inteiro, e é por isso que nenhum dos dois pode ligar uma coisa à outra — ver
-`docs/bible.md`, *As duas exceções declaradas*, para a regra narrativa.
+**A música toca duas vezes, e os dois nomes estão sempre na boca de alguém.** Em
+*O procedimento* **o próprio Aurel pede a música e diz o título e a banda** — o
+título porque a Ilse dizia aquelas duas palavras antes de pôr o disco, a banda
+porque estava escrita na capa e ele lia tudo, e é por isso que ele a pronuncia
+*como se lê*. Na abertura da Parte II ela desce de uma janela sobre a Rita, que
+**nunca soube o título** e sabe a **banda**, porque a mãe dela a dizia no carro
+com sotaque de quem está inventando o sotaque. **Nenhum dos dois diz a banda
+certo, e erram diferente** — ver `docs/bible.md`, *As três exceções declaradas*,
+para a regra narrativa. Os dois nunca se encontram, então ninguém no livro liga
+uma audição à outra.
+
+**Aurel escolher a própria música, e dizer a banda, não mexe em uma linha da
+situação de direitos.** Título e nome de banda não são protegidos, e quem os diz —
+uma voz de máquina ou o personagem — é irrelevante. **A letra segue proibida**, em
+todos os casos.
+
+**Cuidado com o disco errado, e esta nota existe para isso não voltar.** *Great
+Divide* é a **faixa 10 de *First Band on the Moon* (1996)**, 3:17,
+Sveningsson/Svensson. **Não** é a faixa de abertura de *Super Extra Gravity*
+(2005), que é *Losing a Friend* e não tem *Great Divide* nenhuma — uma descrição
+circulando por aí atribui a faixa àquele disco e fala de guitarras distorcidas
+crescendo nos refrãos. **Essa descrição é de outro álbum e não entra no livro.**
+O que é verdade da faixa de 1996, e é o que os dois capítulos descrevem: devagar
+do começo ao fim, sem refrão que levante, o baixo grande e mole como a coisa mais
+alta, a bateria atrás do tempo, a voz que não sobe onde outra subiria.
 
 **O que dá para descrever de *Better*, e o que não dá.** Arranjo, andamento,
 instrumentação, o que a voz faz, o efeito no ouvinte e **o contraste entre a
@@ -93,10 +112,16 @@ descrição de som. **A letra segue proibida**, e nomear a faixa não abre nenhu
 margem para citá-la: a regra é a mesma com ou sem o nome na página. O que mudou
 foi uma decisão narrativa, não uma jurídica.
 
-**Não dar o nome inteiro a nenhum dos dois** — nem o título à Rita, nem a banda
-ao Aurel — e não fazer o narrador nomear nada em lugar nenhum: os dois nomes que
-existem na página estão na boca de alguém (a voz, no primeiro caso; a mãe da
-Rita, lembrada, no segundo), e é isso que os mantém dentro do `pov:`.
+**Não dar o título à Rita, nunca** — e não fazer o narrador nomear nada em lugar
+nenhum: todos os nomes que existem na página estão na boca de alguém (o Aurel, no
+primeiro caso; a mãe da Rita, lembrada, no segundo), e é isso que os mantém dentro
+do `pov:`. *A proibição de dar a banda ao Aurel foi **revogada por decisão do
+autor**: ele diz o título e a banda, e pronuncia a banda como se lê, porque a leu
+na capa do disco da Ilse. Ver `docs/bible.md`, exceção 2.*
+
+**E nunca nomear a cantora**, em lugar nenhum — nem na prosa, nem no front matter,
+nem aqui. Nenhum dos dois personagens sabe quem canta, e há uma Nina no livro que
+não é ela.
 
 ### Victor Hugo — domínio público
 

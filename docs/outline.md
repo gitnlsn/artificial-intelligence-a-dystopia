@@ -74,13 +74,18 @@ são de editoras diferentes.
 A Parte II abre com o segundo protagonista **ouvindo uma música de longe**:
 *Great Divide*, dos Cardigans (não "The Great Divide"; faixa 10 de *First Band
 on the Moon*, 1996, de Sveningsson e Svensson). Chega sem ser pedida, escolhida
-por ninguém, de uma janela ou de um carro.
+por ninguém, de uma janela do quarto andar.
 
-**A faixa é nomeada na página, em duas metades.** A voz diz o título ao Aurel em
-*O procedimento*, e ele não fica com ele; a Rita sabe a banda, e não o título,
-porque a mãe dela dizia Cardigans no carro. Nenhum dos dois tem o nome inteiro,
-o narrador não nomeia nada, e portanto ninguém no livro pode ligar as duas
-audições. Regra completa em `docs/bible.md`, *As duas exceções declaradas*.
+**A faixa é nomeada na página, e sempre na boca de alguém.** O Aurel diz o título
+e a banda em *O procedimento* — o título porque a Ilse dizia aquelas duas palavras
+antes de pôr o disco, a banda porque estava escrita na capa e ele lia tudo; a Rita
+sabe a banda e **nunca o título**, porque a mãe dela dizia Cardigans no carro. O
+narrador não nomeia nada, os dois nunca se encontram, e portanto ninguém no livro
+pode ligar as duas audições. **A assimetria é de uso:** título é o que se diz para
+uma máquina tocar uma coisa, e banda não serve para pedir nada — ele tem os dois,
+ela tem só o que não serve. **E nenhum dos dois diz a banda certo:** ele a
+pronuncia como se lê, porque a leu; ela herdou o sotaque inventado da mãe. Regra
+completa em `docs/bible.md`, *As três exceções declaradas*.
 
 O desfile fecha com uma música **sem nome**. Não é uma canção conhecida, não é
 citada, não tem letra e não precisa ser reconhecida por ninguém — nem pelos
@@ -295,7 +300,7 @@ tem nada de triste nele. Ela vai ao desfile porque desfile é divertido.
 E o fim: a banda da escola ensaia mal há semanas e Nina reclama todos os dias e
 vai assistir todos os dias. No desfile eles estão bons. Aurel, ao lado dela, ouve
 que estão ligeiramente desafinados e é assim que sabe que são pessoas — faz anos
-que ele não ouve um som que não tenha sido escolhido para ele. Nenhum dos dois
+que ele não ouve um som que ninguém tenha ajustado para ele. Nenhum dos dois
 diz nada.
 
 ---
@@ -548,7 +553,7 @@ música que abre a Parte II na calçada de outra pessoa.
 - **Quando** — 2047-10-18 — sexta, à tarde
 - **Onde** — a unidade da rua Solvig, terceiro andar; a sala
 - **A ideia** — ele não pediu nada. A avaliação foi oferecida no fim de uma consulta de rotina, levou doze minutos, e três semanas depois veio um comunicado com a data já dentro. Não há fila, não há prazo, não há ninguém a convencer. **Aurel recebe de graça, e sem pedir, exatamente o tipo de coisa que Rita não consegue nem sendo ouvida** — e o livro nunca aponta isso.
-- **A virada** — ele ouve a máquina descrever o procedimento durante seis minutos, procurando o erro do jeito que procurou a vida inteira, e não acha nenhum. Entende que o problema não é a frase estar certa: é que, se estivesse errada, não haveria onde marcar. Depois pede uma música, e é respondido.
+- **A virada** — ele ouve a máquina descrever o procedimento durante seis minutos, procurando o erro do jeito que procurou a vida inteira, e não acha nenhum. Entende que o problema não é a frase estar certa: é que, se estivesse errada, não haveria onde marcar. Depois pede uma música, tem um nome para dar — um só, e antigo —, e o volume não é dele.
 - **Fios** — fio-do-conforto, fio-do-registro
 - **Planta** — o-implante, a-frase-sem-erro
 - **Elenco** — aurel
@@ -563,12 +568,24 @@ está registrada em `CLAUDE.md` e em `docs/bible.md`. **Nunca em itálico, nunca
 nome, nunca com personalidade** — a voz é um documento lido em voz alta, e Aurel a
 escuta como se escuta uma prova.
 
-A segunda: a música que a máquina escolhe para ele é **a mesma que a Rita ouve da
-janela** no capítulo seguinte, descrita com as mesmas palavras. É coincidência e
-tem de continuar sendo: **nenhum dos dois sabe o nome**, os dois estão em dias
-diferentes, e ninguém no livro jamais liga uma coisa à outra. O que o leitor sente
-é a inversão — a de Aurel foi pedida, escolhida e entregue no volume certo; a de
-Rita caiu na rua por acidente.
+A segunda: a música que **ele pede** é **a mesma que a Rita ouve da janela** no
+capítulo seguinte, descrita com as mesmas palavras. É coincidência e tem de
+continuar sendo: **ele diz o título e a banda, ela nunca soube o título**, os dois
+estão em dias diferentes, e ninguém no livro jamais
+liga uma coisa à outra. O que o leitor sente é a inversão — a de Aurel foi pedida
+pelo nome e entregue no volume certo; a de Rita caiu na rua por acidente.
+
+**Ele escolhe a música, e portanto a conhece — decisão do autor, e substitui a
+regra anterior**, que era que ele não tinha nome nenhum para dar e por isso a
+máquina escolhia. O nome vem do disco de capa amarela, sem nome, que a Ilse punha:
+ele sabe duas palavras porque ela as dizia antes de pôr, sabe a banda porque
+estava escrita na capa — e por isso a pronuncia como se lê —, e não sabe quem
+canta. A
+procedência é **uma frase e nem uma a mais** — a da Rita é grossa de propósito e a
+dele fina, porque duas procedências do mesmo formato seriam parentesco. E o que
+não muda de mão é o **volume**: ele escolheu a música, a máquina escolheu o
+volume, e nada confirma o título que ele diz. Regra completa em `docs/bible.md`,
+*As três exceções declaradas*.
 
 ---
 
@@ -976,7 +993,7 @@ quatro relógios batem juntos.
 - **POV** — Aurel
 - **Quando** — 2047-10-19 — 10h12
 - **Onde** — o meio-fio, ao lado dela
-- **A ideia** — ele não conhece a música e não precisa conhecer: percebe, antes de qualquer outra coisa, que a banda está ligeiramente desafinada, e que portanto é gente. Faz anos que ele não ouve um som que não tenha sido escolhido para ele por alguém.
+- **A ideia** — ele não conhece a música e não precisa conhecer: percebe, antes de qualquer outra coisa, que a banda está ligeiramente desafinada, e que portanto é gente. Faz anos que ele não ouve um som que ninguém tenha ajustado para ele.
 - **A virada** — não diz isso a ninguém. Fica ouvindo até o fim.
 - **Fios** — fio-do-desfile, fio-do-registro
 - **Paga** — o-recorte, o-nome-do-periodo, o-exemplo-da-nina, o-piso-morno

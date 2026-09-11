@@ -272,33 +272,94 @@ Como ela fala, e isto é vinculante:
 
 ### 2. A mesma música, duas vezes, e é coincidência
 
-A música que a máquina escolhe para Aurel no fim da Parte I é **a mesma que Rita
-ouve da janela do quarto andar** na abertura da Parte II, descrita com as mesmas
-palavras: uma mulher cantando devagar sem forçar, um violão que repete quatro
-vezes antes de mudar, um baixo grande e mole, outra língua, uma tristeza que não
-pede desculpa.
+A música que Aurel pede no fim da Parte I é **a mesma que Rita ouve da janela do
+quarto andar** na abertura da Parte II, descrita com as mesmas palavras: uma
+mulher cantando devagar sem forçar, um violão que repete quatro vezes antes de
+mudar, um baixo grande e mole, outra língua, uma tristeza que não pede desculpa.
+
+**O núcleo compartilhado é idêntico nos dois capítulos, e cada um ganha uma linha
+de posição que o outro não pode ter.** Rita está quatro andares abaixo de uma
+janela aberta e recebe o grave: o baixo é a coisa mais alta, anda mais que a
+mulher que canta, e a bateria entra atrasada. Aurel está no volume exato do lado
+esquerdo da cabeça e recebe o que é baixo: a voz não sobe onde outra subiria, e
+nada vem buscar a música. **Parágrafo idêntico duas vezes leria como autoria**, e
+é a coincidência que pagaria a conta.
 
 O que a mantém coincidência, e nada disso é negociável:
 
-- **Cada um recebe metade do nome, e nunca a mesma metade.** Decisão do autor,
-  tomada depois de a regra anterior ter sido "não nomear a faixa em lugar
-  nenhum". A voz diz a Aurel o **título** — duas palavras numa língua que ele
-  não fala — e ele sabe que é o nome e não fica com ele. Rita nunca soube o
-  título e sabe a **banda**, porque a mãe dela dizia Cardigans no carro com
-  sotaque de quem está inventando o sotaque. **Não dar o título a Rita nem a
-  banda a Aurel**, e nenhum dos dois em itálico na boca da voz. Aurel continua
-  sem nome nenhum para dar quando lhe perguntam, e por isso a máquina escolhe:
-  o título chega *depois* de ele abrir mão de escolher.
+- **Aurel diz o nome inteiro; a Rita tem só a banda.** *(Decisão do autor, e
+  **substitui a regra das metades**, que era: "cada um recebe metade do nome e
+  nunca a mesma metade — não dar o título à Rita nem a banda ao Aurel". A objeção
+  está registrada abaixo e foi mantida. **A metade da Rita continua valendo: não
+  dar o título a ela**, nunca.)* Em *O procedimento* ele diz as três palavras,
+  em voz alta, numa sala pequena — *Great Divide*, e depois a banda. A Rita nunca
+  soube o título e sabe a **banda**, porque a mãe dela dizia Cardigans no carro
+  com sotaque de quem está inventando o sotaque. Nenhum dos dois em itálico, e o
+  narrador continua não nomeando nada: os nomes estão todos na boca de alguém.
+- **Nenhum dos dois diz o nome da banda certo, e erram de maneiras diferentes.**
+  É isto que substitui o trabalho que as metades faziam. A da Rita é **de ouvido**
+  e herdada: o sotaque inventado da mãe, dentro de um carro. A do Aurel é **de
+  quem só viu escrito** — estava na capa do disco da Ilse e ele lia tudo, então
+  ele a pronuncia *como se lê*, que é como um revisor aprende uma palavra
+  estrangeira. Um homem que passou a vida com a palavra impressa não recebe a
+  pronúncia de graça. **Nenhuma frase do livro aponta para isso**, e as duas
+  versões erradas estão a uma página de distância.
+- **Quem canta continua fora dos dois.** Aurel não sabe o nome de quem canta e a
+  Rita também não. **Nunca nomear a cantora, em lugar nenhum** — nem no front
+  matter, nem nos documentos. Há uma Nina no livro, e não é ela.
+- **Ele escolhe a música, e portanto a conhece.** *(Decisão do autor, e
+  **substitui** a regra anterior, que era: "Aurel continua sem nome nenhum para
+  dar quando lhe perguntam, e por isso a máquina escolhe — o título chega depois
+  de ele abrir mão de escolher." A objeção está registrada abaixo e foi mantida.
+  A regra velha não deve ser restaurada por nenhuma revisão posterior.)*
+  O nome vem de um **disco de capa amarela, sem nome, que a Ilse punha**. Ele não
+  sabe o nome do disco nem o nome de quem canta. Sabe **duas palavras porque ela
+  as dizia antes de pôr**, e sabe **o nome da banda porque estava escrito na capa
+  e ele lia tudo** — duas procedências diferentes dentro da mesma frase, uma de
+  ouvido e uma de vista, e é daí que sai a pronúncia errada. O disco ser **dela e
+  sem nome** é o que impede o livro de afirmar qualquer coisa sobre a capa de um
+  álbum real, que não é amarela.
+- **A procedência dele é uma frase, e nem uma a mais.** Sem quarto, sem ano, sem
+  o que ele sentiu, e a Ilse morta não entra na frase. A da Rita é **grossa** —
+  porta-luvas, sotaque, ordem das faixas, um carro que ela não lembra — e a dele
+  é **fina de propósito**: duas procedências do mesmo formato seriam
+  **parentesco**, e o leitor não pode sentir parentesco. É também a única defesa
+  contra a quarta mentira do gênero.
+- **A metade que serve para pedir, e a que não serve para nada.** A assimetria
+  entre os dois deixou de ser de contexto e passou a ser de **uso**, e o Aurel
+  dizer a banda não a desfaz: ele tem o **título**, que é o que se diz em voz alta
+  para uma máquina tocar uma coisa, e portanto pede e é servido. A Rita tem só a
+  banda, e banda não serve — não se pede *Cardigans* e se recebe aquela faixa. Um
+  tem o campo que o formulário aceita; a outra tem só o campo que não existe, que
+  é a mesma figura de *A escala* e de *O procedimento*. **Nenhuma frase do livro
+  diz isso.**
+- **A objeção, registrada e mantida.** Ele fica menos despossuído, e o eco
+  literal de *A prova* — a boca preparada e nada atrás dela — deixa de ser
+  repetição e passa a ser virada: a parte abre com um homem que não tem nome para
+  o século dele e fecha com um homem que tem exatamente um nome, e ele veio da
+  boca de outra pessoa. **O que paga as duas coisas é o volume.** Ele escolheu a
+  música e a máquina escolheu o volume, e a frase que faz isso já estava escrita:
+  *começou baixo e subiu até um ponto que ele não precisou escolher.* **Nada
+  confirma o nome que ele diz** — a voz tinha confirmado o nome dele e a data de
+  nascimento, e não repete nada.
+- **A segunda objeção, também registrada e mantida: ele dizer a banda custa o
+  trabalho que as metades faziam.** O leitor não monta mais nada — o livro entrega
+  o nome, uma página antes de a Rita dizer a mesma palavra, e a repetição fica
+  audível. O que paga isso são as **duas pronúncias erradas** e o fato de que a
+  Rita continua sem o título. Se qualquer revisão futura acertar a pronúncia de
+  um dos dois, a conta deixa de fechar e sobra arranjo do autor.
 - **São dias diferentes** — Aurel na sexta 18/10, Rita na sexta 11/10 — e os dois
   nunca se encontram, nem sabem um do outro.
-- **Ninguém no livro liga uma coisa à outra**, e o narrador tampouco — e agora
-  isso é verdade *literal*: nenhum dos dois tem o nome inteiro, então nenhum dos
-  dois teria como ligar. Só o leitor vê, porque leu as duas descrições com uma
-  página de distância; o leitor que conhece o disco junta as duas metades e o
-  que não conhece não perde nada.
+- **Ninguém no livro liga uma coisa à outra**, e o narrador tampouco. Os dois
+  nunca se encontram e nunca ouvem falar um do outro, então não há como. Só o
+  leitor vê, porque leu as duas descrições com uma página de distância — e desde
+  que o Aurel passou a dizer a banda, **o leitor vê mais alto**, o que torna a
+  regra das duas pronúncias erradas mais importante e não menos: é o que faz a
+  repetição do nome ler como mundo em vez de arranjo do autor. O leitor que não
+  conhece o disco não perde nada.
 - O que o leitor sente é a **inversão**, e não o parentesco: a de Aurel foi
-  pedida, escolhida por uma máquina e entregue no volume exato; a de Rita caiu na
-  rua por acidente, alta demais para ser dirigida a alguém.
+  pedida pelo nome e entregue no volume exato; a de Rita caiu na rua por
+  acidente, alta demais para ser dirigida a alguém.
 - A regra de direitos continua e o nome não a mexe: **título, nome da banda e
   descrição são livres; a letra, nunca.** Ver `docs/references.md`.
 
@@ -307,22 +368,33 @@ O que a mantém coincidência, e nada disso é negociável:
 **Decisão do autor.** A Parte II ganhou um capítulo, *A música que ela pediu*, em
 que a Rita, sozinha na cozinha numa quinta à noite, **diz o título e a cantora em
 voz alta** e a música toca. Isso **não mexe na regra das metades**, que é de
-*Great Divide* e só dela: o Aurel continua com o título e nunca a banda, a Rita
-continua com a banda e nunca o título, e nenhum dos dois pode ligar as duas
-audições.
+*Great Divide* e só dela: o Aurel diz o título e a banda, a Rita continua com a
+banda e **nunca o título**, e nenhum dos dois pode ligar as duas audições.
 
-**É a inversão exata de *O procedimento*.** O Aurel pede música e não tem nome
-para dar — não escolhe uma canção há onze anos —, e a máquina escolhe. A Rita tem
-o nome inteiro, pede, e recebe em menos de um segundo no volume certo. **A que
-foi pedida vale menos que a que caiu da janela**, e nenhuma frase do livro diz
-isso.
+**É o par exato de *O procedimento*, e o eixo é a procedência.** *(Refundado
+depois de o autor decidir que o Aurel escolhe a própria música. A formulação
+anterior era: "o Aurel pede música e não tem nome para dar — não escolhe uma
+canção há onze anos —, e a máquina escolhe". Não restaurar.)* Os dois têm nome, e
+os dois pedem. O do Aurel veio da boca de uma pessoa que morreu, e ele sabe
+exatamente de onde o tirou: um disco de capa amarela, e duas palavras que ela
+dizia antes de pôr. O da Rita veio inteiro, ela o tem sozinha, e **nunca uma vez
+se perguntou de onde** — o registro do cap. 21 recolhe isso sem uma linha nova:
+*acervo biográfico de referência: pacote padrão, revisão 2034*. **Procedência
+contra pacote.**
+
+A Rita recebe em menos de um segundo no volume certo. **A que foi pedida vale
+menos que a que caiu da janela**, e nenhuma frase do livro diz nada disso.
 
 - **Nada responde.** Ela diz o nome numa cozinha vazia e a música começa. Sem
   voz, sem confirmação, sem interface. A máquina de *O procedimento* continua
-  sendo a única que fala com alguém.
+  sendo a única que fala com alguém — e a distinção com ela é fina e vale
+  mantê-la: lá havia uma voz, que tinha acabado de confirmar o nome dele e a data
+  de nascimento, e que **não repete o título**; aqui nunca houve voz nenhuma.
 - **O narrador não nomeia nada**, aqui como em toda parte: os dois nomes que
   existem na página estão na boca dela, e é isso que os mantém dentro do `pov:`.
-- **Ela é a única pessoa do livro que segura um nome de música inteiro** — e
+- **Ela é a única pessoa do livro que segura um nome de música inteiro sem saber
+  de onde o tirou** — o Aurel também tem um nome inteiro, e sabe exatamente de
+  onde: a boca da Ilse e a capa de um disco. Ela não tem nada disso, e
   nunca se perguntou de onde o tirou. Não tem carro, não tem porta-luvas, não tem
   uma pessoa que tenha posto. O registro do cap. 21 já recolhe isso sem uma linha
   nova: *acervo biográfico de referência: pacote padrão, revisão 2034*.
@@ -663,6 +735,17 @@ de vista, e é ele que um capítulo fura sem perceber.
   estivesse errada, **não haveria margem, não haveria página, não haveria
   errata.** Correto e impossível de pegar, pela primeira vez na vida dele, deixam
   de ter relação uma coisa com a outra. (cap. 06)
+- **A música que ele pede, e o único nome que ele tem.** Deitado na mesa, ele pede
+  música e é perguntado qual. A casa põe música todo dia desde 2036, sempre boa, e
+  ele nunca precisou saber o nome de nenhuma — **o nome que ele tem é mais velho
+  que isso, e é um só**: duas palavras que a Ilse dizia antes de pôr um disco de
+  capa amarela, e o nome da banda, que estava escrito na capa daquele disco e que
+  ele **pronuncia como se lê**, porque nunca ouviu ninguém dizer. Ele diz as três
+  palavras em voz alta, **nada confirma**, e a música
+  começa baixo e sobe até um ponto que ele não precisou escolher. **Ele escolheu a
+  música; a máquina escolheu o volume**, e é isso que faz a conta dos onze anos
+  fechar em 2036 no desfile. Não sabe o nome do disco nem o nome de quem canta.
+  (cap. 06, 40)
 - **A Ilse sintética, oferecida em 2039 e recusada.** Não com essas palavras e não
   por um vendedor: uma pergunta educada no fim de outra coisa. **A razão não é
   lealdade nem pudor** — é que para tê-la de volta ele teria de descrevê-la, e
@@ -682,6 +765,14 @@ de vista, e é ele que um capítulo fura sem perceber.
 - **Escolheu o apartamento** em 2011, pela claridade da sala e porque a cozinha
   tinha janela: *cozinha sem janela é um armário onde se cozinha*. Aurel demorou
   a admitir que ela tinha razão.
+- **O disco de capa amarela.** Ela punha. Não tem nome — Aurel não sabe o nome do
+  disco nem o nome de quem canta —, e ele sabe **duas palavras** porque ela as
+  dizia antes de pôr: é o título de *Great Divide*, e é o único nome de música que
+  ele tem. **O nome da banda ele leu na capa**, e é por isso que o pronuncia como
+  se lê. **A música na casa era dela.** O disco ser sem nome é deliberado: é o
+  que mantém a banda fora do Aurel e o que impede o livro de afirmar qualquer
+  coisa sobre a capa de um álbum real. **Uma frase na prosa, e nem uma a mais** —
+  ver *As três exceções declaradas*, exceção 2. (cap. 06)
 
 ### Rita
 
@@ -1279,7 +1370,8 @@ muda) — nesses, a rima tem de sobreviver à diferença de época.
 | **O balcão** | o Vidor dá a volta na mesa em vez de falar por cima dela — **fica** | a Idalina no guichê sete, que já teve um ramal |
 | **O texto igual para todo mundo** | os noventa e quatro mil jornais idênticos — **fica** | a parede bege lisa que a Nina lê; a marca de giz no asfalto; **o painel de senha do Bloco C**, *"a única coisa naquela sala que está escrita igual para todo mundo"*; o aviso impresso no hall do Teodor |
 | **A ferramenta que encerra a discussão sem ninguém falar** | o nível de bolha do Teodor no chão da sala do juiz | o deleatur do Aurel; as três páginas de conta do Krall |
-| **A música, duas procedências** | o Aurel recebe o título e nenhum contexto | a Rita tem o contexto — o porta-luvas, o sotaque, a ordem das faixas — e nunca o título |
+| **A música, e o nome dela** | o Aurel tem o **título e a banda**, e o título é o que se diz para uma máquina tocar uma coisa: ele pede e é servido | a Rita tem **só a banda**, que não serve para pedir nada, e a música dela cai de uma janela sobre ninguém em particular |
+| **A palavra que nenhum dos dois diz certo** | o Aurel pronuncia a banda *como se lê* — leu na capa, e revisor aprende palavra estrangeira pela grafia | a Rita herdou o sotaque inventado da mãe, dentro de um carro. Nenhuma frase aponta para isso |
 | **O chão do corredor como confessionário** | os dois metros e meio mornos do Aurel | o Elias sentado no chão do corredor dele |
 | **Entregar uma coisa a quem só sabe ler metade** | o lápis para a Nina, com quatro centímetros e meio | a caixinha para a Rita |
 
@@ -1770,9 +1862,13 @@ impossível de conseguir. Uma linha por regra.
   prova* foi ele tentar dizer aquilo em voz alta pela primeira vez e a frase não
   continuar. **Nenhuma frase pode datar o problema em 2036 nem a percepção na
   poltrona.**
-- **A última vez que Aurel ouviu um som que não foi escolhido para ele** foi em
+- **A última vez que Aurel ouviu um som que ninguém ajustou para ele** foi em
   2036, quando compraram o sistema. Onze anos. Ele faz essa conta durante os
-  quarenta segundos em que a banda passa.
+  quarenta segundos em que a banda passa. **O eixo é calibragem e não escolha**,
+  e tem de continuar sendo: ele escolhe a música em *O procedimento*, na sexta à
+  tarde, e a máquina escolhe o volume — então a música da sexta falha no teste e
+  2036 continua respondendo. Uma redação em torno de *escolha* faz a conta
+  desabar.
 - **O passo atrás.** Às 10h33 os fiscais pedem recuo porque o bloco seguinte é
   mais largo, em duplas, pela beirada, com quinze metros de antecedência, para
   que o recuo aconteça em onda e não em susto. **Voss avalia a instrução e a
@@ -1823,7 +1919,7 @@ o outro.
 | **Rotação de cuidador piora o atendimento?** | **A literatura de cuidado mede desfecho clínico, e o desfecho clínico não piora em seis semanas.** O que as pessoas querem dizer quando reclamam é outra coisa e não tem instrumento. | É o que torna a mudança de doze para seis semanas genuinamente defensável, e é o que faz Voss concordar de boa-fé com o parágrafo que vai alcançá-lo. Se a redução fosse indefensável, ele seria tolo em vez de íntegro. | 27 |
 | **O parâmetro de doze semanas tem fundamento empírico?** | **Não. Saiu de uma negociação em 2043 — alguém queria dezesseis, alguém queria oito.** | Um critério não é uma verdade descoberta, é uma linha que alguém traçou num dia. Voss estava na sala, sabe disso, e defende a linha assim mesmo, porque enquanto houver linha o que decide é a linha. | 27 |
 | **Como funciona a personalização da parede do mercado?** | **Não se explica, e nunca se explicará.** Nenhum personagem sabe o mecanismo e nenhum acha a coisa notável. | `CLAUDE.md`, *Voz e registro*: descrever a tecnologia pelo que ela faz com alguém, nunca por como funciona. É também o único momento em que o livro chega perto de precisar de tecnobabble, e o jeito de não precisar é não olhar. | 34 |
-| **Uma máquina pode falar com um personagem?** | **Uma vez, em *O procedimento*, e nunca mais.** Decisão do autor, contra a regra que o resto do livro cumpre. | A objeção foi registrada e mantida: o `registro` só funciona porque nada mais no livro tem voz de máquina. O autor decidiu assim mesmo, e a exceção é única, declarada e documentada — o que a torna exceção em vez de erosão. Ver *As duas exceções declaradas*. | 06 |
+| **Uma máquina pode falar com um personagem?** | **Uma vez, em *O procedimento*, e nunca mais.** Decisão do autor, contra a regra que o resto do livro cumpre. | A objeção foi registrada e mantida: o `registro` só funciona porque nada mais no livro tem voz de máquina. O autor decidiu assim mesmo, e a exceção é única, declarada e documentada — o que a torna exceção em vez de erosão. Ver *As três exceções declaradas*. | 06 |
 | **O implante cura a perna?** | **Não, e o livro nunca diz que sim.** No desfile a perna não formiga; o que há é uma sensação de apertado por dentro que ele não consegue chamar nem de melhor nem de pior. | Uma cura no dia seguinte seria tecnologia milagrosa e resolveria alguma coisa, e este livro não resolve nada. O que o procedimento entrega é real, foi de graça, chegou sem ser pedido, **e é ilegível.** Nenhum capítulo pode dizer que ele melhorou. | 06, 40 |
 | **Aurel pediu o procedimento?** | **Não. Foi oferecido, e a data veio pronta.** | É a tese da conveniência aplicada ao personagem que passa o livro inteiro sem tocar na máquina. Aurel recebe sem pedir exatamente o tipo de coisa que Rita não consegue nem sendo ouvida, e **nenhum dos dois sabe da existência do outro**. Nenhum capítulo pode apontar o contraste. | 06 |
 | **A sobreposição é descrita?** | **Sim — decisão do autor, e revoga a regra anterior.** O leitor vê o que está escrito, onde fica no ar, de que tamanho, o que acontece quando alguém anda. O que continua fora é *explicar o princípio* e dar voz a máquina. | A regra antiga transformava a invenção central do livro numa parede em branco, e era a maior causa de o romance não parecer 2047. O custo aceito é envelhecer mais rápido. Ver *A sobreposição*. | 01 em diante |
