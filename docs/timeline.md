@@ -34,7 +34,6 @@ e a correção foi encontrada numa releitura, não por uma ferramenta.
 | 1991–2025 | Aurel nunca mais confere uma lista sozinho. Trinta e quatro anos. Márcio nunca toca no assunto outra vez | Aurel | O revisor |
 | 1994 | O armário de embuia do juiz, e o nível de bolha no chão da sala dele | Teodor | A casa do velho Teodor |
 | 1996 | Aurel e Bendt quase brigam de verdade por causa de um editorial | Aurel | A prova |
-| 1998 | Nadia vai embora para outro continente. Voltará quatro vezes | Anselm, Kasper | A casa dos dois irmãos |
 | 2038 | O transporte vertical do prédio de Teodor é autorizado **só até o meio-andar**. A segunda metade da obra nunca é autorizada, então sobram seis degraus, para sempre, por decisão em formulário. A escada de emergência tem os dezenove | Teodor, Rita | A casa do velho Teodor |
 | 1998 | Morre a mãe do pai de Elias — a quem ele chamará depois da meia-noite, quarenta e oito anos depois | Elias | O ano passado |
 | 2007 | Dona Eszter chega à cidade, aos 46 | Eszter | A casa de quem não queria ser lavada |
@@ -51,7 +50,6 @@ e a correção foi encontrada numa releitura, não por uma ferramenta.
 | 2033 | Um dos irmãos de Voss morre. O outro está bem; a irmã ainda mora em Brenna | Voss | O revisor de exceções |
 | 2035 | Rita começa; quem faz a escala é Selma, por telefone, às sete da noite | Rita | A escala |
 | 2035 | Cria-se o campo de observações do revisor, para uma revisão de metodologia que nunca aconteceu. É a versão que corre no andar | o andar | O rapaz que não podia provar o futuro |
-| 2036 | A casa da mãe de Anselm e Kasper é vendida. Um assina, o outro acha que não devia ser assinada, e os dois não se falam mais | Anselm, Kasper | A casa dos dois irmãos |
 | 2036 | Rita e Elias se conhecem. Desde a primeira semana ela conta as coisas duas vezes | Elias | A paciência |
 | ≈2036 | Ilse morre. Aurel começa a falar sozinho. Dois quartos passam a ficar fechados | Aurel | A prova |
 | 2036 | Compram o sistema da casa. **É a última vez que Aurel ouve um som que não foi escolhido para ele** — a conta que ele fará na pedra fria, onze anos depois | Aurel, sem saber | O desfile — Aurel |
@@ -69,8 +67,6 @@ e a correção foi encontrada numa releitura, não por uma ferramenta.
 | 2043 | Rita ainda não calcula, antes de contar, quanto vai custar contar | Rita, depois | O que ela contava |
 | 2043 | O prédio do seu Vilmar fica sem porteiro | Rita | A casa vazia |
 | 2044 | Numa reunião, Voss diz em voz alta que a exceção é o buraco por onde o favor volta, e se arrepende porque soou duro | Voss | O revisor de exceções |
-| ≈2044 | Nadia marca de estar com os dois irmãos na mesma sala, do jeito que se faz com quem mora longe. Não foi, e nenhum dos dois diz qual foi o que não foi | Anselm, Kasper, depois Rita | A casa dos dois irmãos |
-| 2044 | Kasper tem um princípio de alguma coisa e fica com medo, e o medo vira a doença principal | Kasper, Rita | A casa dos dois irmãos |
 | 2045 | Voss recusa a mesa da janela pela segunda vez | o andar | O revisor de exceções |
 | 2045-10 | O pai de Elias adoece. Sete meses. As piores horas entre três e cinco | Elias | O ano passado |
 | ≈2046-08 | Teodor tem o AVC. A mão esquerda não abre mais que dois terços, e ele passa a escondê-la embaixo do tampo | Teodor, Rita | A casa do velho Teodor |
@@ -103,16 +99,16 @@ fecha no Dia da Fundação.
 | 10-14, segunda, manhã | Voss fecha quarenta e um casos antes do almoço; a meta é trinta e cinco. Entre eles, às 10h44, um pedido de jurisdição estrangeira com o formulário idêntico — mesmo cabeçalho, mesmos quarenta dias úteis. Ele vê uns dois por mês e não acha notável | Voss | A fila da manhã |
 | 10-14, segunda, 9h33 | O pedido de Teodor — manutenção da cuidadora designada, matrícula 88-2214 — é indeferido em quatro linhas. Correto: vínculo não é critério. **Rita nunca fica sabendo que o pedido existiu** | Voss | Quatro linhas |
 | 10-14, segunda, noite | Elias procura o dia em que escolheu, mês a mês, e não há dia. Não foi traído: foi ocupado | Elias | O ano passado |
-| 10-15, terça, manhã | Rita entrega a Anselm um recado que Kasper não pediu que entregasse, e não dá certo. Nadia acredita nos dois e não há quem desempate | Rita | A casa dos dois irmãos |
 | 10-15, terça | Voss indefere o rapaz de dezenove anos que não tem como provar o que não vai acontecer. Enuncia a impossibilidade com precisão total e indefere assim mesmo — e depois escreve no campo de observações pela primeira vez em anos | Voss | O rapaz que não podia provar o futuro |
 | 10-16, quarta, 10h | Conferência trimestral: 0,4 de reversão contra média de 2,1. Voss explica que a métrica não mede acerto e **é elogiado por ter explicado**. Brann pede a nota de duas páginas, na frente de onze pessoas, como elogio — e era elogio | Voss | A conferência |
-| 10-16, quarta, noite | Rita conta a história dos dois irmãos pela segunda vez. Elias sente atrito na altura da mandíbula, entende que foi treinado, decide carregar sozinho, e entra no quarto dos fundos | Elias | A paciência |
+| 10-16, quarta, noite | Rita conta a história das três palavras da dona Eszter pela segunda vez, e desta vez termina. Elias sente atrito na altura da mandíbula, entende que foi treinado, decide carregar sozinho, e entra no quarto dos fundos | Elias | A paciência |
 | 10-17, quinta, 7h10 | Rita chega e o seu Vilmar não está. O turno foi cancelado às 7h04, o código da porta ainda funciona, e não existe protocolo para *eu quero saber* | Rita | A casa vazia |
 | 10-17, quinta, 8h40–10h52 | Voss lê as nove páginas da consulta sobre o parâmetro de continuidade de vínculo e assina o parecer 0912/47 às 10h52, de acordo com a redução de doze para seis semanas, registrando que o doze era convenção | Voss | O critério muda |
 | 10-17, quinta, 9h50–11h51 | Rita tira a senha G-114, é ouvida por Idalina, que digita tudo em quatro minutos, e é indeferida em dezenove. Sai sem raiva, com o prazo de quarenta dias úteis, e **isso é o que a assusta** | Rita | O indeferimento |
 | 10-17, quinta, tarde | Voss indefere quatro revisões de alocação, uma delas a de Rita, e leva dezenove minutos numa delas porque a alegação era longa e ele leu inteira | Voss | O critério muda |
 | 10-17, quinta, 16h20 | Nina na cozinha do avô. O deleatur, o *de* repetido, as quatro palavras feias riscadas, o lápis de quatro centímetros e meio — e **"tipo o desfile"**, que ela não sabe que resolveu | Aurel / Nina | A neta que vem às quintas; Quinta-feira |
 | 10-17, quinta, 17h35 | Na calçada, Rita devolve o livro que Voss esqueceu na balaustrada e diz *imagina*. Ela não faz ideia de quem ele é. Ele vê o papel dobrado em três com o prefixo G e passa a noite sem conseguir enquadrar | Voss | A gentileza |
+| 10-17, quinta, noite | Rita chega com duas coisas para contar e não conta nenhuma. Senta na cozinha sem estar fazendo nada, diz o nome de uma música em voz alta, e a música toca em menos de um segundo no volume certo. Tira o fone antes de acabar | Rita | A música que ela pediu |
 | 10-18, sexta, 0h01 | Entra a comunicação 4415-P — redistribuição de carteira de Voss, fundamentada no parecer 0912/47 | — | O critério o alcança |
 | 10-18, sexta, manhã | As grades já estão até a esquina da Vetten. Mira liga às 10h20 e Aurel diz que vai ao desfile — não pelo desfile, e sim por quatro palavras ditas na véspera | Aurel | O inventário |
 | 10-18, sexta, manhã | O crachá de Voss não abre o oitavo andar. Ele confere o enquadramento, o fundamento e a citação, e tudo está correto. A nota das duas páginas foi anexada como Anexo II: ele mesmo forneceu a prova | Voss | O critério o alcança |

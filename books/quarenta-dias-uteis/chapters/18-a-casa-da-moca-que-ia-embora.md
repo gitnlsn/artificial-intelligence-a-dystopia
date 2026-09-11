@@ -16,7 +16,6 @@ threads:
 cast:
 - rita
 - juno
-sources: nenhuma
 status: draft
 ---
 A Juno tem vinte e seis anos, um fixador externo na perna direita e uma
@@ -68,8 +67,9 @@ banquinho, e o resto é presença.
 Presença é o que está na escala como *apoio*.
 
 Na prática significa três horas de pé, porque a Rita não senta em casa de cliente
-— não é regra de lugar nenhum, é dela, e são doze anos assim, e no fim do dia ela
-não sente as três horas mais do que sente as outras. Três horas num quarto e sala
+— não é regra de lugar nenhum, é dela, e são doze anos assim, e ela nunca uma vez
+teve vontade de quebrar, e no fim do dia ela não sente as três horas mais do que
+sente as outras. Três horas num quarto e sala
 com uma mulher
 de vinte e seis anos que não pode sair, e que se ela ficar calada a mulher
 enlouquece.
@@ -209,8 +209,7 @@ tinha o banho.
 
 No 12, indo para a segunda casa, ela ficou com aquilo.
 
-Não com pena de si mesma. Ela não faz isso, tem horror de fazer isso, e além do
-mais era sexta e ela estava com fome.
+Não com pena de si mesma. Ela não faz isso e tem horror de fazer isso.
 
 O que ficou foi menor e mais estranho: fazia uns quinze anos que ninguém
 perguntava a ela o que ela queria ser.

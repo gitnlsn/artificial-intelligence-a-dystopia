@@ -5,11 +5,9 @@ title_en: The Music From Far Off
 pov: Rita
 when: 2047-10-11 — sexta, de manhã
 where: uma calçada em Kalden, esperando alocação
-premise: parada na rua sem turno, ela escuta uma música que vem de uma janela
-  alta; ninguém escolheu mandar aquilo para ela, e faz meses que nada chega
-  assim.
-turn: percebe que não ficava parada há meses, e que a parada não foi escolha
-  dela.
+premise: parada na rua sem turno, ela escuta uma música que vem de uma janela alta;
+  ninguém escolheu mandar aquilo para ela, e faz meses que nada chega assim.
+turn: percebe que não ficava parada há meses, e que a parada não foi escolha dela.
 threads:
 - fio-do-turno
 seeds:
@@ -107,8 +105,9 @@ Rita ficou.
 ---
 
 Antes vinha três, quatro por dia. Ela sabe a semana exata em que começou a cair
-porque anotava — anotava num caderninho, à mão, no começo, e depois parou de
-anotar porque anotar deixava a coisa muito visível.
+porque anotava — anotava num caderninho, à mão, no começo, porque uma coisa
+escrita à mão é o único registro dela que não está também em outro lugar, e
+depois parou de anotar porque anotar deixava a coisa muito visível.
 
 Ninguém disse nada a ela. Ela já tentou explicar isso para umas três pessoas e
 nunca conseguiu: **ninguém disse nada.** Não houve
@@ -120,7 +119,8 @@ Simplesmente vem menos.
 
 E aí você começa a fazer o que ela faz, que é montar teorias sozinha embaixo de
 um toldo às sete e meia da manhã. Que talvez seja porque ela recusou dois turnos
-em julho, e recusou porque estava com trinta e nove de febre. Que talvez seja o
+em julho, e recusou porque naquela semana a mão esquerda não fechava direito e
+não dá para segurar o braço de ninguém com uma mão que não fecha. Que talvez seja o
 endereço. Que talvez seja porque ela demora mais, e ela demora mesmo, ela demora
 porque conversa, e conversar não conta em lugar nenhum.
 
@@ -221,8 +221,8 @@ Ela estava parada havia uma hora e vinte minutos.
 Não *esperando* — parada. Sem andar, sem carregar ninguém, sem estar a caminho
 de lugar nenhum, com o corpo num lugar só. Ela ficou fazendo a conta de quando
 tinha sido a última vez e a conta não fechava, porque em casa ela senta mas em
-casa ela senta *fazendo alguma coisa*, e no ônibus ela vai sentada mas indo, e
-domingo ela dorme, e dormir não é isso.
+casa ela senta *fazendo alguma coisa*, e no ônibus ela vai sentada mas indo, e no
+domingo sem turno ela fica em casa, e ficar em casa não é isso.
 
 Meses. Talvez desde o começo do ano.
 

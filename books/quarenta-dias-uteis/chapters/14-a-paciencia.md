@@ -5,10 +5,9 @@ title_en: Patience
 pov: Elias
 when: 2047-10-16 — quarta, à noite
 where: a cozinha
-premise: ele percebe que perdeu a paciência para a imperfeição dela, tem
-  vergonha disso, e não faz nada — vergonha não é ação.
-turn: >-
-  escolhe o cômodo dos fundos sabendo exatamente o que está escolhendo, e sabendo
+premise: ele percebe que perdeu a paciência para a imperfeição dela, tem vergonha
+  disso, e não faz nada — vergonha não é ação.
+turn: escolhe o cômodo dos fundos sabendo exatamente o que está escolhendo, e sabendo
   por quê — é a conta do ano do pai chegando.
 threads:
 - fio-da-companhia
@@ -17,14 +16,14 @@ pays:
 cast:
 - elias
 - rita
-sources: nenhuma
 status: draft
 ---
-Ela contou a história dos dois irmãos duas vezes.
+Ela contou a história das três palavras duas vezes.
 
-A primeira foi na terça, chegando, ainda com o casaco, de pé na cozinha, e foi
-boa — ela contou bem, com a parte da irmã que acredita nos dois, e o Elias achou
-aquilo genuinamente extraordinário e disse que era.
+A primeira foi no domingo, depois do jantar, na sala, e foi boa — ela contou bem,
+com a parte da mãe que mandava contar até dez, e o Elias achou aquilo
+genuinamente extraordinário e disse que era. Depois ele perguntou uma coisa e ela
+não respondeu, e ele não insistiu, e a noite acabou ali.
 
 A segunda foi na quarta.
 
@@ -32,10 +31,10 @@ A segunda foi na quarta.
 
 Ele percebeu no terceiro minuto.
 
-Ela estava com o prato na mão, encostada na bancada, e disse *sabe os dois irmãos
-do sobrado?*, e ele disse *sei*, e ela continuou, e ele entendeu, com uma
-clareza desagradável, que ela ia contar de novo. Não uma parte nova. A história.
-Desde a assinatura de 2036.
+Ela estava com o prato na mão, encostada na bancada, e disse *sabe a dona
+Eszter?*, e ele disse *sei*, e ela continuou, e ele entendeu, com uma clareza
+desagradável, que ela ia contar de novo. Não o resto que tinha faltado no
+domingo. A história. Desde a bacia de água quente.
 
 E ele sentiu uma coisa no corpo.
 
@@ -65,10 +64,12 @@ Quer dizer: ele disse *hum* na hora certa e *nossa* na hora certa, e no fim ele
 disse que era triste, e era. Não interrompeu. Não olhou para o lado. Não fez
 nenhuma das coisas que ele teria notado se tivessem feito com ele.
 
-Ela contou a história inteira, sete minutos, e a segunda versão tinha mesmo uma
-coisa que a primeira não tinha — ela tinha achado, no meio da semana, que talvez o
-Anselm estivesse certo, e ficou remoendo isso, e essa parte era nova e era a
-melhor parte.
+Ela contou a história inteira, sete minutos, e a
+segunda versão tinha mesmo uma coisa que a primeira não tinha — ela tinha achado,
+no meio da semana, que a velha não conta até três quando está com raiva: conta na
+hora em que está quase cedendo, para ter o que fazer com os segundos enquanto
+decide. Quatro anos ouvindo aquilo e achando que era raiva. Essa parte era nova e
+era a melhor parte.
 
 Ele ouviu a melhor parte pensando em quanto tempo faltava.
 
@@ -119,9 +120,9 @@ Rita é a pessoa mais interessante que ele já conheceu.
 E tem a parte que ele não deixou formar e que formou assim mesmo, de pé ali na
 bancada: ela não tinha esquecido.
 
-Ela sabia perfeitamente que tinha contado na terça. Contou de novo porque a
-segunda vez acha coisa, e achou — a parte de o Anselm talvez estar certo, que era
-a melhor parte da noite e que ele ouviu fazendo conta de quanto faltava.
+Ela sabia perfeitamente que tinha contado no domingo. Contou de novo porque a
+segunda vez acha coisa, e achou — a parte dos segundos enquanto decide, que era a
+melhor parte da noite e que ele ouviu fazendo conta de quanto faltava.
 
 Ninguém conta uma coisa duas vezes de propósito por descuido.
 

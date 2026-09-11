@@ -14,7 +14,6 @@ threads:
 - fio-do-desfile
 cast:
 - rita
-sources: nenhuma
 status: draft
 ---
 Ela devia ter ido para casa.

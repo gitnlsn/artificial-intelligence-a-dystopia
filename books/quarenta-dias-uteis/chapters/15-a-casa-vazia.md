@@ -5,18 +5,16 @@ title_en: The Empty House
 pov: Rita
 when: 2047-10-17 — quinta, primeiro turno
 where: um apartamento em Brenna
-premise: ela chega para o turno e não há mais ninguém para cuidar. O turno foi
-  cancelado no sistema quarenta minutos antes e ninguém achou necessário dizer
-  por quê.
-turn: ela arruma a casa mesmo assim, e não é bondade — é não saber o que fazer
-  com o corpo.
+premise: ela chega para o turno e não há mais ninguém para cuidar. O turno foi cancelado
+  no sistema quarenta minutos antes e ninguém achou necessário dizer por quê.
+turn: ela arruma a casa mesmo assim, e não é bondade — é não saber o que fazer com
+  o corpo.
 threads:
 - fio-do-turno
 - fio-das-casas
 cast:
 - rita
 - vilmar
-sources: nenhuma
 status: draft
 ---
 O código da porta ainda funcionava.
@@ -166,6 +164,9 @@ Depois passou o pano na bancada.
 
 Às oito e quarenta ela estava em pé na cozinha com o pano na mão e a bancada já
 seca.
+
+Ficou assim um tempo, e não foi desconfortável. Ficar parada nunca lhe custou
+nada, e é por isso que a coisa demorou a ter nome.
 
 E foi aí que ela parou.
 

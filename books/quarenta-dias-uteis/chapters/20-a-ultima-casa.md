@@ -5,12 +5,11 @@ title_en: The Last House
 pov: Rita
 when: 2047-10-19 — sábado, sete da manhã
 where: de volta a Marvik, casa de Teodor
-premise: o turno dela na casa de Teodor é o último. A alocação mudou de mãos e
-  ninguém avisou nenhum dos dois — só que ele foi avisado, porque foi ele quem
-  pediu, e ela não sabe que existiu pedido nenhum. Ele se despede sabendo. Ela
-  não.
-turn: ela aceita uma coisa que ele fez com as mãos, sem entender por quê, e na
-  escada sente uma coisa que não sabe nomear.
+premise: o turno dela na casa de Teodor é o último. A alocação mudou de mãos e ninguém
+  avisou nenhum dos dois — só que ele foi avisado, porque foi ele quem pediu, e
+  ela não sabe que existiu pedido nenhum. Ele se despede sabendo. Ela não.
+turn: ela aceita uma coisa que ele fez com as mãos, sem entender por quê, e na escada
+  sente uma coisa que não sabe nomear.
 threads:
 - fio-do-turno
 - fio-das-casas
@@ -19,7 +18,6 @@ pays:
 cast:
 - rita
 - teodor
-sources: nenhuma
 status: draft
 ---
 O turno tinha virado para as sete.

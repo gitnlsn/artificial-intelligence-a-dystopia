@@ -334,6 +334,28 @@ character holds the whole name, so nobody in the book can connect the two
 hearings; the reader who knows the record joins the halves, and the reader who
 does not loses nothing.
 
+**A third song, and it is the author's decision.** Part II gained a chapter,
+*A música que ela pediu*, in which Rita — alone in the kitchen on a Thursday
+night — says a title and a singer **out loud** and the music plays: *Better*,
+Regina Spektor. **This does not touch the two-halves rule**, which belongs to
+*Great Divide* alone and is what keeps Aurel and Rita from ever connecting their
+two hearings. *Better* is a different song, heard by one person, and the whole
+point is that she holds the **whole** name — and has never once asked herself
+where she got it. The reader who reaches the registro in *Ela fica quieta* finds
+*acervo biográfico de referência: pacote padrão, revisão 2034* waiting, and no
+line was added to it.
+
+It is the **exact inversion of *O procedimento***: Aurel asks for music and has no
+name to give, so the machine chooses; Rita has the whole name, asks, and it
+arrives in under a second at the right volume — and it is worth less than the one
+that fell out of a window. Nothing responds to her; the machine in *O
+procedimento* is still the only one that speaks. The narrator names nothing,
+here as everywhere: both names are in her mouth.
+
+Part II therefore has **three musics and she chose none of them** — the one that
+fell from a window, the one she asked for by name, and the band, which is too
+loud to be sent to anyone. **No chapter compares the three.**
+
 That is deliberate. A song everyone knows would hand the reader a shared
 reference back, which is the exact consolation Part I says is gone. Unnamed, the
 ending is about **presence** rather than recognition — people hearing the same

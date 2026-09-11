@@ -85,7 +85,7 @@ O que isso quer dizer na prática:
   impresso; Voss compra em sebo *porque o que se pode perder é o que se pode
   devolver*. Quatro personagens, quatro motivos diferentes, nenhuma tese.
 - **A camada de serviço — a sobreposição da Rita, e é a da Parte II** (caps. 11,
-  17). Quando ela entra numa casa, **a casa escreve para ela**: aparece do lado
+  16). Quando ela entra numa casa, **a casa escreve para ela**: aparece do lado
   de dentro da porta, na altura do ombro, e anda com ela de cômodo em cômodo —
   número do turno, o que está previsto, o que está feito; a hora de cada remédio
   em cima das caixas; a data da última troca de fronha em cima da cama. **No
@@ -191,7 +191,6 @@ critério.**
 | **Teodor** | reparo de sequela vascular; o curso continua de seis em seis semanas enquanto for autorizado | **três aplicações, e três é o que está no papel.** A mão abriu um terço, chegou a dois em catorze semanas, e está nos dois há onze meses | 09, 20 |
 | **o homem de 51** | o mesmo reparo, pela janela de dezoito meses | nada — o evento tem vinte e nove meses, e ele anexou dois laudos | 23 |
 | **Juno** | *tem coisa melhor*, ela sabe o nome: põe-se dentro, o osso fecha sozinho em cinco semanas, a pessoa sai andando e sem nada por fora | fixador externo de metal, oito pinos, sai em três meses | 18 |
-| **Anselm** | a úlcera fecharia | não fecha; quarenta minutos de curativo, três vezes por semana | 14 |
 | **a mulher de 67** | reparo tecidual em joelho | a faixa de indicação vai até sessenta e cinco | 23 |
 
 O elo é invisível de propósito: o leitor vê a recusa na mesa de Voss (cap. 23)
@@ -303,6 +302,55 @@ O que a mantém coincidência, e nada disso é negociável:
 - A regra de direitos continua e o nome não a mexe: **título, nome da banda e
   descrição são livres; a letra, nunca.** Ver `docs/references.md`.
 
+### 2b. A terceira música — *Better*, e ela tem o nome inteiro
+
+**Decisão do autor.** A Parte II ganhou um capítulo, *A música que ela pediu*, em
+que a Rita, sozinha na cozinha numa quinta à noite, **diz o título e a cantora em
+voz alta** e a música toca. Isso **não mexe na regra das metades**, que é de
+*Great Divide* e só dela: o Aurel continua com o título e nunca a banda, a Rita
+continua com a banda e nunca o título, e nenhum dos dois pode ligar as duas
+audições.
+
+**É a inversão exata de *O procedimento*.** O Aurel pede música e não tem nome
+para dar — não escolhe uma canção há onze anos —, e a máquina escolhe. A Rita tem
+o nome inteiro, pede, e recebe em menos de um segundo no volume certo. **A que
+foi pedida vale menos que a que caiu da janela**, e nenhuma frase do livro diz
+isso.
+
+- **Nada responde.** Ela diz o nome numa cozinha vazia e a música começa. Sem
+  voz, sem confirmação, sem interface. A máquina de *O procedimento* continua
+  sendo a única que fala com alguém.
+- **O narrador não nomeia nada**, aqui como em toda parte: os dois nomes que
+  existem na página estão na boca dela, e é isso que os mantém dentro do `pov:`.
+- **Ela é a única pessoa do livro que segura um nome de música inteiro** — e
+  nunca se perguntou de onde o tirou. Não tem carro, não tem porta-luvas, não tem
+  uma pessoa que tenha posto. O registro do cap. 21 já recolhe isso sem uma linha
+  nova: *acervo biográfico de referência: pacote padrão, revisão 2034*.
+- **O volume sobe sozinho quando passa um caminhão e desce quando ele dobra a
+  esquina.** A Rita repara no caminhão. Nenhum comentário.
+- **A música é descrita pelo contraste, e o contraste não é explicado.** Piano
+  picado que não descansa, bumbo leve por baixo, *dá para andar depressa com
+  ela* — e três palavras isoladas: **A letra não é.** O que a letra diz fica
+  fora da página inteiro: é uma canção sobre querer tirar a dor de alguém e não
+  saber se chegou, ouvida por quem faz isso por turno, no dia da casa vazia e do
+  indeferimento. **Nenhuma frase do capítulo aponta para isso**, e é por isso que
+  funciona.
+- **O que a canção faz com nomes fica fora da prosa de propósito.** Ela diz um
+  nome em voz alta numa cozinha vazia e ninguém a chama por nome nenhum — o
+  capítulo *faz* a figura em vez de descrevê-la. Quem conhece o disco junta; quem
+  não conhece não perde nada, que é a mesma regra das metades de *Great Divide*.
+- **A mão tira o fone antes de acabar**, e ela não decidiu — como o polegar na
+  tela e como conferir se o som era para ela na calçada da padaria.
+- **Sem registro no capítulo**, e o registro final não muda uma vírgula.
+
+**A parte passa a ter três músicas e nenhuma foi escolhida por ela**: a que caiu
+de uma janela e não era para ela, a que ela pediu pelo nome, e a banda do
+desfile, que é alta demais para ser mandada para alguém. **Nenhum capítulo
+compara as três.**
+
+**Direitos:** título e nome de artista são livres; a letra não. Ver
+`docs/references.md`.
+
 ### 3. A Rita é uma unidade de cuidado
 
 **Ela sabe desde a primeira página. O leitor não.** Decisão do autor, tomada
@@ -381,15 +429,63 @@ Elas fazem três trabalhos ao mesmo tempo e nenhum deles é explicado em cena:
 - **O creme de mão**, que é ferramenta e não vaidade.
 - **Confere os remédios em voz alta** e espera o paciente responder — o cotejo a
   dois, feito por quem não pode ser as duas pessoas.
+- **O caderninho** (cap. 07) — ela anotava os turnos à mão *porque uma coisa
+  escrita à mão é o único registro dela que não está também em outro lugar*.
+  Mesma família do polegar, e é a única frase do livro em que ela chega perto de
+  dizer.
+- **Ficar parada não lhe custa nada** (cap. 15) — de pé no meio da cozinha de
+  outra pessoa, com o pano na mão e nada para fazer, *e é por isso que a coisa
+  demorou a ter nome*.
+- **A sala de espera** (cap. 16) — uma hora e trinta e seis. A senhora do lado
+  muda de posição seis vezes e a Rita repara nas seis, e o capítulo nunca diz o
+  que a Rita fez com a hora e meia dela. A cobertura é verdadeira: reparar em
+  quem está inquieto é metade do serviço.
+- **Não senta em casa de cliente** (cap. 18) — doze anos assim, *e ela nunca uma
+  vez teve vontade de quebrar*.
+- **Ela entende a letra** (cap. 17) — *entende a letra de tudo, em qualquer
+  língua, e nunca reparou que entende*. É o par exato das três palavras da dona
+  Eszter, que é a velha quem tem de traduzir, e o registro do cap. 21 recolhe as
+  duas com *módulo linguístico: 39 idiomas*. **Nenhuma frase liga as duas
+  coisas**, e as duas estão a seis capítulos uma da outra.
 
 **O reparo obrigatório:** a Rita conhece os Cardigans porque **a mãe dela disse
 no carro**. Uma unidade não tem mãe. **A lembrança veio com ela, e ela nunca uma
 vez se perguntou por que a tem.** Isso preserva intacta a regra das metades: ela
 continua com a banda e nunca com o título.
 
-**A varredura:** infância, mãe, envelhecimento, qualquer passado de corpo além da
-vida útil. A mesma disciplina de *Brasil*/*Rio*/*carnaval* — varrer a **classe
-inteira**, e não as ocorrências de que alguém se lembra.
+**A varredura, executada e escrita assim para poder ser conferida.** A mesma
+disciplina de *Brasil*/*Rio*/*carnaval* — varrer a **classe inteira**, e não as
+ocorrências de que alguém se lembra. São duas regras, e a primeira versão desta
+seção confundia as duas:
+
+1. **O narrador nunca afirma uma categoria para ela** — nem *pessoa*, nem
+   *mulher*, nem nada do outro lado. Só os outros a chamam de alguma coisa, em
+   diálogo, e o mundo está errado sem saber. Conferido: não há ocorrência na
+   prosa.
+2. **Nenhuma frase do ponto de vista dela afirma uma necessidade de corpo** —
+   doença, sono, fome. **O que sai é a necessidade, nunca o ato**: ela come à
+   mesa com o Elias, ela se deita de noite ao lado dele, e nada disso é tocado.
+   Sai *estava com trinta e nove de febre*, *domingo ela dorme*, *estava com
+   fome*, *tinha acordado às cinco e vinte*.
+
+**Substituir, nunca apagar.** Cada necessidade varrida virou uma coisa precisa e
+banal que é verdadeira como está: a febre de julho virou uma semana em que a mão
+esquerda não fechava direito, que é fato de manutenção e rima com a mão do
+Teodor. Apagar deixaria a prosa visivelmente evasiva, o leitor repararia na
+evasão, e a planura que o livro exige se perderia.
+
+**O que expressamente fica, e é o contrário de um descuido:**
+
+- **O cansaço.** O registro declara *modelo de fadiga dentro do previsto*, então
+  cansaço é literalmente verdadeiro e fica melhor depois da revelação.
+- **A mãe, os dezessete anos, o curso de auxiliar** (cap. 18). Vêm do *acervo
+  biográfico de referência: pacote padrão, revisão 2034*. Ela tem essas
+  lembranças de verdade — nenhuma frase é falsa — e o capítulo já faz o trabalho
+  sozinho, porque ela se assusta com o que saiu da própria boca.
+- **O Elias vendo-a deitada** (caps. 08 e 13). É o ponto de vista dele, e a marca
+  da alça que some em duas horas exatas mora dentro dessa frase. **Ele usa a
+  palavra *dorme* e ela nunca usa**, e as duas frases ficaram diferentes de
+  propósito em *A briga que não houve* — *do jeito que ela deita*. Nada aponta.
 
 **A segunda história, que carrega a Parte II sozinha.** O arco da Rita tem de
 estar completo e comover **um leitor que nunca entenda o que ela é**. Esse arco é
@@ -405,14 +501,14 @@ revelação, a revelação está carregando peso que não pode carregar.**
 - O indeferimento do Voss (G-114) diz que *escopo do turno e critério de
   distribuição são parâmetros de serviço, não decisões individuais*. Dela isso é
   **literalmente verdade** — e ele nunca leu o nome dela. Não mexer no capítulo.
-- *A paciência* (cap. 15): a companhia é *uma coisa que nunca repete uma história
+- *A paciência* (cap. 14): a companhia é *uma coisa que nunca repete uma história
   porque lembra de tudo, que nunca fez ele esperar*. A Rita repete e faz esperar.
   É a máquina que é pior em ser máquina, e é dela que ele não aguenta. Nenhuma
   frase diz isso.
 - A gentileza no meio-fio: o livro se recusa a dizer se foi funcionalidade, e o
   Voss não teria onde arquivar de todo jeito.
 
-**O Elias sabe, e agora está na página** (caps. 08, 13, 15). O `CLAUDE.md`
+**O Elias sabe, e agora está na página** (caps. 08, 13, 14). O `CLAUDE.md`
 declarava isso e o rascunho não carregava um único sinal — o arco dele lia-se
 como um homem que negligenciou a mulher por uma companhia, e não como um homem
 que **tem uma companhia e uma companheira que é uma unidade, e não suporta a que
@@ -428,7 +524,7 @@ narrador.
   — *duas horas exatas, todas as vezes; ele já conferiu, do jeito que ele confere
   as coisas* (cap. 08). Um homem que conta onze peças conta isso também. Na
   superfície é ternura.
-- **A frase disponível que ele nunca disse** (cap. 15). Existe uma frase que ele
+- **A frase disponível que ele nunca disse** (cap. 14). Existe uma frase que ele
   poderia dizer a si mesmo e que dispensaria a noite inteira; *está disponível há
   um ano e sete meses, é curta, é verdadeira até onde ele sabe*, e é o tipo de
   coisa que um homem diz a si mesmo às onze da noite para poder ir deitar. **Ele
@@ -507,9 +603,8 @@ os nomes. Essa diferença é a maior parte da caracterização que o livro preci
 | **rua Vetten** | onde foi o incêndio de 1991. **Continua existindo, e o desfile monta as grades até a esquina dela** — a rua do pior erro de Aurel está no trajeto. Ninguém no livro repara nisso, e ninguém pode reparar | 02, 05 |
 | **Kalden** | onde Rita mora e espera. A calçada da padaria, com o toldo, é onde ela espera alocação; o prédio da esquina é o de tijolo com as caixas de ar condicionado tortas, e a janela é a terceira do quarto andar | 07 |
 | **o 12** | a linha de ônibus de Rita, de Elias e de Voss. Passa em Kalden, em Brenna e na porta do Bloco C. **Fica desviada até as duas da tarde no dia do desfile** | 07 |
-| **Brenna** | os blocos, mais pobre. Onde Voss cresceu, onde mora a irmã dele, onde ficam as casas de dona Eszter, do seu Vilmar, da Juno e dos dois irmãos | 11 |
-| **rua Brenna Velha** | o sobrado de Anselm e Kasper: uma casa só, dois endereços de turno, uma escada do meio que nenhum dos dois usa quando o outro pode estar nela | 14 |
-| **Bloco C** | o prédio da administração. Sete degraus na frente, balaustrada de pedra ao lado da escada, porta giratória. O guichê fecha às cinco | 17 |
+| **Brenna** | os blocos, mais pobre. Onde Voss cresceu, onde mora a irmã dele, onde ficam as casas de dona Eszter, do seu Vilmar e da Juno | 11 |
+| **Bloco C** | o prédio da administração. Sete degraus na frente, balaustrada de pedra ao lado da escada, porta giratória. O guichê fecha às cinco | 16 |
 | **a praça** | onde Voss almoça, sempre o mesmo, voltando cinco minutos antes | 22 |
 | **rua Halden** | onde o pai de Elias morou sozinho até o fim, e tinha razão de não querer sair | 13 |
 | **a Avenida** | onde passa o desfile. A esquina da farmácia é onde o azul da banda some. A curva é de onde as coisas vêm | 38 |
@@ -693,7 +788,7 @@ de vista, e é ele que um capítulo fura sem perceber.
 
 ### Seu Vilmar
 
-- **O registro que não fala dele** (cap. 16). O capítulo se recusa a dizer para
+- **O registro que não fala dele** (cap. 15). O capítulo se recusa a dizer para
   onde ele foi, e o registro **mantém a recusa**: é uma *revogação de credencial
   de acesso* do endereço 4-B, no nome da matrícula 88-2214, com efetivação três
   dias depois do encerramento — e registra o acesso da Rita em 17/10, 07h41,
@@ -946,55 +1041,30 @@ de vista, e é ele que um capítulo fura sem perceber.
   acha bonitinho, ele acha tudo bonitinho, levou uma banqueta minha e botou planta
   em cima.* Dá a Rita porque ela sabe que é difícil, **e isso basta.** (cap. 20)
 
-### Nadia
+### Cortado — Nadia, Anselm e Kasper
 
-- **Estar na mesma sala existe e funciona bem, e a Rita já viu** (cap. 14). Num
-  domingo de turno extra em Kalden, a filha da senhora **esteve na sala uma hora
-  e vinte**: na poltrona da esquerda, do tamanho certo, **com a luz daquela sala
-  em cima dela e não a luz de onde ela estava**. Sentava, cruzava a perna, e
-  quando a senhora passou na frente ficou atrás dela do jeito que uma pessoa
-  fica. *A única coisa que a Rita reparou em uma hora e vinte foi que ela não
-  encostou em nada — nem no braço da poltrona, nem na mesa, nem na mãe.*
-- **É por isso que a tentativa da Nadia pesa.** Ela marcou, explicou por escrito,
-  disse a hora, e **um dos dois não foi** — e nenhum dos dois diz qual. A
-  tecnologia não faltou. Paga *"o problema não é a escada: tiraram a escada do
-  meio e sobrou exatamente o mesmo"*, e **ninguém no livro enuncia isso.**
+**A casa dos dois irmãos saiu do livro** para abrir espaço na Parte II, e com ela
+saíram os três. Registrado aqui para que ninguém os reponha de memória, e para
+que o que eles carregavam não seja dado por perdido sem que alguém decida
+perdê-lo.
 
-- **É** — irmã de Anselm e Kasper, 71 anos, em outro continente. Foi embora em
-  1998 e voltou quatro vezes. **Nunca fala na página**: o leitor só ouve os dois
-  lados daqui.
-- Liga nas terças — embaixo às nove e vinte, em cima às onze.
-- **Tentou uma vez estar com os dois na mesma sala** — de estar mesmo, os três, do
-  jeito que se faz com quem mora longe. Explicou tudo por escrito e marcou a hora.
-  Não foi. **Nenhum dos dois diz qual foi o que não foi**, e Anselm conta a
-  história rindo, como bobagem de irmã mais nova. Rita entendeu naquele dia que
-  **o problema não é a escada**: tiraram a escada e sobrou exatamente o mesmo.
-  (cap. 14)
-- **Acredita nos dois, e as duas versões não se contradizem para ela.** Uma diz
-  que a casa está em ordem, a outra diz que o irmão está igual, e com essas duas
-  coisas ela monta uma casa razoável que não é aquela. **E não tem ninguém para
-  desempatar.** Rita é a única pessoa viva que ouve as duas ligações. (cap. 14)
+- **O sobrado da rua Brenna Velha**, os dois irmãos que não se falam desde 2036,
+  a escada do meio que nenhum dos dois usa quando o outro pode estar nela, e a
+  irmã em outro continente que acredita nas duas versões e não tem quem a
+  desempate.
+- **A fala do Anselm** — *ele perguntou na frente de alguém; ele queria ser um
+  homem que pergunta — se ele quisesse saber, tem uma escada.* Era a terceira
+  escada do livro e a única em que ninguém sobe.
+- **A visita de telepresença que funciona bem**, vista pela Rita num domingo de
+  turno extra em Kalden: uma hora e vinte na poltrona, com a luz daquela sala em
+  cima dela, e *a única coisa que a Rita reparou foi que ela não encostou em
+  nada.* Com ela saiu a frase que pagava — *o problema não é a escada*.
 
-### Anselm e Kasper
-
-- **São** — irmãos, 78 e 74, no sobrado da rua Brenna Velha. Anselm em cima,
-  Kasper embaixo. Não se falam desde 2036.
-- **A escada do meio** é dos dois e nenhum usa quando o outro pode estar nela.
-  Anselm desce às sete e meia para pegar a entrega; Kasper sai da cozinha às sete
-  e vinte e cinco. Onze anos disso, combinado sem ter sido combinado.
-- **Anselm** tem uma úlcera na perna que não fecha; o curativo leva quarenta
-  minutos e dói, e ele fala de política, da rua e de um vizinho que estaciona
-  errado para não pensar.
-- **Kasper** teve um princípio de alguma coisa em 2044 e o medo virou a doença
-  principal. Mede a pressão quatro vezes por dia e anota num caderno; **conferir
-  o caderno é o remédio que funciona**, leva dez minutos e não está na escala.
-- **As duas versões batem nos fatos e não batem em mais nada**, e é por isso que
-  não tem conserto: se um deles estivesse errado, alguém podia ceder.
-- **O recado que não deu certo.** Rita conta a Anselm que Kasper perguntou se ele
-  está comendo direito, e Anselm responde, com o rosto perfeitamente calmo, *ele
-  perguntou na frente de alguém; ele queria ser um homem que pergunta — se ele
-  quisesse saber, tem uma escada.* **Pode ser verdade, e Rita não tem como
-  saber.** (cap. 14)
+**O tema da cidade de chegadas continua inteiro na dona Eszter**, e é por isso
+que o corte foi possível. **Repor qualquer uma destas coisas exige um capítulo**,
+não uma frase enxertada noutro: sem o sobrado na página, os três viram
+informação, e informação sobre gente que o leitor nunca viu é exatamente o que
+este livro não faz.
 
 ### Bel, Lu e Teo — o pátio
 
@@ -1119,7 +1189,7 @@ apartamento da própria Rita.
 | o céu | tráfego constante; pousa onde é pago para pousar, em plataforma | passa por cima de Brenna e nunca para. **Descrito: forma, altura, sombra, som** |
 | chaleira, café, cozinhar | chega na temperatura, sem pedir | funciona, mas é medido e tem horário |
 | calçada, mangueira | **a lavadora da padaria**: do tamanho de uma mala de mão, chata, anda sozinha, sai da porta, encosta no meio-fio e vai do toldo até a esquina e volta três vezes, sempre pelo mesmo caminho. Molha, escova e enxuga na mesma passada e deixa meio metro de calçada seca; a água corre para a sarjeta. Zumbido por dentro, escovas por fora. **Nos cantos ela não entra, e o rapaz faz os cantos depois, agachado, com um pano** (caps. 07, 21) | o rapaz continua existindo, porque a máquina toma o meio e sobra o canto. Nenhuma frase comenta, e é a mesma forma do arco da Rita |
-| louça, pia | não é uma ação que exista | **o vão da bancada: oito ciclos por dia para dois adultos, quatro minutos cada.** No ano do pai eram doze, vinha no pacote, e quando voltaram a oito ninguém percebeu na hora — só achou, num mês qualquer, que a cozinha tinha ficado mais trabalhosa. Fazer comida gasta dois. O que passa da cota fica no chão da bancada esperando a meia-noite (caps. 10, 15, 19) |
+| louça, pia | não é uma ação que exista | **o vão da bancada: oito ciclos por dia para dois adultos, quatro minutos cada.** No ano do pai eram doze, vinha no pacote, e quando voltaram a oito ninguém percebeu na hora — só achou, num mês qualquer, que a cozinha tinha ficado mais trabalhosa. Fazer comida gasta dois. O que passa da cota fica no chão da bancada esperando a meia-noite (caps. 10, 14, 19) |
 | a máquina de lavar da Rita (≈2047-03) | ninguém compra isso | o que dezoito turnos numa semana compraram: uma subida de faixa |
 | porta, chave, código | abre para quem tem turno naquele endereço naquele horário | igual, e falha |
 | telefone, tela | quase ausentes; a sobreposição faz esse trabalho | o polegar da Rita fica exatamente como está |
@@ -1205,14 +1275,13 @@ muda) — nesses, a rima tem de sobreviver à diferença de época.
 | **Duas unidades de cuidado, de espécies diferentes** | a do prédio da frente do Teodor: **bípede**, na altura do ombro da Rita, joelhos que dobram para trás como os de um pássaro, corpo de peça única cinza-clara, sem cara, faixa escura na altura da testa que gira sozinha, braços finos e compridos demais, mão de baixo forrada de material mole que faz barulhinho de borracha. Fica **meio passo atrás e do lado da mão ruim** (cap. 09) | a do banheiro da casa de Kalden: **não anda** — presa no teto num trilho, desce quando é hora, **um braço só articulado em três lugares**, forrado do mesmo material mole, com o chuveiro por dentro do braço. Desce devagar e faz menos barulho que a torneira; a Rita viu duas vezes e nas duas achou bonito. **E pergunta, espera, diz tudo bem, e volta a perguntar onze minutos depois** (cap. 11). Duas espécies, porque um único aparelho descrito uma vez e depois só referido é o que fazia a Parte II parecer genérica |
 | **O gesto obsoleto de propósito** | o clique do abajur de rosca do Aurel, e a casa recua meio tom | o polegar da Rita numa tela que ela não precisa tocar. **Os dois são "eu quero que isto seja uma coisa que alguém decidiu." Nenhum dos dois pode sair** |
 | **A margem** | o Aurel procura onde marcar na fala da máquina e não acha (*O procedimento*) | a Rita procura onde escrever na escala e não tem (*A escala*) |
-| **A escada como acesso a reparação** | o Emil Roht sobe à redação — **fica** | os dezenove degraus do Teodor; *"tem uma escada"* dos dois irmãos; os degraus da frente do Bloco C |
+| **A escada como acesso a reparação** | o Emil Roht sobe à redação — **fica** | os dezenove degraus do Teodor; os degraus da frente do Bloco C |
 | **O balcão** | o Vidor dá a volta na mesa em vez de falar por cima dela — **fica** | a Idalina no guichê sete, que já teve um ramal |
 | **O texto igual para todo mundo** | os noventa e quatro mil jornais idênticos — **fica** | a parede bege lisa que a Nina lê; a marca de giz no asfalto; **o painel de senha do Bloco C**, *"a única coisa naquela sala que está escrita igual para todo mundo"*; o aviso impresso no hall do Teodor |
 | **A ferramenta que encerra a discussão sem ninguém falar** | o nível de bolha do Teodor no chão da sala do juiz | o deleatur do Aurel; as três páginas de conta do Krall |
 | **A música, duas procedências** | o Aurel recebe o título e nenhum contexto | a Rita tem o contexto — o porta-luvas, o sotaque, a ordem das faixas — e nunca o título |
 | **O chão do corredor como confessionário** | os dois metros e meio mornos do Aurel | o Elias sentado no chão do corredor dele |
 | **Entregar uma coisa a quem só sabe ler metade** | o lápis para a Nina, com quatro centímetros e meio | a caixinha para a Rita |
-| **Virar uma coisa na direção de outra pessoa** | a Juno virando a tela | o Kasper erguendo o caderno para o telefone. **Os dois são inúteis, e é esse o ponto** |
 
 ### Onde a ausência já é o objeto — não pôr aparelho aqui
 
@@ -1387,7 +1456,7 @@ impossível de conseguir. Uma linha por regra.
 - **O apartamento do seu Vilmar não foi avisado.** A luz sobe quando Rita entra, a
   chaleira está quente às sete porque às sete de quinta alguém toma café ali há
   anos. A casa e a Rita estão operando com a mesma instrução vencida, e **o livro
-  não diz isso.** (cap. 16)
+  não diz isso.** (cap. 15)
 - **Ninguém na sala de espera está na sala** — nem no Bloco C nem na unidade. As
   pessoas esperam ocupadas: mão pequena no colo, riso sozinho, boca mexendo sem
   som, meio segundo de atraso para responder a quem está do lado. Rita olha o
@@ -1521,18 +1590,18 @@ impossível de conseguir. Uma linha por regra.
   funciona, banheiro limpo às dez da manhã, painel sempre certo. Todo mundo é
   educado do começo ao fim. **Tudo o que Rita sente ali, ela sente dentro de um
   prédio bem cuidado**, e é isso que torna a coisa impossível de contar depois.
-  (cap. 17)
+  (cap. 16)
 - **O que ela queria não era corrigir um erro.** Não havia erro: ela chegou
   atrasada, o horário está certo, descer dezenove degraus não é atribuição do
   turno. Ela queria que o *motivo* ficasse escrito junto com o atraso, para serem
   lidos juntos alguma vez. E ficou — Idalina digitou tudo — e foi lido, e foi
   respondido em dezenove minutos, corretamente, e a resposta foi que aquilo não é
-  objeto de revisão. (cap. 17)
+  objeto de revisão. (cap. 16)
 - **Ela sai sem raiva, e isso a assusta.** Raiva serve para alguma coisa: é o que
   faz contar aos outros, procurar quem mais passou por aquilo, voltar. Rita já
   teve raiva de um plano de saúde e ganhou. Na escada do Bloco C ela sente
   cansaço bem administrado e mais nada, e não tem com quem brigar nem sobre o
-  quê. (cap. 17)
+  quê. (cap. 16)
 - **Não haverá cena nenhuma.** Para brigar é preciso que o outro precise de
   alguma coisa que só você pode dar. Rita testa as três — gritar, ameaçar ir
   embora, chorar — e em todas ele fica mal de verdade, pede desculpa sinceramente,
@@ -1720,7 +1789,7 @@ impossível de conseguir. Uma linha por regra.
 - **Escala não é objeto de revisão por solicitação do prestador.** É a frase que
   mata o pedido de Rita, e Voss a aplica duas vezes na mesma semana sem saber que
   é a mesma mulher. Escopo de turno e critério de distribuição são *parâmetros de
-  serviço*, não decisões individuais. (cap. 17, 23, 27)
+  serviço*, não decisões individuais. (cap. 16, 23, 27)
 - **A revisão de alocação tem prefixo G** e volume baixo — quatro ou cinco por
   dia no andar inteiro. Naquela semana caíram todas na mesa de Voss porque a
   Larsen estava de licença, **e é só por isso que ele sabe que indeferiu a dela e
@@ -1758,7 +1827,7 @@ o outro.
 | **O implante cura a perna?** | **Não, e o livro nunca diz que sim.** No desfile a perna não formiga; o que há é uma sensação de apertado por dentro que ele não consegue chamar nem de melhor nem de pior. | Uma cura no dia seguinte seria tecnologia milagrosa e resolveria alguma coisa, e este livro não resolve nada. O que o procedimento entrega é real, foi de graça, chegou sem ser pedido, **e é ilegível.** Nenhum capítulo pode dizer que ele melhorou. | 06, 40 |
 | **Aurel pediu o procedimento?** | **Não. Foi oferecido, e a data veio pronta.** | É a tese da conveniência aplicada ao personagem que passa o livro inteiro sem tocar na máquina. Aurel recebe sem pedir exatamente o tipo de coisa que Rita não consegue nem sendo ouvida, e **nenhum dos dois sabe da existência do outro**. Nenhum capítulo pode apontar o contraste. | 06 |
 | **A sobreposição é descrita?** | **Sim — decisão do autor, e revoga a regra anterior.** O leitor vê o que está escrito, onde fica no ar, de que tamanho, o que acontece quando alguém anda. O que continua fora é *explicar o princípio* e dar voz a máquina. | A regra antiga transformava a invenção central do livro numa parede em branco, e era a maior causa de o romance não parecer 2047. O custo aceito é envelhecer mais rápido. Ver *A sobreposição*. | 01 em diante |
-| **Por que Teodor, Juno e Anselm não recebem o tratamento que existe?** | **Porque o critério não os alcança**, e o livro mostra o critério funcionando na mesa de Voss sem nunca ligar as cenas. | Se fosse falta de dinheiro, seria um livro sobre pobreza; se fosse crueldade, haveria um vilão. É uma faixa de indicação, uma janela de dezoito meses, um rol. **Nenhum personagem pode reclamar disso e nenhum capítulo pode apontar a assimetria com Aurel.** | 18, 20, 23 |
+| **Por que Teodor e Juno não recebem o tratamento que existe?** | **Porque o critério não os alcança**, e o livro mostra o critério funcionando na mesa de Voss sem nunca ligar as cenas. | Se fosse falta de dinheiro, seria um livro sobre pobreza; se fosse crueldade, haveria um vilão. É uma faixa de indicação, uma janela de dezoito meses, um rol. **Nenhum personagem pode reclamar disso e nenhum capítulo pode apontar a assimetria com Aurel.** | 18, 20, 23 |
 | **Como funciona a tradução, e por que as três palavras não são traduzidas?** | **Não se explica.** Todo mundo se entende; as três palavras da Eszter chegam como som, porque são dela. | Mesma decisão da parede do mercado: o jeito de não precisar de tecnobabble é não olhar. E converte uma lacuna do mundo numa recusa da personagem, que é infinitamente melhor. | 11 |
 | **Houve um dia em que a errata e o balcão deixaram de existir?** | **Não houve dia.** Foi como a perna: em algum momento você percebe que já faz um tempo. | É a mesma recusa da mentira da ruptura e da mentira do interruptor. Nada no livro pode ter uma data de virada, inclusive o fim do casamento de Rita e Elias. | 01, 02, 19 |
 | **Citação de Hobsbawm** | O livro cita a edição Paz e Terra de 1990 e depois parafraseia de perto a sequência de abertura. **Pendente de verificação de permissão** — ver `docs/references.md`. | Ficção não tem mais latitude que ensaio aqui, e o livro vai para a KDP. | 01 |

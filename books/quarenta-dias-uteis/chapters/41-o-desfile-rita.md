@@ -5,10 +5,10 @@ title_en: The Parade — Rita
 pov: Rita
 when: 2047-10-19 — sábado, 10h12
 where: mais atrás, na multidão
-premise: a primeira música do livro chegou de longe, de uma janela, sem
-  destinatário. Esta está sendo feita a vinte metros dela por pessoas com
-  instrumentos, e chega igual para todo mundo na calçada porque é alta demais
-  para chegar de outro jeito.
+premise: a primeira música do livro chegou de longe, de uma janela, sem destinatário.
+  Esta está sendo feita a vinte metros dela, por pessoas com instrumentos, e chega
+  igual para todo mundo na calçada porque é alta demais para chegar de outro jeito.
+  Ela nota a diferença e não tem palavra para ela.
 turn: ela fica, mesmo assim, porque estar num lugar com muita gente é uma coisa
   que ela não fazia há muito tempo.
 threads:
@@ -17,9 +17,9 @@ threads:
 - fio-da-companhia
 pays:
 - a-musica-de-longe
+- a-musica-pedida
 cast:
 - rita
-sources: nenhuma
 status: draft
 ---
 Ela ficou na sexta fileira, que é onde dá para ficar quando se chega às dez.
@@ -43,8 +43,8 @@ Ficou olhando a nuca do homem na frente dela até aquele bloco acabar.
 
 Ela quase foi embora aos vinte minutos.
 
-Tinha acordado às cinco e vinte, tinha subido dezenove degraus e descido dezenove
-degraus, tinha uma caixinha de madeira no saco e uma louça de sexta na pia, e
+Tinha saído de casa às cinco e vinte, tinha subido dezenove degraus e descido
+dezenove degraus, tinha uma caixinha de madeira no saco e uma louça de sexta na pia, e
 estava de pé há uma hora e dez sem ver quase nada, no meio de uma quantidade
 absurda de gente, com um cheiro de milho de um lado e uma criança chorando atrás.
 

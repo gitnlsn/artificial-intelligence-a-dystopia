@@ -61,6 +61,7 @@ Aplicado a este livro:
 | Obra | Situação | O que dá para fazer |
 |---|---|---|
 | *Great Divide*, The Cardigans (Sveningsson/Svensson), faixa 10 de *First Band on the Moon*, 1996 | Em direito autoral | Nomear, descrever, deixar chegar de longe. **Não imprimir a letra** sem licença da editora musical. Atenção: o título é "Great Divide", sem "The". **Aparece duas vezes** — ver a nota abaixo |
+| *Better*, Regina Spektor, faixa de *Begin to Hope*, 2006 | Em direito autoral | Nomear e descrever. A Rita diz **o título e a cantora em voz alta**, e é a única personagem do livro que tem um nome de música inteiro. **Não imprimir a letra.** Ver a nota abaixo |
 | A música do desfile | **Inventada** — sem nome, sem letra, banda marcial de gente | Tudo. Música inventada não tem titular, e foi por isso, entre outras razões, que se decidiu assim |
 | Caetano Veloso, *Oração ao Tempo*, 1979 | Em direito autoral | Nomear e descrever apenas |
 
@@ -70,6 +71,21 @@ Parte II ela desce de uma janela sobre a Rita, que nunca soube o título e sabe 
 **banda**, porque a mãe dela a dizia no carro. Nenhum dos dois tem o nome
 inteiro, e é por isso que nenhum dos dois pode ligar uma coisa à outra — ver
 `docs/bible.md`, *As duas exceções declaradas*, para a regra narrativa.
+
+**O que dá para descrever de *Better*, e o que não dá.** Arranjo, andamento,
+instrumentação, o que a voz faz, o efeito no ouvinte e **o contraste entre a
+música alegre e a letra** são prosa do autor e não custam nada. **A letra não
+entra — nem citada, nem parafraseada de perto**, e paráfrase próxima de um verso
+é tão problemática quanto a citação, porque a letra inteira é curta e o teste de
+proporção joga contra. No capítulo isso resolveu-se com três palavras — *A letra
+não é.* — e mais nada.
+
+**A terceira música é da Rita sozinha, e a regra das metades não se estende a
+ela.** Em *A música que ela pediu* ela diz o título e a cantora numa cozinha
+vazia, e a música toca. A disciplina de dar meio nome a cada um vale para *Great
+Divide* e só para ela, que é a música que os dois ouvem sem saber; *Better* é
+outra música, ouvida por uma pessoa só, e o efeito depende justamente de ela ter
+o nome inteiro. O narrador continua não nomeando nada em lugar nenhum.
 
 **Isto não mexe na situação de direitos.** Título e nome de banda não são
 protegidos, então imprimi-los é livre, e o que o livro imprime continua sendo

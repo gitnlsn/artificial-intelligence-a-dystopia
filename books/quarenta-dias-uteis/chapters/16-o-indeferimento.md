@@ -7,8 +7,7 @@ when: 2047-10-17 — quinta, à tarde
 where: o Bloco C
 premise: ela recorre da alocação e é indeferida. O documento é correto, cortês,
   assinado, e ela lê o nome sem registrar que é o nome de alguém.
-turn: sai com o prazo de quarenta dias úteis e sem raiva, o que é o mais
-  assustador.
+turn: sai com o prazo de quarenta dias úteis e sem raiva, o que é o mais assustador.
 threads:
 - fio-do-turno
 - fio-da-excecao
@@ -18,7 +17,6 @@ seeds:
 cast:
 - rita
 - idalina
-sources: nenhuma
 status: draft
 ---
 Ela foi porque a manhã tinha sobrado.
@@ -77,6 +75,18 @@ poltrona vazia ao lado dele, ou está onde a poltrona vazia está.
 De onde a Rita senta, o que se vê é a parte de trás daquilo tudo, que é cinza e
 lisa e não tem nada, e são umas nove ou dez formas cinzentas paradas no ar de uma
 sala de espera. Ninguém acha isso digno de nota. A Rita também não.
+
+---
+
+Ao lado dela sentou uma senhora que não abriu nada.
+
+A senhora mudou de posição seis vezes na primeira meia hora. Cruzou a perna,
+descruzou, pôs a bolsa no colo, tirou a bolsa do colo, olhou o painel, olhou a
+porta, levantou para beber água e voltou, e levantou de novo dez minutos depois e
+não foi a lugar nenhum.
+
+A Rita reparou nas seis. Ela é boa nisso — é metade do serviço dela reparar
+quando alguém está inquieto antes de a pessoa dizer.
 
 O painel fica na parede da frente, acima da porta dos guichês. É comprido, do
 tamanho de uma porta deitada, com as senhas numa coluna e o número do guichê na
@@ -217,7 +227,7 @@ pensou de novo semanas depois — foi que ela não estava com raiva.
 
 Nem um pouco.
 
-Ela estava com fome, estava com o ombro doendo do lado do saco, e estava fazendo
+Ela estava com o ombro doendo do lado do saco, e estava fazendo
 a conta de quantos dias úteis são quarenta dias úteis, que dá quase dois meses,
 e concluindo que dava. Que dava para esperar. Que não era o fim do mundo.
 
@@ -233,4 +243,4 @@ cansaço bem administrado, e que tinha sido tratada com educação do começo ao
 fim, e que todo mundo tinha razão em tudo, e que ela não tinha com quem brigar
 nem sobre o quê.
 
-Ela desceu a escada e foi comer alguma coisa antes do turno da uma.
+Ela desceu a escada. Tinha pouco mais de uma hora até o turno da uma.

@@ -588,17 +588,23 @@ paciência para uma máquina. Ela nunca comenta a diferença.
 As vinhetas são vistas sempre através dela e nunca fecham como conto. O leitor
 vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 
+**A parte tem três músicas e nenhuma delas foi escolhida por ela.** A primeira
+cai de uma janela e não era para ela. A segunda ela pede pelo nome, e chega em
+menos de um segundo no volume certo, e vale menos. A terceira é a banda do
+desfile, que é alta demais para ser mandada para alguém. **Nenhum capítulo
+compara as três.**
+
 ### 7. A música que veio de longe
 *(The Music From Far Off)*
 - **POV** — Rita
-- **Quando** — 2047-10-11 — de manhã
+- **Quando** — 2047-10-11 — sexta, de manhã
 - **Onde** — uma calçada em Kalden, esperando alocação
 - **A ideia** — parada na rua sem turno, ela escuta uma música que vem de uma janela alta; ninguém escolheu mandar aquilo para ela, e faz meses que nada chega assim.
 - **A virada** — percebe que não ficava parada há meses, e que a parada não foi escolha dela.
 - **Fios** — fio-do-turno
 - **Planta** — a-musica-de-longe
 - **Elenco** — rita
-- **Fontes** — *Great Divide*, The Cardigans — só o título e a descrição; a letra não pode ser impressa
+- **Fontes** — *Great Divide*, The Cardigans, 1996 — aqui a banda é nomeada (a mãe dela a dizia no carro) e o título nunca; a letra não pode ser impressa. Ela não sabe o nome da música. Ver docs/references.md
 
 ### 8. O outro cômodo
 *(The Other Room)*
@@ -664,55 +670,57 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **Planta** — o-ano-do-pai
 - **Elenco** — elias
 
-### 14. A casa dos dois irmãos
-*(The House of the Two Brothers)*
-- **POV** — Rita
-- **Quando** — 2047-10-14 — manhã
-- **Onde** — um sobrado em Brenna
-- **A ideia** — dois irmãos velhos que não se falam e moram na mesma casa. Os dois falam todo dia com a mesma irmã, que mora em outro continente, e contam a ela versões diferentes da mesma casa. Ela acredita nas duas. Rita é a única pessoa viva que ouve as duas versões.
-- **A virada** — entrega um recado que não foi pedido, e não dá certo.
-- **Fios** — fio-do-turno, fio-das-casas
-- **Elenco** — rita
-
-### 15. A paciência
+### 14. A paciência
 *(Patience)*
 - **POV** — Elias
 - **Quando** — 2047-10-16 — quarta, à noite
 - **Onde** — a cozinha
 - **A ideia** — ele percebe que perdeu a paciência para a imperfeição dela, tem vergonha disso, e não faz nada — vergonha não é ação.
-- **A virada** — escolhe o cômodo dos fundos sabendo exatamente o que está escolhendo, e sabendo por quê: é a conta do ano do pai chegando.
+- **A virada** — escolhe o cômodo dos fundos sabendo exatamente o que está escolhendo, e sabendo por quê — é a conta do ano do pai chegando.
 - **Fios** — fio-da-companhia
 - **Paga** — o-ano-do-pai
 - **Elenco** — elias, rita
 
-### 16. A casa vazia
+### 15. A casa vazia
 *(The Empty House)*
 - **POV** — Rita
 - **Quando** — 2047-10-17 — quinta, primeiro turno
 - **Onde** — um apartamento em Brenna
-- **A ideia** — ela chega para o turno e não há mais ninguém para cuidar; o turno foi cancelado no sistema quarenta minutos antes e ninguém achou necessário dizer por quê.
-- **A virada** — ela arruma a casa mesmo assim, e não é bondade: é não saber o que fazer com o corpo.
+- **A ideia** — ela chega para o turno e não há mais ninguém para cuidar. O turno foi cancelado no sistema quarenta minutos antes e ninguém achou necessário dizer por quê.
+- **A virada** — ela arruma a casa mesmo assim, e não é bondade — é não saber o que fazer com o corpo.
 - **Registro** — a revogação da credencial de acesso, efetivada três dias depois do encerramento, que registra a entrada dela e conclui *sem irregularidade a apurar*. Não menciona o Vilmar.
 - **Fios** — fio-do-turno, fio-das-casas
-- **Elenco** — rita
+- **Elenco** — rita, vilmar
 
-### 17. O indeferimento
+### 16. O indeferimento
 *(The Denial)*
 - **POV** — Rita
 - **Quando** — 2047-10-17 — quinta, à tarde
-- **Onde** — o posto de atendimento, Bloco C
-- **A ideia** — ela recorre da alocação e é indeferida; o documento é correto, cortês, assinado, e ela lê o nome sem registrar que é o nome de alguém.
+- **Onde** — o Bloco C
+- **A ideia** — ela recorre da alocação e é indeferida. O documento é correto, cortês, assinado, e ela lê o nome sem registrar que é o nome de alguém.
 - **A virada** — sai com o prazo de quarenta dias úteis e sem raiva, o que é o mais assustador.
 - **Fios** — fio-do-turno, fio-da-excecao
 - **Planta** — o-indeferimento-de-rita, o-nome-na-folha
-- **Elenco** — rita
+- **Elenco** — rita, idalina
+
+### 17. A música que ela pediu
+*(The Music She Asked For)*
+- **POV** — Rita
+- **Quando** — 2047-10-17 — quinta, à noite
+- **Onde** — a cozinha
+- **A ideia** — ela chega com duas coisas para contar e não conta nenhuma; senta sem estar fazendo nada, que é uma coisa que ela não faz, e pede uma música.
+- **A virada** — a música vem perfeita e a mão tira o fone antes de acabar, e ela não põe de volta.
+- **Fios** — fio-do-turno, fio-da-companhia
+- **Planta** — a-musica-pedida
+- **Elenco** — rita, elias
+- **Fontes** — *Better*, Regina Spektor, 2006 — o título e a cantora são ditos por ela, em voz alta; o narrador não nomeia nada e a letra não pode ser impressa. Ver docs/references.md
 
 ### 18. A casa da moça que ia embora
 *(The House of the Girl Who Was Leaving)*
 - **POV** — Rita
 - **Quando** — 2047-10-18 — sexta, manhã
 - **Onde** — um quarto e sala em Brenna
-- **A ideia** — a casa mais nova do mosaico: uma mulher de vinte e seis anos em recuperação, com tudo pela frente, e que vai embora do país assim que puder andar direito. Rita passa três horas com um futuro que não é o dela, em nenhum sentido.
+- **A ideia** — a casa mais nova do mosaico. Uma mulher de vinte e seis anos em recuperação, com tudo pela frente, e que vai embora do país assim que puder andar direito. Rita passa três horas com um futuro que não é dela, em nenhum sentido.
 - **A virada** — a moça pergunta a Rita o que ela queria ser, e Rita responde de verdade.
 - **Fios** — fio-do-turno, fio-das-casas
 - **Elenco** — rita
@@ -732,8 +740,8 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 - **POV** — Rita
 - **Quando** — 2047-10-19 — sábado, sete da manhã
 - **Onde** — de volta a Marvik, casa de Teodor
-- **A ideia** — o turno dela na casa do Teodor é o último: a alocação dele mudou de mãos e ninguém avisou nenhum dos dois. Eles se despedem sem saber que é despedida.
-- **A virada** — ela promete voltar e sabe, na escada, que não vai.
+- **A ideia** — o turno dela na casa de Teodor é o último. A alocação mudou de mãos e ninguém avisou nenhum dos dois — só que ele foi avisado, porque foi ele quem pediu, e ela não sabe que existiu pedido nenhum. Ele se despede sabendo. Ela não.
+- **A virada** — ela aceita uma coisa que ele fez com as mãos, sem entender por quê, e na escada sente uma coisa que não sabe nomear.
 - **Fios** — fio-do-turno, fio-das-casas
 - **Paga** — a-casa-do-teodor
 - **Elenco** — rita, teodor
@@ -742,10 +750,11 @@ vai reencontrar uma dessas casas na Parte III, reduzida a quatro linhas.
 *(She Keeps Still)*
 - **POV** — Rita
 - **Quando** — 2047-10-19 — sábado, meio da manhã
-- **Onde** — a mesma calçada da primeira vez
+- **Onde** — a mesma calçada da primeira vez, em Kalden
 - **A ideia** — volta ao lugar onde ouviu a música e fica parada de propósito, o que é a única coisa que ela escolheu na parte inteira.
-- **A virada** — não toca música nenhuma, e ela fica assim mesmo.
-- **Fios** — fio-do-turno
+- **A virada** — não toca música nenhuma, e ela fica assim mesmo — e depois anda na direção do barulho, sem ter decidido nada.
+- **Registro** — a avaliação periódica da matrícula 88-2214, que fecha a parte. É a única coisa no livro que diz o que ela é, e ninguém no livro a lê.
+- **Fios** — fio-do-turno, fio-do-desfile
 - **Elenco** — rita
 
 ---
@@ -979,12 +988,12 @@ quatro relógios batem juntos.
 ### 41. O desfile — Rita
 *(The Parade — Rita)*
 - **POV** — Rita
-- **Quando** — 2047-10-19 — 10h12
+- **Quando** — 2047-10-19 — sábado, 10h12
 - **Onde** — mais atrás, na multidão
 - **A ideia** — a primeira música do livro chegou de longe, de uma janela, sem destinatário. Esta está sendo feita a vinte metros dela, por pessoas com instrumentos, e chega igual para todo mundo na calçada porque é alta demais para chegar de outro jeito. Ela nota a diferença e não tem palavra para ela.
 - **A virada** — ela fica, mesmo assim, porque estar num lugar com muita gente é uma coisa que ela não fazia há muito tempo.
-- **Fios** — fio-do-desfile, fio-do-turno
-- **Paga** — a-musica-de-longe
+- **Fios** — fio-do-desfile, fio-do-turno, fio-da-companhia
+- **Paga** — a-musica-de-longe, a-musica-pedida
 - **Elenco** — rita
 
 ### 42. O desfile — Voss

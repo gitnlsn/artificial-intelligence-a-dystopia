@@ -13,7 +13,6 @@ threads:
 cast:
 - rita
 - elias
-sources: nenhuma
 status: draft
 ---
 Ela chegou às nove e vinte e ele tinha feito comida.
@@ -154,11 +153,11 @@ meia-noite, e deixou a panela para a meia-noite.
 
 ---
 
-Ela dormiu antes dele, o que quase nunca acontece.
+Ela se deitou antes dele, o que quase nunca acontece.
 
-E o que ela ficou pensando, nos quatro ou cinco minutos antes de dormir, não foi
-nada dramático. Foi uma coisa quase administrativa, e talvez seja por isso que
-ela conseguiu dormir.
+E o que ela ficou pensando, nos quatro ou cinco minutos com a luz apagada, não
+foi nada dramático. Foi uma coisa quase administrativa, e talvez seja por isso
+que não custou nada.
 
 Ela pensou: acabou.
 
@@ -171,7 +170,7 @@ para alguém fazer alguma coisa.
 
 Não vai haver cena nenhuma.
 
-Ela virou de lado, com o braço para fora, do jeito que ela dorme.
+Ela virou de lado, com o braço para fora, do jeito que ela deita.
 
 E do outro cômodo, com a porta encostada, vinha o som de uma conversa sem as
 palavras.
