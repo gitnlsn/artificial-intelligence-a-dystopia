@@ -238,13 +238,15 @@ que a dona Eszter diz chega na Rita na língua da Rita, e nenhuma das duas faz
 nada para que isso aconteça"*. O registro do cap. 21 diz **módulo linguístico:
 39 idiomas, revisão 2041**. Nenhuma frase da prosa liga as duas coisas.
 
-## As quatro exceções declaradas — decisão do autor, não corrigir
+## As cinco exceções declaradas — decisão do autor, não corrigir
 
-Quatro coisas neste livro contrariam regras que o resto do livro cumpre à risca.
-As quatro são **decisão do autor, tomada com a objeção registrada e mantida**, e
+Cinco coisas neste livro contrariam regras que o resto do livro cumpre à risca.
+As cinco são **decisão do autor, tomada com a objeção registrada e mantida**, e
 estão aqui para que nenhuma revisão futura as "conserte". Também estão em
-`CLAUDE.md`. A quarta é a mais recente e é a única que revoga uma cláusula de
-outra: a cena de *3b* revoga o *"e nada mais"* de *3*, e nada além disso.
+`CLAUDE.md`. Duas revogam cláusulas de outras, e só isso: a cena de *3b* revoga
+o *"e nada mais"* de *3*; a de *2c* revoga a proibição de música para o Voss, que
+passa a valer só para o desfile. **Nenhuma das duas revogações se estende a mais
+nada.**
 
 ### 1. A máquina fala — uma vez, em *O procedimento*
 
@@ -420,6 +422,87 @@ menos que a que caiu da janela**, e nenhuma frase do livro diz nada disso.
 de uma janela e não era para ela, a que ela pediu pelo nome, e a banda do
 desfile, que é alta demais para ser mandada para alguém. **Nenhum capítulo
 compara as três.**
+
+**Direitos:** título e nome de artista são livres; a letra não. Ver
+`docs/references.md`.
+
+### 2c. A quarta música — *Perpetual Motion*, e ela é do Voss
+
+**Decisão do autor.** Em *A fila da manhã* o Voss põe o fone antes das oito e
+trabalha a fila da manhã com uma música tocando. É *Perpetual Motion*, do
+LukHash, faixa 1 de *Better Than Reality*, 2019.
+
+**Isto revoga uma regra e só ela.** A regra era: o Voss não tem música, e
+`docs/outline.md` chegou a dizer que *"a parte dele é a única sem música"*. Passa
+a valer só para o desfile — **nada no capítulo do desfile pode buscar a música**,
+nem um compasso ouvido pela metade, nem reconhecimento tardio, nem uma linha que
+lembre da mesa. **A regra velha não deve ser restaurada por nenhuma revisão
+posterior.**
+
+**As objeções foram postas por inteiro e mantidas:** que a música é o
+dispositivo de consolo do livro e o Voss é o único que não pode ser consolado;
+que uma faixa puxada por baixo de uma fila faz a velocidade dele ler como ritmo,
+quando o capítulo diz que é a ausência de decisão; que o título glosa o
+capítulo; e que a procedência é um par declarado, não um trio.
+
+**Para que serve: para o leitor.** A Parte III são nove capítulos de
+indeferimento sem lugar nenhum onde descansar, e este é o único ponto em que o
+leitor toma ar.
+
+- **A prosa relaxa e o Voss não.** Nenhuma frase diz que ele gosta, nenhuma diz
+  que ajuda, e não há sinal nenhum — nem pé, nem batida, nem caso segurado meio
+  segundo a mais. **O prazer é todo do leitor**, e é o leitor que fica
+  implicado por tê-lo sentido. É a regra da distopia funcionando, e não uma
+  exceção a ela.
+- **O alívio é o ritmo, e não um trecho lento.** O capítulo já tem metrônomo —
+  *Oito e seis. Oito e nove. Oito e onze.* — e debaixo da música aqueles
+  horários deixam de ler como recusa e passam a ler como pulso. **Nada
+  desacelera.** O capítulo mantém a velocidade que o `premise` dele declara; o
+  que muda é só a relação do leitor com ela.
+- **É a espinha do livro caindo em cima dele.** O relógio da Parte III é o dia
+  que chega interrompido, e este é o único trecho da parte inteira que **não**
+  é interrompido. A máquina entrega a este homem uma hora inteira, sem falha, no
+  volume certo, e ele gasta a hora indeferindo quarenta e uma pessoas mais
+  depressa do que nunca. **Nenhuma frase aponta para isso.**
+- **O nome chega escrito, nunca falado.** Duas palavras e uma data num papel
+  dobrado, com a letra dele, dentro do livro de sebo que ele carrega. Ele lê e
+  **mexe um pouco os lábios**, que é o que ele já faz no ônibus. O nome está na
+  boca de alguém sem que ele diga nada em voz alta, e o `pov:` fica intacto.
+  Um homem que nunca disse a única opinião que tem — *o que se pode perder é o
+  que se pode devolver* — não anuncia um título numa fileira de sessenta mesas.
+- **Ele nunca pronuncia.** As duas pronúncias erradas de *Great Divide* são um
+  par, e é o par que paga o Aurel ter o nome inteiro (ver exceção 2). **Não há
+  terceira vaga.** O nome do LukHash não chega à página como som, nem certo nem
+  errado.
+- **A procedência é um registro, e é a terceira posição.** O do Aurel veio da
+  boca de uma pessoa que morreu; o da Rita veio inteiro no pacote e ela nunca se
+  perguntou de onde. O Voss ouviu uma vez e **anotou**, que é o único jeito de
+  este homem guardar qualquer coisa. O homem que explica a estagiários que
+  *documento é a coisa que comprova um fato verificável por terceiro* tem
+  documentação do próprio prazer.
+- **Ele não é um terceiro termo do eixo do 2b**, que é do Aurel e da Rita e
+  continua sendo um par exato. **Nenhum capítulo compara as músicas** — nem
+  duas, nem três, nem quatro. E a Rita continua sendo **a única pessoa do livro
+  que segura um nome de música inteiro sem saber de onde o tirou**: o Voss sabe
+  exatamente, e é por isso que a frase do 2b não muda uma vírgula.
+- **O fone sai antes do Teodor.** *Quatro linhas* acontece dentro desta manhã, às
+  9h33, e tem de chegar no silêncio. Ele tira o fone liso, num horário
+  declarado, e **ele decide tirar** — a mão que se move antes da dona é da Rita
+  e continua sendo dela.
+- **Nada responde.** Sem voz, sem confirmação, sem interface. A máquina de *O
+  procedimento* continua sendo a única que fala com alguém.
+- **O título nunca é glosado.** Nenhuma frase pode ligar *perpetual motion* à
+  fila, à manhã, ao homem ou ao mundo. É o maior risco da decisão inteira e é o
+  que transformaria isto numa frase-tese.
+- **Sem registro novo.** O capítulo continua com um só bloco, o 7719-K.
+- **Um capítulo, e mais nenhum.** A música não volta na Parte III, não volta no
+  desfile, e ninguém mais no livro a menciona.
+- **O capítulo do desfile não muda uma palavra.** *Não achou nada a respeito* e
+  *não conseguiu lembrar de um único compasso* continuam sendo constituição e
+  não gosto, porque um homem com uma música só, todo dia útil, desde uma data
+  que ele anotou, não é um homem com gosto: é um homem com procedimento. A banda
+  não o alcança porque nada fora do procedimento o alcança. **Uma revisão futura
+  que "harmonize" o cap. 43 com este capítulo destrói os dois.**
 
 **Direitos:** título e nome de artista são livres; a letra não. Ver
 `docs/references.md`.
@@ -904,7 +987,7 @@ de vista, e é ele que um capítulo fura sem perceber.
   se lê. **A música na casa era dela.** O disco ser sem nome é deliberado: é o
   que mantém a banda fora do Aurel e o que impede o livro de afirmar qualquer
   coisa sobre a capa de um álbum real. **Uma frase na prosa, e nem uma a mais** —
-  ver *As três exceções declaradas*, exceção 2. (cap. 06)
+  ver *As cinco exceções declaradas*, exceção 2. (cap. 06)
 
 ### Rita
 
@@ -1177,6 +1260,24 @@ de vista, e é ele que um capítulo fura sem perceber.
   uma coisa que se pode deixar em cima de uma balaustrada — *o que se pode perder
   é o que se pode devolver.* Nunca disse isso em voz alta porque soaria como
   opinião sobre o mundo, e ele não tem opinião sobre o mundo. (cap. 29)
+- **Uma música só, e ele tem o papel.** Ouviu *Perpetual Motion* uma vez, anotou
+  as duas palavras e o nome do sujeito num papel, com a data — **12/04/2039** —, e
+  põe a mesma coisa todo dia útil desde então, em repetição, 3min41 de cada vez.
+  O papel fica dobrado em quatro dentro do livro que ele está lendo, porque a mesa
+  não tem gaveta. Não é gosto: é procedimento — e é por isso que a banda do
+  desfile não o alcança. Ver exceção **2c**. (cap. 24)
+- **O fone dele é de outra espécie que o da Rita**, e isto é a rima de objeto:
+  peça de sete anos, do tamanho de **meia noz**, cinza-escuro, fica **para fora**
+  da orelha, prende no alto contra a cartilagem e precisa de dois empurrões. Os
+  novos não precisam. Ele nunca trocou porque este funciona. Às 9h25 ele o põe em
+  cima do tampo, com a parte lisa para cima. (cap. 24)
+- **O livro muda de semana em semana, e o papel vai junto.** Na semana do cap. 24
+  é um volume de capa dura com **Ferenc Skalla** escrito à caneta na folha de
+  rosto — só um nome numa folha de rosto, não uma pessoa do livro. **Na semana
+  seguinte o livro é outro**, o que importa porque o livro que ele esquece na
+  balaustrada em *A gentileza* **não é este e não tem o papel dentro**. A gentileza
+  da Rita não pode, em nenhuma revisão, virar a devolução de uma coisa preciosa:
+  ela devolve um livro de sebo, e é isso que a faz gratuita. (cap. 24, 29)
 - **Ele dorme bem**, e isso é o essencial: não com esforço, não depois de se
   convencer de nada.
 - **Ele gosta de deferir** — dia bom é dia de muitos deferimentos: é rápido, não
@@ -1485,7 +1586,7 @@ mais perto do que ela achava, e não encostar nos capítulos da banda.
 
 ### As rimas de objeto — transformar aos pares, ou quebram
 
-Um levantamento completo dos 43 capítulos encontrou **doze pares de objetos que
+Um levantamento completo dos 43 capítulos encontrou **treze pares de objetos que
 rimam entre capítulos distantes**. São o maior risco da reconstrução: transformar
 um lado e esquecer o outro apaga a rima e ninguém percebe até a leitura final.
 Metade dos pares tem um lado no passado (que fica) e outro no presente (que
@@ -1504,6 +1605,7 @@ muda) — nesses, a rima tem de sobreviver à diferença de época.
 | **A ferramenta que encerra a discussão sem ninguém falar** | o nível de bolha do Teodor no chão da sala do juiz | o deleatur do Aurel; as três páginas de conta do Krall |
 | **A música, e o nome dela** | o Aurel tem o **título e a banda**, e o título é o que se diz para uma máquina tocar uma coisa: ele pede e é servido | a Rita tem **só a banda**, que não serve para pedir nada, e a música dela cai de uma janela sobre ninguém em particular |
 | **A palavra que nenhum dos dois diz certo** | o Aurel pronuncia a banda *como se lê* — leu na capa, e revisor aprende palavra estrangeira pela grafia | a Rita herdou o sotaque inventado da mãe, dentro de um carro. Nenhuma frase aponta para isso |
+| **O fone, e de que espécie é** | o da Rita: **do tamanho de uma semente de abacate, chato de um lado**, entra sem apertar, esquenta um pouco, e o mundo fica a meio caminho atrás de uma parede (cap. 17). Ela diz o nome em voz alta e a música vem | o do Voss: **outra coisa e mais velha**, e ele nunca trocou. Ele não diz nada — o nome está num papel dobrado dentro do livro. Duas espécies, pelo mesmo motivo das duas unidades de cuidado: um aparelho descrito uma vez e depois só referido apaga a diferença entre quem pede e quem anotou |
 | **O chão do corredor como confessionário** | os dois metros e meio mornos do Aurel | o Elias sentado no chão do corredor dele |
 | **Entregar uma coisa a quem só sabe ler metade** | o lápis para a Nina, com quatro centímetros e meio | a caixinha para a Rita |
 
@@ -2051,7 +2153,8 @@ o outro.
 | **Rotação de cuidador piora o atendimento?** | **A literatura de cuidado mede desfecho clínico, e o desfecho clínico não piora em seis semanas.** O que as pessoas querem dizer quando reclamam é outra coisa e não tem instrumento. | É o que torna a mudança de doze para seis semanas genuinamente defensável, e é o que faz Voss concordar de boa-fé com o parágrafo que vai alcançá-lo. Se a redução fosse indefensável, ele seria tolo em vez de íntegro. | 27 |
 | **O parâmetro de doze semanas tem fundamento empírico?** | **Não. Saiu de uma negociação em 2043 — alguém queria dezesseis, alguém queria oito.** | Um critério não é uma verdade descoberta, é uma linha que alguém traçou num dia. Voss estava na sala, sabe disso, e defende a linha assim mesmo, porque enquanto houver linha o que decide é a linha. | 27 |
 | **Como funciona a personalização da parede do mercado?** | **Não se explica, e nunca se explicará.** Nenhum personagem sabe o mecanismo e nenhum acha a coisa notável. | `CLAUDE.md`, *Voz e registro*: descrever a tecnologia pelo que ela faz com alguém, nunca por como funciona. É também o único momento em que o livro chega perto de precisar de tecnobabble, e o jeito de não precisar é não olhar. | 34 |
-| **Uma máquina pode falar com um personagem?** | **Uma vez, em *O procedimento*, e nunca mais.** Decisão do autor, contra a regra que o resto do livro cumpre. | A objeção foi registrada e mantida: o `registro` só funciona porque nada mais no livro tem voz de máquina. O autor decidiu assim mesmo, e a exceção é única, declarada e documentada — o que a torna exceção em vez de erosão. Ver *As três exceções declaradas*. | 06 |
+| **Uma máquina pode falar com um personagem?** | **Uma vez, em *O procedimento*, e nunca mais.** Decisão do autor, contra a regra que o resto do livro cumpre. | A objeção foi registrada e mantida: o `registro` só funciona porque nada mais no livro tem voz de máquina. O autor decidiu assim mesmo, e a exceção é única, declarada e documentada — o que a torna exceção em vez de erosão. Ver *As cinco exceções declaradas*. | 06 |
+| **O Voss tem música?** | **Sim, uma só, na mesa, no cap. 24 — decisão do autor, e revoga a regra anterior.** A proibição passa a valer só para o desfile, onde nada pode buscar a música. A prosa relaxa e ele não: nenhuma frase diz que ele gosta. | A Parte III não tinha nenhum ponto em que o leitor tomasse ar, e o alívio é do leitor, que fica implicado por tê-lo sentido. O alívio é o ritmo dos horários, e não um trecho lento, então o capítulo não perde a velocidade que o `premise` declara. A hora que a máquina entrega inteira é gasta indeferindo quarenta e uma pessoas. Ver exceção *2c*. | 24 |
 | **O implante cura a perna?** | **Não, e o livro nunca diz que sim.** No desfile a perna não formiga; o que há é uma sensação de apertado por dentro que ele não consegue chamar nem de melhor nem de pior. | Uma cura no dia seguinte seria tecnologia milagrosa e resolveria alguma coisa, e este livro não resolve nada. O que o procedimento entrega é real, foi de graça, chegou sem ser pedido, **e é ilegível.** Nenhum capítulo pode dizer que ele melhorou. | 06, 40 |
 | **Aurel pediu o procedimento?** | **Não. Foi oferecido, e a data veio pronta.** | É a tese da conveniência aplicada ao personagem que passa o livro inteiro sem tocar na máquina. Aurel recebe sem pedir exatamente o tipo de coisa que Rita não consegue nem sendo ouvida, e **nenhum dos dois sabe da existência do outro**. Nenhum capítulo pode apontar o contraste. | 06 |
 | **A sobreposição é descrita?** | **Sim — decisão do autor, e revoga a regra anterior.** O leitor vê o que está escrito, onde fica no ar, de que tamanho, o que acontece quando alguém anda. O que continua fora é *explicar o princípio* e dar voz a máquina. | A regra antiga transformava a invenção central do livro numa parede em branco, e era a maior causa de o romance não parecer 2047. O custo aceito é envelhecer mais rápido. Ver *A sobreposição*. | 01 em diante |

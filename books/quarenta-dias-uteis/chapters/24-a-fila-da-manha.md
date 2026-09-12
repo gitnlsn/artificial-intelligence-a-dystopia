@@ -5,17 +5,45 @@ title_en: The Morning Queue
 pov: Voss
 when: 2047-10-14 — segunda, de manhã
 where: a mesa
-premise: quarenta casos numa manhã, cada um com quatro linhas e um despacho. O capítulo
-  passa rápido de propósito, e o desconforto do leitor é a forma. No meio da fila
-  entra um pedido de outra jurisdição e o formulário é idêntico.
+premise: quarenta casos numa manhã, cada um com quatro linhas e um despacho. Ele
+  põe o fone antes das oito e trabalha a fila com uma música tocando; o capítulo
+  passa rápido de propósito e os horários viram pulso, e o alívio é do leitor, porque
+  a prosa relaxa e ele não. Tira o fone antes das nove e meia. No meio da fila entra
+  um pedido de outra jurisdição e o formulário é idêntico.
 turn: ele bate a meta antes do almoço.
 threads:
 - fio-da-excecao
 cast:
 - voss
-sources: nenhuma
+sources: '*Perpetual Motion*, LukHash, 2019 — o nome está escrito num papel dobrado,
+  nunca dito em voz alta; o narrador não nomeia nada e a letra não pode ser impressa.
+  Ver docs/references.md'
 status: draft
 ---
+O fone dele é uma peça de sete anos atrás, do tamanho de meia noz, e não é dos
+que somem na orelha: fica para fora, cinza-escuro, com uma parte lisa que ficou
+mais lisa ainda de tanto polegar. Prende no alto, contra a cartilagem, e é preciso
+empurrar duas vezes. Os fones novos não precisam de nada disso. Ele nunca trocou
+porque este funciona.
+
+O livro daquela semana era um volume de capa dura com o nome de um tal Ferenc
+Skalla escrito à caneta na folha de rosto, e o papel estava dentro dele, na
+página de sempre, dobrado em quatro.
+
+Ele abriu, e leu, e os lábios dele se mexeram um pouco, do jeito que se mexem no
+ônibus.
+
+*Perpetual Motion*, na letra dele, que é pequena e reta. Embaixo o nome do
+sujeito que fez, LukHash, copiado como estava escrito. Embaixo a data em que ele
+anotou, 12/04/2039, porque uma coisa anotada sem data não serve para nada.
+
+Dobrou de novo, pôs de volta na página, fechou o livro. Empurrou o fone duas
+vezes.
+
+Começou.
+
+---
+
 Às oito e dois a fila tinha trinta e oito.
 
 ---
@@ -67,6 +95,20 @@ A janela de indicação é de dezoito meses a contar do evento. O evento tem
 vinte e nove.
 
 Indeferido. Oito e dezenove.
+
+---
+
+A música é rápida e não tem ninguém cantando.
+
+Começa com quatro notas agudas que sobem e descem e tornam a subir, sempre as
+mesmas quatro, e por baixo entra um baixo curto que não sai do lugar. Aos quinze
+segundos entra a caixa e a coisa fecha. Daí em diante o que muda é sempre por
+cima: as quatro notas ficam onde estão, e alguma coisa nova passa por cima delas
+e vai embora.
+
+Não tem meio. Não tem aquele ponto em que uma música abre e depois volta.
+
+Três minutos e quarenta e um, e recomeça do início.
 
 ---
 
@@ -146,6 +188,15 @@ Homem, trinta e oito, pede reavaliação de restrição preventiva.
 Ele leu a alegação inteira, que tinha nove linhas, o que é muito.
 
 Indeferido. Nove e vinte e um.
+
+---
+
+Às nove e vinte e cinco ele tirou o fone e pôs em cima do tampo, com a parte
+lisa para cima.
+
+Não é regra e não está escrito em lugar nenhum. É que depois das nove e meia
+começam a entrar os casos com anexo, e anexo é conferência, e conferência ele
+faz sem nada no ouvido.
 
 ---
 

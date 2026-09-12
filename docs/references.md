@@ -62,6 +62,7 @@ Aplicado a este livro:
 |---|---|---|
 | *Great Divide*, The Cardigans (Sveningsson/Svensson), faixa 10 de *First Band on the Moon*, 1996 | Em direito autoral | Nomear, descrever, deixar chegar de longe. **Não imprimir a letra** sem licença da editora musical. Atenção: o título é "Great Divide", sem "The". **Aparece duas vezes** — ver as notas abaixo |
 | *Better*, Regina Spektor, faixa de *Begin to Hope*, 2006 | Em direito autoral | Nomear e descrever. A Rita diz **o título e a cantora em voz alta** — e é a única personagem do livro que tem um nome de música inteiro **sem saber de onde o tirou**. **Não imprimir a letra.** Ver a nota abaixo |
+| *Perpetual Motion*, LukHash (Łukasz Polkowski), faixa 1 de *Better Than Reality*, 2019 | Em direito autoral | Nomear e descrever. O Voss **nunca diz o nome em voz alta**: está escrito num papel dobrado, com a letra dele. **Não imprimir a letra**, se houver. Ver a nota abaixo |
 | A música do desfile | **Inventada** — sem nome, sem letra, banda marcial de gente | Tudo. Música inventada não tem titular, e foi por isso, entre outras razões, que se decidiu assim |
 | Caetano Veloso, *Oração ao Tempo*, 1979 | Em direito autoral | Nomear e descrever apenas |
 
@@ -72,7 +73,7 @@ porque estava escrita na capa e ele lia tudo, e é por isso que ele a pronuncia
 *como se lê*. Na abertura da Parte II ela desce de uma janela sobre a Rita, que
 **nunca soube o título** e sabe a **banda**, porque a mãe dela a dizia no carro
 com sotaque de quem está inventando o sotaque. **Nenhum dos dois diz a banda
-certo, e erram diferente** — ver `docs/bible.md`, *As três exceções declaradas*,
+certo, e erram diferente** — ver `docs/bible.md`, *As cinco exceções declaradas*,
 para a regra narrativa. Os dois nunca se encontram, então ninguém no livro liga
 uma audição à outra.
 
@@ -122,6 +123,30 @@ na capa do disco da Ilse. Ver `docs/bible.md`, exceção 2.*
 **E nunca nomear a cantora**, em lugar nenhum — nem na prosa, nem no front matter,
 nem aqui. Nenhum dos dois personagens sabe quem canta, e há uma Nina no livro que
 não é ela.
+
+**A quarta música, e ela chega escrita.** Em *A fila da manhã* o Voss põe o fone
+na mesa e trabalha a fila com *Perpetual Motion*, do LukHash. **Verificado em
+2026-09-12**: LukHash é Łukasz Polkowski, compositor polonês de chiptune e
+synthwave; a faixa é a primeira de *Better Than Reality*, lançado em 24/05/2019.
+O álbum é essencialmente instrumental — a única edição vocal anunciada nas
+tiragens limitadas é de outra faixa, *Paper Doll*. **Isso não muda nada na
+regra:** havendo letra ou não, ela não entra, nem citada nem parafraseada de
+perto.
+
+O que dá para descrever é o de sempre e resolve tudo: o arpejo, o pulso, o baixo,
+a coisa que não descansa, o que o som faz com o andamento de quem escuta. **O
+nome nunca é dito em voz alta.** Está num papel dobrado dentro do livro de sebo
+que ele carrega, com a letra dele e uma data, e ele o lê mexendo um pouco os
+lábios, que é o que já faz no ônibus. O narrador continua não nomeando nada: o
+nome está na boca dele sem ser falado, e o `pov:` fica intacto. **Ele nunca
+pronuncia** — as duas pronúncias erradas de *Great Divide* são um par, e não há
+terceira vaga. Regra completa em `docs/bible.md`, exceção *2c*.
+
+**Uma coincidência de título, registrada para não virar acidente:** o álbum
+chama-se *Better Than Reality* e a música da Rita chama-se *Better*. **O título
+do álbum não é impresso em lugar nenhum do livro** — só a faixa e o artista — e
+com isso a coincidência fica fora da página. Se uma revisão futura quiser
+imprimir o nome do álbum, é uma decisão a tomar de novo, e não a herdar.
 
 ### Victor Hugo — domínio público
 

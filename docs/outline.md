@@ -85,7 +85,7 @@ pode ligar as duas audições. **A assimetria é de uso:** título é o que se d
 uma máquina tocar uma coisa, e banda não serve para pedir nada — ele tem os dois,
 ela tem só o que não serve. **E nenhum dos dois diz a banda certo:** ele a
 pronuncia como se lê, porque a leu; ela herdou o sotaque inventado da mãe. Regra
-completa em `docs/bible.md`, *As três exceções declaradas*.
+completa em `docs/bible.md`, *As cinco exceções declaradas*.
 
 O desfile fecha com uma música **sem nome**. Não é uma canção conhecida, não é
 citada, não tem letra e não precisa ser reconhecida por ninguém — nem pelos
@@ -283,7 +283,7 @@ Proposta. Cada protagonista perdeu um mundo compartilhado diferente.
 |---|---|---|---|---|
 | I | o velho | o século | a história comum — ele lia o mesmo jornal que o vizinho | Hobsbawm, lido em voz alta |
 | II | Rita e Elias | o turno | um ao outro | *Great Divide*, ouvida de longe |
-| III | o Javert | a notificação | a convicção de que a regra vale igual para todos | nenhuma; a parte dele é a única sem música |
+| III | o Javert | a notificação | a convicção de que a regra vale igual para todos | *Perpetual Motion*, uma só, na mesa, e ele não a comenta — e nenhuma no desfile |
 | IV | a criança | o presente | nada; nunca teve | a banda da escola, ensaiando mal |
 
 **A Parte II é o par.** Dois que estão se desfazendo porque um deles tem, no
@@ -800,11 +800,11 @@ O leitor já morou numa daquelas casas.
 - **POV** — Voss
 - **Quando** — 2047-10-14 — segunda, de manhã
 - **Onde** — a mesa
-- **A ideia** — quarenta casos numa manhã, cada um com quatro linhas e um despacho. O capítulo passa rápido de propósito, e o desconforto do leitor é a forma. No meio da fila entra um pedido de outra jurisdição e o formulário é idêntico.
+- **A ideia** — quarenta casos numa manhã, cada um com quatro linhas e um despacho. Ele põe o fone antes das oito e trabalha a fila com uma música tocando; o capítulo passa rápido de propósito e os horários viram pulso, e o alívio é do leitor, porque a prosa relaxa e ele não. Tira o fone antes das nove e meia. No meio da fila entra um pedido de outra jurisdição e o formulário é idêntico.
 - **A virada** — ele bate a meta antes do almoço.
 - **Fios** — fio-da-excecao
 - **Elenco** — voss
-- **Fontes** — nenhuma
+- **Fontes** — *Perpetual Motion*, LukHash, 2019 — o nome está escrito num papel dobrado, nunca dito em voz alta; o narrador não nomeia nada e a letra não pode ser impressa. Ver docs/references.md
 
 ### 25. Quatro linhas
 *(Four Lines)*

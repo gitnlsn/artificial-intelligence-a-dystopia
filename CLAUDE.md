@@ -32,10 +32,18 @@ cannot be personalised. **Voss is the exception, and the draft found something
 better than the plan for him:** he does not hear the band at all — he cannot
 recall a bar of it on the Monday. What puts *him* on the beat is the step back,
 taken at the same second as twelve hundred other people, at the request of an
-instruction he reads, evaluates and finds well designed. The music would have
+instruction he reads, evaluates and finds well designed. **The band** would have
 been a consolation handed to the one man the book must not console. The rule
 falling on him exactly as he spent twenty-two years arguing it should is not a
 consolation, and it is the same beat.
+
+**He is not a man without music, and that is the author's decision** — see *A
+quarta música*, below. He has one song, he has had it for years, and he listens
+to it at his desk while he refuses forty-one people in a morning. It does not
+console him and the prose never says he likes it. What it costs him is nothing,
+which is the point: a man with one song since a date he wrote down is not a man
+with taste, he is a man with a procedure, and the band at the parade gives him
+nothing because nothing outside the procedure reaches him.
 
 The pace is **visible in the table of contents**: Part I is six long chapters,
 Part IV is thirteen short ones. The reader feels the acceleration before knowing
@@ -406,14 +414,72 @@ personalise a tuba.** Every other sound in the book was transmitted, recommended
 or allocated; this one is being made, in the street, by someone's body.
 
 Three of the four get it. Voss gets the step back instead, and **nothing in his
-chapter may reach for the music** — no half-heard bar, no belated recognition.
-He is the reader's proof that the ending gives the world nothing.
+parade chapter may reach for the music** — no half-heard bar, no belated
+recognition, and no line that remembers the desk. *(Scoped deliberately. It
+governs the parade and only the parade; the desk is a separate decision, below,
+and it does not soften this one.)* He is the reader's proof that the ending
+gives the world nothing.
 
 The formal rhyme: the first song is *overheard*, the last is *played by people*.
 And the band is known to be human because it is slightly out of tune — Nina,
 Aurel and Rita each hear that and each make something of it. Voss hears it too
 ("uns metais ligeiramente fora") and makes nothing of it at all, which is the
-whole difference between him and the other three.
+whole difference between him and the other three. **He is the one of the four
+who had music that morning and still heard nothing**, and no sentence anywhere
+points at that.
+
+### A quarta música — *Perpetual Motion*, e ela é do Voss
+
+**The author's decision, taken with the objection in hand and overruled.** *(The
+objection: that music in this book is the consolation device and Voss is the one
+man who must not be consoled; that a driving track under a queue makes his speed
+read as rhythm when the chapter says it is the absence of decisions; that the
+title glosses the chapter; and that the provenance axis is a stated pair. All of
+it is recorded in `docs/bible.md`, exception 2c, so that no later revision
+"fixes" this.)*
+
+In *A fila da manhã* Voss puts on the fone at his desk before eight and works
+the queue with a song in his ears. **What it is for is the reader.** Part III is
+nine chapters of refusals with nowhere to rest, and this is the one place the
+reader gets air.
+
+- **The prose relaxes and Voss does not.** No sentence says he likes it, no
+  sentence says it helps, and no tell — no foot, no tapping, no case held half a
+  second longer. The pleasure belongs entirely to the reader, who is implicated
+  by having felt it. That is the dystopia rule working, not an exception to it.
+- **The release is the rhythm, not a slow passage.** The chapter already has a
+  metronome — *Oito e seis. Oito e nove. Oito e onze.* — and under the song
+  those timestamps stop reading as refusals and start reading as a pulse.
+  Nothing slows down. **The chapter keeps its speed**; only the reader's
+  relation to it changes.
+- **It is the spine landing on him.** Part III's clock is the day arriving
+  interrupted, and this is the one stretch in the whole part that is *not*
+  interrupted. The machine hands this man an unbroken hour, perfectly
+  delivered, and he spends it denying forty-one people faster than he ever has.
+  **No sentence points at that either.**
+- **The name reaches the page written, never spoken.** Two words and a date on a
+  folded slip in his handwriting, kept in the second-hand book he carries. He
+  reads it and his lips move, the way they already do on the bus. **He never
+  pronounces it aloud** — the two wrong pronunciations of *Great Divide* are a
+  pair that pays for Aurel holding a whole name, and there is no third slot.
+- **Provenance is a record, and that is the third position.** Aurel's name came
+  from a dead woman's mouth; Rita's came whole from a package and she has never
+  asked. Voss heard his once and **wrote it down**, which is the only way this
+  man keeps anything. He is not a third term on the Aurel–Rita axis and **no
+  chapter compares them.** Rita remains the only person in the book holding a
+  whole song name without knowing where she got it.
+- **The fone comes off before Teodor.** *Quatro linhas* sits inside this
+  morning, and it must arrive in silence. He takes it off flatly, at a stated
+  time, and he decides to — the hand that moves before its owner is Rita's beat
+  and stays hers.
+- **Nothing responds.** No voice, no confirmation, no interface. The single
+  speaking machine in *O procedimento* is still the only one.
+- **The title is never glossed.** No sentence may connect *perpetual motion* to
+  the queue, the morning, the man or the world. That is the largest risk in the
+  whole decision, and it is the one that would turn this into a thesis sentence.
+- **One chapter, and no more.** The song does not return in Part III, does not
+  return at the parade, and is never mentioned by anyone else.
+- No lyric, here as everywhere.
 
 ## O que a Parte I já fixou — canon, and binding on the rest
 
