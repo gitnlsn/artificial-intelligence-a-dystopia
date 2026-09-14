@@ -46,7 +46,7 @@ with taste, he is a man with a procedure, and the band at the parade gives him
 nothing because nothing outside the procedure reaches him.
 
 The pace is **visible in the table of contents**: Part I is six long chapters,
-Part IV is thirteen short ones. The reader feels the acceleration before knowing
+Part IV is fourteen short ones. The reader feels the acceleration before knowing
 it is there.
 
 **How the four reach the same street, without coincidence.** Nina takes her
@@ -413,6 +413,25 @@ air move at the same second. The whole argument in one image: **you cannot
 personalise a tuba.** Every other sound in the book was transmitted, recommended
 or allocated; this one is being made, in the street, by someone's body.
 
+**A fifth song, and it is Nina's — the author's decision.** In *Em outra língua*
+she plays *space in the space*, Uru, at night, in her room. **She does not
+understand the words, and that is literal**: they are not in her language. She
+reads the translation right through and each sentence makes sense while together
+they do not; then she puts the song on again. Her mother says *um dia você
+entende* without stopping walking. Nothing in the part treats any of this as a
+loss — Part IV is the part where nothing is sad.
+
+**The language is never named**, the title is never glossed, the singer is never
+named, and **her pronunciation is not marked** — the two wrong pronunciations of
+*Great Divide* are a closed pair and there is no third slot. **Provenance is the
+fourth position and it does not touch Rita's**: the song arrived recommended and
+**Nina knows exactly how it arrived**, and knowing changes nothing and never
+occurs to her as anything. Rita remains the only person in the book holding a
+whole song name without knowing where she got it. The chapter falls on the same
+night as *A música que ela pediu* and **no chapter compares them**. One chapter,
+and no more: it does not return at the parade or in *Depois*. Full contract in
+`docs/bible.md`, exception 2d.
+
 Three of the four get it. Voss gets the step back instead, and **nothing in his
 parade chapter may reach for the music** — no half-heard bar, no belated
 recognition, and no line that remembers the desk. *(Scoped deliberately. It
@@ -740,13 +759,21 @@ the one that was planned.
    despatch in the book, including the one that finally reaches Voss. It is the
    only thing the system says identically to everyone, and it means nothing.
 3. **The epigraphs — and the book now needs no permission from anyone.** All
-   three are verified against a source in `docs/references.md`: **Tocqueville**
+   four are verified against a source in `docs/references.md`: **Tocqueville**
    (*De la démocratie en Amérique*, 1840) for Part I, **Simone Weil** (*Attente
-   de Dieu*) for Part II, **Hugo** (*Les Misérables*) for Part III. All three
+   de Dieu*) for Part II, **Hugo** (*Les Misérables*) for Part III, and — by the
+   author's decision, which **revokes the rule that Part IV had none** —
+   **Rilke** (*Briefe an einen jungen Dichter*, 1903) for Part IV. All four
    authors are public domain and every translation is ours, so **no rightsholder
-   exists anywhere in the front matter.** **Part IV deliberately has none at
-   all** — it is the only part whose protagonist inherited no text, and the part
-   file says so in place so nobody "fixes" it later.
+   exists anywhere in the front matter.**
+
+   The old rule held that Part IV went bare because it is the only part whose
+   protagonist inherited no text. It does not survive being said out loud —
+   Aurel did not inherit Tocqueville and Voss did not inherit Hugo, and an
+   epigraph is paratext, addressed to the reader. **Do not restore it.** The
+   objection that was put and overruled: Rilke **endorses Mira's promise** in
+   the one part that must not console. Recorded in `docs/bible.md`, exception
+   2e, and in `docs/references.md`, section 5.
 
    **The default is to translate from the original and mark *tradução nossa*.**
    Part I used to print Hobsbawm in Marcos Santarrita's published translation,

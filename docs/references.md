@@ -63,6 +63,7 @@ Aplicado a este livro:
 | *Great Divide*, The Cardigans (Sveningsson/Svensson), faixa 10 de *First Band on the Moon*, 1996 | Em direito autoral | Nomear, descrever, deixar chegar de longe. **Não imprimir a letra** sem licença da editora musical. Atenção: o título é "Great Divide", sem "The". **Aparece duas vezes** — ver as notas abaixo |
 | *Better*, Regina Spektor, faixa de *Begin to Hope*, 2006 | Em direito autoral | Nomear e descrever. A Rita diz **o título e a cantora em voz alta** — e é a única personagem do livro que tem um nome de música inteiro **sem saber de onde o tirou**. **Não imprimir a letra.** Ver a nota abaixo |
 | *Perpetual Motion*, LukHash (Łukasz Polkowski), faixa 1 de *Better Than Reality*, 2019 | Em direito autoral | Nomear e descrever. O Voss **nunca diz o nome em voz alta**: está escrito num papel dobrado, com a letra dele. **Não imprimir a letra**, se houver. Ver a nota abaixo |
+| *space in the space*, Uru (letra e melodia de Uru; arranjo de Kan Sano), de *オリオンブルー* (Orion Blue), 2020 | Em direito autoral | Nomear e descrever. A Nina diz **o título em voz alta** e a cantora não é nomeada em lugar nenhum. **Não imprimir a letra** — e ver abaixo a letra falsa que circula |
 | A música do desfile | **Inventada** — sem nome, sem letra, banda marcial de gente | Tudo. Música inventada não tem titular, e foi por isso, entre outras razões, que se decidiu assim |
 | Caetano Veloso, *Oração ao Tempo*, 1979 | Em direito autoral | Nomear e descrever apenas |
 
@@ -148,6 +149,34 @@ do álbum não é impresso em lugar nenhum do livro** — só a faixa e o artist
 com isso a coincidência fica fora da página. Se uma revisão futura quiser
 imprimir o nome do álbum, é uma decisão a tomar de novo, e não a herdar.
 
+**A quinta música, e ela chega numa língua que a Nina não fala.** Em *Em outra
+língua* a Nina põe *space in the space*, da Uru. **Verificado em 2026-09-14**:
+Uru é cantora e compositora japonesa; a letra e a melodia são dela, o arranjo é
+de Kan Sano, e a faixa está em *オリオンブルー* (*Orion Blue*), de 18/03/2020.
+**A letra é em japonês.**
+
+**Uma letra falsa circula, e está registrada aqui para que ninguém a
+reintroduza.** Um resumo gerado por IA atribuiu à canção um dístico em inglês
+— *"Let me stay in the space in the space / Where no one can touch my tears"* —
+e um tema de solidão e vazio interior. **As duas coisas são invenção.** Não
+existe verso em inglês na canção, e o tema, pela descrição da própria autora, é
+outro: *space* ali é o universo, o título é um neologismo dela, e a canção fala
+de duas pessoas se fundindo — dependência mútua, não solidão. Nada disso entra
+no livro, porque **letra não se imprime e título não se glosa**, mas a leitura
+errada não deve voltar por nenhuma revisão.
+
+**O que dá para descrever**, e resolve tudo: a moça canta bonito, a parte do meio
+sobe, e há um lugar quase no fim em que tudo para meio segundo antes de voltar.
+O nome está na boca da Nina e o narrador continua não nomeando nada. **A cantora
+não é nomeada em lugar nenhum da prosa** — pelo mesmo motivo de sempre, e porque
+a Nina, com nove anos, não pergunta quem canta.
+
+**Ela lê a tradução e continua sem entender, e isso não é tristeza nenhuma.** As
+palavras aparecem escritas na língua dela e ela as lê inteiras: cada frase dá
+para entender, juntas não dão. **Nenhuma frase do livro comenta isso**, e o
+sentido disponível sem o entendimento é o capítulo inteiro. Regra completa em
+`docs/bible.md`, exceção *2d*.
+
 ### Victor Hugo — domínio público
 
 Hugo (1802–1885) está em **domínio público**. *Les Misérables* (1862) pode ser
@@ -157,15 +186,17 @@ próprio**, do tradutor. Se for citar em português, ou usar uma tradução anti
 em domínio público, ou traduzir o trecho.
 
 Javert é o modelo do protagonista da Parte III (ver `docs/outline.md`). Depois
-que a música do desfile passou a ser inventada, **esta é a única citação do
-livro que não custa nada nem depende da permissão de ninguém.** A Parte IV, de
-propósito, não tem epígrafe.
+que a música do desfile passou a ser inventada, **esta é uma das quatro
+citações do livro que não custam nada nem dependem da permissão de ninguém** — as
+outras são Tocqueville, Weil e Rilke. A Parte IV **passou a ter epígrafe**, e o
+Rilke também está em domínio público.
 
 ### As epígrafes e o Hobsbawm do capítulo 1
 
-**Nenhuma epígrafe do livro depende de permissão.** As três — Tocqueville na
-Parte I, Weil na Parte II, Hugo na Parte III — são de autores em domínio público,
-com tradução nossa, e a Parte IV não tem nenhuma de propósito.
+**Nenhuma epígrafe do livro depende de permissão.** As quatro — Tocqueville na
+Parte I, Weil na Parte II, Hugo na Parte III, Rilke na Parte IV — são de autores
+em domínio público, com tradução nossa. **A Parte IV deixou de ser a parte sem
+epígrafe** por decisão do autor; ver a seção 5, abaixo.
 
 Eric Hobsbawm (1917–2012) continua no livro, mas **em um lugar só**: o capítulo 1,
 onde Aurel está lendo *A Era das Revoluções*. Nomear o autor, os títulos e os
@@ -233,9 +264,8 @@ das Letras. Traduzir por conta removeria só o segundo e custaria *presente
 contínuo*, que é a solução do Santarrita e é como o leitor brasileiro conhece a
 frase. Trocar remove os dois.
 
-**Com esta troca o livro não tem nenhuma permissão pendente**: Tocqueville, Weil
-e Hugo estão os três em domínio público, com tradução nossa, e a Parte IV não tem
-epígrafe de propósito. Uma revisão futura que restaure o Hobsbawm reintroduz um
+**Com esta troca o livro não tem nenhuma permissão pendente**: Tocqueville, Weil,
+Hugo e Rilke estão os quatro em domínio público, com tradução nossa. Uma revisão futura que restaure o Hobsbawm reintroduz um
 pedido à Companhia das Letras — se for para fazer isso, que seja por decisão
 tomada de novo, e não por alguém achando que melhora.
 
@@ -364,6 +394,50 @@ permissão precisa da edição, e a edição está registrada acima.
 impressa — travessão, itálico, caixa em "século XX". Conferir contra um
 exemplar antes da prova final é bom ofício, e não é motivo para segurar o
 manuscrito.
+
+#### 5. A epígrafe da Parte IV — Rilke (1903)
+
+> …zu versuchen, die Fragen selbst liebzuhaben wie verschlossene Stuben und wie
+> Bücher, die in einer sehr fremden Sprache geschrieben sind. Forschen Sie jetzt
+> nicht nach den Antworten, die Ihnen nicht gegeben werden können, weil Sie sie
+> nicht leben könnten. […] Vielleicht leben Sie dann allmählich, ohne es zu
+> merken, eines fernen Tages in die Antwort hinein.
+
+*Briefe an einen jungen Dichter*, carta a Franz Xaver Kappus, **16 de julho de
+1903** (publicadas em 1929). **Conferida contra o texto alemão**, lendo o
+parágrafo inteiro em volta.
+
+**Direitos:** Rilke morreu em 29/12/1926 — domínio público no Brasil desde 1997,
+e a tradução é nossa. **Não deixa titular nenhum**, e com ela a Parte IV entra
+sem reabrir nenhuma permissão.
+
+**Por que é esta.** *Em outra língua* é o capítulo em que a Nina escuta uma
+canção cujas palavras não são na língua dela, diz que escuta e não entende, e
+ouve da mãe *um dia você entende*. Rilke escreve em 1903 **a imagem exata da
+cena** — amar as perguntas *como livros escritos numa língua muito estrangeira*
+— e termina com a promessa da Mira, dita por um adulto a alguém jovem. É a mesma
+espécie de coincidência que justifica o Tocqueville na Parte I: alguém acerta a
+forma do presente do livro antes de o leitor conhecer a personagem.
+
+**A objeção, posta por inteiro e vencida pelo autor.** A Parte IV é a parte que
+não pode consolar — *não tem nada de triste aqui, que é o que faz desta a parte
+mais assustadora do livro* — e esta epígrafe **endossa a promessa da Mira** em
+vez de deixá-la vazia. É também a passagem mais citada do Rilke e corre risco de
+ler como cartão. As alternativas consideradas e preteridas foram **Proust**
+(*"não se recebe a sabedoria… um trajeto que ninguém pode fazer por nós"*), que
+diria o contrário, e **Rousseau** (*Émile*), que não tomaria partido. A decisão é
+do autor e está registrada aqui e em `docs/bible.md` **para que nenhuma revisão
+posterior "conserte"**.
+
+**A regra velha, revogada:** a Parte IV não tinha epígrafe de propósito, e o
+arquivo da abertura trazia um aviso pedindo que ninguém consertasse isso. O
+motivo registrado — *é a única parte cuja protagonista não herdou texto nenhum* —
+não sobrevive a ser dito em voz alta: o Aurel não herdou Tocqueville e o Voss não
+herdou Hugo. **Não restaurar.**
+
+**Consequência colateral, registrada porque passou a ser verdade:** as outras
+três epígrafes são todas francesas, e esta quebra o conjunto. Foi considerado e
+não é defeito.
 
 *Isto é levantamento prático, não parecer jurídico. Para uma tiragem comercial,
 confirmar com quem entende.*

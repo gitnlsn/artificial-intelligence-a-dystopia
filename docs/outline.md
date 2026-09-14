@@ -912,7 +912,18 @@ quatro relógios batem juntos.
 - **Elenco** — nina, aurel, mira
 - **Fontes** — nenhuma
 
-### 33. A escola
+### 33. Em outra língua
+*(In Another Language)*
+- **POV** — Nina
+- **Quando** — 2047-10-17 — quinta, à noite
+- **Onde** — o quarto dela
+- **A ideia** — ela escuta uma música cujas palavras não são na língua dela, e isso não é um problema. Diz que escuta e não entende; a mãe diz que um dia ela entende, de passagem, indo fazer outra coisa.
+- **A virada** — ela põe de novo.
+- **Fios** — fio-da-nina
+- **Elenco** — nina, mira
+- **Fontes** — *space in the space*, Uru (letra e melodia de Uru, arranjo de Kan Sano), de *Orion Blue*, 2020 — nomear e descrever, nunca imprimir a letra. Ver docs/references.md
+
+### 34. A escola
 *(School)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, de manhã
@@ -923,7 +934,7 @@ quatro relógios batem juntos.
 - **Elenco** — nina, bel
 - **Fontes** — nenhuma
 
-### 34. A amiga
+### 35. A amiga
 *(The Friend)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, no recreio
@@ -935,7 +946,7 @@ quatro relógios batem juntos.
 - **Elenco** — nina, bel, lu
 - **Fontes** — nenhuma
 
-### 35. O que ela vê
+### 36. O que ela vê
 *(What She Sees)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, na saída
@@ -946,7 +957,7 @@ quatro relógios batem juntos.
 - **Elenco** — nina, bel
 - **Fontes** — nenhuma
 
-### 36. O avô é antigo
+### 37. O avô é antigo
 *(Grandpa Is Old-Fashioned)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, à tarde
@@ -958,7 +969,7 @@ quatro relógios batem juntos.
 - **Elenco** — nina, aurel
 - **Fontes** — nenhuma
 
-### 37. A banda ensaia
+### 38. A banda ensaia
 *(The Band Rehearses)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, fim de tarde
@@ -970,7 +981,7 @@ quatro relógios batem juntos.
 - **Elenco** — nina, bel, doria, mira
 - **Fontes** — nenhuma
 
-### 38. A véspera
+### 39. A véspera
 *(The Eve)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, à noite
@@ -981,7 +992,7 @@ quatro relógios batem juntos.
 - **Elenco** — nina, mira
 - **Fontes** — nenhuma
 
-### 39. A rua enche
+### 40. A rua enche
 *(The Street Fills)*
 - **POV** — Nina
 - **Quando** — 2047-10-19 — sábado, de manhã
@@ -992,7 +1003,7 @@ quatro relógios batem juntos.
 - **Elenco** — nina, aurel, mira
 - **Fontes** — nenhuma
 
-### 40. O desfile — Nina
+### 41. O desfile — Nina
 *(The Parade — Nina)*
 - **POV** — Nina
 - **Quando** — 2047-10-19 — sábado, 10h12
@@ -1004,7 +1015,7 @@ quatro relógios batem juntos.
 - **Elenco** — nina, aurel, bel
 - **Fontes** — nenhuma
 
-### 41. O desfile — Aurel
+### 42. O desfile — Aurel
 *(The Parade — Aurel)*
 - **POV** — Aurel
 - **Quando** — 2047-10-19 — sábado, 10h12
@@ -1017,7 +1028,7 @@ quatro relógios batem juntos.
 - **Elenco** — aurel, nina
 - **Fontes** — nenhuma
 
-### 42. O desfile — Rita
+### 43. O desfile — Rita
 *(The Parade — Rita)*
 - **POV** — Rita
 - **Quando** — 2047-10-19 — sábado, 10h12
@@ -1028,7 +1039,7 @@ quatro relógios batem juntos.
 - **Paga** — a-musica-de-longe, a-musica-pedida
 - **Elenco** — rita
 
-### 43. O desfile — Voss
+### 44. O desfile — Voss
 *(The Parade — Voss)*
 - **POV** — Voss
 - **Quando** — 2047-10-19 — sábado, 10h12
@@ -1039,7 +1050,7 @@ quatro relógios batem juntos.
 - **Elenco** — voss
 - **Fontes** — nenhuma
 
-### 44. Depois
+### 45. Depois
 *(After)*
 - **POV** — Nina
 - **Quando** — 2047-10-19 — sábado, meio-dia

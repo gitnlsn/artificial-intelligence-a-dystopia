@@ -2,9 +2,11 @@
 part: IV — O PRESENTE
 title: O presente
 illustration: 04-o-presente
-status: outline
+status: draft
 ---
-As Partes I, II e III abrem com uma epígrafe. Esta abre sem nada, e é de
-propósito: é a única parte do livro cuja protagonista não herdou texto nenhum.
+Tente amar as próprias perguntas, como quartos fechados e como livros escritos
+numa língua muito estrangeira. Não procure agora as respostas, que não lhe podem
+ser dadas porque você não seria capaz de vivê-las. Talvez então, sem perceber,
+você viva, num dia distante, para dentro da resposta.
 
-Não deixar ninguém "consertar" isto depois.
+*Rainer Maria Rilke, Briefe an einen jungen Dichter, 1903. Tradução nossa.*

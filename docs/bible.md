@@ -502,10 +502,92 @@ leitor toma ar.
   não gosto, porque um homem com uma música só, todo dia útil, desde uma data
   que ele anotou, não é um homem com gosto: é um homem com procedimento. A banda
   não o alcança porque nada fora do procedimento o alcança. **Uma revisão futura
-  que "harmonize" o cap. 43 com este capítulo destrói os dois.**
+  que "harmonize" o cap. 44 com este capítulo destrói os dois.**
 
 **Direitos:** título e nome de artista são livres; a letra não. Ver
 `docs/references.md`.
+
+### 2d. A quinta música — *space in the space*, e ela é da Nina
+
+**Decisão do autor.** Em *Em outra língua* a Nina põe *space in the space*, da
+Uru, de noite, de pijama, baixinho. É a quinta música do livro e a primeira que a
+Parte IV tem além da banda — a Nina era a única protagonista sem música própria.
+
+**A objeção, posta por inteiro e vencida:** que cinco músicas começam a fazer o
+livro parecer um livro sobre música; que a Parte IV é a parte onde nada é triste
+e uma criança que não entende a própria canção convida à pena; e que a
+procedência era um par declarado, depois um trio, e agora um quarteto. Está
+registrado aqui para que nenhuma revisão posterior "conserte".
+
+- **Ela não entende as palavras, e isso é literal.** A letra não é na língua
+  dela. Nada nisso é ferida: ela acha engraçado e continua. **Nenhuma frase do
+  livro trata isso como perda.**
+- **A língua nunca é nomeada.** Nem país, nem continente, nem povo. O texto diz
+  que as palavras não são na língua dela e para aí. Vale a mesma varredura de
+  *O lugar, e o calendário*: tirar o nome do país não é tirar só o nome.
+- **A procedência é a quarta posição, e a vaga da Rita não se mexe.** A música
+  apareceu recomendada e **a Nina sabe perfeitamente como apareceu** — e saber
+  não muda nada nem lhe ocorre que pudesse. É a posição nativa de 2047:
+  transparência total, significância zero. O do Aurel veio da boca da Ilse; o da
+  Rita veio inteiro no pacote e ela nunca se perguntou de onde; o do Voss ele
+  ouviu uma vez e anotou. **A Rita continua sendo a única pessoa do livro que
+  segura um nome de música inteiro sem saber de onde tirou** — a Nina sabe, e é
+  por contraste que a frase da exceção 2b não muda uma vírgula.
+- **Ela lê a tradução e continua sem entender.** As palavras aparecem escritas na
+  língua dela e ela as lê inteiras, com atenção: cada frase dá para entender,
+  juntas não dão. **O sentido está disponível e o entendimento não**, e nenhuma
+  frase do livro aponta para isso. É também o lugar em que a sobreposição da Nina
+  aparece fazendo uma coisa, sem nome, sem aparelho e sem explicação nenhuma.
+- **Nada responde.** Recomendação não é fala e escrita não é voz. A máquina de
+  *O procedimento* continua sendo a única que fala com alguém.
+- **O título nunca é glosado.** Nenhuma frase liga *space in the space* à Nina, à
+  noite, ao mundo ou a coisa nenhuma — mesma regra que protege o *perpetual
+  motion* do Voss, e o maior risco desta decisão.
+- **O nome está na boca dela e o narrador não nomeia nada.** Ela diz o título
+  inteiro em voz alta e a música vem. **A pronúncia não é assinalada**: as duas
+  pronúncias erradas de *Great Divide* são um par fechado e **não há terceira
+  vaga**. A cantora não é nomeada em lugar nenhum da prosa.
+- **A mãe diz a frase e não explica nada.** *Um dia você entende*, dita de
+  passagem, com as duas mãos ocupadas, sem parar de andar. A promessa não custa
+  nada a quem a faz, e é por isso que não consola. **A Mira não aparece na porta**
+  — esse beat é de *A véspera* e continua sendo.
+- **A rima que fica sem comentário.** O capítulo cai na mesma noite de *A música
+  que ela pediu* — quinta, 17/10 —, em que a Rita diz um nome inteiro em voz alta
+  e a música chega perfeita em menos de um segundo. Duas pessoas, uma noite, duas
+  músicas entregues. **Nenhum capítulo compara as duas**, e `make digest --tempo`
+  vai mostrá-las lado a lado. É o método da matrícula 88-2214.
+- **Um capítulo, e mais nenhum.** A música não volta no desfile, não volta em
+  *Depois*, e ninguém mais no livro a menciona. **A banda continua sendo a única
+  coisa que chega igual para todo mundo**, e o capítulo do desfile do Voss
+  continua não podendo buscar música nenhuma.
+- **Sem registro.** O capítulo não carrega bloco `::: {.registro}`.
+- Sem letra, aqui como em todo lugar. **Uma letra falsa circula atribuída a esta
+  canção** e está registrada em `docs/references.md` para não voltar.
+
+**Direitos:** título e nome de artista são livres; a letra não. Ver
+`docs/references.md`.
+
+### 2e. A Parte IV passou a ter epígrafe — Rilke
+
+**Decisão do autor, e revoga uma regra.** A regra era: a Parte IV não tem
+epígrafe de propósito, *por ser a única parte cuja protagonista não herdou texto
+nenhum*, e o arquivo da abertura trazia um aviso pedindo que ninguém consertasse
+isso. O motivo não sobrevive a ser dito em voz alta — o Aurel não herdou
+Tocqueville e o Voss não herdou Hugo, e epígrafe é paratexto, é do leitor.
+**A regra velha não deve ser restaurada por nenhuma revisão posterior.**
+
+A escolhida é Rilke, *Briefe an einen jungen Dichter*, carta de 16/07/1903 —
+amar as perguntas *como livros escritos numa língua muito estrangeira*, e viver
+um dia distante para dentro da resposta. Domínio público, tradução nossa, nenhum
+titular. Ficha completa, com o alemão conferido, em `docs/references.md`, seção 5.
+
+**A objeção, posta por inteiro e vencida:** a Parte IV é a parte que não pode
+consolar, e esta epígrafe **endossa a promessa da Mira** em vez de deixá-la
+vazia. Foram consideradas e preteridas **Proust** (*não se recebe a sabedoria*),
+que diria o contrário, e **Rousseau**, que não tomaria partido.
+
+**Consequência colateral:** as outras três epígrafes são francesas e esta quebra
+o conjunto. Considerado, e não é defeito.
 
 ### 3. A Rita é uma unidade de cuidado
 
@@ -894,9 +976,9 @@ os nomes. Essa diferença é a maior parte da caracterização que o livro preci
 | **Bloco C** | o prédio da administração. Sete degraus na frente, balaustrada de pedra ao lado da escada, porta giratória. O guichê fecha às cinco | 16 |
 | **a praça** | onde Voss almoça, sempre o mesmo, voltando cinco minutos antes | 22 |
 | **rua Halden** | onde o pai de Elias morou sozinho até o fim, e tinha razão de não querer sair | 13 |
-| **a Avenida** | onde passa o desfile. A esquina da farmácia é onde o azul da banda some. A curva é de onde as coisas vêm | 38 |
+| **a Avenida** | onde passa o desfile. A esquina da farmácia é onde o azul da banda some. A curva é de onde as coisas vêm | 39 |
 | **rua Solvig** | quatro paradas do 41 a partir da Aldan. A unidade fica no terceiro andar; a entrada tem uma rampa larga, com corrimão dos dois lados, no lugar dos três degraus que tinha | 06 |
-| **a parede do mercado** | grande e lisa, na frente do mercado, do lado direito do trajeto grande do ônibus escolar. **É nela que passam as coisas, e duas pessoas olhando no mesmo segundo veem coisas diferentes** | 34 |
+| **a parede do mercado** | grande e lisa, na frente do mercado, do lado direito do trajeto grande do ônibus escolar. **É nela que passam as coisas, e duas pessoas olhando no mesmo segundo veem coisas diferentes** | 35 |
 
 ## O elenco
 
@@ -938,12 +1020,12 @@ de vista, e é ele que um capítulo fura sem perceber.
   sair de uma reunião; a carta diz que não é necessário acompanhante e a carta
   está certa; e se ela soubesse, não deixaria ele ir ao desfile no dia seguinte.
   Ele tinha dito à neta que ia. **Mira nunca fica sabendo**, nem no desfile.
-  (cap. 06, 41)
+  (cap. 06, 42)
 - **No desfile a perna não formiga.** Não é cura e ele não consegue chamar de
   melhor nem de pior: é uma sensação de apertado por dentro, na altura da coxa,
   que começou na véspera à noite, e sobre a qual disseram que podia ser
   desagradável no começo. **O corpo dele parou de pedir para andar até a estante,
-  e não há nome para o que sobrou.** (cap. 41)
+  e não há nome para o que sobrou.** (cap. 42)
 - **O que ele procura e não acha** — durante os seis minutos em que a voz
   descreve o procedimento, ele confere a fala do jeito que confere uma prova, e
   não há erro nenhum. O que o alcança não é a frase estar certa: é que, se
@@ -960,7 +1042,7 @@ de vista, e é ele que um capítulo fura sem perceber.
   começa baixo e sobe até um ponto que ele não precisou escolher. **Ele escolheu a
   música; a máquina escolheu o volume**, e é isso que faz a conta dos onze anos
   fechar em 2036 no desfile. Não sabe o nome do disco nem o nome de quem canta.
-  (cap. 06, 41)
+  (cap. 06, 42)
 - **A Ilse sintética, oferecida em 2039 e recusada.** Não com essas palavras e não
   por um vendedor: uma pergunta educada no fim de outra coisa. **A razão não é
   lealdade nem pudor** — é que para tê-la de volta ele teria de descrevê-la, e
@@ -1182,6 +1264,11 @@ de vista, e é ele que um capítulo fura sem perceber.
   a mesma e custa disponibilidade, e é isso que a torna cara.
 - Buzina lá embaixo em vez de subir. Aurel decidiu há uns quatro anos não achar
   isso ruim, e não acha, com esforço regular.
+- **Diz *um dia você entende*** quando a Nina conta que escuta a música e não
+  entende — de passagem, com as duas mãos ocupadas, atravessando para o outro
+  cômodo, **sem parar de andar**. Não explica nada, e não é frieza: é a única
+  coisa que um adulto pode dizer ali sem quebrar a regra de que ninguém explica o
+  mundo à Nina. **A promessa não custa nada a quem a faz.** (cap. 33)
 - Dormiu no quarto de solteiro até os dezenove.
 
 ### Nina
@@ -1202,6 +1289,18 @@ de vista, e é ele que um capítulo fura sem perceber.
 - **Usa o deleatur errado, e é assim que a marca sobrevive**: risca *outrossim*,
   *destarte* e uma frase comprida, por serem feias e não por estarem erradas.
   Aurel deixa. (cap. 04)
+- **A música dela, e ela não entende as palavras.** Põe *space in the space*
+  desde a terça, de noite, depois do banho, baixinho. **Não é a favorita** — a
+  favorita é outra e muda quase toda semana. Diz o título inteiro em voz alta e a
+  música vem. A letra não é na língua dela, ela achou engraçado e continuou, e
+  **espera o lugar quase no fim em que tudo para meio segundo**. Na quarta leu a
+  tradução inteira, com atenção, sentada: cada frase dava para entender, juntas
+  não davam. **Sabe perfeitamente de onde a música veio e não dá a menor
+  importância para isso.** Ver exceção **2d**. (cap. 33)
+- **O que ela faz com o que recebe.** Usa o deleatur errado e entende a canção
+  pela metade, e as duas coisas são a mesma coisa: ela fica com o objeto e faz
+  outro uso dele. **Nenhuma frase do livro liga as duas**, e o capítulo do
+  deleatur e o da música são vizinhos de propósito.
 
 ### Bel
 
@@ -1395,13 +1494,13 @@ este livro não faz.
 - **Lu** — inventa. Disse que o robô de quatro patas era do tamanho de um cavalo
   e o irmão dela tinha visto; era do tamanho de um cachorro grande. É por causa
   do braço dela, que teve alergia em maio e sarou em maio, que Bel manda Nina
-  para o cimento. (cap. 34, 37, 40)
+  para o cimento. (cap. 35, 38, 41)
 - **Teo** — senta duas carteiras à frente. No ano passado lia mal, alto e devagar,
   e ficava vermelho, e todo mundo sabia. **Este ano lê**, e ninguém fala mais
   nisso. Nina não sabe como aquilo aconteceu e nunca pensou em perguntar.
-  (cap. 33)
+  (cap. 34)
 - **A menina do glockenspiel** — a preferida da Dória, e é ruim. Olha quando Nina
-  grita, e a Nina não liga nem um pouco. (cap. 37, 40)
+  grita, e a Nina não liga nem um pouco. (cap. 38, 41)
 
 ### Os que só existem para uma cena
 
@@ -1744,7 +1843,7 @@ impossível de conseguir. Uma linha por regra.
   podem estar em pontos diferentes do mesmo assunto e por isso não conversarem
   sobre ele no recreio. Ela conta isso sem queixa nenhuma, do jeito que se conta o
   tempo. **A pergunta *o que a turma está estudando* não tem resposta**, e Aurel
-  já a fez uma vez e foi corrigido com muita paciência. (cap. 04, 33)
+  já a fez uma vez e foi corrigido com muita paciência. (cap. 04, 34)
 - **A avenida é contada em tempo real, pessoa por pessoa.** O número existe e é
   exato, **e é por isso que não se publica**: contagem exata não dá matéria. O que
   se publica são recortes, cada um bom, cada um de alguém. É a morte da briga do
@@ -2038,40 +2137,40 @@ impossível de conseguir. Uma linha por regra.
   erra bastante, e não existe ficar para trás. **Nada dá errado.** Não existe o
   momento de não entender a explicação e ficar quieta com medo de perguntar,
   porque não existe uma coisa sendo explicada de uma vez para trinta pessoas.
-  (cap. 33)
+  (cap. 34)
 - **A banda é a única coisa da escola em que todo mundo faz a mesma coisa ao
   mesmo tempo.** Trinta e um adolescentes tentando começar juntos pela quarta
   vez, às cinco da tarde, no pátio. Nina reclama todo dia e desce todo dia.
-  **Isso, e não o desfile, é o que a leva à rua no sábado.** (cap. 33)
+  **Isso, e não o desfile, é o que a leva à rua no sábado.** (cap. 34)
 - **A parede do mercado.** Nina e Bel olham para a mesma parede no mesmo segundo
   e veem coisas diferentes — pássaros saindo do cabelo de uma menina; um carro
   azul de porta que abre para cima. Discutem trinta segundos e concluem que é
   porque uma gosta de pássaro e a outra de carro, **o que é mais ou menos
   verdade.** Ninguém acha estranho. É a erosão da realidade compartilhada inteira,
-  numa conversa de ônibus, sem uma palavra de explicação. (cap. 35)
+  numa conversa de ônibus, sem uma palavra de explicação. (cap. 36)
 - **Criança ainda aguenta.** Bel é injusta e sabe que é; manda Nina para o
   cimento por causa de um braço que sarou em maio. Nina fica vinte e dois minutos
   no cimento decidindo não falar com ela nunca mais. Bel senta do lado e não pede
   desculpa — **isso não existe e nunca existiu** — e fala do robô de quatro patas,
   e acabou. As duas ficam no cimento com os quatro lugares bons vazios do outro
   lado. **É a última tolerância de imperfeição humana que existe no livro**, e ela
-  tem nove anos. (cap. 34)
+  tem nove anos. (cap. 35)
 - **Entra errado junto.** A instrução da Dória no último ensaio, e é a frase que
   o livro inteiro estava esperando: *vocês não entram no meu braço, vocês entram
   no bumbo; se o bumbo está errado, vocês entram errado junto — isso é melhor.*
   Na oitava tentativa trinta e uma pessoas começam na mesma hora, ainda
   desafinadas, e fica bom de um jeito que Nina não sabe nomear. **É a tese do
   livro dita por uma professora de banda marcial, e ninguém no livro pode
-  repeti-la.** (cap. 37)
+  repeti-la.** (cap. 38)
 - **Ela não vai ver robô.** Vai por causa da oitava. Todo mundo na escola fala
   dos robôs e ela acha aquilo interessante do jeito que se acha uma coisa
-  interessante. (cap. 37)
+  interessante. (cap. 38)
 - **A rua cheia é normal para ela.** Cabeças até a curva dos dois lados, todas
   viradas para o mesmo lado, e Nina acha bonito e acha normal — *do jeito que se
   acha normal um estádio cheio, ou uma fila de supermercado no domingo.* Não
   pensa mais nada a respeito. **É a única vez no livro em que muita gente olha
   para a mesma coisa ao mesmo tempo, e a personagem que está vendo não tem como
-  saber disso.** (cap. 39)
+  saber disso.** (cap. 40)
 - **O desfile, e onde cada um está.** Nina e Aurel na grade, oitenta metros
   depois da esquina; Mira quatro metros atrás, encostada na parede, com o
   telefone. **Voss na quinta fileira. Rita na sexta, atrás dele.** Ela o vê — um
@@ -2133,7 +2232,7 @@ impossível de conseguir. Uma linha por regra.
   em comum. Voss é o único que estima — por quadrante e densidade, três pessoas
   por metro no apertado — e chega a mil e duzentas no trecho dele, **usando
   exatamente o método da briga do número que morreu**. Ninguém aponta isso.
-  (cap. 05, 43)
+  (cap. 05, 44)
 - **O balcão** — a coisa que o livro diz que acabou: um lugar físico onde uma
   pessoa sobe uma escada, fica de pé diante de outra pessoa **com rosto, mesa e
   obrigação de responder no mesmo dia**, e diz que o que está escrito sobre ela
@@ -2152,10 +2251,12 @@ o outro.
 | **Taxa de reversão em segunda instância mede qualidade de decisão?** | **Não. Mede consistência.** A segunda instância aplica a mesma tabela; uma tabela ruim aplicada com consistência dá 0,4 do mesmo jeito. | O livro precisa de uma métrica que elogia a coisa errada sem que ninguém esteja mentindo. Nenhum capítulo pode tratar um 0,4 como prova de acerto — nem a favor de Voss, nem contra ele. | 26 |
 | **Rotação de cuidador piora o atendimento?** | **A literatura de cuidado mede desfecho clínico, e o desfecho clínico não piora em seis semanas.** O que as pessoas querem dizer quando reclamam é outra coisa e não tem instrumento. | É o que torna a mudança de doze para seis semanas genuinamente defensável, e é o que faz Voss concordar de boa-fé com o parágrafo que vai alcançá-lo. Se a redução fosse indefensável, ele seria tolo em vez de íntegro. | 27 |
 | **O parâmetro de doze semanas tem fundamento empírico?** | **Não. Saiu de uma negociação em 2043 — alguém queria dezesseis, alguém queria oito.** | Um critério não é uma verdade descoberta, é uma linha que alguém traçou num dia. Voss estava na sala, sabe disso, e defende a linha assim mesmo, porque enquanto houver linha o que decide é a linha. | 27 |
-| **Como funciona a personalização da parede do mercado?** | **Não se explica, e nunca se explicará.** Nenhum personagem sabe o mecanismo e nenhum acha a coisa notável. | `CLAUDE.md`, *Voz e registro*: descrever a tecnologia pelo que ela faz com alguém, nunca por como funciona. É também o único momento em que o livro chega perto de precisar de tecnobabble, e o jeito de não precisar é não olhar. | 34 |
+| **Como funciona a personalização da parede do mercado?** | **Não se explica, e nunca se explicará.** Nenhum personagem sabe o mecanismo e nenhum acha a coisa notável. | `CLAUDE.md`, *Voz e registro*: descrever a tecnologia pelo que ela faz com alguém, nunca por como funciona. É também o único momento em que o livro chega perto de precisar de tecnobabble, e o jeito de não precisar é não olhar. | 35 |
 | **Uma máquina pode falar com um personagem?** | **Uma vez, em *O procedimento*, e nunca mais.** Decisão do autor, contra a regra que o resto do livro cumpre. | A objeção foi registrada e mantida: o `registro` só funciona porque nada mais no livro tem voz de máquina. O autor decidiu assim mesmo, e a exceção é única, declarada e documentada — o que a torna exceção em vez de erosão. Ver *As cinco exceções declaradas*. | 06 |
 | **O Voss tem música?** | **Sim, uma só, na mesa, no cap. 24 — decisão do autor, e revoga a regra anterior.** A proibição passa a valer só para o desfile, onde nada pode buscar a música. A prosa relaxa e ele não: nenhuma frase diz que ele gosta. | A Parte III não tinha nenhum ponto em que o leitor tomasse ar, e o alívio é do leitor, que fica implicado por tê-lo sentido. O alívio é o ritmo dos horários, e não um trecho lento, então o capítulo não perde a velocidade que o `premise` declara. A hora que a máquina entrega inteira é gasta indeferindo quarenta e uma pessoas. Ver exceção *2c*. | 24 |
-| **O implante cura a perna?** | **Não, e o livro nunca diz que sim.** No desfile a perna não formiga; o que há é uma sensação de apertado por dentro que ele não consegue chamar nem de melhor nem de pior. | Uma cura no dia seguinte seria tecnologia milagrosa e resolveria alguma coisa, e este livro não resolve nada. O que o procedimento entrega é real, foi de graça, chegou sem ser pedido, **e é ilegível.** Nenhum capítulo pode dizer que ele melhorou. | 06, 40 |
+| **A Nina tem música?** | **Sim — decisão do autor, e a Parte IV ganhou um capítulo por causa disso.** *space in the space*, da Uru, ouvida de noite. Ela não entende as palavras, lê a tradução, continua sem entender, e põe de novo. | Era a única protagonista sem música própria, e o não-entender aqui é **literal** e não é ferida nenhuma — a Parte IV é a parte em que nada é triste. A procedência é a quarta posição e **não mexe na vaga da Rita**: a Nina sabe exatamente de onde veio e não dá importância. Ver exceção *2d*. | 33 |
+| **A Parte IV tem epígrafe?** | **Tem, desde esta revisão — Rilke, 1903.** A regra anterior dizia que não, de propósito, e está revogada. | O motivo velho (*a única protagonista que não herdou texto*) não sobrevive a ser dito em voz alta: nenhum protagonista herdou a própria epígrafe. A objeção real — que **endossa a promessa da Mira** numa parte que não pode consolar — foi posta e vencida pelo autor. Ver exceção *2e*. | abertura da Parte IV |
+| **O implante cura a perna?** | **Não, e o livro nunca diz que sim.** No desfile a perna não formiga; o que há é uma sensação de apertado por dentro que ele não consegue chamar nem de melhor nem de pior. | Uma cura no dia seguinte seria tecnologia milagrosa e resolveria alguma coisa, e este livro não resolve nada. O que o procedimento entrega é real, foi de graça, chegou sem ser pedido, **e é ilegível.** Nenhum capítulo pode dizer que ele melhorou. | 06, 41 |
 | **Aurel pediu o procedimento?** | **Não. Foi oferecido, e a data veio pronta.** | É a tese da conveniência aplicada ao personagem que passa o livro inteiro sem tocar na máquina. Aurel recebe sem pedir exatamente o tipo de coisa que Rita não consegue nem sendo ouvida, e **nenhum dos dois sabe da existência do outro**. Nenhum capítulo pode apontar o contraste. | 06 |
 | **A sobreposição é descrita?** | **Sim — decisão do autor, e revoga a regra anterior.** O leitor vê o que está escrito, onde fica no ar, de que tamanho, o que acontece quando alguém anda. O que continua fora é *explicar o princípio* e dar voz a máquina. | A regra antiga transformava a invenção central do livro numa parede em branco, e era a maior causa de o romance não parecer 2047. O custo aceito é envelhecer mais rápido. Ver *A sobreposição*. | 01 em diante |
 | **Por que Teodor e Juno não recebem o tratamento que existe?** | **Porque o critério não os alcança**, e o livro mostra o critério funcionando na mesa de Voss sem nunca ligar as cenas. | Se fosse falta de dinheiro, seria um livro sobre pobreza; se fosse crueldade, haveria um vilão. É uma faixa de indicação, uma janela de dezoito meses, um rol. **Nenhum personagem pode reclamar disso e nenhum capítulo pode apontar a assimetria com Aurel.** | 18, 20, 23 |
