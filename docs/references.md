@@ -63,7 +63,7 @@ Aplicado a este livro:
 | *Great Divide*, The Cardigans (Sveningsson/Svensson), faixa 10 de *First Band on the Moon*, 1996 | Em direito autoral | Nomear, descrever, deixar chegar de longe. **Não imprimir a letra** sem licença da editora musical. Atenção: o título é "Great Divide", sem "The". **Aparece duas vezes** — ver as notas abaixo |
 | *Better*, Regina Spektor, faixa de *Begin to Hope*, 2006 | Em direito autoral | Nomear e descrever. A Rita diz **o título e a cantora em voz alta** — e é a única personagem do livro que tem um nome de música inteiro **sem saber de onde o tirou**. **Não imprimir a letra.** Ver a nota abaixo |
 | *Perpetual Motion*, LukHash (Łukasz Polkowski), faixa 1 de *Better Than Reality*, 2019 | Em direito autoral | Nomear e descrever. O Voss **nunca diz o nome em voz alta**: está escrito num papel dobrado, com a letra dele. **Não imprimir a letra**, se houver. Ver a nota abaixo |
-| *space in the space*, Uru (letra e melodia de Uru; arranjo de Kan Sano), de *オリオンブルー* (Orion Blue), 2020 | Em direito autoral | Nomear e descrever. A Nina diz **o título em voz alta** e a cantora não é nomeada em lugar nenhum. **Não imprimir a letra** — e ver abaixo a letra falsa que circula |
+| *space in the space*, Uru (letra e melodia de Uru; arranjo de Kan Sano), de *オリオンブルー* (Orion Blue), 2020 | Em direito autoral | Nomear e descrever. A Nina diz **o título em voz alta** e nomeia **a cantora uma vez**, à mãe. **Não imprimir a letra** — e ver abaixo a letra falsa que circula |
 | A música do desfile | **Inventada** — sem nome, sem letra, banda marcial de gente | Tudo. Música inventada não tem titular, e foi por isso, entre outras razões, que se decidiu assim |
 | Caetano Veloso, *Oração ao Tempo*, 1979 | Em direito autoral | Nomear e descrever apenas |
 
@@ -168,8 +168,11 @@ errada não deve voltar por nenhuma revisão.
 **O que dá para descrever**, e resolve tudo: a moça canta bonito, a parte do meio
 sobe, e há um lugar quase no fim em que tudo para meio segundo antes de voltar.
 O nome está na boca da Nina e o narrador continua não nomeando nada. **A cantora
-não é nomeada em lugar nenhum da prosa** — pelo mesmo motivo de sempre, e porque
-a Nina, com nove anos, não pergunta quem canta.
+é nomeada uma vez e só uma** — *sabe a Uru?*, dito à mãe —, e nunca junto do
+pedido da música: dizer título e cantora em voz alta para a faixa vir é o beat da
+Rita em *A música que ela pediu*, na mesma noite, e continua sendo dela. **Isto
+não mexe na proibição de nomear a cantora de *Great Divide***, que vale para
+aquela canção e só para ela.
 
 **Ela lê a tradução e continua sem entender, e isso não é tristeza nenhuma.** As
 palavras aparecem escritas na língua dela e ela as lê inteiras: cada frase dá

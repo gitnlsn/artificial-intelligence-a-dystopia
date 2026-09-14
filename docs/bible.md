@@ -546,7 +546,12 @@ registrado aqui para que nenhuma revisão posterior "conserte".
 - **O nome está na boca dela e o narrador não nomeia nada.** Ela diz o título
   inteiro em voz alta e a música vem. **A pronúncia não é assinalada**: as duas
   pronúncias erradas de *Great Divide* são um par fechado e **não há terceira
-  vaga**. A cantora não é nomeada em lugar nenhum da prosa.
+  vaga**. **A cantora é nomeada uma vez**, na boca da Nina e só ali — *sabe a
+  Uru?*, dito à mãe —, e a Mira responde *sei* sem parar de andar, que pode ser
+  verdade ou pode ser o *sei* automático de quem está fazendo outra coisa:
+  **nenhuma frase decide qual**. O nome **não entra junto do pedido da música**,
+  porque dizer título e cantora em voz alta para a música vir é o beat da Rita em
+  *A música que ela pediu*, na mesma noite, e continua sendo dela.
 - **A mãe diz a frase e não explica nada.** *Um dia você entende*, dita de
   passagem, com as duas mãos ocupadas, sem parar de andar. A promessa não custa
   nada a quem a faz, e é por isso que não consola. **A Mira não aparece na porta**

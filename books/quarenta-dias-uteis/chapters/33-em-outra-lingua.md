@@ -72,6 +72,10 @@ outro lado.
 
 — Oi.
 
+— Sabe a Uru?
+
+— Sei.
+
 — Eu escuto essa música e ainda não entendo ela.
 
 — Um dia você entende.

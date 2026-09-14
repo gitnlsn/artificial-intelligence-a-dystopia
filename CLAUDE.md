@@ -421,8 +421,13 @@ they do not; then she puts the song on again. Her mother says *um dia você
 entende* without stopping walking. Nothing in the part treats any of this as a
 loss — Part IV is the part where nothing is sad.
 
-**The language is never named**, the title is never glossed, the singer is never
-named, and **her pronunciation is not marked** — the two wrong pronunciations of
+**The language is never named**, the title is never glossed, and **her
+pronunciation is not marked**. She names Uru once, in her own mouth, to her
+mother — *sabe a Uru?* — and Mira answers *sei* without stopping, which may be
+true or may be the automatic answer a parent gives, and **no sentence settles
+which**. The name never appears in the summoning line: saying title and singer
+aloud to make the music come is Rita's beat in *A música que ela pediu*, on this
+same night, and it stays hers — the two wrong pronunciations of
 *Great Divide* are a closed pair and there is no third slot. **Provenance is the
 fourth position and it does not touch Rita's**: the song arrived recommended and
 **Nina knows exactly how it arrived**, and knowing changes nothing and never
