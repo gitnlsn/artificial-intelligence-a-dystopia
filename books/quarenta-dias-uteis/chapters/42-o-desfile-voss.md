@@ -6,10 +6,10 @@ pov: Voss
 when: 2047-10-19 — sábado, 10h12
 where: a quinta fileira, sem crachá
 premise: ele está ali porque quem deixou de ser exceção não tem mais onde estar.
-  A banda toca uma coisa que ele nunca ouviu e não vai lembrar. Ninguém naquela
-  rua sabe quem ele foi.
-turn: as máquinas chegam na altura dele e ele dá um passo atrás, junto com todo
-  mundo, abrindo caminho.
+  Lê os painéis por hábito e acha a tipografia boa. A banda toca uma coisa que ele
+  nunca ouviu e não vai lembrar. Ninguém naquela rua sabe quem ele foi.
+turn: no bloco largo ele dá um passo atrás, junto com todo mundo, abrindo caminho
+  — no mesmo segundo dos outros três, e sem saber que existem.
 threads:
 - fio-do-desfile
 - fio-da-excecao
@@ -18,6 +18,7 @@ cast:
 sources: nenhuma
 status: draft
 ---
+
 Ele desceu às nove e quarenta sem ter decidido descer.
 
 Levantou às seis, fez café, lavou a xícara, e ficou. Às nove e meia o barulho já
@@ -36,8 +37,8 @@ O que mudou é que ele também não tinha nada a fazer na segunda.
 A quinta fileira é uma posição ruim e ele sabia que ia ser ruim quando escolheu.
 
 Escolheu assim mesmo, porque para chegar mais à frente é preciso passar por
-gente, e passar por gente exige pedir licença, e pedir licença numa multidão é
-uma negociação — a pessoa cede meio passo, você agradece, e alguém do lado sai
+gente, e passar por gente exige pedir licença, e pedir licença numa multidão é uma
+negociação — a pessoa cede meio passo, você agradece, e alguém do lado sai
 prejudicado.
 
 Ele ficou onde tinha chegado.
@@ -69,9 +70,9 @@ Ele baixou a mão.
 
 Não havia uma pessoa naquela rua que soubesse quem ele era.
 
-Isso ele pensou com clareza, sem drama, do jeito que ele constata as coisas, e
-não é a mesma coisa que se sentir sozinho: ele está sozinho há muitos anos e a
-solidão dele é uma condição estável e razoavelmente confortável, como um móvel.
+Isso ele pensou com clareza, sem drama, do jeito que ele constata as coisas, e não
+é a mesma coisa que se sentir sozinho: ele está sozinho há muitos anos e a solidão
+dele é uma condição estável e razoavelmente confortável, como um móvel.
 
 É outra coisa.
 
@@ -84,32 +85,21 @@ Nenhuma delas ia reconhecer o nome se lesse, e nenhuma ia reconhecer a cara de
 jeito nenhum, porque a cara nunca aparece.
 
 Ele passou dezoito anos decidindo coisas sobre pessoas que não sabiam
-absolutamente nada a respeito dele, e ali, de pé na quinta fileira, isso deixou
-de ser uma vantagem operacional e passou a ser simplesmente a descrição da
-situação dele.
+absolutamente nada a respeito dele, e ali, de pé na quinta fileira, isso deixou de
+ser uma vantagem operacional e passou a ser simplesmente a descrição da situação
+dele.
 
 ---
 
-A banda da escola passou às dez e vinte e um.
-
-Ele ouviu. Era uma banda marcial de escola tocando uma marcha que ele não
-conhecia, com uns metais ligeiramente fora, e passou em uns quarenta segundos.
-
-Não achou nada a respeito.
-
-Ele não conseguiu, depois, na segunda-feira, lembrar de um único compasso.
-
----
-
-Às dez e trinta e três os fiscais começaram a pedir para a multidão recuar.
+Às dez e vinte e oito os fiscais começaram a pedir para a multidão recuar.
 
 Vinham em dupla, pela beirada, com um colete e um alto-falante pequeno, dizendo
 *por favor, um passo atrás, um passo atrás, obrigado*, e vinham subindo a fila.
 
 Voss viu de longe, uns quinze metros antes de chegar nele.
 
-Era por causa do bloco seguinte, que era mais largo — dava para ver na curva —, e
-a faixa de rolamento tinha que estar livre até a linha branca.
+Era por causa do bloco seguinte, que era mais largo — dava para ver na curva —, e a
+faixa de rolamento tinha que estar livre até a linha branca.
 
 ---
 
@@ -135,8 +125,8 @@ E toda a quinta fileira deu um passo atrás.
 
 O homem da frente. A senhora de boné. O casal com o menino nos ombros. Voss.
 
-Um passo atrás, ao mesmo tempo, e a fila inteira comprimiu contra a fila de trás,
-e alguém atrás resmungou, e a mulher do lado dele disse *desculpa* para alguém e
+Um passo atrás, ao mesmo tempo, e a fila inteira comprimiu contra a fila de trás, e
+alguém atrás resmungou, e a mulher do lado dele disse *desculpa* para alguém e
 alguém disse *imagina*.
 
 ---
@@ -148,30 +138,38 @@ lado do corpo, e abriu caminho.
 
 Não foi punido. Não foi identificado. Não foi tratado de maneira diferente de
 nenhuma das mil e duzentas pessoas naquele trecho, e é exatamente isso que ele
-defendeu por vinte e dois 
-anos, por escrito, contra requerentes que alegavam
-circunstância pessoal: a regra vale igual, e valer igual quer dizer valer para
-você também, e um homem que aceita isso só quando lhe convém não acredita em
-nada.
+defendeu por vinte e dois anos, por escrito, contra requerentes que alegavam
+circunstância pessoal: a regra vale igual, e valer igual quer dizer valer para você
+também, e um homem que aceita isso só quando lhe convém não acredita em nada.
 
 Ele acreditava.
 
-Continuava acreditando ali, na quinta fileira, um passo mais atrás do que estava
-um minuto antes, enquanto o bloco largo entrava na reta e a rua fazia barulho.
+Continuava acreditando ali, na quinta fileira, um passo mais atrás do que estava um
+minuto antes, enquanto o bloco largo entrava na reta.
 
 Era uma coisa só, e ocupava a avenida de linha a linha. Andava sobre esteiras
 largas e baixas, e por cima delas o corpo subia liso até uns quatro metros, sem
 janela e sem porta, cor de areia como as da limpeza mas fosco. Nos dois flancos
 havia uma fileira de portas quadradas, umas vinte de cada lado, todas fechadas, e
-atrás de cada porta havia uma unidade — dava para ver o alto dos ombros pelo vão
-de cima, todos na mesma altura, imóveis, e as vinte cabeças viradas para a
-frente.
+atrás de cada porta havia uma unidade — dava para ver o alto dos ombros pelo vão de
+cima, todos na mesma altura, imóveis, e as vinte cabeças viradas para a frente.
 
 Levou onze segundos para passar por ele, e nesses onze segundos a rua ficou mais
 escura de um lado.
 
-Voss reparou que a folga até a linha branca tinha ficado em quarenta centímetros
-de cada lado, o que é a folga prevista, e achou bem calculado.
+Voss reparou que a folga até a linha branca tinha ficado em quarenta centímetros de
+cada lado, o que é a folga prevista, e achou bem calculado.
+
+---
+
+A banda da escola passou às dez e trinta e seis.
+
+Ele ouviu. Era uma banda marcial de escola tocando uma marcha que ele não
+conhecia, com uns metais ligeiramente fora, e passou em uns quarenta segundos.
+
+Não achou nada a respeito.
+
+Ele não conseguiu, depois, na segunda-feira, lembrar de um único compasso.
 
 ---
 

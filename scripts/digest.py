@@ -84,8 +84,15 @@ class Chapter:
         return str(self.meta.get("part") or "?")
 
     @property
+    def povs(self) -> list[str]:
+        # A chapter carries one point of view, with one declared exception --
+        # the parade, where three of them share a chapter in sections. Read it
+        # as a list so the reports do not quietly lose the other two.
+        return self.list_of("pov") or ["—"]
+
+    @property
     def pov(self) -> str:
-        return str(self.meta.get("pov") or "—")
+        return " / ".join(self.povs)
 
     @property
     def status(self) -> str:
@@ -187,10 +194,13 @@ def print_elenco(chapters: list[Chapter]) -> None:
     print("\n\nponto de vista")
     per_pov: dict[str, list[Chapter]] = defaultdict(list)
     for c in chapters:
-        per_pov[c.pov].append(c)
+        for p in c.povs:
+            per_pov[p].append(c)
     total_words = sum(c.words for c in chapters) or 1
     for pov, group in sorted(per_pov.items(), key=lambda x: -len(x[1])):
-        w = sum(c.words for c in group)
+        # A shared chapter splits its words between the points of view in it,
+        # so the shares still add up to the book.
+        w = sum(c.words // len(c.povs) for c in group)
         share = 100 * w / total_words
         caps = ", ".join(g.num for g in group)
         print(f"  {pov:<22} {len(group):>2} cap.  {w:>6} palavras  {share:>4.0f}%")

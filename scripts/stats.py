@@ -31,6 +31,13 @@ def words(text: str) -> int:
     return len(text.split())
 
 
+def pov_list(meta: dict) -> list[str]:
+    value = meta.get("pov") or []
+    if isinstance(value, str):
+        value = [v.strip() for v in value.split(",") if v.strip()]
+    return [str(v) for v in value] or ["—"]
+
+
 def meta_of(path: Path) -> dict:
     if m := FM.match(path.read_text(encoding="utf-8")):
         return yaml.safe_load(m.group(1)) or {}
@@ -102,7 +109,12 @@ def main() -> None:
     print("\nponto de vista")
     per_pov: dict[str, list[int]] = defaultdict(list)
     for _, n, m in chapters:
-        per_pov[str(m.get("pov") or "—")].append(n)
+        # One point of view per chapter, with one declared exception -- the
+        # parade shares a chapter between three of them. Split the words so the
+        # shares still add up to the book.
+        povs = pov_list(m)
+        for p in povs:
+            per_pov[p].append(n // len(povs))
     body = sum(counts) or 1
     for pov, group in sorted(per_pov.items(), key=lambda x: -sum(x[1])):
         share = sum(group) / body

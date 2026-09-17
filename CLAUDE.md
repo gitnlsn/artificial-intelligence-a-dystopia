@@ -46,8 +46,16 @@ with taste, he is a man with a procedure, and the band at the parade gives him
 nothing because nothing outside the procedure reaches him.
 
 The pace is **visible in the table of contents**: Part I is six long chapters,
-Part IV is fourteen short ones. The reader feels the acceleration before knowing
-it is there.
+Part IV is twelve short ones. The reader feels the acceleration before knowing it
+is there.
+
+**The parade is two chapters, and the split is the argument.** Nina, Aurel and
+Rita share one, *O desfile*, in three point-of-view-locked sections; Voss has the
+next one alone, because he is the one who does not share the band. **The form
+states his exception, so no sentence has to.** This is the book's only chapter
+with more than one `pov:`, it is the author's decision with the objection
+recorded, and it is exception 4 in `docs/bible.md`. Do not "fix" it back into
+four.
 
 **How the four reach the same street, without coincidence.** Nina takes her
 grandfather. Rita lives there. Voss was denied nothing — he simply stopped being
@@ -755,7 +763,7 @@ embed, and KDP rejects a PDF with an unembedded font. Vendor an OFL mono into
 Marked `[[?autor: …]]` in `docs/outline.md` so `make marcadores` keeps asking.
 Nothing here can be decided by a draft.
 
-**The draft is complete** — 44 chapters, ~57,000 words, every gate passing. What
+**The draft is complete** — 43 chapters, ~57,000 words, every gate passing. What
 follows is revision, not construction, and the standing instruction for revision is that `docs/outline.md`, `docs/bible.md` and
 `docs/timeline.md` must keep describing the manuscript that exists rather than
 the one that was planned.

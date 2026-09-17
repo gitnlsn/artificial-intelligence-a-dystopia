@@ -117,7 +117,7 @@ O vô riu.
 
 ---
 
-A mãe foi buscar o carro e disse para esperarem na esquina.
+A mãe chamou o carro e disse para esperarem na esquina.
 
 Eles esperaram na esquina.
 

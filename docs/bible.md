@@ -108,7 +108,7 @@ O que isso quer dizer na prática:
   verem a mesma coisa alguém tem de pedir a coisa do outro, e ninguém pede.
 - **O desfile é a última superfície não sobreposta do livro.** Plantado em *O
   inventário* (a rua montada, sem nada escrito, e Aurel achando estranho sem
-  saber por quê) e cobrado em *O desfile — Aurel*. Em *Depois*, quando a rua
+  saber por quê) e cobrado em *O desfile*. Em *Depois*, quando a rua
   esvazia, **o nome da farmácia volta para cima da farmácia** e a Nina confere o
   preço do sorvete. Ninguém comenta nenhuma das três coisas.
 
@@ -238,15 +238,16 @@ que a dona Eszter diz chega na Rita na língua da Rita, e nenhuma das duas faz
 nada para que isso aconteça"*. O registro do cap. 21 diz **módulo linguístico:
 39 idiomas, revisão 2041**. Nenhuma frase da prosa liga as duas coisas.
 
-## As cinco exceções declaradas — decisão do autor, não corrigir
+## As exceções declaradas — decisão do autor, não corrigir
 
-Cinco coisas neste livro contrariam regras que o resto do livro cumpre à risca.
-As cinco são **decisão do autor, tomada com a objeção registrada e mantida**, e
+Algumas coisas neste livro contrariam regras que o resto do livro cumpre à risca.
+Todas são **decisão do autor, tomada com a objeção registrada e mantida**, e
 estão aqui para que nenhuma revisão futura as "conserte". Também estão em
-`CLAUDE.md`. Duas revogam cláusulas de outras, e só isso: a cena de *3b* revoga
-o *"e nada mais"* de *3*; a de *2c* revoga a proibição de música para o Voss, que
-passa a valer só para o desfile. **Nenhuma das duas revogações se estende a mais
-nada.**
+`CLAUDE.md`. São quatro entradas de base — *1*, *2*, *3* e *4* — com descendentes
+em letra que estendem a de cima. Duas revogam cláusulas de outras, e só isso: a
+cena de *3b* revoga o *"e nada mais"* de *3*; a de *2c* revoga a proibição de
+música para o Voss, que passa a valer só para o desfile. **Nenhuma das duas
+revogações se estende a mais nada.**
 
 ### 1. A máquina fala — uma vez, em *O procedimento*
 
@@ -904,6 +905,53 @@ terminar na manhã do desfile, e a caminhada em direção ao barulho deixa de se
 último gesto da parte. O que se ganha é uma ponte melhor para a Parte III, que é
 inteira sobre a gramática da recusa: a parte agora fecha num prazo de quarenta
 dias úteis, e a seguinte abre no homem que escreve esse prazo.
+
+### 4. O desfile é um capítulo com três pontos de vista
+
+**A regra que isto contraria é a mais dura do livro:** *um ponto de vista por
+capítulo*, em `CLAUDE.md` e em `docs/outline.md`, nunca violada em quarenta e
+cinco capítulos. E contraria uma frase que estava escrita no plano: *"O desfile
+são quatro capítulos, um por protagonista."*
+
+**A decisão:** Nina, Aurel e Rita dividem um capítulo, *O desfile*, em três seções
+separadas por quebra de cena. O Voss fica sozinho no capítulo seguinte.
+
+**Por que não quebra o contrato de fato.** O contrato existe para impedir
+narrador onisciente e troca de cabeça dentro de uma cena. Nenhuma das duas coisas
+acontece aqui: cada seção é travada num ponto de vista só, e nada em nenhuma delas
+é sabido por quem não poderia saber. O que muda é o continente, não a regra.
+
+**O problema que resolveu.** O desfile significa simultaneidade e o livro o
+entregava como sequência: quatro capítulos de 1163, 1362, 971 e 1064 palavras —
+os quatro mais longos da Parte IV, numa parte que corre entre 359 e 907 — narrando
+o mesmo evento de quarenta segundos três vezes. A entrada do bumbo aparecia em
+três capítulos; *Estava desafinado* também. Na terceira passagem o leitor estava
+adiante do livro, que é o contrário de simultaneidade. As âncoras de *O desfile, e
+onde cada um está* não estavam erradas: estavam sem compressão.
+
+**Por que o Voss fica de fora, e é o melhor da decisão.** Ele é o único dos quatro
+que não divide a banda. Separá-lo põe isso na forma do livro, e o livro deixa de
+precisar de uma frase para dizê-lo. Nenhuma frase pode dizê-lo.
+
+**A objeção, registrada e vencida:** que a Parte IV cai de catorze para doze
+capítulos e enfraquece o argumento de que o andamento é visível no sumário; que
+gasta a primeira exceção de ponto de vista do livro; e que `stats.py` e
+`digest.py` liam `pov:` como valor único e perderiam Aurel e Rita em silêncio.
+A última foi resolvida — os dois scripts passaram a ler lista e a dividir as
+palavras entre os pontos de vista da seção. As duas primeiras foram mantidas.
+
+**O que fica proibido dentro do capítulo fundido:**
+
+- **Nenhuma seção renarra o que outra já narrou.** Os campos de visão dos três mal
+  se encostam, e é de propósito: a Nina vê as máquinas e a banda porque está na
+  grade; o Aurel pula tudo o que ela descreveu e fica com o que só ele pode ver;
+  a Rita quase não vê nada, e a brevidade da seção dela **é** o ponto de vista.
+- **As duas únicas coisas que os três percebem são as âncoras** — o bloco largo,
+  porque passa por cima de todas as cabeças, e a banda, porque é alta demais para
+  chegar de outro jeito. É por isso que são as âncoras.
+- **Nenhuma seção comenta outra**, e nenhuma delas sabe que as outras existem.
+- **Nenhuma rubrica.** As seções não são nomeadas nem marcadas. Se o leitor
+  precisar de um rótulo para saber em que cabeça está, a fusão falhou.
 
 ---
 
@@ -1677,16 +1725,43 @@ estado do mundo hoje?** Lembrança fica.
 
 ### O risco que a reconstrução cria
 
-Se máquina é tudo, um desfile de máquinas deixa de ser acontecimento. Isso é
-motivo para fazer, e não para recuar: o assunto do desfile nunca foram as
-máquinas — a premissa do capítulo da Nina já diz *"as máquinas passam e é lindo,
-mas o que ela olha é a banda."* Com a cidade saturada, a coluna de máquinas é
-procissão municipal de equipamento comum, e **a anomalia na avenida são trinta e
-uma crianças com metais, ligeiramente fora.**
+Se máquina é tudo, um desfile de máquinas deixa de ser acontecimento.
 
-Na prática: cortar o *já viu foto* do Aurel, baixar o espanto da Nina com as de
-limpeza para reconhecimento, guardar o espanto dela para a de quatro patas estar
-mais perto do que ela achava, e não encostar nos capítulos da banda.
+**Uma versão anterior desta seção resolvia isso dizendo que o assunto do desfile
+nunca foram as máquinas, e que a anomalia na avenida eram trinta e uma crianças
+com metais. Revogado por decisão do autor.** O desfile **é** sobre as máquinas, e
+o que ele mostra é a substituição: cada bloco é a forma exata de um ofício humano
+com a pessoa apagada de dentro.
+
+Como isso fica na página, e é tudo estrutural — **nenhuma frase em lugar nenhum
+nomeia a substituição:**
+
+- **A ordem de marcha é um inventário de trabalho**, com gente nas duas pontas e
+  máquina no meio: estandarte, banda de adultos, limpeza, transporte, obras, o de
+  quatro patas, assistência domiciliar, o bloco largo, os carros com gente
+  acenando, a banda da escola, o caminhão da faixa.
+- **O soquete vazio, bloco a bloco.** As de limpeza vêm lustradas a um estado que
+  nunca atingem em uso, e varrem uma avenida lavada de madrugada. Os carros de
+  linha não têm cabine e dá para ver os bancos vazios de ponta a ponta. A concha
+  de obras vem virada para cima, cheia de nada. Atrás do de quatro patas não vai
+  ninguém. As unidades de assistência levam o antebraço oferecido na altura em que
+  se oferece um braço, e nenhuma está segurando ninguém.
+- **Entre a banda de adultos e a banda da escola não passa uma única pessoa
+  trabalhando** — só os donos acenando de dentro de carros. O intervalo é o
+  argumento.
+- **O Voss segura a prova e não percebe:** ele lê os painéis por hábito
+  profissional — nome do órgão em cima, a competência embaixo em corpo menor — e
+  acha a tipografia boa. A competência é o ofício; atrás da placa vêm as máquinas
+  que o exercem.
+- **A Nina é quem faz aterrissar**, porque nunca viu um desfile com gente dentro.
+  Para ela *limpeza* simplesmente **é** catorze máquinas cor de areia. O leitor
+  fornece o resto.
+
+O que **não** muda: as máquinas são o acontecimento, e ninguém fica abismado. Um
+desfile ser sobre máquinas não autoriza espanto — espanto faria os personagens
+lerem como visitantes de 2026 e quebraria *não há antes; isto é só o mundo*. No
+bloco largo a multidão **emudece e abre caminho**, e abrir caminho é o contrário
+de admirar. A banda continua fechando, e continua desafinada.
 
 ### As rimas de objeto — transformar aos pares, ou quebram
 
@@ -2183,11 +2258,16 @@ impossível de conseguir. Uma linha por regra.
   levemente estranho e desvia o olho, porque a gente não fica olhando para as
   pessoas. **Ele nunca a vê.** Ela também vê o velho de chapéu com a criança na
   grade, e sorri sem querer. Nenhum dos quatro sabe de nada. Só o leitor.
-- **As âncoras que amarram os quatro capítulos** ao mesmo instante: as três
-  batidas do bumbo sozinho e a entrada na quarta; o *ah* de mil pessoas quando o
-  de quatro patas aparece na curva; o trombone da ponta atrasado; o bloco com o
-  painel de assistência domiciliar, que **Aurel lê como se lê um painel e Rita
-  olha a nuca do homem da frente até acabar.** Ninguém comenta nada disso.
+- **As âncoras que amarram as três seções e o capítulo do Voss** ao mesmo
+  instante, e são só duas, porque só duas coisas os quatro conseguem perceber:
+  **o bloco largo**, que passa por cima de todas as cabeças e faz a rua emudecer
+  e recuar, e **a banda**, que é alta demais para chegar de outro jeito — as três
+  batidas do bumbo sozinho e a entrada na quarta. Em volta delas, cada um só
+  percebe o que o lugar dele deixa: o *ah* na curva é da Nina e do Aurel; o
+  trombone da ponta atrasado é da Nina e do Aurel; o painel de assistência
+  domiciliar **Aurel lê como se lê um painel e Rita não consegue ver o que vem
+  atrás, e fica olhando a nuca do homem da frente até acabar.** Ninguém comenta
+  nada disso.
 - **O que ele ganha, e é pouco de propósito.** Aurel não consegue nomear o
   período e não vai conseguir; o que ele entende, de pé na pedra fria, é **por
   que** não conseguiu — nomear exige um lado de fora, e um lado de fora é feito
@@ -2207,15 +2287,31 @@ impossível de conseguir. Uma linha por regra.
   tarde, e a máquina escolhe o volume — então a música da sexta falha no teste e
   2036 continua respondendo. Uma redação em torno de *escolha* faz a conta
   desabar.
-- **O passo atrás.** Às 10h33 os fiscais pedem recuo porque o bloco seguinte é
-  mais largo, em duplas, pela beirada, com quinze metros de antecedência, para
+- **O passo atrás.** Às 10h28 — **antes da banda, e não depois** — os fiscais
+  pedem recuo porque o bloco seguinte é mais largo, em duplas, pela beirada, com quinze metros de antecedência, para
   que o recuo aconteça em onda e não em susto. **Voss avalia a instrução e a
   considera bem desenhada — ele teria desenhado assim.** E dá o passo, com todo
   mundo, com as mãos ao lado do corpo, abrindo caminho. Não é punido, não é
   identificado, não é tratado de modo diferente de nenhuma das mil e duzentas
   pessoas do trecho. **É exatamente o que ele defendeu por vinte e dois anos.**
   Ninguém olha para ele. Ele fica até o fim porque sair no meio exigiria pedir
-  licença.
+  licença. **E os outros três dão o mesmo passo no mesmo segundo**, cada um no seu
+  capítulo, sem que ninguém saiba de ninguém.
+- **O bloco largo, e é o clímax das máquinas.** Uma coisa só, de linha a linha da
+  avenida, sobre esteiras largas e baixas, o corpo liso e fosco cor de areia
+  subindo até uns quatro metros, sem janela e sem porta. Nos dois flancos uma
+  fileira de portas quadradas, umas vinte de cada lado, todas fechadas, e atrás
+  de cada porta uma unidade — dá para ver o alto dos ombros pelo vão de cima,
+  todos na mesma altura, imóveis, as cabeças viradas para a frente. Leva **onze
+  segundos** para passar, e nesses onze segundos a rua fica mais escura de um
+  lado. A folga até a linha branca fica em quarenta centímetros de cada lado, que
+  é a prevista, e **Voss acha bem calculado**. A Nina conta as portas de um lado e
+  dá dezenove, e sabe que errou. O Aurel repara que os ombros estão todos na mesma
+  altura, e ele já subiu uma escada e ficou de pé diante de um homem com nome e
+  mesa. A Rita é a única máquina do desfile que ela não tem como não ver, porque
+  passa por cima de todas as cabeças que esconderam o resto. **Ninguém diz nada, e
+  a rua não faz barulho nenhum** — é a única coisa do desfile inteiro em que não
+  faz.
 - **O último capítulo não tem virada, e é o único.** A rua se esvazia em dez
   minutos e vira gente separada indo embora: uma senhora com um saco de pão, um
   homem sozinho de casaco, uma moça com um saco grande no ombro esperando o

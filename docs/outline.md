@@ -897,9 +897,13 @@ Nina, 9 anos. Capítulos curtos e rápidos, no presente. Não há antes: isto é
 mundo, e não tem nada de triste aqui, que é o que faz desta a parte mais
 assustadora do livro. Ela vai ao desfile porque desfile é divertido.
 
-O desfile são quatro capítulos, um por protagonista — o único lugar do livro em
-que os quatro pontos de vista se encostam, porque é o único momento em que os
-quatro relógios batem juntos.
+O desfile são **dois** capítulos, e a divisão é o argumento. Nina, Aurel e Rita
+dividem um, em três seções: é o único lugar do livro em que mais de um ponto de
+vista cabe num capítulo, porque é o único momento em que os relógios batem
+juntos. O Voss fica sozinho no seguinte, porque é ele quem não divide a banda —
+**a forma enuncia a exceção dele, e nenhuma frase precisa enunciá-la.**
+
+Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 
 ### 32. Quinta-feira
 *(Thursday)*
@@ -1000,57 +1004,32 @@ quatro relógios batem juntos.
 - **A ideia** — a rua está cheia de gente que ela não conhece, e é a primeira vez no livro que muita gente olha para a mesma coisa ao mesmo tempo.
 - **A virada** — ela acha isso normal.
 - **Fios** — fio-do-desfile
-- **Elenco** — nina, aurel, mira
+### 41. O desfile
+*(The Parade)*
+- **POV** — Nina, Aurel, Rita
+- **Quando** — 2047-10-19 — sábado, 10h12
+- **Onde** — o meio-fio, e a sexta fileira atrás
+- **A ideia** — três seções e o mesmo relógio. As máquinas passam, e cada bloco é a forma de um ofício com a pessoa apagada de dentro. No bloco largo a rua inteira dá um passo atrás e escurece de um lado durante onze segundos, e os três estão dentro dos mesmos onze segundos. Depois vem a banda da escola, que é de gente, e está desafinada.
+- **A virada** — a Nina é feliz sem ressalva; o Aurel descobre por que nunca achou o nome, e não conta a ninguém; a Rita fica, e não começa a guardar.
+- **Nota** — é o capítulo que cobra a Parte I inteira: as oito sementes do Aurel são plantadas nos capítulos 01 a 06 e não são coletadas em nenhum outro lugar. O piso morno paga por inversão — a pedra do meio-fio está fria, e ninguém escolheu isso. O recorte paga pela palavra *ajustado*, e não por menção. Nenhuma frase compara as três seções, e nenhuma nomeia a substituição.
+- **Fios** — fio-do-desfile, fio-do-registro, fio-do-turno, fio-da-companhia
+- **Paga** — a-banda-da-escola, o-implante, o-volume-certo, a-rua-sem-escrita, a-frase-sem-erro, o-recorte, o-nome-do-periodo, o-exemplo-da-nina, o-piso-morno, a-musica-de-longe, a-musica-pedida
+- **Elenco** — nina, aurel, rita, bel
 - **Fontes** — nenhuma
 
-### 41. O desfile — Nina
-*(The Parade — Nina)*
-- **POV** — Nina
-- **Quando** — 2047-10-19 — sábado, 10h12
-- **Onde** — o meio-fio, com o pé no vão de baixo da grade
-- **A ideia** — as máquinas passam e é lindo, mas o que ela olha é a banda. A amiga está na caixa, de uniforme, e depois de semanas de ensaio horrível eles estão bons.
-- **A virada** — ela é feliz, sem ressalva nenhuma.
-- **Fios** — fio-do-desfile
-- **Paga** — a-banda-da-escola
-- **Elenco** — nina, aurel, bel
-- **Fontes** — nenhuma
-
-### 42. O desfile — Aurel
-*(The Parade — Aurel)*
-- **POV** — Aurel
-- **Quando** — 2047-10-19 — sábado, 10h12
-- **Onde** — o meio-fio, ao lado dela
-- **A ideia** — ele não conhece a música e não precisa conhecer. Percebe, antes de qualquer outra coisa, que a banda está ligeiramente desafinada, e que portanto é gente. Faz anos que ele não ouve um som que ninguém tenha ajustado para ele.
-- **A virada** — não diz isso a ninguém. Fica ouvindo até o fim.
-- **Nota** — é o capítulo que cobra a Parte I inteira. O piso morno paga por
-- **Fios** — fio-do-desfile, fio-do-registro
-- **Paga** — o-implante, o-volume-certo, a-rua-sem-escrita, a-frase-sem-erro, o-recorte, o-nome-do-periodo, o-exemplo-da-nina, o-piso-morno
-- **Elenco** — aurel, nina
-- **Fontes** — nenhuma
-
-### 43. O desfile — Rita
-*(The Parade — Rita)*
-- **POV** — Rita
-- **Quando** — 2047-10-19 — sábado, 10h12
-- **Onde** — mais atrás, na multidão
-- **A ideia** — a primeira música do livro chegou de longe, de uma janela, sem destinatário. Esta está sendo feita a vinte metros dela, por pessoas com instrumentos, e chega igual para todo mundo na calçada porque é alta demais para chegar de outro jeito. Ela nota a diferença e não tem palavra para ela.
-- **A virada** — ela fica, mesmo assim, porque estar num lugar com muita gente é uma coisa que ela não fazia há muito tempo.
-- **Fios** — fio-do-desfile, fio-do-turno, fio-da-companhia
-- **Paga** — a-musica-de-longe, a-musica-pedida
-- **Elenco** — rita
-
-### 44. O desfile — Voss
+### 42. O desfile — Voss
 *(The Parade — Voss)*
 - **POV** — Voss
 - **Quando** — 2047-10-19 — sábado, 10h12
 - **Onde** — a quinta fileira, sem crachá
-- **A ideia** — ele está ali porque quem deixou de ser exceção não tem mais onde estar. A banda toca uma coisa que ele nunca ouviu e não vai lembrar. Ninguém naquela rua sabe quem ele foi.
-- **A virada** — as máquinas chegam na altura dele e ele dá um passo atrás, junto com todo mundo, abrindo caminho.
+- **A ideia** — ele está ali porque quem deixou de ser exceção não tem mais onde estar. Lê os painéis por hábito e acha a tipografia boa. A banda toca uma coisa que ele nunca ouviu e não vai lembrar. Ninguém naquela rua sabe quem ele foi.
+- **A virada** — no bloco largo ele dá um passo atrás, junto com todo mundo, abrindo caminho — no mesmo segundo dos outros três, e sem saber que existem.
+- **Nota** — capítulo separado de propósito: a forma é que enuncia a exceção dele. Nenhuma frase daqui alcança a música.
 - **Fios** — fio-do-desfile, fio-da-excecao
 - **Elenco** — voss
 - **Fontes** — nenhuma
 
-### 45. Depois
+### 43. Depois
 *(After)*
 - **POV** — Nina
 - **Quando** — 2047-10-19 — sábado, meio-dia
