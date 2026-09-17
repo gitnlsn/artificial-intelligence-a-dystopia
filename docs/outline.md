@@ -1004,6 +1004,9 @@ Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 - **A ideia** — a rua está cheia de gente que ela não conhece, e é a primeira vez no livro que muita gente olha para a mesma coisa ao mesmo tempo.
 - **A virada** — ela acha isso normal.
 - **Fios** — fio-do-desfile
+- **Elenco** — nina, aurel, mira
+- **Fontes** — nenhuma
+
 ### 41. O desfile
 *(The Parade)*
 - **POV** — Nina, Aurel, Rita
@@ -1040,3 +1043,13 @@ Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 - **Paga** — a-amiga-chata
 - **Elenco** — nina, aurel, mira
 - **Fontes** — nenhuma
+
+### 44. Segunda-feira
+*(Monday)*
+- **Quando** — 2047-10-21 — segunda-feira
+- **Onde** — a cidade, e a Avenida vazia à meia-noite
+- **A ideia** — o desfile acabou e os dias úteis recomeçam. **Não entra ninguém**: nenhum dos quatro, nenhum personagem, nenhum nome. A cidade funciona sozinha, onze mil e poucos despachos saem com a mesma linha no rodapé, e à meia-noite a música toca numa loja fechada de uma avenida sem uma pessoa nela.
+- **A virada** — nenhuma. O capítulo não tem virada e não tem ninguém dentro, e as duas coisas são de propósito.
+- **Nota** — **sem POV e sem elenco, e os dois campos ficam vazios de propósito**: é o único capítulo do livro sem ponto de vista e sem personagem na página. O narrador nomeia uma música — o único nome do livro que não está na boca de ninguém — e ela toca para ninguém. O capítulo termina em reflexão aberta, que é a única do livro. Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceções 5 e 2f. Sem bloco de registro: a Parte IV continua sem nenhum.
+- **Fios** — fio-do-desfile
+- **Fontes** — *A Whiter Shade of Pale*, Procol Harum, 1967. Nomear e descrever; nunca imprimir a letra. Ver `docs/references.md`.

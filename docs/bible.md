@@ -243,7 +243,7 @@ nada para que isso aconteça"*. O registro do cap. 21 diz **módulo linguístico
 Algumas coisas neste livro contrariam regras que o resto do livro cumpre à risca.
 Todas são **decisão do autor, tomada com a objeção registrada e mantida**, e
 estão aqui para que nenhuma revisão futura as "conserte". Também estão em
-`CLAUDE.md`. São quatro entradas de base — *1*, *2*, *3* e *4* — com descendentes
+`CLAUDE.md`. São cinco entradas de base — *1*, *2*, *3*, *4* e *5* — com descendentes
 em letra que estendem a de cima. Duas revogam cláusulas de outras, e só isso: a
 cena de *3b* revoga o *"e nada mais"* de *3*; a de *2c* revoga a proibição de
 música para o Voss, que passa a valer só para o desfile. **Nenhuma das duas
@@ -595,6 +595,49 @@ que diria o contrário, e **Rousseau**, que não tomaria partido.
 **Consequência colateral:** as outras três epígrafes são francesas e esta quebra
 o conjunto. Considerado, e não é defeito.
 
+### 2f. A sexta música — *A Whiter Shade of Pale*, e não é de ninguém
+
+**Decisão do autor, tomada com a objeção em mãos e vencida.** Em *Segunda-feira*,
+o último capítulo, **o narrador nomeia uma música** — título e banda. É o único
+nome do livro inteiro que não está na boca de alguém.
+
+**A objeção, posta por inteiro e vencida.** Três partes. Que `CLAUDE.md` diz que
+*o narrador não nomeia nada em lugar nenhum; todo nome do livro está na boca de
+alguém*, e que era exatamente isso que mantinha os nomes dentro do `pov:`. Que a
+música do desfile foi **inventada** para não ter nome (`docs/references.md`),
+porque uma música que todo mundo conhece devolve ao leitor uma referência
+compartilhada — que é o consolo que a Parte I diz ter acabado — e o fim passaria
+de **presença** a **reconhecimento**. E que esta é a sexta música num eixo de
+proveniência que `docs/references.md` descreve como fechado em quatro posições.
+
+**Por que não quebra o que parecia quebrar.** O narrador nomeia **porque ninguém
+ali pode nomear.** Uma música de 1967 toca numa loja em 2047 e nenhuma das três
+pessoas na loja levanta a cabeça. Quem reconhece é o leitor, e é o único no livro
+que reconhece: o reconhecimento não o consola, **implica** — que é a regra da
+última página. A distância entre o que o leitor sabe e o que a rua não sabe é o
+argumento inteiro, e nenhuma frase o enuncia.
+
+Vinculante, e tudo isto carrega peso:
+
+- **Nomear e descrever. Nunca imprimir a letra**, nem citada nem parafraseada. A
+  primeira linha desta música é das mais citadas de cor do pop, e a proibição
+  precisa ser segurada com mais força aqui do que em qualquer outra.
+- **Nenhum dos quatro ouve.** Toca no trecho sem gente do capítulo, e longe do
+  Voss em especial: ele é o único que não pode ser consolado, e a música dele é
+  decisão de um capítulo só.
+- **Ninguém reconhece e ninguém reage.** Ninguém levanta a cabeça, e o livro não
+  diz mais nada. *Ninguém ali sabia o que era* é frase-tese e não entra.
+- **Não é numa janela.** A da Rita caiu de uma janela alta, e uma segunda janela
+  leria como autor e não como mundo.
+- **O título nunca é glosado.** Nenhuma frase liga *a whiter shade of pale* a um
+  rosto, à cidade, ao século ou ao livro. É o mesmo risco que governa
+  *Perpetual Motion*, e é o que transformaria o fim em slogan.
+- **Não abre terceira pronúncia.** As duas pronúncias erradas de *Great Divide*
+  são um par fechado. O narrador não tem boca, e nada aqui é pronunciado.
+- **As outras quatro não voltam.** *Great Divide*, *Better*, *Perpetual Motion* e
+  *space in the space* são decisões de um capítulo cada.
+- **Um capítulo, e só.** Ficha verificada em `docs/references.md`.
+
 ### 3. A Rita é uma unidade de cuidado
 
 **Ela sabe desde a primeira página. O leitor não.** Decisão do autor, tomada
@@ -909,8 +952,8 @@ dias úteis, e a seguinte abre no homem que escreve esse prazo.
 ### 4. O desfile é um capítulo com três pontos de vista
 
 **A regra que isto contraria é a mais dura do livro:** *um ponto de vista por
-capítulo*, em `CLAUDE.md` e em `docs/outline.md`, nunca violada em quarenta e
-cinco capítulos. E contraria uma frase que estava escrita no plano: *"O desfile
+capítulo*, em `CLAUDE.md` e em `docs/outline.md`, nunca violada em nenhum outro
+capítulo. E contraria uma frase que estava escrita no plano: *"O desfile
 são quatro capítulos, um por protagonista."*
 
 **A decisão:** Nina, Aurel e Rita dividem um capítulo, *O desfile*, em três seções
@@ -952,6 +995,72 @@ palavras entre os pontos de vista da seção. As duas primeiras foram mantidas.
 - **Nenhuma seção comenta outra**, e nenhuma delas sabe que as outras existem.
 - **Nenhuma rubrica.** As seções não são nomeadas nem marcadas. Se o leitor
   precisar de um rótulo para saber em que cabeça está, a fusão falhou.
+
+---
+
+### 5. O último capítulo não tem ponto de vista nem personagem
+
+**Decisão do autor, tomada com a objeção em mãos e vencida.** *Segunda-feira* vem
+depois de *Depois* e é **o único capítulo do livro sem `pov:` e sem `cast:`**. Os
+dois campos ficam ausentes do front matter, de propósito. Não entra nenhum dos
+quatro, não entra nenhum personagem, e **não há um nome próprio de pessoa na
+página inteira**.
+
+**A objeção, posta por inteiro e vencida.** Que a justificativa da exceção 4,
+logo acima, diz que *o contrato existe para impedir narrador onisciente* — de
+modo que um narrador sem lugar é precisamente o que a regra mais dura do livro
+foi escrita para manter fora, e chega na última página. Que o capítulo termina em
+**reflexão aberta**, que é o que a proibição de frases-tese existe para impedir.
+Que arrisca a sexta mentira do gênero, *que o final resolve*. E que ninguém pode
+reenunciar *"Tipo o desfile."* Preteridas: um capítulo final feito só de
+`registro` — **a segunda vaga de outra jurisdição continua livre** —, um capítulo
+que olhasse os quatro por fora, e não fazer nada.
+
+**O que o capítulo é.** Quatro trechos e nenhuma pessoa. A cidade abrindo às seis
+e funcionando sozinha; os onze mil quatrocentos e sessenta despachos que saem do
+Bloco C num dia, todos terminando na mesma linha; **a Avenida vazia à meia-noite**,
+com o chão lavado e os avisos acesos escrevendo para os dois lados por onde
+ninguém passa; e a reflexão.
+
+**A música toca num lugar vazio, e é isso que a paga.** Numa loja fechada da
+quadra do meio um aparelho continua tocando porque não há instrução para parar.
+Não há ninguém na loja e não há ninguém na rua. Depois dela toca a seguinte. **O
+livro inteiro foi sobre som que chega até alguém** — recomendado, alocado,
+entregue no volume certo — e termina em som que chega até ninguém e continua
+chegando. Nenhuma frase aponta para isso, e nenhuma frase compara esta música com
+a banda do desfile.
+
+**O que a reflexão pode dizer, e o que não pode.** Pode dizer que nada daquilo era
+ilegal, que cada decisão tinha fundamento escrito e disponível, que ninguém foi
+preso nem seguido nem tratado com grosseria, que não houve um dia em que aquilo
+tenha sido decidido, que foi adotado aos pedaços por motivos defensáveis, que não
+há onde desligar, e que o que mudou de mão foi o tempo. **Não pode**: refazer a
+conta que a Rita já faz em *O indeferimento* (*quarenta dias úteis dá quase dois
+meses*); dizer que alguém é culpado; usar *nós* ou segunda pessoa; reenunciar
+*"Tipo o desfile"*; nem glosar o título da música.
+
+**Sem bloco de registro.** A Parte IV segue sem nenhum, que é como ela foi
+construída, e só um registro opera por vez. A linha do rodapé aparece **em prosa
+e por extenso** — *quarenta dias úteis* —, nunca em algarismo, porque algarismo é
+coisa de dentro do registro.
+
+**O dia.** Segunda, 21/10, o primeiro dia útil depois do desfile de sábado. O
+capítulo **não encena** a lotação nova do Voss, que continua citada e nunca
+encenada em `docs/timeline.md`; a linha sobre mudar um servidor de andar depois
+de dezoito anos é uma entre onze mil, e **não é nomeada**.
+
+**Detalhes de arquivo, que são parte da decisão:**
+
+- **`pov:` e `cast:` ficam ausentes, não preenchidos.** `scripts/digest.py` e
+  `scripts/stats.py` caem os dois para `—`, e o capítulo aparece nos dois
+  relatórios como uma linha `—` de um capítulo. Um `nenhum` escrito no campo
+  inventaria um personagem na tabela de equilíbrio de ponto de vista. `cast:`
+  sobrevive à fusão do `scaffold-outline.py` se já estiver no arquivo: tirar do
+  `docs/outline.md` não basta, tem de sair do capítulo também.
+- **`seeds:` e `pays:` ficam vazios.** Semente plantada no último capítulo não
+  tem onde ser colhida e derruba `make fios` quando todos os capítulos chegarem
+  a `final`.
+- **A música que o narrador nomeia é a exceção 2f**, acima.
 
 ---
 

@@ -137,12 +137,15 @@ fecha no Dia da Fundação.
 | 10-19, 10h36 | A banda da escola. Três batidas do bumbo sozinho e na quarta entra tudo. Quarenta segundos, desafinada, o trombone da ponta atrasado. Nina grita o nome da Bel. Aurel faz a conta e chega a 2036. Rita ouve no peito antes de ouvir. **Voss não acha nada a respeito e na segunda não lembra de um compasso** | os quatro | O desfile; O desfile — Voss |
 | 10-19, ≈11h20 | A rua se esvazia em dez minutos e vira gente separada indo embora. Sorvete de limão. Nina não olha para nenhuma delas em particular | Nina | Depois |
 | 10-19, 12h20 | O carro chega. Deixam Aurel em Marvik e a de coco está atrás da de leite | Nina | Depois |
+| 10-21, 6h | A cidade abre. Os aparelhos sobem de Marvik e de Kalden a cada quarenta segundos e não descem em Brenna, onde não há plataforma. As grades do desfile são recolhidas entre sete e nove e meia | — (ninguém na página) | Segunda-feira |
+| 10-21, o dia | Saem do Bloco C **onze mil quatrocentos e sessenta despachos**, todos terminando em *quarenta dias úteis*. O Dia da Fundação caiu no sábado e não custou nenhum dia útil | — (ninguém na página) | Segunda-feira |
+| 10-21, meia-noite | **A Avenida vazia.** Chão lavado, grades guardadas, avisos acesos escrevendo para os dois lados por onde ninguém passa. Numa loja fechada um aparelho toca *A Whiter Shade of Pale* inteira, e depois toca a seguinte. **É a última cena do livro** | — (ninguém na página) | Segunda-feira |
 
 ## Depois do livro — datas citadas e nunca encenadas
 
 | Quando | O que foi dito | Capítulo |
 |---|---|---|
-| 10-21, segunda | Voss assume a conferência geral do sétimo andar | O critério o alcança |
+| 10-21, segunda | Voss assume a conferência geral do sétimo andar. *Segunda-feira* não o encena: a linha sobre mudar um servidor de andar depois de dezoito anos é uma entre onze mil e não é nomeada | O critério o alcança; Segunda-feira |
 | 10-22, terça | Rita disse *terça eu venho* e Teodor disse *terça*. Não há capítulo | A última casa |
 | ≈12-15 | Vencem os quarenta dias úteis do indeferimento de Rita, e os do pedido de Teodor, e os da redistribuição de Voss | O indeferimento; Quatro linhas; O critério o alcança |
 | 2048-01 | O salário de Voss cai para 81%. O fixador da Juno sai | O critério o alcança; A casa da moça que ia embora |

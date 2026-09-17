@@ -10,8 +10,8 @@ premise: três seções e o mesmo relógio. As máquinas passam, e cada bloco é
   passo atrás e escurece de um lado durante onze segundos, e os três estão dentro
   dos mesmos onze segundos. Depois vem a banda da escola, que é de gente, e está
   desafinada.
-turn: a Nina é feliz sem ressalva; o Aurel descobre por que nunca achou o nome, e
-  não conta a ninguém; a Rita fica, e não começa a guardar.
+turn: a Nina é feliz sem ressalva; o Aurel descobre por que nunca achou o nome,
+  e não conta a ninguém; a Rita fica, e não começa a guardar.
 threads:
 - fio-do-desfile
 - fio-do-registro
@@ -37,7 +37,6 @@ cast:
 sources: nenhuma
 status: draft
 ---
-
 Primeiro veio o estandarte da cidade, que é chato, e depois uma banda de adultos,
 que era boa e não era a dela.
 

@@ -18,7 +18,6 @@ cast:
 sources: nenhuma
 status: draft
 ---
-
 Ele desceu às nove e quarenta sem ter decidido descer.
 
 Levantou às seis, fez café, lavou a xícara, e ficou. Às nove e meia o barulho já

@@ -64,6 +64,7 @@ Aplicado a este livro:
 | *Better*, Regina Spektor, faixa de *Begin to Hope*, 2006 | Em direito autoral | Nomear e descrever. A Rita diz **o título e a cantora em voz alta** — e é a única personagem do livro que tem um nome de música inteiro **sem saber de onde o tirou**. **Não imprimir a letra.** Ver a nota abaixo |
 | *Perpetual Motion*, LukHash (Łukasz Polkowski), faixa 1 de *Better Than Reality*, 2019 | Em direito autoral | Nomear e descrever. O Voss **nunca diz o nome em voz alta**: está escrito num papel dobrado, com a letra dele. **Não imprimir a letra**, se houver. Ver a nota abaixo |
 | *space in the space*, Uru (letra e melodia de Uru; arranjo de Kan Sano), de *オリオンブルー* (Orion Blue), 2020 | Em direito autoral | Nomear e descrever. A Nina diz **o título em voz alta** e nomeia **a cantora uma vez**, à mãe. **Não imprimir a letra** — e ver abaixo a letra falsa que circula |
+| *A Whiter Shade of Pale*, Procol Harum (Gary Brooker / Keith Reid; Matthew Fisher reconhecido coautor da música por decisão judicial britânica), single de estreia, 1967 | Em direito autoral | Nomear e descrever. **É o único nome do livro que não está na boca de ninguém**: quem nomeia é o narrador, no último capítulo, e ninguém na loja levanta a cabeça. **Não imprimir a letra** — ver a nota abaixo |
 | A música do desfile | **Inventada** — sem nome, sem letra, banda marcial de gente | Tudo. Música inventada não tem titular, e foi por isso, entre outras razões, que se decidiu assim |
 | Caetano Veloso, *Oração ao Tempo*, 1979 | Em direito autoral | Nomear e descrever apenas |
 
@@ -179,6 +180,35 @@ palavras aparecem escritas na língua dela e ela as lê inteiras: cada frase dá
 para entender, juntas não dão. **Nenhuma frase do livro comenta isso**, e o
 sentido disponível sem o entendimento é o capítulo inteiro. Regra completa em
 `docs/bible.md`, exceção *2d*.
+
+**A sexta música, e ela não é de ninguém.** No último capítulo, *Segunda-feira*,
+o narrador nomeia *A Whiter Shade of Pale*, do Procol Harum, tocando numa loja em
+Kalden. **Verificado em 2026-09-17**: single de estreia do grupo, lançado em
+**12 de maio de 1967**; os créditos originais eram de Gary Brooker (música) e
+Keith Reid (letra), e **Matthew Fisher**, organista, obteve na Justiça britânica
+o reconhecimento de coautoria da música, confirmado pelos Law Lords em 2009. Uma
+gravação-padrão do single tem **4 min 02 s**, que é a duração impressa no
+capítulo.
+
+**A ligação com Bach é influência declarada e não é citação**, e o livro não
+afirma nada sobre isso: Brooker reconheceu que a progressão passa por um compasso
+ou dois de *Air on the G String* antes de seguir para outro lugar, e disse que
+não estava combinando rock com clássico de propósito. **Nenhuma frase do capítulo
+faz essa afirmação** — descreve-se o órgão e a linha grave que desce, e mais
+nada. Se uma revisão quiser afirmar a origem, é `[[?fato: …]]` antes de entrar.
+
+**O que dá para descrever**, e resolve tudo: o órgão, a linha grave que desce
+degrau por degrau e recomeça de cima, a duração, o volume, quem estava na loja.
+**A letra não entra de jeito nenhum** — nem citada, nem parafraseada de perto,
+nem em tradução. Esta é a canção do livro em que a proibição corre mais risco,
+porque a primeira linha dela é das mais citadas de cor do pop; a regra não abre
+exceção por ser famosa.
+
+**O título nunca é glosado.** Nenhuma frase liga *a whiter shade of pale* a um
+rosto, à cidade, ao século ou ao livro — é o mesmo risco que governa
+*Perpetual Motion*. **O narrador não abre terceira vaga de pronúncia:** as duas
+pronúncias erradas de *Great Divide* são um par fechado, e o narrador não tem
+boca. Regra completa em `docs/bible.md`, exceção *2f*.
 
 ### Victor Hugo — domínio público
 

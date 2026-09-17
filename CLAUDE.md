@@ -46,8 +46,25 @@ with taste, he is a man with a procedure, and the band at the parade gives him
 nothing because nothing outside the procedure reaches him.
 
 The pace is **visible in the table of contents**: Part I is six long chapters,
-Part IV is twelve short ones. The reader feels the acceleration before knowing it
+Part IV is thirteen short ones. The reader feels the acceleration before knowing it
 is there.
+
+**The book ends on a chapter with nobody in it, and it is the author's
+decision.** *Segunda-feira* follows *Depois* and is the only chapter in the novel
+with **no `pov:` and no `cast:`** — both fields absent, not filled. None of the
+four appears; no person is named on the page at all. The objection was put and
+overruled, and it is exception 5 in `docs/bible.md`: the `pov:` contract exists
+*to prevent an omniscient narrator*, and this is one arriving on the last page,
+ending in **open reflection**, which is what the ban on thesis sentences exists to
+prevent. What the chapter is instead: the city opening at six and running itself;
+the eleven thousand four hundred and sixty despatches that leave Bloco C in a
+day, every one ending on the same line; **the Avenida empty at midnight**, washed,
+the notices lit and writing to both sides of a street nobody is walking on; and
+the reflection. **The music pays for the emptiness** — in a closed shop a machine
+goes on playing because there is no instruction to stop, to nobody, and then
+plays the next one. The whole book was sound that reaches someone; it ends on
+sound that reaches no one and keeps arriving. **No sentence points at that**, and
+none compares it to the band. Do not put a person back into this chapter.
 
 **The parade is two chapters, and the split is the argument.** Nina, Aurel and
 Rita share one, *O desfile*, in three point-of-view-locked sections; Voss has the
@@ -445,6 +462,21 @@ night as *A música que ela pediu* and **no chapter compares them**. One chapter
 and no more: it does not return at the parade or in *Depois*. Full contract in
 `docs/bible.md`, exception 2d.
 
+**A sixth song, and it belongs to nobody — the author's decision.** In
+*Segunda-feira* the **narrator** names *A Whiter Shade of Pale*, Procol Harum,
+playing in a shop in Kalden. It is the only name in the book that is not in
+somebody's mouth, and the objection — that the narrator names nothing anywhere,
+that the parade music was invented precisely so it would have none, and that a
+song everyone knows trades presence for recognition — was put and overruled. It
+is exception 2f in `docs/bible.md` and a verified row in `docs/references.md`.
+**The narrator names it because nobody there can:** a 1967 song plays and not one
+of the three people in the shop looks up. The reader is the only one in the book
+who recognises it, which implicates them instead of consoling them, and **no
+sentence points at any of this**. Binding: none of the four hears it; nobody
+reacts; not a window; **the title is never glossed**; no lyric, ever; and it opens
+**no third pronunciation slot**, because the narrator has no mouth. One chapter,
+and no more.
+
 Three of the four get it. Voss gets the step back instead, and **nothing in his
 parade chapter may reach for the music** — no half-heard bar, no belated
 recognition, and no line that remembers the desk. *(Scoped deliberately. It
@@ -763,7 +795,7 @@ embed, and KDP rejects a PDF with an unembedded font. Vendor an OFL mono into
 Marked `[[?autor: …]]` in `docs/outline.md` so `make marcadores` keeps asking.
 Nothing here can be decided by a draft.
 
-**The draft is complete** — 43 chapters, ~57,000 words, every gate passing. What
+**The draft is complete** — 44 chapters, ~57,500 words, every gate passing. What
 follows is revision, not construction, and the standing instruction for revision is that `docs/outline.md`, `docs/bible.md` and
 `docs/timeline.md` must keep describing the manuscript that exists rather than
 the one that was planned.
