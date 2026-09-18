@@ -795,7 +795,7 @@ embed, and KDP rejects a PDF with an unembedded font. Vendor an OFL mono into
 Marked `[[?autor: …]]` in `docs/outline.md` so `make marcadores` keeps asking.
 Nothing here can be decided by a draft.
 
-**The draft is complete** — 44 chapters, ~57,500 words, every gate passing. What
+**The draft is complete** — 42 chapters, ~57,100 words, every gate passing. What
 follows is revision, not construction, and the standing instruction for revision is that `docs/outline.md`, `docs/bible.md` and
 `docs/timeline.md` must keep describing the manuscript that exists rather than
 the one that was planned.

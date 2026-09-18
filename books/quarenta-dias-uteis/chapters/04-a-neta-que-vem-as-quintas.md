@@ -20,7 +20,7 @@ pays:
 cast:
 - aurel
 - nina
-status: draft
+status: revised
 ---
 Ela chegou às quatro e vinte, largou a mochila no meio do corredor, no lugar
 exato onde ele tropeça, e foi direto ao armário de cima da pia sem pedir, porque

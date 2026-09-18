@@ -14,7 +14,7 @@ cast:
 - nina
 - bel
 sources: nenhuma
-status: draft
+status: revised
 ---
 A primeira aula de sexta é a que ela gosta menos e mesmo assim é boa.
 

@@ -15,7 +15,7 @@ threads:
 cast:
 - rita
 - juno
-status: draft
+status: revised
 ---
 A Juno tem vinte e seis anos, um fixador externo na perna direita e uma
 quantidade de energia que não cabe naquele apartamento.

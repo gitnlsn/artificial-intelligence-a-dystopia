@@ -18,7 +18,7 @@ cast:
 sources: '*Perpetual Motion*, LukHash, 2019 — o nome está escrito num papel dobrado,
   nunca dito em voz alta; o narrador não nomeia nada e a letra não pode ser impressa.
   Ver docs/references.md'
-status: draft
+status: revised
 ---
 O fone dele é uma peça de sete anos atrás, do tamanho de meia noz, e não é dos
 que somem na orelha: fica para fora, cinza-escuro, com uma parte lisa que ficou

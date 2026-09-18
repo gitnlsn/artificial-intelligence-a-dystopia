@@ -19,7 +19,7 @@ cast:
 - elias
 sources: '*Better*, Regina Spektor, 2006 — o título e a cantora são ditos por ela,
   em voz alta; o narrador não nomeia nada e a letra não pode ser impressa. Ver docs/references.md'
-status: draft
+status: revised
 ---
 Ela chegou às oito e vinte com duas coisas para contar e não contou nenhuma.
 

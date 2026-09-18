@@ -17,7 +17,7 @@ cast:
 - rita
 - dona-eszter
 sources: nenhuma
-status: draft
+status: revised
 ---
 Dona Eszter tem oitenta e seis anos e um sistema.
 

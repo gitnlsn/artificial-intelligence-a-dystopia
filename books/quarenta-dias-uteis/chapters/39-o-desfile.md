@@ -35,7 +35,7 @@ cast:
 - rita
 - bel
 sources: nenhuma
-status: draft
+status: revised
 ---
 Primeiro veio o estandarte da cidade, que é chato, e depois uma banda de adultos,
 que era boa e não era a dela.

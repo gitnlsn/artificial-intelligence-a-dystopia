@@ -16,7 +16,7 @@ cast:
 - rita
 - elias
 sources: nenhuma
-status: draft
+status: revised
 ---
 Ela tinha guardado a dona Eszter o dia inteiro.
 

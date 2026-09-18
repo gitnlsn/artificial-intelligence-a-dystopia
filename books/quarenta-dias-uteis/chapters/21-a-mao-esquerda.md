@@ -22,7 +22,7 @@ pays:
 cast:
 - rita
 sources: nenhuma
-status: draft
+status: revised
 ---
 Ela devia ter ido para casa.
 

@@ -16,7 +16,7 @@ seeds:
 cast:
 - aurel
 - ilse
-status: draft
+status: revised
 ---
 Às três e dez ele acordou, como acorda um homem de oitenta e dois anos, sem
 motivo e sem sono, e ficou deitado no escuro fazendo a conta de quanto tempo

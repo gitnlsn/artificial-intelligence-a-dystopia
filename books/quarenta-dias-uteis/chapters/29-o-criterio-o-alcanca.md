@@ -14,7 +14,7 @@ cast:
 - voss
 - brann
 sources: nenhuma
-status: draft
+status: revised
 ---
 Ele entregou a nota das duas páginas na quinta às onze da noite, de casa, porque
 não tinha conseguido dormir de qualquer jeito.

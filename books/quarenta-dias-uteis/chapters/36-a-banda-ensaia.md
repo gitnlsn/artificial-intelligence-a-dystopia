@@ -19,7 +19,7 @@ cast:
 - doria
 - mira
 sources: nenhuma
-status: draft
+status: revised
 ---
 São trinta e um e não conseguem começar juntos.
 

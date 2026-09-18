@@ -16,7 +16,7 @@ threads:
 cast:
 - voss
 sources: nenhuma
-status: draft
+status: revised
 ---
 Ele desceu às nove e quarenta sem ter decidido descer.
 

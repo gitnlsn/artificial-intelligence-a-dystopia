@@ -17,7 +17,7 @@ seeds:
 cast:
 - aurel
 - mira
-status: draft
+status: revised
 ---
 Começaram a montar as grades na quinta à noite e na sexta de manhã já estavam
 até a esquina da Vetten.

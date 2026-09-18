@@ -14,7 +14,7 @@ cast:
 - nina
 - mira
 sources: nenhuma
-status: draft
+status: revised
 ---
 Ela separou a roupa em cima da cadeira às oito da noite.
 

@@ -18,7 +18,7 @@ cast:
 - rita
 - teodor
 sources: nenhuma
-status: draft
+status: revised
 ---
 Teodor esconde a mão esquerda embaixo da mesa quando ela chega.
 

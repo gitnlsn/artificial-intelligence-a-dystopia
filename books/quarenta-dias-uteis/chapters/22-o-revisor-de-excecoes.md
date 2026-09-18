@@ -17,7 +17,7 @@ seeds:
 cast:
 - voss
 sources: Hugo, *Les Misérables* — domínio público, pode ser citado
-status: draft
+status: revised
 ---
 O primeiro caso da segunda-feira entrou às oito e três.
 

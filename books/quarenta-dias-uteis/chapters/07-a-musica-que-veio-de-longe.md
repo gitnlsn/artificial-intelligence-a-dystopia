@@ -18,7 +18,7 @@ cast:
 sources: '*Great Divide*, The Cardigans, faixa 10 de *First Band on the Moon*, 1996
   — aqui a banda é nomeada (a mãe dela a dizia no carro) e o título nunca; a letra
   não pode ser impressa. Ela não sabe o nome da música. Ver docs/references.md'
-status: draft
+status: revised
 ---
 Às seis e quarenta ela já estava embaixo do toldo da padaria, que é onde se
 espera, porque tem sombra e porque de lá dá para ver a esquina inteira.

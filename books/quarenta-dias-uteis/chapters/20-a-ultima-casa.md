@@ -18,7 +18,7 @@ pays:
 cast:
 - rita
 - teodor
-status: draft
+status: revised
 ---
 O turno tinha virado para as sete.
 

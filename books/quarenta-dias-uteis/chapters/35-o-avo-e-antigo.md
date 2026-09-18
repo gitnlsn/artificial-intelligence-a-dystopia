@@ -19,7 +19,7 @@ cast:
 - nina
 - aurel
 sources: nenhuma
-status: draft
+status: revised
 ---
 Ela ligou às quatro e meia, do quarto, deitada de bruços na cama com os pés para
 cima.

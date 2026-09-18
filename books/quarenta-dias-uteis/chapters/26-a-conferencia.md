@@ -14,7 +14,7 @@ cast:
 - voss
 - brann
 sources: nenhuma
-status: draft
+status: revised
 ---
 A conferência trimestral é às dez, no sétimo andar, e dura quarenta minutos.
 

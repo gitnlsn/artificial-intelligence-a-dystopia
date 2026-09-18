@@ -32,7 +32,9 @@ black-and-white interior.
 - **Manuscript**: the EPUB. KDP converts it; it is not a fixed-layout book.
 - **Cover**: KDP wants a separate 1600×2560 JPEG for the eBook. The build
   makes one at `dist/<slug>/epub/img/cover.jpg` from
-  `illustrations/masters/<epub.cover>`, or a placeholder if that file is absent.
+  `illustrations/masters/<epub.cover>`. With no such file it typesets the
+  cover from `shared/print/cover.typ` instead, using the same front panel as
+  the printed wrap — a finished cover for a text-only edition, not a stand-in.
 - **Keywords**: the 7 in `kdp.keywords`. They also become `dc:subject` in the
   EPUB, so the two never drift apart.
 - **Description**: `kdp.description`. KDP accepts limited HTML; plain
@@ -80,7 +82,7 @@ caminho recomendado se a intenção é apenas não usar o próprio nome.
 
 O campo `author:` em `book.yaml` traz o pseudônimo **Íris Gradim**, e é dele que
 saem a capa, a folha de rosto, a página de créditos e os metadados do EPUB. O
-mesmo nome está em `back/01-sobre-o-autor.md`; trocar um sem trocar o outro
+mesmo nome está em `back/01-sobre-a-autora.md`; trocar um sem trocar o outro
 publica o livro com dois autores.
 
 ### 2. A declaração de IA: marcar "sim"
@@ -127,9 +129,9 @@ em citação, número ou data é exatamente o tipo de defeito que caracteriza is
 Este repositório tem três travas para isso, e todas devem estar limpas antes de
 publicar:
 
-    make claims    # nenhuma citação, número ou data sem verificação
-    make check     # preflight de formato e de imagem
-    vale books/    # revisão de estilo
+    make marcadores  # nenhuma citação, número ou data sem verificação
+    make fios        # nenhuma promessa sem pagamento
+    make check       # preflight de formato e de imagem
 
 E a checagem que nenhuma ferramenta faz: ler o PDF inteiro, em papel se possível,
 uma vez, antes de subir.
@@ -137,7 +139,9 @@ uma vez, antes de subir.
 ## Decisão sobre a capa — 1ª edição
 
 **Esta edição sai sem arte de capa.** A capa é tipográfica: título, subtítulo,
-autora e lombada, compostas pelo `shared/print/cover.typ`, sem imagem.
+autora e lombada, compostas pelo `shared/print/cover.typ`, sem imagem. A capa
+do eBook sai do mesmo arquivo e do mesmo painel, de modo que as duas não podem
+divergir.
 
 Isso é uma escolha e não uma pendência. Não gerar `illustrations/masters/cover.png`
 não bloqueia o build nem a submissão: a KDP exige uma capa full-wrap com sangria

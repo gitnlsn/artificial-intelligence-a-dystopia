@@ -16,7 +16,7 @@ pays:
 cast:
 - elias
 - rita
-status: draft
+status: revised
 ---
 Ela contou a história das três palavras duas vezes.
 

@@ -17,7 +17,7 @@ seeds:
 cast:
 - voss
 sources: nenhuma
-status: draft
+status: revised
 ---
 Rapaz, dezenove anos, Brenna.
 

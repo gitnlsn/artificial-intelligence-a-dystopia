@@ -16,7 +16,7 @@ cast:
 - elias
 - selma
 sources: nenhuma
-status: draft
+status: revised
 ---
 A advertência estava lá quando ela abriu, às dez e meia da noite, sentada na
 cozinha com o pé em cima da outra cadeira.

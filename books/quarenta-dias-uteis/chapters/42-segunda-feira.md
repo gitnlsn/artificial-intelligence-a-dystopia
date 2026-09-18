@@ -14,7 +14,7 @@ threads:
 - fio-do-desfile
 sources: '*A Whiter Shade of Pale*, Procol Harum, 1967. Nomear e descrever; nunca
   imprimir a letra. Ver `docs/references.md`.'
-status: draft
+status: revised
 ---
 Na segunda-feira a cidade abriu às seis, que é a hora em que abre.
 

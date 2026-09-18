@@ -17,7 +17,7 @@ cast:
 - bel
 - lu
 sources: nenhuma
-status: draft
+status: revised
 ---
 A Bel é injusta e a Nina sabe disso desde o segundo ano.
 

@@ -17,7 +17,7 @@ pays:
 cast:
 - voss
 sources: nenhuma
-status: draft
+status: revised
 ---
 Homem, setenta e nove, Marvik.
 

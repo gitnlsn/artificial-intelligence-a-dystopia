@@ -13,6 +13,82 @@
 
 #let bleed = 0.125in
 
+// The front panel, shared by the printed wrap and the eBook cover so the two
+// can never drift apart. Everything that differs between them -- panel size,
+// how far the title drops, how far the author sits off the foot -- arrives as
+// an argument; nothing about the design does.
+#let front-panel(
+  title: "",
+  subtitle: none,
+  author: "",
+  series: none,
+  w: 5.5in,
+  h: 8.5in,
+  inset: 0.25in,
+  top-drop: 1in,
+  author-lift: 0.6in,
+  side-trim: 0.625in,
+  title-size: 34pt,
+  subtitle-size: 13pt,
+  author-size: 13pt,
+  accent: rgb("#c8a44a"),
+  serif: ("Libertinus Serif", "Georgia"),
+  sans: ("Libertinus Sans",),
+  display: ("Libertinus Serif Display", "Libertinus Serif"),
+) = block(width: w, height: h)[
+  #place(top + left, dx: inset, dy: top-drop, block(width: w - side-trim)[
+    #align(center)[
+      #if series != none [
+        #text(font: sans, size: 8pt, tracking: 0.26em, fill: accent)[
+          #upper(series)
+        ]
+        #v(2.2em)
+      ]
+      #text(font: display, size: title-size, weight: "semibold")[#title]
+      #if subtitle != none [
+        #v(1.1em)
+        #line(length: 22%, stroke: 0.6pt + accent)
+        #v(1.1em)
+        #text(font: serif, size: subtitle-size, style: "italic")[#subtitle]
+      ]
+    ]
+  ])
+  #place(bottom + center, dy: -author-lift, text(
+    font: sans,
+    size: author-size,
+    tracking: 0.18em,
+  )[#upper(author)])
+]
+
+// The eBook cover: the same front panel on a single 1:1.6 page, which is the
+// shape KDP asks for (1600 x 2560). No bleed and no trim, because nothing is
+// cut -- so the panel gets the whole page and a slightly larger title.
+#let ebook-cover(
+  title: "",
+  subtitle: none,
+  author: "",
+  series: none,
+  bg: rgb("#1d2b2b"),
+  ink: rgb("#f4f1ea"),
+  accent: rgb("#c8a44a"),
+  serif: ("Libertinus Serif", "Georgia"),
+  sans: ("Libertinus Sans",),
+  display: ("Libertinus Serif Display", "Libertinus Serif"),
+  body,
+) = {
+  let w = 5.5in
+  let h = 8.8in
+  set page(width: w, height: h, margin: 0pt, fill: bg)
+  set text(font: serif, fill: ink, hyphenate: false)
+  front-panel(
+    title: title, subtitle: subtitle, author: author, series: series,
+    w: w, h: h, inset: 0.4in, top-drop: 1.5in, author-lift: 1in,
+    side-trim: 0.8in, title-size: 40pt, subtitle-size: 15pt, author-size: 14pt,
+    accent: accent, serif: serif, sans: sans, display: display,
+  )
+  body
+}
+
 #let kdp-cover(
   title: "",
   subtitle: none,
@@ -54,8 +130,15 @@
         ]
         #v(1.4em)
       ]
-      #set par(justify: false, leading: 0.72em, spacing: 0.9em)
-      #text(font: serif, size: 11pt)[#blurb]
+      #set par(justify: false, leading: 0.72em, spacing: 1.45em)
+      // The blurb arrives as one string per paragraph, because a newline
+      // inside a typst string prints as a hard line break and not as a space:
+      // handing over the whole description in one string reproduces the line
+      // breaks of book.yaml on the printed cover.
+      #let paragraphs = if type(blurb) == str { (blurb,) } else { blurb }
+      #text(font: serif, size: 11pt)[
+        #for p in paragraphs [#par(p)]
+      ]
       #v(1fr)
       // The bottom-right 2 x 1.2in must stay free of text and artwork: KDP
       // prints the barcode there and it will cover whatever is underneath.
@@ -96,32 +179,12 @@
     ])
 
     // ---------------- front cover ----------------
-    #place(top + left, dx: bleed + tw + spine, dy: 0pt, block(width: tw, height: full-h)[
-      #place(top + left, dx: 0.25in, dy: safe + 0.6in, block(
-        width: tw - 2 * 0.25in - bleed,
-      )[
-        #align(center)[
-          #if series != none [
-            #text(font: sans, size: 8pt, tracking: 0.26em, fill: accent)[
-              #upper(series)
-            ]
-            #v(2.2em)
-          ]
-          #text(font: display, size: 34pt, weight: "semibold")[#title]
-          #if subtitle != none [
-            #v(1.1em)
-            #line(length: 22%, stroke: 0.6pt + accent)
-            #v(1.1em)
-            #text(font: serif, size: 13pt, style: "italic")[#subtitle]
-          ]
-        ]
-      ])
-      #place(bottom + center, dy: -safe - 0.3in, text(
-        font: sans,
-        size: 13pt,
-        tracking: 0.18em,
-      )[#upper(author)])
-    ])
+    #place(top + left, dx: bleed + tw + spine, dy: 0pt, front-panel(
+      title: title, subtitle: subtitle, author: author, series: series,
+      w: tw, h: full-h, inset: 0.25in, top-drop: safe + 0.6in,
+      author-lift: safe + 0.3in, side-trim: 2 * 0.25in + bleed,
+      accent: accent, serif: serif, sans: sans, display: display,
+    ))
 
     // ---------------- production guides ----------------
     #if guides [

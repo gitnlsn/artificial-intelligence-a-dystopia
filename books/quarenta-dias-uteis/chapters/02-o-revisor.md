@@ -19,7 +19,7 @@ cast:
 - emil-roht
 - vidor
 - marcio
-status: draft
+status: revised
 ---
 Ele foi procurar de manhã, antes do café, ainda de chinelo, e levou quarenta
 minutos porque procurou na gaveta errada duas vezes.

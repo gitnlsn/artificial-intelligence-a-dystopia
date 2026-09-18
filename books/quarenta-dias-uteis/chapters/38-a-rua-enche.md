@@ -15,7 +15,7 @@ cast:
 - aurel
 - mira
 sources: nenhuma
-status: draft
+status: revised
 ---
 Chegaram nove e vinte e dois e a grade já estava tomada.
 

@@ -13,7 +13,7 @@ threads:
 cast:
 - rita
 - elias
-status: draft
+status: revised
 ---
 Ela chegou às nove e vinte e ele tinha feito comida.
 

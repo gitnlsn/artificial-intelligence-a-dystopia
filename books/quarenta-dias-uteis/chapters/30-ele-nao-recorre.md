@@ -17,7 +17,7 @@ pays:
 cast:
 - voss
 sources: nenhuma
-status: draft
+status: revised
 ---
 Ele sentou às nove e quarenta com o formulário aberto e ficou até as quatro e
 dez.

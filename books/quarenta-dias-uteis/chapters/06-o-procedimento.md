@@ -25,7 +25,7 @@ sources: '*Great Divide*, The Cardigans, faixa 10 de *First Band on the Moon*, 1
   — **ele** diz o título **e a banda**, os dois; nunca quem canta, nunca o ano,
   nunca a letra. O título vem da boca da Ilse; a banda, da capa do disco dela, e
   por isso ele a pronuncia como se lê. Ver docs/references.md'
-status: draft
+status: revised
 ---
 Ele fez a barba, o que não era necessário, e trocou a camisa, o que era menos
 necessário ainda.

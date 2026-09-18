@@ -17,7 +17,7 @@ cast:
 - aurel
 - mira
 sources: nenhuma
-status: draft
+status: revised
 ---
 Acabou de um jeito meio sem graça.
 

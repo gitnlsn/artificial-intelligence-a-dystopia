@@ -16,7 +16,7 @@ cast:
 - elias
 - rita
 sources: nenhuma
-status: draft
+status: revised
 ---
 O quarto dos fundos tem uma cadeira de escritório com um braço quebrado, uma
 mesa que era da mãe dele, e uma janela que dá para o poço de ventilação. É o

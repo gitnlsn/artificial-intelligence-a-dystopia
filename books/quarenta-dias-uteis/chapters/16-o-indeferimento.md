@@ -17,7 +17,7 @@ seeds:
 cast:
 - rita
 - idalina
-status: draft
+status: revised
 ---
 Ela foi porque a manhã tinha sobrado.
 

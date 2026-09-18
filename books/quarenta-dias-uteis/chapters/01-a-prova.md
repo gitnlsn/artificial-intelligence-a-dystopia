@@ -22,7 +22,7 @@ cast:
 - aurel
 sources: Hobsbawm, *A Era das Revoluções*, abertura do cap. 1 — trecho conferido
   contra o texto; ver `docs/references.md`
-status: draft
+status: revised
 ---
 O lápis era um 2B e ele apontava com gilete, nunca com apontador, porque
 apontador come grafite demais. Tinha aprendido isso numa redação onde ninguém

@@ -15,7 +15,7 @@ threads:
 cast:
 - rita
 - vilmar
-status: draft
+status: revised
 ---
 O código da porta ainda funcionava.
 

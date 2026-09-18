@@ -21,7 +21,7 @@ cast:
 - voss
 - rita
 sources: nenhuma
-status: draft
+status: revised
 ---
 Estava chovendo daquele jeito que não molha e atrapalha.
 

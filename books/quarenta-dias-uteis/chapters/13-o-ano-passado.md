@@ -20,7 +20,7 @@ cast:
 - elias
 - rita
 sources: nenhuma
-status: draft
+status: revised
 ---
 O pai dele levou sete meses para morrer e morria melhor de dia.
 

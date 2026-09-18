@@ -15,7 +15,7 @@ pays:
 cast:
 - voss
 sources: nenhuma
-status: draft
+status: revised
 ---
 A consulta chegou às oito e quarenta, com prazo até as dezessete horas de sexta.
 

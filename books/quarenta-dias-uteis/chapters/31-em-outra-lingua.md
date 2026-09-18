@@ -16,7 +16,7 @@ cast:
 - mira
 sources: '*space in the space*, Uru (letra e melodia de Uru, arranjo de Kan Sano),
   de *Orion Blue*, 2020 — nomear e descrever, nunca imprimir a letra. Ver docs/references.md'
-status: draft
+status: revised
 ---
 Ela põe essa música desde terça.
 

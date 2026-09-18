@@ -14,7 +14,7 @@ cast:
 - nina
 - bel
 sources: nenhuma
-status: draft
+status: revised
 ---
 O ônibus da escola faz o trajeto grande na sexta porque a avenida está fechada
 por causa das grades.

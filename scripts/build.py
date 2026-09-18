@@ -306,12 +306,10 @@ def build_epub(book_dir: Path, cfg: dict, pieces: list[Piece],
              "-resize", "1600x2560^", "-gravity", "center", "-extent", "1600x2560",
              "-quality", "90", str(cover_path)])
     else:
-        run(["magick", "-size", "1600x2560", "canvas:#f4f1ea", "-gravity", "center",
-             "-font", str(LABEL_FONT),
-             "-fill", "#333333", "-pointsize", "120", "-annotate", "+0-200",
-             cfg["title"], "-pointsize", "60", "-annotate", "+0+120",
-             cfg.get("author", ""), "-pointsize", "44", "-fill", "#a33",
-             "-annotate", "+0+900", "PLACEHOLDER COVER", str(cover_path)])
+        # No artwork: set the same typographic front panel the printed wrap
+        # uses. This is the finished cover for a text-only edition, not a
+        # stand-in, so it carries no placeholder mark.
+        typeset_ebook_cover(cfg, work / "cover", cover_path)
     cover_rel = "img/cover.jpg"
 
     # Body markdown, one level-1 heading per piece so pandoc splits on chapters.
@@ -416,6 +414,19 @@ def typ_str(value) -> str:
     if value is None:
         return "none"
     return '"' + str(value).replace("\\", "\\\\").replace('"', '\\"') + '"'
+
+
+def typ_paragraphs(value) -> str:
+    """A block of prose as a typst array of paragraphs, one string each.
+
+    Blank lines separate paragraphs; every other newline is soft and becomes a
+    space. `kdp.description` is a YAML literal block, so it keeps the line
+    breaks of book.yaml, and a newline inside a typst string is a hard break.
+    """
+    blocks = [" ".join(block.split())
+              for block in re.split(r"\n\s*\n", str(value or "").strip())]
+    blocks = [block for block in blocks if block]
+    return "(" + "".join(typ_str(block) + ", " for block in blocks) + ")"
 
 
 HEADING_RE = re.compile(r"^(=+) ", re.M)
@@ -618,6 +629,35 @@ def build_print(book_dir: Path, cfg: dict, pieces: list[Piece],
 # print cover
 # --------------------------------------------------------------------------
 
+def typeset_ebook_cover(cfg: dict, work: Path, dest: Path) -> None:
+    """The eBook cover, typeset from the same template as the printed wrap.
+
+    KDP wants 1600x2560. The typst page is 5.5 x 8.8in, which is that ratio
+    exactly, so the rasterised page needs no cropping -- only a snap to the
+    exact pixel box to absorb the rounding in the ppi.
+    """
+    work.mkdir(parents=True, exist_ok=True)
+    shutil.copy(SHARED / "print" / "cover.typ", work / "cover.typ")
+    series = cfg.get("series") or {}
+    src = "\n".join([
+        '#import "cover.typ": ebook-cover',
+        "#show: ebook-cover.with(",
+        f"  title: {typ_str(cfg['title'])},",
+        f"  subtitle: {typ_str(cfg.get('subtitle'))},",
+        f"  author: {typ_str(cfg.get('author'))},",
+        f"  series: {typ_str(series.get('name') or None)},",
+        ")",
+        "",
+    ]) + "\n"
+    (work / "ebook.typ").write_text(src, encoding="utf-8")
+    png = work / "ebook.png"
+    run(["typst", "compile", "--root", str(ROOT), "--font-path", str(SHARED / "fonts"),
+         "--format", "png", "--ppi", "290.909091",
+         str(work / "ebook.typ"), str(png)])
+    run(["magick", str(png), "-strip", "-colorspace", "sRGB",
+         "-resize", "1600x2560!", "-quality", "90", str(dest)])
+
+
 def build_cover(book_dir: Path, cfg: dict) -> Path:
     slug = cfg["slug"]
     pc_file = DIST / slug / "pagecount.txt"
@@ -640,7 +680,7 @@ def build_cover(book_dir: Path, cfg: dict) -> Path:
         f"  title: {typ_str(cfg['title'])},",
         f"  subtitle: {typ_str(cfg.get('subtitle'))},",
         f"  author: {typ_str(cfg.get('author'))},",
-        f"  blurb: {typ_str((cfg.get('kdp', {}).get('description') or '').strip())},",
+        f"  blurb: {typ_paragraphs(cfg.get('kdp', {}).get('description'))},",
         f"  series: {typ_str(series.get('name'))},",
         f"  trim: ({trim[0]}, {trim[1]}),",
         f"  spine: {spine:.4f}in,",
