@@ -290,10 +290,10 @@ quem chegasse. Não é nostalgia: é uma propriedade física de uma coisa que n�
 pode ser ajustada depois.
 
 Aurel botou o recorte de volta na pasta e a pasta em cima da escrivaninha, não na
-gaveta, e ficou olhando para ela do outro lado da sala enquanto esperava a água.
+gaveta, e ficou olhando para ela do outro lado da sala.
 Estava tentando pensar num lugar, um só, na cidade inteira, onde uma pessoa
 pudesse subir uma escada e ficar de pé na frente de outra pessoa e dizer *isto
 que está escrito sobre mim está errado* — e receber, no mesmo dia, de alguém que
 tivesse rosto, a resposta de que sim, estava, e que ia ser desdito.
 
-A água ferveu. Ele desligou e não fez o café.
+A chaleira esfriou. Ele não fez o café.

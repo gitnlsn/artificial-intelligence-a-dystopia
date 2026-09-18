@@ -393,7 +393,7 @@ gente, ligeiramente desafinada —,
 o encontro final no desfile, a Parte I, a extensão, e o nome do autor — Íris
 Gradim, o mesmo do Manual da Vida.
 
-**O livro está escrito em rascunho: 42 capítulos, cerca de 44 mil palavras, 228
+**O livro está escrito em rascunho: 42 capítulos, cerca de 57 mil palavras, 266
 páginas.** O plano abaixo descreve o que existe. Onde a escrita divergiu do
 plano, o plano foi corrigido para descrever o capítulo que existe e não o que
 tinha sido planejado — é essa a direção certa da correção.
@@ -751,25 +751,15 @@ compara as três.**
 - **Paga** — a-casa-do-teodor
 - **Elenco** — rita, teodor
 
-### 21. Ela fica quieta
-*(She Keeps Still)*
-- **POV** — Rita
-- **Quando** — 2047-10-19 — sábado, meio da manhã
-- **Onde** — a mesma calçada da primeira vez, em Kalden
-- **A ideia** — volta ao lugar onde ouviu a música e fica parada de propósito, o que é a única coisa que ela escolheu na parte inteira.
-- **A virada** — não toca música nenhuma, e ela fica assim mesmo — e depois anda na direção do barulho, sem ter decidido nada.
-- **Registro** — a avaliação periódica da matrícula 88-2214, que fecha a parte. É a única coisa no livro que diz o que ela é, e ninguém no livro a lê.
-- **Fios** — fio-do-turno, fio-do-desfile
-- **Elenco** — rita
-
-### 22. A mão esquerda
+### 21. A mão esquerda
 *(The Left Hand)*
 - **POV** — Rita
-- **Quando** — 2047-10-15 — terça, meio da manhã
-- **Onde** — o posto, térreo de um bloco em Brenna, com duas portas
-- **A ideia** — a única analepse da parte, e vem depois do registro de propósito: a terça que o relógio da Parte II pulou, em que ela levou ao posto uma mão que desde julho não fecha direito. Nada é revelado; o que a cena faz é cobrar as duas palavras mais achatadas do registro.
+- **Quando** — 2047-10-19 — sábado, meio da manhã; e a terça anterior, 15/10
+- **Onde** — a calçada da padaria em Kalden; e o posto, térreo de um bloco em Brenna
+- **A ideia** — volta ao lugar onde ouviu a música e fica parada de propósito, o que é a única coisa que ela escolheu na parte inteira. Depois o registro, e depois a única analepse da parte — a terça que o relógio pulou, em que ela levou ao posto uma mão que desde julho não fecha direito. Nada é revelado; o que a cena faz é cobrar as duas palavras mais achatadas do registro.
 - **A virada** — a mão nunca constou de nada, então a teoria que ela carregava desde julho não é refutada, é anulada, e ela sai com uma explicação a menos do que tinha ao entrar.
-- **Fios** — fio-do-turno, fio-das-casas
+- **Registro** — a avaliação periódica da matrícula 88-2214. É a única coisa no livro que diz o que ela é, e ninguém no livro a lê. Fica **no meio** do capítulo e não no fim: a cena do posto vem depois dele, e é a posição que responde à objeção — antes do registro a cena custaria tudo, depois dele não há o que estragar.
+- **Fios** — fio-do-turno, fio-do-desfile, fio-das-casas
 - **Paga** — a-mao-de-julho
 - **Elenco** — rita
 
@@ -783,7 +773,7 @@ caracterização, não pressa: é assim que ele vê. É aqui que moram os `regis
 
 O leitor já morou numa daquelas casas.
 
-### 23. O revisor de exceções
+### 22. O revisor de exceções
 *(The Reviewer of Exceptions)*
 - **POV** — Voss
 - **Quando** — 2047-10-07 — segunda
@@ -795,7 +785,7 @@ O leitor já morou numa daquelas casas.
 - **Elenco** — voss
 - **Fontes** — Hugo, *Les Misérables* — domínio público, pode ser citado
 
-### 24. A fila da manhã
+### 23. A fila da manhã
 *(The Morning Queue)*
 - **POV** — Voss
 - **Quando** — 2047-10-14 — segunda, de manhã
@@ -806,7 +796,7 @@ O leitor já morou numa daquelas casas.
 - **Elenco** — voss
 - **Fontes** — *Perpetual Motion*, LukHash, 2019 — o nome está escrito num papel dobrado, nunca dito em voz alta; o narrador não nomeia nada e a letra não pode ser impressa. Ver docs/references.md
 
-### 25. Quatro linhas
+### 24. Quatro linhas
 *(Four Lines)*
 - **POV** — Voss
 - **Quando** — 2047-10-14 — segunda, ainda de manhã
@@ -818,7 +808,7 @@ O leitor já morou numa daquelas casas.
 - **Elenco** — voss
 - **Fontes** — nenhuma
 
-### 26. O rapaz que não podia provar o futuro
+### 25. O rapaz que não podia provar o futuro
 *(The Boy Who Couldn't Prove the Future)*
 - **POV** — Voss
 - **Quando** — 2047-10-15 — terça
@@ -830,7 +820,7 @@ O leitor já morou numa daquelas casas.
 - **Elenco** — voss
 - **Fontes** — nenhuma
 
-### 27. A conferência
+### 26. A conferência
 *(The Review Meeting)*
 - **POV** — Voss
 - **Quando** — 2047-10-16 — quarta
@@ -841,7 +831,7 @@ O leitor já morou numa daquelas casas.
 - **Elenco** — voss, brann
 - **Fontes** — nenhuma
 
-### 28. O critério muda
+### 27. O critério muda
 *(The Threshold Moves)*
 - **POV** — Voss
 - **Quando** — 2047-10-17 — quinta, manhã
@@ -853,7 +843,7 @@ O leitor já morou numa daquelas casas.
 - **Elenco** — voss
 - **Fontes** — nenhuma
 
-### 29. A gentileza
+### 28. A gentileza
 *(The Kindness)*
 - **POV** — Voss
 - **Quando** — 2047-10-17 — quinta, fim de tarde
@@ -866,7 +856,7 @@ O leitor já morou numa daquelas casas.
 - **Elenco** — voss, rita
 - **Fontes** — nenhuma
 
-### 30. O critério o alcança
+### 29. O critério o alcança
 *(The Threshold Reaches Him)*
 - **POV** — Voss
 - **Quando** — 2047-10-18 — sexta, manhã
@@ -877,7 +867,7 @@ O leitor já morou numa daquelas casas.
 - **Elenco** — voss, brann
 - **Fontes** — nenhuma
 
-### 31. Ele não recorre
+### 30. Ele não recorre
 *(He Does Not Appeal)*
 - **POV** — Voss
 - **Quando** — 2047-10-18 — sexta, a madrugada inteira
@@ -905,18 +895,7 @@ juntos. O Voss fica sozinho no seguinte, porque é ele quem não divide a banda 
 
 Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 
-### 32. Quinta-feira
-*(Thursday)*
-- **POV** — Nina
-- **Quando** — 2047-10-17 — quinta, fim de tarde
-- **Onde** — a cozinha do avô
-- **A ideia** — a mesma tarde do capítulo do avô, vista por ela. Ele está tentando dizer alguma coisa e ela acha que ele está só velho, e é carinhosa com isso.
-- **A virada** — ela guarda a tarde como uma tarde boa.
-- **Fios** — fio-da-nina
-- **Elenco** — nina, aurel, mira
-- **Fontes** — nenhuma
-
-### 33. Em outra língua
+### 31. Em outra língua
 *(In Another Language)*
 - **POV** — Nina
 - **Quando** — 2047-10-17 — quinta, à noite
@@ -927,7 +906,7 @@ Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 - **Elenco** — nina, mira
 - **Fontes** — *space in the space*, Uru (letra e melodia de Uru, arranjo de Kan Sano), de *Orion Blue*, 2020 — nomear e descrever, nunca imprimir a letra. Ver docs/references.md
 
-### 34. A escola
+### 32. A escola
 *(School)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, de manhã
@@ -938,7 +917,7 @@ Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 - **Elenco** — nina, bel
 - **Fontes** — nenhuma
 
-### 35. A amiga
+### 33. A amiga
 *(The Friend)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, no recreio
@@ -950,7 +929,7 @@ Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 - **Elenco** — nina, bel, lu
 - **Fontes** — nenhuma
 
-### 36. O que ela vê
+### 34. O que ela vê
 *(What She Sees)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, na saída
@@ -961,7 +940,7 @@ Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 - **Elenco** — nina, bel
 - **Fontes** — nenhuma
 
-### 37. O avô é antigo
+### 35. O avô é antigo
 *(Grandpa Is Old-Fashioned)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, à tarde
@@ -973,7 +952,7 @@ Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 - **Elenco** — nina, aurel
 - **Fontes** — nenhuma
 
-### 38. A banda ensaia
+### 36. A banda ensaia
 *(The Band Rehearses)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, fim de tarde
@@ -985,7 +964,7 @@ Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 - **Elenco** — nina, bel, doria, mira
 - **Fontes** — nenhuma
 
-### 39. A véspera
+### 37. A véspera
 *(The Eve)*
 - **POV** — Nina
 - **Quando** — 2047-10-18 — sexta, à noite
@@ -996,7 +975,7 @@ Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 - **Elenco** — nina, mira
 - **Fontes** — nenhuma
 
-### 40. A rua enche
+### 38. A rua enche
 *(The Street Fills)*
 - **POV** — Nina
 - **Quando** — 2047-10-19 — sábado, de manhã
@@ -1007,7 +986,7 @@ Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 - **Elenco** — nina, aurel, mira
 - **Fontes** — nenhuma
 
-### 41. O desfile
+### 39. O desfile
 *(The Parade)*
 - **POV** — Nina, Aurel, Rita
 - **Quando** — 2047-10-19 — sábado, 10h12
@@ -1020,7 +999,7 @@ Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 - **Elenco** — nina, aurel, rita, bel
 - **Fontes** — nenhuma
 
-### 42. O desfile — Voss
+### 40. O desfile — Voss
 *(The Parade — Voss)*
 - **POV** — Voss
 - **Quando** — 2047-10-19 — sábado, 10h12
@@ -1032,7 +1011,7 @@ Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 - **Elenco** — voss
 - **Fontes** — nenhuma
 
-### 43. Depois
+### 41. Depois
 *(After)*
 - **POV** — Nina
 - **Quando** — 2047-10-19 — sábado, meio-dia
@@ -1044,7 +1023,7 @@ Decisão do autor, com a objeção registrada, em `docs/bible.md`, exceção 4.
 - **Elenco** — nina, aurel, mira
 - **Fontes** — nenhuma
 
-### 44. Segunda-feira
+### 42. Segunda-feira
 *(Monday)*
 - **Quando** — 2047-10-21 — segunda-feira
 - **Onde** — a cidade, e a Avenida vazia à meia-noite

@@ -304,7 +304,7 @@ espera o elevador.
 
 ---
 
-Ele lavou as duas canecas à mão.
+Ele lavou as duas canecas à mão, sem precisar.
 
 Depois voltou para a mesa, e o livro estava aberto, e as quatro marcas dela
 estavam ali na margem, tortas, ao lado de quatro palavras que não tinham nada de

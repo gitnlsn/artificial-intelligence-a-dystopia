@@ -46,7 +46,7 @@ with taste, he is a man with a procedure, and the band at the parade gives him
 nothing because nothing outside the procedure reaches him.
 
 The pace is **visible in the table of contents**: Part I is six long chapters,
-Part IV is thirteen short ones. The reader feels the acceleration before knowing it
+Part IV is twelve short ones. The reader feels the acceleration before knowing it
 is there.
 
 **The book ends on a chapter with nobody in it, and it is the author's
