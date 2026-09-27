@@ -16,8 +16,8 @@ cast:
 - aurel
 - ilse
 source: quarenta-dias-uteis/chapters/03-a-casa-que-ficou-grande.md
-source_sha: 9cecb7591be2
-status: draft
+source_sha: 9a1804f6d451
+status: revised
 ---
 At ten past three he woke, the way a man of eighty-two wakes, for no reason and
 without sleepiness, and lay in the dark working out how long he could put it
@@ -61,7 +61,7 @@ day it was exactly the same as the day before, and it has been that way ever
 since. The house asked nobody anything. It changed something, looked at what he
 did, and stopped changing it when he stopped hurrying.
 
-There is nothing mysterious in it, and that is why it is frightening.
+There is nothing mysterious in it.
 
 And what it does not know is all the rest. It does not know why he gets up at
 three. It does not know that he talks to himself — or it knows there is sound

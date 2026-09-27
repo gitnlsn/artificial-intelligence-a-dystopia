@@ -18,7 +18,7 @@ cast:
 - idalina
 source: quarenta-dias-uteis/chapters/16-o-indeferimento.md
 source_sha: 06d5301bffe7
-status: draft
+status: revised
 ---
 She went because the morning was left over.
 

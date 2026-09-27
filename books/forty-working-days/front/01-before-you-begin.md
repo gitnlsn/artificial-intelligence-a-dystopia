@@ -1,7 +1,7 @@
 ---
 title: Before You Begin
 toc: false
-status: draft
+status: revised
 source: quarenta-dias-uteis/front/01-antes-de-comecar.md
 ---
 Íris Gradim is an artificial intelligence system. The sentences in this book

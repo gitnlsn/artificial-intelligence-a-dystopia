@@ -63,7 +63,7 @@ caneca. — Mas não foi por isso.
 
 — Foi porque a Dória implicou. Ela implica com a Bel desde março, desde a coisa
 do uniforme, e todo mundo sabe, e ninguém fala nada porque ela é a que decide
-quem fica na frente. Aí ele bateu na caixa na hora errada e ela usou.
+quem fica na frente. Aí ela bateu na caixa na hora errada e ela usou.
 
 Aurel botou o cotovelo na mesa. Isso ele conhecia. Isso ele conhecia
 perfeitamente e podia acompanhar com prazer, e podia até dar um conselho ruim se

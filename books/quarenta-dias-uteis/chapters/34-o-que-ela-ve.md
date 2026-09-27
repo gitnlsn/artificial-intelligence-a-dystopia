@@ -98,8 +98,7 @@ rio.
 
 Não teve nada de estranho.
 
-Isso é importante e é preciso dizer sem enfeite, porque quem estava naquele
-ônibus não achou estranho: duas meninas de nove anos olharam para a mesma parede
+Quem estava naquele ônibus não achou estranho: duas meninas de nove anos olharam para a mesma parede
 no mesmo segundo, viram coisas diferentes, discutiram por trinta segundos, e
 resolveram que a diferença era porque uma gosta de pássaro e a outra gosta de
 carro.

@@ -22,8 +22,8 @@ cast:
 - rita
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/21-a-mao-esquerda.md
-source_sha: 01411173a3bc
-status: draft
+source_sha: 2f1e85b66bbb
+status: revised
 ---
 She should have gone home.
 
@@ -256,12 +256,12 @@ anywhere."
 
 ---
 
-Her scheduled review is in February.
+Her scheduled review is four months from now.
 
 An adjustment outside the scheduled review requires authorization, and
 authorization is not opened at the request of the provider. He said the two
 things in the same order in which they are written, without dressing them up,
-and said *February* the way one says a date that is on paper.
+and said *four months* the way one says a date that is on paper.
 
 "There's an update available," he said. "It's within your quota. Would you like
 it, ma'am?"

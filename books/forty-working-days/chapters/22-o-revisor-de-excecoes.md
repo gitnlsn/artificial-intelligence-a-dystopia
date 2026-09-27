@@ -17,8 +17,8 @@ cast:
 - voss
 sources: Hugo, *Les Misérables* — domínio público, pode ser citado
 source: quarenta-dias-uteis/chapters/22-o-revisor-de-excecoes.md
-source_sha: c851b415926f
-status: draft
+source_sha: ee54578fb8a9
+status: revised
 ---
 The first case of Monday came in at three minutes past eight.
 
@@ -123,7 +123,7 @@ a table.
 That was what turned everything else.
 
 He did the technical course, then the night course, then went onto the
-verification floor, then moved to review in 2038. Every step by examination, by
+verification floor, then moved to review in 2029. Every step by examination, by
 score, by published criteria. He never asked anyone for anything and nobody ever
 needed to ask for anything on his behalf.
 
@@ -189,12 +189,11 @@ is no photograph on the wall. There is a bookcase with perhaps a hundred and
 twenty books, all secondhand, some with another person's name on the title page,
 which he likes.
 
-He ate at half past seven. He washed the plate.
+He ate at half past seven. He put the plate in the slot.
 
 At nine forty he turned out the light.
 
-And here is the thing that should be said about Voss, and that needs to be said
-now, before anything else: he slept well.
+He slept well.
 
 He did not sleep with effort, did not sleep after persuading himself of
 anything, did not lie awake an hour thinking about the forty-one-year-old man and

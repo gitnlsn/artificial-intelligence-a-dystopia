@@ -14,7 +14,7 @@ cast:
 - elias
 source: quarenta-dias-uteis/chapters/19-a-briga-que-nao-houve.md
 source_sha: c473022dc51f
-status: draft
+status: revised
 ---
 She got home at nine twenty and he had cooked.
 

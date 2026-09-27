@@ -581,7 +581,7 @@ constrains later chapters.
 - **The errata needs three things at once** — a *we*, a *yesterday*, and a
   reader who can demand one — and there was no day on which they stopped
   existing together.
-- **"Tipo o desfile."** A nine-year-old names the book's thesis in four words
+- **"Tipo o desfile."** A nine-year-old names the book's thesis in three words
   without knowing she has, and the parade chapters collect on it. **Nobody may
   restate it.** No adult in this book gets to explain what she meant.
 - **The cotejo** — a list of the dead is checked by two, one reading aloud, one
@@ -810,7 +810,10 @@ the one that was planned.
    author's decision, which **revokes the rule that Part IV had none** —
    **Rilke** (*Briefe an einen jungen Dichter*, 1903) for Part IV. All four
    authors are public domain and every translation is ours, so **no rightsholder
-   exists anywhere in the front matter.**
+   exists anywhere in the front matter.** **The English edition replaces Weil with
+   Tolstoy** (*Три вопроса*, 1903): *Attente de Dieu* is posthumous, from 1950,
+   and very likely protected in the US until 2045. See `docs/references.md`,
+   *3b*.
 
    The old rule held that Part IV went bare because it is the only part whose
    protagonist inherited no text. It does not survive being said out loud —

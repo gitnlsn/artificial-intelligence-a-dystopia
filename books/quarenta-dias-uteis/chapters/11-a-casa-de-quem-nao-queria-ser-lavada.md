@@ -259,7 +259,7 @@ No 12, a caminho da segunda casa, a Rita ficou pensando naquilo.
 Não na frase, que era bonita e que ela ia esquecer em dois dias. No fato de que
 ela tinha entrado naquela casa quatro anos, três vezes por semana, umas
 seiscentas vezes, e que tinha levado seiscentas vezes para fazer uma pergunta de
-seis palavras.
+dez palavras.
 
 Não tinha sido falta de vontade. Foi que perguntar leva sete minutos, e sete
 minutos é o que separa chegar na hora de chegar atrasada.

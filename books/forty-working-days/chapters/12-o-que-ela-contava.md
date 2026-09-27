@@ -17,7 +17,7 @@ cast:
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/12-o-que-ela-contava.md
 source_sha: 5e352956657c
-status: draft
+status: revised
 ---
 She had saved Mrs. Eszter all day.
 

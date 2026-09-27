@@ -328,7 +328,7 @@ visto isso da janela na véspera, o trecho todo montado e limpo, e tinha achado
 estranho sem saber por quê.
 
 Uma menina de nove anos tinha dito aquilo a ele numa cozinha, com bolacha na mão,
-em quatro palavras.
+em três palavras.
 
 Ele ainda não tem o nome. Não vai ter. Ele tem oitenta e dois anos e o nome vai ser
 dado por outra pessoa, depois, de longe, do jeito que sempre foi.
@@ -378,8 +378,7 @@ Ela se virou para sair e tinha gente atrás dela até onde dava para ver.
 
 Então ela ficou.
 
-Isso é honesto e é preciso registrar assim: a primeira parte da decisão de ficar
-foi não conseguir sair.
+A primeira parte da decisão de ficar foi não conseguir sair.
 
 ---
 

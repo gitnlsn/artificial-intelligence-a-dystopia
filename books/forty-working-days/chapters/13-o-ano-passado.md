@@ -21,7 +21,7 @@ cast:
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/13-o-ano-passado.md
 source_sha: 6fdc8860cdce
-status: draft
+status: revised
 ---
 His father took seven months to die and did it better by day.
 

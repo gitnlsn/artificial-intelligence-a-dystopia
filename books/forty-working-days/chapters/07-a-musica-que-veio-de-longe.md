@@ -19,7 +19,7 @@ sources: '*Great Divide*, The Cardigans, faixa 10 de *First Band on the Moon*, 1
   não pode ser impressa. Ela não sabe o nome da música. Ver docs/references.md'
 source: quarenta-dias-uteis/chapters/07-a-musica-que-veio-de-longe.md
 source_sha: 81fb82e90e37
-status: draft
+status: revised
 ---
 At six forty she was already under the bakery's awning, which is where you
 wait, because there is shade and because from there you can see the whole

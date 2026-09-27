@@ -341,6 +341,11 @@ English:
   the book's rule is that no rightsholder exists anywhere in its front matter.
   Titles of the source works stay in the original language, as in the
   Portuguese.
+- **Part II has a different epigraph in English: Tolstoy, *Три вопроса*
+  (1903), in place of Weil.** *Attente de Dieu* (1950) is public domain in
+  Brazil but very likely protected in the US until 2045, and the English edition
+  sells mainly there. Verified text, date and reasons in `docs/references.md`,
+  section *3b*. The Portuguese edition keeps Weil.
 - **Hugo's line begins *This man*, not *Javert*,** as the verified French does.
 
 ## A unidade — Rita in English
@@ -392,74 +397,43 @@ wording of each footer must be identical wherever the Portuguese is identical,
 so that the book's one sentence said the same to everyone is still the same
 sentence in English.
 
-## Found in the Portuguese while translating
+## Found in the Portuguese while translating — resolved
 
-Translated as written; each is a question for the Portuguese first.
+Every item the translation found was fixed in the Portuguese first and then
+carried into the English (2026-09-27). What changed, so nobody reintroduces it:
 
-- **The kettle is not a violation.** It recurs in Part I (*a chaleira já
-  estava quente*), and it is `CLAUDE.md`'s own example of 2047: a kettle
-  already hot because the house predicted the insomnia.
-- *A neta que vem às quintas*: "Aí **ele** bateu na caixa" is Bel, who is a girl
-  everywhere else. English has *she*.
-- *O revisor*: Vidor promises a copy *de carro*; Peu goes by motorcycle.
-- *A casa que ficou grande*: "Não tem nada de misterioso nisso, e é por isso que
-  assusta" reads as a thesis sentence, which the voice rules forbid.
-- *O procedimento*: *em agosto* in the prose plus *desde o inverno passado*
-  names a present-year month next to a season cue, which is the hemisphere
-  combination *O lugar, e o calendário* warns about.
-
-- *A paciência*: "é por isso que assusta", the second instance of that thesis
-  construction (the first is in *A casa que ficou grande*).
-- *A mão esquerda*: *fevereiro* names a future month for her scheduled review.
-  *Julho* is a past reference and is fine.
-- *A última casa*: Rita washes two cups by hand in the present, with nothing to
-  make it deliberate (Aurel's hand-washing is excused as unnecessary).
-- *A escala*: *o sistema espera alocá-la* uses *sistema* as an explanation;
-  *seu Bertoldo* (the house with the lift) and *o Bertoldo do quinto andar* may or
-  may not be one man; Rita's sentence about the nineteen steps is called
-  *trinta e poucas palavras* and runs about eighteen.
-- *A casa de quem não queria ser lavada*: *uma pergunta de seis palavras*
-  does not match the question as written.
-- *A música que ela pediu* says *onze anos* of this work and *A casa da moça
-  que ia embora* says *doze anos assim*; the registro has her in operation since
-  2035. Possibly two different measures.
-
-- **Voss's dates disagree.** *O revisor de exceções* moves him to exceptions
-  review in 2038 (nine years); the registro in *O critério o alcança* says
-  *dezoito em revisão de exceções*.
-- *O revisor de exceções*: "E aqui está a coisa que se deve dizer sobre Voss…"
-  is the narrator stepping forward, which strains `pov:`.
-- **Washing up by hand in the present** recurs: Rita in *A última casa*, Voss in
-  *O revisor de exceções* and *O rapaz que não podia provar o futuro*. A sweep of
-  the Portuguese would find them all.
-- *A fila da manhã*: the clock runs backwards, *oito e vinte e três* then *oito e
-  vinte e um*, inside the metronome.
-- *O critério o alcança*: *entra em vigor em janeiro* names a future month.
-- *A gentileza*: *um sistema em que toda ação tem um motivo declarável* uses
-  *sistema*, though here it is arguably the plain sense.
-- *A conferência* has him plan the note for *quinta de manhã*; *O critério muda*
-  is that morning and he never writes it. Possibly deliberate.
-
-- **"Tipo o desfile" is three words, and the book counts four.** *O desfile*
-  says *em quatro palavras*, and so does `CLAUDE.md`. English *Like the parade*
-  is also three. Translated as written; the count or the line has to change in
-  the Portuguese first.
-- **Voss's eighteen years are confirmed twice** (the registro in *O critério o
-  alcança*, and *dezoito anos decidindo* in *O desfile — Voss*). The 2038 in
-  *O revisor de exceções* is almost certainly the slip.
-- **The narrator's *sem enfeite* / *é preciso dizer* construction** recurs in
-  *O que ela vê*, *A escola* and *O desfile* (Rita's section: *isto é honesto e é
-  preciso registrar assim*), as well as *O revisor de exceções*. Either a
-  device to keep, or four intrusions to cut; one decision covers all of them.
-- *A banda ensaia* writes *bombo* and *bumbo* in the same speech.
-- *A neta que vem às quintas* and *O avô é antigo* say there is *no other girl
-  for the snare*; *A banda ensaia* has three snares. Possibly *no other as good*.
-- *Depois* ends on *ensaio de novo, não da banda, dela mesma não*, which reads
-  like a slip.
-- *O desfile* uses *compraram o sistema* in the plain sense.
-- *Segunda-feira* places the shop *na quadra do meio* of the Avenue; the docs
-  say *Kalden*. Consistent if the Avenue is in Kalden (Rita lives on it), but the
-  bible does not say so.
+- **Voss moved to exceptions review in 2029, not 2038** (*O revisor de
+  exceções*; timeline corrected). Eighteen years, as the registro and *O desfile
+  — Voss* say.
+- **"Tipo o desfile" is three words**, and *O desfile*, `CLAUDE.md` and the
+  timeline now say so. English: *in three words*.
+- **The narrator's *é preciso dizer / sem enfeite* intrusions are cut** in *O
+  revisor de exceções*, *A escola*, *O que ela vê* and *O desfile*. The fact
+  stays; the narrator announcing it goes.
+- **No future month named:** *fevereiro* → *daqui a quatro meses* (*A mão
+  esquerda*); *janeiro* → *na virada do ano* (*O critério o alcança*); *em
+  agosto* → *dois meses antes* (*O procedimento*; bible too).
+- **The two *é por isso que assusta* thesis clauses are cut** (*A casa que
+  ficou grande*, *A paciência*).
+- **Washing up by hand:** Voss's plates and cup go in the slot (*O revisor de
+  exceções*, *O rapaz…*, *O desfile — Voss*); Rita *recolheu* Teodor's cups (*A
+  última casa*). **Kept on purpose:** Aurel washing by hand *sem precisar*, and
+  Rita washing Mr. Vilmar's cup in *A casa vazia* — her hand moving before she
+  decides, which is her beat.
+- *A escala*: *o sistema* → *a escala*; the nineteen-steps sentence is *menos
+  de vinte palavras* (it has nineteen; the count is not made to point at the
+  steps). *A casa de quem não queria ser lavada*: the question is *dez palavras*,
+  true in both languages.
+- *A fila da manhã*: *oito e vinte e um* → *oito e vinte e quatro*, so the
+  metronome only runs forward.
+- Small ones: Bel is *ela* (*A neta que vem às quintas*); Peu goes *de moto*
+  (*O revisor*); *bumbo* throughout (*A banda ensaia*); *Depois* ends *não dela,
+  que ela não é da banda*.
+- **Left as they were, deliberately:** the kettle (it is `CLAUDE.md`'s own 2047
+  example); *sistema* in its plain sense in *A gentileza* and *O desfile*;
+  *onze anos* vs *doze anos* for Rita (two different measures); *não tem outra
+  na caixa* (no reserve, not no other snare); the note Voss plans for Thursday
+  (*A conferência*). The Avenue is now recorded in the bible as crossing Kalden.
 
 ## Open questions for the author
 

@@ -15,7 +15,7 @@ sources: '*A Whiter Shade of Pale*, Procol Harum, 1967. Nomear e descrever; nunc
   imprimir a letra. Ver `docs/references.md`.'
 source: quarenta-dias-uteis/chapters/42-segunda-feira.md
 source_sha: b15eaca09234
-status: draft
+status: revised
 ---
 On Monday the city opened at six, which is the time it opens.
 

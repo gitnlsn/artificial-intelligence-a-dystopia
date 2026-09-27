@@ -134,7 +134,7 @@ Indeferido. Oito e vinte e três.
 Homem, cinquenta e cinco, pede prorrogação de prazo por doença. Anexou atestado
 de sete dias. O prazo em questão tinha vencido dezenove dias antes do atestado.
 
-Indeferido. Oito e vinte e um.
+Indeferido. Oito e vinte e quatro.
 
 ---
 

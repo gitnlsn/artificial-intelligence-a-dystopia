@@ -18,7 +18,7 @@ cast:
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/30-ele-nao-recorre.md
 source_sha: 40a71d98d444
-status: draft
+status: revised
 ---
 He sat down at nine forty with the form open and stayed until ten past four.
 

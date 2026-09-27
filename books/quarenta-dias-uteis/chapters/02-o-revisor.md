@@ -166,7 +166,7 @@ No dia seguinte, disse Emil Roht. No interior chega no dia seguinte.
 
 Vidor disse que a errata sairia na edição daquele dia, no pé de uma página
 ímpar, que é onde o olho cai, e que ele mandaria alguém levar um exemplar até a
-cidade da mãe de manhã, de carro, para chegar antes do caminhão. E fez isso. Um
+cidade da mãe de manhã, de moto, para chegar antes do caminhão. E fez isso. Um
 motociclista chamado Peu foi, e voltou de noite, e cobrou a diária dobrada, e
 recebeu.
 

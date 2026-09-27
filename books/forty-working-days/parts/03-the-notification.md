@@ -2,7 +2,7 @@
 part: III — THE NOTIFICATION
 title: The Notification
 illustration: 03-a-notificacao
-status: draft
+status: revised
 ---
 This man was composed of two very simple and relatively very good sentiments,
 which he made almost bad by dint of exaggerating them: respect for authority,

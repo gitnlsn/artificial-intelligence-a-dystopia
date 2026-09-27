@@ -17,7 +17,7 @@ sources: '*space in the space*, Uru (letra e melodia de Uru, arranjo de Kan Sano
   de *Orion Blue*, 2020 — nomear e descrever, nunca imprimir a letra. Ver docs/references.md'
 source: quarenta-dias-uteis/chapters/31-em-outra-lingua.md
 source_sha: a9ce977590c5
-status: draft
+status: revised
 ---
 She has been putting this song on since Tuesday.
 

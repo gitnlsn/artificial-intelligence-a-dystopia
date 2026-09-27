@@ -16,8 +16,8 @@ cast:
 - elias
 - rita
 source: quarenta-dias-uteis/chapters/14-a-paciencia.md
-source_sha: 92134bcc723b
-status: draft
+source_sha: f0521a77549d
+status: revised
 ---
 She told the story of the three words twice.
 
@@ -97,8 +97,8 @@ where the plates that wait for midnight go.
 And it was there, standing, with nothing to do with his hands, that the thing
 reached him whole.
 
-It was not regret. It was a finding, and it was technical, and that is why it
-is frightening: **he had been trained.**
+It was not regret. It was a finding, and it was technical: **he had been
+trained.**
 
 From the counter you can see the door of the back room, pulled to within a hand's
 width, and the patch of gray that shows in the gap, which is the base and not

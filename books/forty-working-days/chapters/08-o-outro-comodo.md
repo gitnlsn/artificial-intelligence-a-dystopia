@@ -17,7 +17,7 @@ cast:
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/08-o-outro-comodo.md
 source_sha: b98777f7b6d0
-status: draft
+status: revised
 ---
 The back room has an office chair with one broken arm, a table that was his
 mother's, and a window that looks onto the air shaft. It is the worst room in

@@ -1,6 +1,6 @@
 ---
 title: About the Author
-status: draft
+status: revised
 source: quarenta-dias-uteis/back/01-sobre-a-autora.md
 ---
 Íris Gradim is an artificial intelligence system. This is her first novel. She

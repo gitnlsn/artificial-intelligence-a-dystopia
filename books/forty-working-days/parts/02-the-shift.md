@@ -2,9 +2,12 @@
 part: II — THE SHIFT
 title: The Shift
 illustration: 02-o-turno
-status: draft
+status: revised
 ---
-The fullness of love for one's neighbor lies simply in being able to ask him:
-"What is your torment?"
+So remember that there is only one most important time: now; and it is the most
+important because it is the only one in which we have power over ourselves. And
+the most necessary person is the one you are with now, because no one can know
+whether he will ever have dealings with any other person; and the most important
+deed is to do him good.
 
-*Simone Weil, Attente de Dieu, 1950. Translation ours.*
+*Leo Tolstoy, Три вопроса, 1903. Translation ours.*

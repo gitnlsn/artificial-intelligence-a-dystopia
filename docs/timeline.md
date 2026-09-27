@@ -45,6 +45,7 @@ e a correção foi encontrada numa releitura, não por uma ferramenta.
 | 2025 | Voss entra na casa. Serão vinte e dois anos em 2047 | Voss | O rapaz que não podia provar o futuro |
 | 2029 | Reforma do apartamento de Aurel; os recibos ficam na gaveta de baixo da escrivaninha, em cima da pasta com o recorte | Aurel | O revisor |
 | 2029 | Voss trabalha na conferência geral do sétimo andar — o posto para o qual será devolvido | Voss | O critério o alcança |
+| 2029 | Voss passa para revisão de exceções. Serão dezoito anos na matéria | Voss | O revisor de exceções |
 | 2031 | A caixa de lápis 2B de onde sai o que Nina leva embora | Aurel | A neta que vem às quintas |
 | 2031 | O regulamento fixa que a habilitação para revisão é única e não se subdivide por tipo. Voss usará o artigo umas quarenta vezes contra requerentes — e ele será usado contra ele | Voss | O critério o alcança |
 | 2033 | Um dos irmãos de Voss morre. O outro está bem; a irmã ainda mora em Brenna | Voss | O revisor de exceções |
@@ -55,7 +56,6 @@ e a correção foi encontrada numa releitura, não por uma ferramenta.
 | 2036 | Compram o sistema da casa. **É a última vez que Aurel ouve um som que ninguém ajustou para ele** — a conta que ele fará na pedra fria, onze anos depois. **Eixo: calibragem, não escolha** — ele escolhe a própria música em *O procedimento* e a máquina escolhe o volume, então a sexta 18/10 falha no teste e 2036 continua respondendo | Aurel, sem saber | O desfile |
 | 2037 | Selma manda Rita para uma casa que não devia | Rita | A escala |
 | 2038 | Aurel separa as coisas de Ilse em três sacos e não os leva a lugar nenhum | Aurel | A casa que ficou grande |
-| 2038 | Voss passa para revisão de exceções. Serão dezoito anos na matéria | Voss | O revisor de exceções |
 | 2038 | Num restaurante, Elias diz a Rita que acha lindo ela contar as coisas duas vezes. Ela fica constrangida e feliz | Elias, Rita | A paciência |
 | 2039 | Voss passa a sentar no terceiro lugar da esquerda na conferência trimestral, de costas para a janela | Voss | A conferência |
 | 2039 | Última madeira cortada na casa de Teodor. Continua cheirando | Rita | A casa do velho Teodor |
@@ -112,7 +112,7 @@ fecha no Dia da Fundação.
 | 10-17, quinta, 22h | Nina no quarto, de pijama, diz o título inteiro de uma música e a música vem. As palavras não são na língua dela; na quarta ela leu a tradução inteira e cada frase dava para entender, juntas não davam. Conta à mãe que escuta e não entende, e ouve *um dia você entende*, dito sem parar de andar. **Põe de novo** | Nina | Em outra língua |
 | 10-17, quinta, noite | Rita chega com duas coisas para contar e não conta nenhuma. Senta na cozinha sem estar fazendo nada, diz o nome de uma música em voz alta, e a música toca em menos de um segundo no volume certo. Tira o fone antes de acabar | Rita | A música que ela pediu |
 | 10-18, sexta, 0h01 | Entra a comunicação 4415-P — redistribuição de carteira de Voss, fundamentada no parecer 0912/47 | — | O critério o alcança |
-| 10-18, sexta, manhã | As grades já estão até a esquina da Vetten. Mira liga às 10h20 e Aurel diz que vai ao desfile — não pelo desfile, e sim por quatro palavras ditas na véspera | Aurel | O inventário |
+| 10-18, sexta, manhã | As grades já estão até a esquina da Vetten. Mira liga às 10h20 e Aurel diz que vai ao desfile — não pelo desfile, e sim por três palavras ditas na véspera | Aurel | O inventário |
 | 10-18, sexta, manhã | O crachá de Voss não abre o oitavo andar. Ele confere o enquadramento, o fundamento e a citação, e tudo está correto. A nota das duas páginas foi anexada como Anexo II: ele mesmo forneceu a prova | Voss | O critério o alcança |
 | 10-18, sexta, 14h30 | **O procedimento.** Aurel vai sozinho, de 41, sem contar a Mira, porque se ela soubesse não o deixaria ir ao desfile. Ouve a voz descrever tudo durante seis minutos procurando o erro e não acha nenhum. Pede uma música e a nomeia ele mesmo — título e banda, do disco de capa amarela da Ilse, com a banda pronunciada como se lê. **É a mesma que Rita ouviu de uma janela na sexta anterior, e a Rita nunca soube o título.** A máquina escolhe o volume | Aurel | O procedimento |
 | 10-18, sexta, 8h–11h | A Juno mostra o mapa e pergunta a Rita o que ela queria ser. Rita responde de verdade, rápido demais, como quem guardava a resposta pronta havia quinze anos | Rita | A casa da moça que ia embora |

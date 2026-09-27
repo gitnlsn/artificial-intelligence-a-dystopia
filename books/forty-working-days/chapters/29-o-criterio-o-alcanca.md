@@ -14,8 +14,8 @@ cast:
 - brann
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/29-o-criterio-o-alcanca.md
-source_sha: cdf0542f48d6
-status: draft
+source_sha: 03c7c017fab8
+status: revised
 ---
 He sent in the two-page note on Thursday at eleven at night, from home, because
 he had not been able to sleep anyway.
@@ -165,7 +165,7 @@ General verification on the seventh floor is the work he did in 2029.
 
 It checks attachment against field. Document against declaration. It is honest
 work and it is easier, and it pays eighty-one percent of what he was earning,
-and the difference takes effect in January.
+and the difference takes effect at the turn of the year.
 
 He did the arithmetic on paper, in the afternoon, with a pencil, and the
 arithmetic works. It does not work well. It works.

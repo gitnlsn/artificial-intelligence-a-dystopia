@@ -14,8 +14,8 @@ cast:
 - bel
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/34-o-que-ela-ve.md
-source_sha: 48485b1b5311
-status: draft
+source_sha: 17a9b10d2229
+status: revised
 ---
 The school bus takes the long route on Friday because the avenue is closed for
 the barriers.
@@ -101,8 +101,7 @@ the little bridge you can see the river.
 
 There was nothing strange about it.
 
-That matters and it has to be said plainly, because nobody on that bus found it
-strange: two nine-year-old girls looked at the same wall in the same second, saw
+Nobody on that bus found it strange: two nine-year-old girls looked at the same wall in the same second, saw
 different things, argued for thirty seconds, and decided that the difference was
 because one of them likes birds and the other one likes cars.
 

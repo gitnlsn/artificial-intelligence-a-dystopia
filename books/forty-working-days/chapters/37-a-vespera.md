@@ -15,7 +15,7 @@ cast:
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/37-a-vespera.md
 source_sha: ae7eb066a50c
-status: draft
+status: revised
 ---
 She laid out her clothes on the chair at eight at night.
 

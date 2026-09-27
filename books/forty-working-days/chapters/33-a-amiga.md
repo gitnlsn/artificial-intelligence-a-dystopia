@@ -18,7 +18,7 @@ cast:
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/33-a-amiga.md
 source_sha: 89e0f7ee5b38
-status: draft
+status: revised
 ---
 Bel is unfair and Nina has known it since the second year of school.
 

@@ -161,7 +161,7 @@ chegou na mesma resposta: o rosto dele estava absolutamente normal.
 
 ---
 
-Às dez e cinco ela lavou as duas xícaras e pegou o saco.
+Às dez e cinco ela recolheu as duas xícaras e pegou o saco.
 
 — O senhor precisa de mais alguma coisa antes de eu ir?
 

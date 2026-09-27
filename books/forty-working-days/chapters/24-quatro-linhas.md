@@ -18,7 +18,7 @@ cast:
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/24-quatro-linhas.md
 source_sha: 0aaa538065ed
-status: draft
+status: revised
 ---
 Man, seventy-nine, Marvik.
 

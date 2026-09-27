@@ -1153,7 +1153,7 @@ os nomes. Essa diferença é a maior parte da caracterização que o livro preci
 | **Bloco C** | o prédio da administração. Sete degraus na frente, balaustrada de pedra ao lado da escada, porta giratória. O guichê fecha às cinco | 16 |
 | **a praça** | onde Voss almoça, sempre o mesmo, voltando cinco minutos antes | 22 |
 | **rua Halden** | onde o pai de Elias morou sozinho até o fim, e tinha razão de não querer sair | 13 |
-| **a Avenida** | onde passa o desfile. A esquina da farmácia é onde o azul da banda some. A curva é de onde as coisas vêm | 39 |
+| **a Avenida** | onde passa o desfile. **Atravessa Kalden** — a Rita mora nela, e a loja de *Segunda-feira* fica na quadra do meio. A esquina da farmácia é onde o azul da banda some. A curva é de onde as coisas vêm | 39 |
 | **rua Solvig** | quatro paradas do 41 a partir da Aldan. A unidade fica no terceiro andar; a entrada tem uma rampa larga, com corrimão dos dois lados, no lugar dos três degraus que tinha | 06 |
 | **a parede do mercado** | grande e lisa, na frente do mercado, do lado direito do trajeto grande do ônibus escolar. **É nela que passam as coisas, e duas pessoas olhando no mesmo segundo veem coisas diferentes** | 35 |
 
@@ -1188,7 +1188,7 @@ de vista, e é ele que um capítulo fura sem perceber.
   minutos parado. Levanta e anda até a estante. Já tem falhas de memória e sabe
   distinguir muito bem uma falha de memória de outra coisa.
 - **O implante** — 18/10, à tarde, na unidade da rua Solvig. **Ele não pediu**: a
-  avaliação funcional foi oferecida no fim de uma consulta de rotina em agosto,
+  avaliação funcional foi oferecida no fim de uma consulta de rotina dois meses antes,
   levou doze minutos, e três semanas depois veio um comunicado com a data já
   dentro e com um jeito de desmarcar mais fácil do que o de marcar teria sido.
   Sem fila, sem prazo, sem ninguém a convencer. **Ele acha isso fácil, e sabe que

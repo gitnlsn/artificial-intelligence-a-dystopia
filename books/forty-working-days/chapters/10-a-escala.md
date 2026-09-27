@@ -16,8 +16,8 @@ cast:
 - selma
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/10-a-escala.md
-source_sha: 9f384d45d64f
-status: draft
+source_sha: 4ef3d70210a7
+status: revised
 ---
 The warning was there when she opened it, at ten thirty at night, sitting in the
 kitchen with one foot up on the other chair.
@@ -55,7 +55,7 @@ There is nowhere to write.
 
 She even put the sentence together, which is the part that seemed silly
 afterward: *I went down nineteen steps with a seventy-nine-year-old man who
-hasn't left his house in seven months.* Thirty-odd words. She built the whole
+hasn't left his house in seven months.* Fewer than twenty words. She built the whole
 sentence in her head, carefully, the way you build something that is going to be
 read by someone.
 
@@ -68,7 +68,7 @@ everything.
 
 On the availability screen there is a small box at the bottom, which she had
 never opened because it looked like decoration, and the box shows the coming week
-in light gray: the hours at which the system *expects* to allocate her.
+in light gray: the hours at which the roster *expects* to allocate her.
 
 Monday: one shift.
 
@@ -169,7 +169,7 @@ bossy, had favorites, and sent Rita to a house in 2037 that she should not have
 sent her to. The roster now gets things wrong less.
 
 What she thinks is something duller than missing her: **Selma could hear the
-sentence.** The thirty-odd-word one, the one about the nineteen steps. She could
+sentence.** The one of fewer than twenty words, the one about the nineteen steps. She could
 hear it and she could not care. She could even laugh. But there was an ear at the
 end of the sentence, and the sentence could be said.
 

@@ -157,6 +157,6 @@ da de leite.
 
 Ela pegou duas e comeu uma no caminho de volta para o carro.
 
-Na terça ela ia ter ensaio de novo, não da banda, dela mesma não, mas ela ia
+Na terça ia ter ensaio de novo — não dela, que ela não é da banda —, mas ela ia
 descer para o pátio às cinco como sempre, e ia ficar na arquibancada de dois
 degraus.

@@ -17,8 +17,8 @@ cast:
 - voss
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/25-o-rapaz-que-nao-podia-provar-o-futuro.md
-source_sha: f7e2009b394c
-status: draft
+source_sha: dfac603956c1
+status: revised
 ---
 Boy, nineteen, Brenna.
 
@@ -153,5 +153,5 @@ the desktop went dark.
 Then he denied fourteen more cases and went down to the square at twelve on the
 dot.
 
-In the evening he ate, washed his plate, read twenty pages and turned off the
+In the evening he ate, put his plate in the slot, read twenty pages and turned off the
 light at nine forty, and slept well, the way he sleeps.

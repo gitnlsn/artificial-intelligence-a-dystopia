@@ -20,7 +20,7 @@ status: revised
 ---
 Ele desceu às nove e quarenta sem ter decidido descer.
 
-Levantou às seis, fez café, lavou a xícara, e ficou. Às nove e meia o barulho já
+Levantou às seis, fez café, pôs a xícara no vão, e ficou. Às nove e meia o barulho já
 estava subindo pela janela — o barulho de rua fechada, que é diferente de rua
 aberta, mais surdo e sem carro — e em algum momento ele estava de casaco no
 corredor do prédio, e depois no elevador.

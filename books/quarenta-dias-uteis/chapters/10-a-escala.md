@@ -55,7 +55,7 @@ Não tem onde escrever.
 
 Ela chegou a formular a frase, que é a parte que depois pareceu boba: *desci
 dezenove degraus com um homem de setenta e nove anos que não sai de casa há sete
-meses.* Trinta e poucas palavras. Ela montou a frase inteira na cabeça, com
+meses.* Menos de vinte palavras. Ela montou a frase inteira na cabeça, com
 cuidado, do jeito que se monta uma coisa que vai ser lida por alguém.
 
 Não vai ser lida por ninguém, porque não tem onde botar.
@@ -66,7 +66,7 @@ O que ela viu depois foi pior, e viu por acaso, porque estava mexendo em tudo.
 
 Na tela de disponibilidade tem um quadro pequeno embaixo, que ela nunca tinha
 aberto porque parecia decoração, e o quadro mostra a próxima semana em cinza
-claro: os horários em que o sistema *espera* alocá-la.
+claro: os horários em que a escala *espera* alocá-la.
 
 Segunda: um turno.
 
@@ -162,7 +162,7 @@ preferidas, e mandou a Rita para uma casa em 2037 que ela não devia ter mandado
 A escala de agora erra menos.
 
 O que ela pensa é uma coisa mais chata do que saudade: **a Selma podia ouvir a
-frase.** Aquela de trinta e poucas palavras, a dos dezenove degraus. Podia ouvir
+frase.** Aquela de menos de vinte palavras, a dos dezenove degraus. Podia ouvir
 e podia não ligar. Podia até rir. Mas existia uma orelha no fim da frase, e a
 frase podia ser dita.
 

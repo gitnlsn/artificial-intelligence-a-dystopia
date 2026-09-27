@@ -19,8 +19,8 @@ cast:
 - vidor
 - marcio
 source: quarenta-dias-uteis/chapters/02-o-revisor.md
-source_sha: 9d6f62c5525e
-status: draft
+source_sha: c63803148f12
+status: revised
 ---
 He went looking in the morning, before coffee, still in his slippers, and it
 took him forty minutes because he looked in the wrong drawer twice.
@@ -173,7 +173,7 @@ The day after, said Emil Roht. Out there it comes the day after.
 
 Vidor said the erratum would run in that day's edition, at the foot of an
 odd-numbered page, which is where the eye falls, and that he would send someone
-to take a copy out to the mother's town in the morning, by car, to get there
+to take a copy out to the mother's town in the morning, by motorcycle, to get there
 ahead of the truck. And he did. A motorcyclist called Peu went, and came back at
 night, and charged a double day, and was paid.
 

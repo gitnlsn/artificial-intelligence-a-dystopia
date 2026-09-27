@@ -246,12 +246,12 @@ nenhum.
 
 ---
 
-A revisão programada dela é em fevereiro.
+A revisão programada dela é daqui a quatro meses.
 
 Ajuste fora da revisão programada depende de autorização, e a autorização não é
 aberta por solicitação do prestador. Ele disse as duas coisas na mesma ordem em
-que estão escritas, sem enfeitar, e disse *fevereiro* do jeito que se diz uma
-data que está no papel.
+que estão escritas, sem enfeitar, e disse *quatro meses* do jeito que se diz
+uma data que está no papel.
 
 — Tem uma atualização disponível — disse ele. — Está na cota. A senhora quer?
 

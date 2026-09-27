@@ -25,8 +25,8 @@ sources: '*Great Divide*, The Cardigans, faixa 10 de *First Band on the Moon*, 1
   nunca a letra. O título vem da boca da Ilse; a banda, da capa do disco dela, e
   por isso ele a pronuncia como se lê. Ver docs/references.md'
 source: quarenta-dias-uteis/chapters/06-o-procedimento.md
-source_sha: aa00f2058907
-status: draft
+source_sha: bb7f736aaf42
+status: revised
 ---
 He shaved, which was not necessary, and changed his shirt, which was less
 necessary still.
@@ -104,7 +104,7 @@ anyway, the way you check.
 
 ---
 
-The assessment had been in August and he had not gone anywhere to have it.
+The assessment had been two months earlier and he had not gone anywhere to have it.
 
 It went like this: he went to a routine appointment, which really was routine,
 and at the end of it all someone — not a person, a notice — asked whether he

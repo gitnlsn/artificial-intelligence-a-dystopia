@@ -97,7 +97,7 @@ jeito que se confere.
 
 ---
 
-A avaliação tinha sido em agosto e ele não tinha ido a lugar nenhum para fazê-la.
+A avaliação tinha sido dois meses antes e ele não tinha ido a lugar nenhum para fazê-la.
 
 Foi assim: ele foi a uma consulta de rotina, que era de rotina de verdade, e no
 fim de tudo alguém — não uma pessoa, um aviso — perguntou se ele queria incluir

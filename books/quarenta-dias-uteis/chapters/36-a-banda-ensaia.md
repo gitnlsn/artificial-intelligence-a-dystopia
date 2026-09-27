@@ -24,7 +24,7 @@ status: revised
 São trinta e um e não conseguem começar juntos.
 
 Esse é o problema desde o primeiro ensaio e continuava sendo o problema na
-sexta às cinco e dez: a Dória levanta o braço, segura, e desce — e sai um bum de bombo, e um
+sexta às cinco e dez: a Dória levanta o braço, segura, e desce — e sai um bum de bumbo, e um
 pedaço de trompete meio atrás, e a caixa entrando quando já era tarde, e alguém
 lá no fundo que nem chegou a tocar.
 
@@ -75,9 +75,9 @@ arquibancada.
 
 Às cinco e quarenta, na sétima, a Dória mudou uma coisa.
 
-Ela parou de contar em voz alta e falou para todo mundo olhar para o bombo.
+Ela parou de contar em voz alta e falou para todo mundo olhar para o bumbo.
 
-Só para o bombo. Não para ela, não para a partitura, não para o vizinho do lado.
+Só para o bumbo. Não para ela, não para a partitura, não para o vizinho do lado.
 
 — Vocês não entram no meu braço — disse. — Vocês entram no bumbo. Se o bumbo
 está errado, vocês entram errado junto. Isso é melhor.

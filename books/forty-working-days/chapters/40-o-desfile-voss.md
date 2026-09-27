@@ -16,12 +16,12 @@ cast:
 - voss
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/40-o-desfile-voss.md
-source_sha: 22cd9c7175d0
-status: draft
+source_sha: 769fc5a1d128
+status: revised
 ---
 He went down at nine forty without having decided to go down.
 
-He got up at six, made coffee, washed the cup, and stayed. By nine thirty the
+He got up at six, made coffee, put the cup in the slot, and stayed. By nine thirty the
 noise was already coming up through the window — the noise of a closed street,
 which is different from an open one, duller and without cars — and at some point
 he was in his coat in the corridor of the building, and then in the elevator.

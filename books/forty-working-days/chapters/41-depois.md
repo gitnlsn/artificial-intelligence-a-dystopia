@@ -17,8 +17,8 @@ cast:
 - mira
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/41-depois.md
-source_sha: b83ba0bd6ae8
-status: draft
+source_sha: 0d8617ab24a6
+status: revised
 ---
 It ended in a flat sort of way.
 
@@ -163,6 +163,6 @@ one was behind the milk one.
 
 She took two and ate one on the way back to the car.
 
-On Tuesday there would be rehearsal again, not the band's, not hers either, but
+On Tuesday there would be rehearsal again — not hers, she isn't in the band — but
 she would go down to the yard at five as always, and she would sit on the
 two-step bleachers.

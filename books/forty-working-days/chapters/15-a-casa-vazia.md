@@ -16,7 +16,7 @@ cast:
 - vilmar
 source: quarenta-dias-uteis/chapters/15-a-casa-vazia.md
 source_sha: c1db8e9235ee
-status: draft
+status: revised
 ---
 The door code still worked.
 

@@ -15,7 +15,7 @@ cast:
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/26-a-conferencia.md
 source_sha: d5fdce7b3e76
-status: draft
+status: revised
 ---
 The quarterly review meeting is at ten, on the seventh floor, and lasts forty
 minutes.

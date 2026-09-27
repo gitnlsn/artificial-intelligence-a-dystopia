@@ -23,7 +23,7 @@ sources: Hobsbawm, *A Era das Revoluções*, abertura do cap. 1 — trecho confe
   contra o texto; ver `docs/references.md`
 source: quarenta-dias-uteis/chapters/01-a-prova.md
 source_sha: 50aa5bb4cfa1
-status: draft
+status: revised
 ---
 The pencil was a 2B and he sharpened it with a razor blade, never with a
 sharpener, because a sharpener eats too much lead. He had learned that in a

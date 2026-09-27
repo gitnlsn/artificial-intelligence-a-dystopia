@@ -16,7 +16,7 @@ cast:
 - juno
 source: quarenta-dias-uteis/chapters/18-a-casa-da-moca-que-ia-embora.md
 source_sha: b3f2a84c00ee
-status: draft
+status: revised
 ---
 Juno is twenty-six, with an external fixator on her right leg and an amount of
 energy that does not fit in that apartment.

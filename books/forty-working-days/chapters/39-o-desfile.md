@@ -35,8 +35,8 @@ cast:
 - bel
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/39-o-desfile.md
-source_sha: f909569dbf4a
-status: draft
+source_sha: 7404722c7dba
+status: revised
 ---
 First came the city banner, which is boring, and then a band of grown-ups, which
 was good and was not hers.
@@ -336,7 +336,7 @@ the day before, the whole stretch set up and clean, and had found it strange
 without knowing why.
 
 A nine-year-old girl had said it to him in a kitchen, with a cookie in her hand,
-in four words.
+in three words.
 
 He still does not have the name. He will not have it. He is eighty-two and the
 name will be given by someone else, later, from far off, the way it always was.
@@ -391,8 +391,7 @@ She turned to go and there were people behind her as far as she could see.
 
 So she stayed.
 
-This is honest and it has to be put down this way: the first part of the
-decision to stay was not being able to leave.
+The first part of the decision to stay was not being able to leave.
 
 ---
 

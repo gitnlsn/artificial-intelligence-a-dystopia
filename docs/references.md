@@ -386,6 +386,48 @@ disso e não deve.
 (vida + 70). O francês é livre e a tradução é nossa, o que não deixa titular
 nenhum. Conferida em fontes francesas concordantes.
 
+#### 3b. A epígrafe da Parte II na edição inglesa — Tolstói (1903)
+
+> Так и помни, что самое важное время одно: сейчас, а самое важное оно потому,
+> что в нем одном мы властны над собой; а самый нужный человек тот, с кем сейчас
+> сошелся, потому что никто не может знать, будет ли он еще иметь дело с
+> каким-либо другим человеком, а самое важное дело — ему добро сделать […]
+
+*Три вопроса*, a resposta final do eremita. **Conferida contra o texto russo**
+em tolstoy-lit.ru, lendo o parágrafo inteiro (a página esconde *добро сделать*
+num script; decodificado em cp1251, bate). O livro corta depois de *добро
+сделать*, antes de *потому что только для этого послан человек в жизнь*, que
+fecharia a epígrafe numa lição.
+
+**Data:** escrita em julho–agosto de 1903 para o sborník de Sholem Aleichem em
+favor das vítimas de Kishinev, e impressa pela primeira vez em *Гилф*, Varsóvia,
+1903; em russo, pelo Posrednik, Moscou, 1903 (notas de tolstoy-lit.ru, *Три
+сказки*). **Fontes em inglês que dão 1885 ou 1908 estão erradas**: 1885 é a
+confusão com o conto de Leskov sobre o mesmo tema.
+
+**Por que a edição inglesa troca a Weil.** *Attente de Dieu* é póstumo, de
+1950. No Brasil está em domínio público (vida + 70), mas nos Estados Unidos uma
+obra estrangeira publicada em 1950 e protegida no país de origem em 1996 teve o
+direito restaurado e dura 95 anos a partir da publicação — até o fim de 2045.
+A edição inglesa vende sobretudo lá, e a regra do livro é não ter titular
+nenhum no paratexto. **A edição portuguesa mantém a Weil**, que é a escolha do
+autor para ela.
+
+**Por que é esta.** O relógio da Parte II é o tempo vendido em pedaços e alocado
+por outro, e o trabalho da Rita é estar com a pessoa que está na frente dela.
+Tolstói diz as duas coisas numa frase — o único tempo em que se tem poder sobre
+si é agora, e a pessoa mais necessária é aquela com quem se está —, e *ninguém
+pode saber se vai lidar de novo com qualquer outra pessoa* é a escala sem que
+ninguém diga isso. A epígrafe não comenta nada e não deve.
+
+**Direitos:** Tolstói morreu em 1910 e o texto é de 1903 — domínio público em
+todo lugar, inclusive nos EUA. **A tradução é nossa, do russo**, e não a de
+Aylmer Maude (1903), que omite *над собой*. **Não deixa titular nenhum.**
+
+**Consequência colateral:** a edição inglesa passa a ter duas epígrafes de 1903
+(Tolstói e Rilke) e uma russa num conjunto que era francês com uma alemã.
+Considerado, e não é defeito.
+
 #### 4. A epígrafe da Parte III — Victor Hugo
 
 > Cet homme était composé de deux sentiments très simples et relativement très

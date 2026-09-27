@@ -19,8 +19,8 @@ cast:
 - mira
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/36-a-banda-ensaia.md
-source_sha: 3c3dcee90961
-status: draft
+source_sha: af77432e6ef4
+status: revised
 ---
 There are thirty-one of them and they cannot start together.
 

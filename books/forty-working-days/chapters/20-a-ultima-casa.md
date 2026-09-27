@@ -18,8 +18,8 @@ cast:
 - rita
 - teodor
 source: quarenta-dias-uteis/chapters/20-a-ultima-casa.md
-source_sha: 928f1b4b9156
-status: draft
+source_sha: f9c1ead93415
+status: revised
 ---
 The shift had moved to seven.
 
@@ -165,7 +165,7 @@ at the same answer: his face was absolutely normal.
 
 ---
 
-At five past ten she washed the two cups and picked up the bag.
+At five past ten she gathered up the two cups and picked up the bag.
 
 "Do you need anything else before I go?"
 

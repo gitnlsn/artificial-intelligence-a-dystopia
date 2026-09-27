@@ -14,8 +14,8 @@ cast:
 - bel
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/32-a-escola.md
-source_sha: 7be3247751ca
-status: draft
+source_sha: 9727d7da52bf
+status: revised
 ---
 The first class on Friday is the one she likes least and even so it's good.
 
@@ -123,8 +123,7 @@ She used the word. It really was better.
 
 Nothing went wrong on Friday morning.
 
-That's true and it has to be said like that, without trimming: nothing went
-wrong. She didn't get embarrassed. She didn't get lost. There wasn't a single
+She didn't get embarrassed. She didn't get lost. There wasn't a single
 moment when the teacher explained something she didn't understand and she kept
 quiet, afraid to ask, because there isn't that moment at her school, because
 there isn't a thing being explained all at once to thirty people.

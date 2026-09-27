@@ -118,7 +118,7 @@ uma tabela.
 Foi isso que virou o resto.
 
 Ele fez a técnica, depois o curso à noite, depois entrou no andar de conferência,
-depois passou para revisão em 2038. Cada passo por prova, por pontuação, por
+depois passou para revisão em 2029. Cada passo por prova, por pontuação, por
 critério publicado. Ele nunca pediu nada a ninguém e nunca ninguém precisou
 pedir nada por ele.
 
@@ -179,12 +179,11 @@ O apartamento dele tem uma sala, um quarto e uma varanda de um metro. Não tem
 foto na parede. Tem uma estante com talvez cento e vinte livros, todos de sebo,
 alguns com o nome de outra pessoa na folha de rosto, o que ele gosta.
 
-Comeu às sete e meia. Lavou o prato.
+Comeu às sete e meia. Pôs o prato no vão.
 
 Às nove e quarenta apagou a luz.
 
-E aqui está a coisa que se deve dizer sobre Voss, e que precisa ser dita agora,
-antes de qualquer outra: ele dormiu bem.
+Ele dormiu bem.
 
 Não dormiu com esforço, não dormiu depois de se convencer de nada, não ficou uma
 hora acordado pensando no homem de quarenta e um anos e na declaração de próprio

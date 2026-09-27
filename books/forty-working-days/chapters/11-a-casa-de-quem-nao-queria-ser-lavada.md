@@ -17,8 +17,8 @@ cast:
 - dona-eszter
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/11-a-casa-de-quem-nao-queria-ser-lavada.md
-source_sha: 64f89c72e144
-status: draft
+source_sha: 06a58396b2b3
+status: revised
 ---
 Mrs. Eszter is eighty-six and has a system.
 
@@ -269,7 +269,7 @@ On the 12, on the way to the second house, Rita kept thinking about that.
 Not about the sentence, which was lovely and which she would forget in two
 days. About the fact that she had walked into that house for four years, three
 times a week, some six hundred times, and that it had taken six hundred times to
-ask a question of six words.
+ask a question of ten words.
 
 It had not been for lack of wanting. It was that asking takes seven minutes, and
 seven minutes is what separates arriving on time from arriving late.

@@ -2,7 +2,7 @@
 part: I — THE CENTURY
 title: The Century
 illustration: 01-o-seculo
-status: draft
+status: revised
 ---
 Thus democracy not only makes each man forget his forebears: it hides his
 descendants from him, separates him from his contemporaries, brings him back

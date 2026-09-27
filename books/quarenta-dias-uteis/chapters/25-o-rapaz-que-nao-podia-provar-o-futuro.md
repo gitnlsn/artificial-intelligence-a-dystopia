@@ -147,5 +147,5 @@ Encostou dois dedos no canto do campo, e o campo recolheu, e o tampo apagou.
 
 Depois indeferiu mais catorze casos e desceu para a praça às doze em ponto.
 
-À noite comeu, lavou o prato, leu vinte páginas e apagou a luz às nove e quarenta,
+À noite comeu, pôs o prato no vão, leu vinte páginas e apagou a luz às nove e quarenta,
 e dormiu bem, do jeito que ele dorme.

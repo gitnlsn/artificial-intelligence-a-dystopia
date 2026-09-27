@@ -20,8 +20,8 @@ cast:
 - aurel
 - nina
 source: quarenta-dias-uteis/chapters/04-a-neta-que-vem-as-quintas.md
-source_sha: 75bfd4595d35
-status: draft
+source_sha: 7db7bcc63f7f
+status: revised
 ---
 She arrived at twenty past four, dropped her backpack in the middle of the
 hallway, in the exact spot where he trips, and went straight to the cupboard

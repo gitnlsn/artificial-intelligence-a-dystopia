@@ -57,7 +57,7 @@ ponto ele parou de atravessar depressa, e no dia seguinte estava exatamente igua
 ao dia anterior, e está assim desde então. A casa não perguntou nada a ninguém.
 Ela mexeu, olhou o que ele fez, e parou de mexer quando ele parou de se apressar.
 
-Não tem nada de misterioso nisso, e é por isso que assusta.
+Não tem nada de misterioso nisso.
 
 E o que ela não sabe é todo o resto. Não sabe por que ele levanta às três. Não
 sabe que ele fala sozinho — ou sabe que há som e não sabe o que é dito, ou sabe o

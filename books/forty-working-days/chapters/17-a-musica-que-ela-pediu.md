@@ -20,7 +20,7 @@ sources: '*Better*, Regina Spektor, 2006 — o título e a cantora são ditos po
   em voz alta; o narrador não nomeia nada e a letra não pode ser impressa. Ver docs/references.md'
 source: quarenta-dias-uteis/chapters/17-a-musica-que-ela-pediu.md
 source_sha: 714ea3627c46
-status: draft
+status: revised
 ---
 She got in at twenty past eight with two things to tell and told neither.
 

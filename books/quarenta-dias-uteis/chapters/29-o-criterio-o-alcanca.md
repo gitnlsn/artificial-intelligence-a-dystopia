@@ -161,7 +161,7 @@ A conferência geral do sétimo andar é o trabalho que ele fazia em 2029.
 
 Confere anexo contra campo. Documento contra declaração. É um trabalho honesto e
 é mais fácil, e paga oitenta e um por cento do que ele recebia, e a diferença
-entra em vigor em janeiro.
+entra em vigor na virada do ano.
 
 Ele fez a conta no papel, à tarde, com o lápis, e a conta dá. Não dá bem. Dá.
 

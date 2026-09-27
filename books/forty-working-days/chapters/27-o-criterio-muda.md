@@ -16,7 +16,7 @@ cast:
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/27-o-criterio-muda.md
 source_sha: 040242d4f34d
-status: draft
+status: revised
 ---
 The consultation arrived at eight forty, with a deadline of five in the
 afternoon on Friday.

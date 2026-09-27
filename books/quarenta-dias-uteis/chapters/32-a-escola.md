@@ -117,8 +117,7 @@ Ela usou a palavra. Ficou melhor mesmo.
 
 Nada deu errado na sexta de manhã.
 
-Isso é verdade e é preciso dizer assim, sem enfeite: nada deu errado. Ela não
-passou vergonha. Não ficou perdida. Não teve nenhum momento em que a professora
+Ela não passou vergonha. Não ficou perdida. Não teve nenhum momento em que a professora
 explicou uma coisa que ela não entendeu e ela ficou quieta com medo de perguntar,
 porque não tem esse momento na escola dela, porque não tem uma coisa sendo
 explicada de uma vez para trinta pessoas.

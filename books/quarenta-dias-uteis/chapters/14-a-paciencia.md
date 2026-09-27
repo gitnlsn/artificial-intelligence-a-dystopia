@@ -93,8 +93,8 @@ pratos que esperam a meia-noite.
 E foi ali, de pé, sem nada para fazer com as mãos, que a coisa chegou nele
 inteira.
 
-Não foi arrependimento. Foi uma constatação, e foi técnica, e é por isso que
-assusta: **ele tinha sido treinado.**
+Não foi arrependimento. Foi uma constatação, e foi técnica: **ele tinha sido
+treinado.**
 
 Da bancada dá para ver a porta do quarto dos fundos, encostada num palmo, e o
 pedaço de cinza que aparece na abertura, que é a base e não é a parte que gira.

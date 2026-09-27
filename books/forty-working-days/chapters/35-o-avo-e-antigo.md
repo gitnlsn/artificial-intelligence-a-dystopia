@@ -20,7 +20,7 @@ cast:
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/35-o-avo-e-antigo.md
 source_sha: 89a344fceab1
-status: draft
+status: revised
 ---
 She called at four thirty, from her room, lying on her stomach on the bed with
 her feet in the air.

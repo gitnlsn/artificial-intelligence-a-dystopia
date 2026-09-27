@@ -18,7 +18,7 @@ cast:
 - mira
 source: quarenta-dias-uteis/chapters/05-o-inventario.md
 source_sha: 86996dbb2bd8
-status: draft
+status: revised
 ---
 They started putting up the barriers on Thursday night and by Friday morning
 they already reached the corner of Vetten.

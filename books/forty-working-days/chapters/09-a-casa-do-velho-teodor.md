@@ -19,7 +19,7 @@ cast:
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/09-a-casa-do-velho-teodor.md
 source_sha: 9e63c619e0cc
-status: draft
+status: revised
 ---
 Teodor hides his left hand under the table when she arrives.
 

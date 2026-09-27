@@ -18,8 +18,8 @@ sources: '*Perpetual Motion*, LukHash, 2019 — o nome está escrito num papel d
   nunca dito em voz alta; o narrador não nomeia nada e a letra não pode ser impressa.
   Ver docs/references.md'
 source: quarenta-dias-uteis/chapters/23-a-fila-da-manha.md
-source_sha: 067d328a23e4
-status: draft
+source_sha: 5e249a849dad
+status: revised
 ---
 His earpiece is a piece from seven years ago, the size of half a walnut, and not
 one of the kind that vanish into the ear: it sits outside, dark gray, with a
@@ -137,7 +137,7 @@ Man, fifty-five, requests extension of a deadline due to illness. Attached a
 seven-day medical certificate. The deadline in question had expired nineteen
 days before the certificate.
 
-Denied. Eight twenty-one.
+Denied. Eight twenty-four.
 
 ---
 

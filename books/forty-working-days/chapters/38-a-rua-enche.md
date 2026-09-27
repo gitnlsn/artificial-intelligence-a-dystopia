@@ -16,7 +16,7 @@ cast:
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/38-a-rua-enche.md
 source_sha: 55ee79a75731
-status: draft
+status: revised
 ---
 They got there at nine twenty-two and the barrier was already taken.
 

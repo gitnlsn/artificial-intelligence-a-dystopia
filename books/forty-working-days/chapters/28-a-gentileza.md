@@ -22,7 +22,7 @@ cast:
 sources: nenhuma
 source: quarenta-dias-uteis/chapters/28-a-gentileza.md
 source_sha: ff99b86112cc
-status: draft
+status: revised
 ---
 It was raining in that way that does not get you wet and gets in the way.
 
