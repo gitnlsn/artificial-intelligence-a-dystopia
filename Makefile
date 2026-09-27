@@ -7,6 +7,7 @@
 #   make marcadores                 unresolved [[?...]] markers
 #   make watch                      rebuild the print pdf as you write
 #   make stats                      word counts, pacing, POV balance
+#   make traducao                   English chapters behind their Portuguese source
 #   make digest                     whole-novel map, for reviewing a chapter
 #   make outline                    docs/outline.md -> chapter files
 #   make chapter TITLE="..."        add a chapter outside the outline
@@ -18,7 +19,7 @@ DIST := dist/$(BOOK)
 
 .DEFAULT_GOAL := all
 .PHONY: all epub print cover check fios marcadores watch stats digest outline \
-        clean new-book chapter open deps release
+        clean new-book chapter open deps release traducao
 
 all:
 	@$(PY) scripts/build.py $(BOOK) --all
@@ -48,6 +49,11 @@ marcadores:
 release: all check
 	@echo "\nReady to upload from $(DIST)/:"
 	@ls -lh $(DIST)/*.epub $(DIST)/*.pdf 2>/dev/null | awk '{print "  " $$9 "  " $$5}'
+
+# The English edition is a separate book translated from this one. Lists every
+# translated chapter whose Portuguese source changed after it was translated.
+traducao:
+	@$(PY) scripts/check-translation.py $(or $(TRANSLATION),forty-working-days)
 
 stats:
 	@$(PY) scripts/stats.py $(BOOK)

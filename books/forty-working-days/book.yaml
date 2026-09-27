@@ -1,0 +1,96 @@
+# The English edition of *Quarenta dias úteis*. A separate book, not a variant:
+# the Portuguese manuscript is canon, and every chapter here names its source
+# and the hash of the source body it was translated from. `make traducao` lists
+# the ones that have fallen behind. Translation rules: docs/translation-en.md.
+
+slug: forty-working-days
+# The line in the footer of every despatch in the book -- Rita's denial,
+# Teodor's request, a request from another jurisdiction, and finally the
+# communication that reaches Voss himself. The one sentence the system says
+# the same to everyone, and it means nothing.
+title: Forty Working Days
+subtitle: a novel
+author: Íris Gradim   # the same pen name as the Portuguese edition
+language: en
+region: US
+
+series:
+  name: ""
+  number: 1
+
+publisher: ""
+copyright_year: 2026
+rights: All rights reserved.
+edition: First English edition
+isbn: ""
+colophon: |
+  Set in Libertinus Serif.
+  This is a work of fiction. Names, characters, businesses, institutions and
+  events are the products of the author's imagination or are used
+  fictitiously.
+  Written with extensive contribution from artificial intelligence, under
+  human direction. Translated from the Portuguese the same way.
+  Typesetting and layout produced with open tools.
+
+labels:
+  chapter: Chapter
+  contents: Contents
+  book: Book
+
+kdp:
+  description: |
+    In a city that is never named, the parade is ten days away.
+
+    Aurel is eighty-two and was a newspaper reviser. He spent his life checking
+    whether what was written matched the world, and now he cannot say out loud
+    what period of history this is.
+
+    Rita is a caregiver. She walks into a different house every shift, and the
+    shifts have been getting fewer without anyone deciding anything against
+    her.
+
+    Voss reviews exceptions. He came from the bottom and rose because once, at
+    seventeen, the criteria beat a favor — and that is why he believes.
+
+    Nina is nine and has lost nothing, because there was nothing to lose.
+
+    None of the four knows the others. On Saturday all four will be on the same
+    sidewalk, at the same moment, listening to a school band play badly a piece
+    of music nobody recognizes.
+
+    Nobody is punished in this book. Everything is correct, everyone is polite,
+    and the period for a response is forty working days.
+  keywords:
+    - dystopian fiction
+    - artificial intelligence
+    - literary fiction
+    - bureaucracy
+    - science fiction
+    - near future
+    - technology and society
+  categories:
+    - Fiction > Science Fiction > Dystopian
+    - Fiction > Literary
+    - Fiction > Thrillers > Suspense
+  age_range: adult
+  price_usd: 12.99
+
+cover_guides: false
+
+print:
+  trim: [5.5in, 8.5in]
+  paper: cream
+  interior: bw
+  bleed: false
+  font_size: 11pt
+  leading: 0.78em
+  outer_margin: 0.6in
+  top_margin: 0.7in
+  bottom_margin: 0.75in
+  gutter_extra: 0.35in
+  illustration_width: 0.74
+
+epub:
+  cover: cover.png
+  illustration_format: jpg
+  illustration_max_px: 1400
