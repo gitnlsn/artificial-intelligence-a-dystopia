@@ -36,6 +36,7 @@ labels:
   chapter: Chapter
   contents: Contents
   book: Book
+  part: Part
 
 kdp:
   description: |

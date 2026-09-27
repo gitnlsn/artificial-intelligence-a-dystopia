@@ -68,7 +68,7 @@
 // `body-inset` is passed in by the generated main.typ, because the build has
 // to rasterize the opener art at exactly the width it prints at -- a single
 // number in book.yaml drives both, so the two can never drift apart.
-#let part-opener(numeral, title, illustration: none, body-inset: 0.3in, body) = {
+#let part-opener(numeral, title, illustration: none, body-inset: 0.3in, label: "Part", body) = {
   pagebreak(to: "odd", weak: true)
   set page(header: none, footer: none)
   // A part has to appear in the table of contents and in the PDF bookmarks.
@@ -76,7 +76,7 @@
   // outline entry is placed out of the flow and hidden: it occupies no space
   // and still has a location for `outline` and for the bookmark tree.
   place(top, hide(heading(level: 1, outlined: true, bookmarked: true)[
-    Parte #numeral — #title
+    #label #numeral — #title
   ]))
   // The opener art sets to the same measure as the part's body text below,
   // by construction rather than by a hand-tuned percentage: same inset, image
@@ -89,7 +89,7 @@
   }
   align(center)[
     #text(font: ("Libertinus Sans",), size: 9pt, tracking: 0.32em, fill: luma(40%))[
-      #upper[Parte #numeral]
+      #upper[#label #numeral]
     ]
     #v(1.1em)
     #text(font: ("Libertinus Serif Display",), size: 22pt, weight: "semibold")[

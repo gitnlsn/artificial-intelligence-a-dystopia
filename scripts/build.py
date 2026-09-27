@@ -494,7 +494,7 @@ def build_print(book_dir: Path, cfg: dict, pieces: list[Piece],
     trim = p.get("trim", ["6in", "9in"])
     series = cfg.get("series") or {}
     labels = {"chapter": "Chapter", "contents": "Contents", "book": "Book",
-              **(cfg.get("labels") or {})}
+              "part": "Part", **(cfg.get("labels") or {})}
     series_line = (f"{series['name']} · {labels['book']} {series['number']}"
                    if series.get("name") else None)
 
@@ -532,7 +532,8 @@ def build_print(book_dir: Path, cfg: dict, pieces: list[Piece],
                     slots["main"] += [
                         f"  #part-opener({typ_str(ROMAN.get(part_i, part_i))}, "
                         f"{typ_str(op.title)}, illustration: {typ_str(art)}, "
-                        f"body-inset: {part_inset})[",
+                        f"body-inset: {part_inset}, "
+                        f"label: {typ_str(labels['part'])})[",
                         f'    #include "part-{part_i:02d}.typ"',
                         "  ]",
                     ]

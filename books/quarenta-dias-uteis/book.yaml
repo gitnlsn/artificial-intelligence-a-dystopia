@@ -35,6 +35,7 @@ labels:
   chapter: Capítulo
   contents: Sumário
   book: Livro
+  part: Parte
 
 # Texto do anúncio na KDP, versionado junto do manuscrito.
 kdp:

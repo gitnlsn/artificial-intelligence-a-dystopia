@@ -1,5 +1,5 @@
 ---
-title: The House of the Woman Who Didn't Want to Be Washed
+title: The House Where She Wouldn't Be Washed
 part: II — THE SHIFT
 pov: Rita
 when: 2047-10-13 — domingo, manhã

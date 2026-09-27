@@ -66,7 +66,7 @@ before this contract; where they disagree with it, **this table wins**
 | | O outro cômodo | The Other Room |
 | | A casa do velho Teodor | Old Teodor's House † |
 | | A escala | The Roster |
-| | A casa de quem não queria ser lavada | The House of the Woman Who Didn't Want to Be Washed † |
+| | A casa de quem não queria ser lavada | The House Where She Wouldn't Be Washed † |
 | | O que ela contava | What She Was Telling † |
 | | O ano passado | Last Year |
 | | A paciência | Patience |
@@ -100,6 +100,11 @@ before this contract; where they disagree with it, **this table wins**
 | | O desfile — Voss | The Parade — Voss |
 | | Depois | After |
 | | Segunda-feira | Monday |
+
+*The House Where She Wouldn't Be Washed* is short so it fits on one line of
+the contents page; the literal version wrapped and pushed its page number onto
+a line of its own. It keeps *The House*, which ties it to the other house
+chapters in Part II, and *wouldn't* carries *não queria*.
 
 *What She Was Telling* drops the working title's *Him* (the Portuguese names no
 listener) and its habitual *used to*: she is telling her day and stops halfway.
