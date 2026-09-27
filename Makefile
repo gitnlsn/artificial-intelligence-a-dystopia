@@ -3,6 +3,8 @@
 #   make BOOK=quarenta-dias-uteis all   epub + interior pdf + cover
 #   make epub / print / cover       one target at a time
 #   make check                      KDP preflight + both manuscript gates
+#   make release                    build + preflight both editions (pt and en)
+#   make release BOOK=<slug>        the same, for one edition only
 #   make fios                       setups without payoffs, payoffs without setups
 #   make marcadores                 unresolved [[?...]] markers
 #   make watch                      rebuild the print pdf as you write
@@ -19,7 +21,7 @@ DIST := dist/$(BOOK)
 
 .DEFAULT_GOAL := all
 .PHONY: all epub print cover check fios marcadores watch stats digest outline \
-        clean new-book chapter open deps release traducao
+        clean new-book chapter open deps release release-one traducao
 
 all:
 	@$(PY) scripts/build.py $(BOOK) --all
@@ -46,7 +48,25 @@ fios:
 marcadores:
 	@$(PY) scripts/check-claims.py $(BOOK)
 
-release: all check
+# `make release` builds and preflights every edition in RELEASE_BOOKS, in turn,
+# and stops at the first one that fails. `make release BOOK=<slug>` releases
+# only that one. The English edition goes with the Portuguese because a release
+# of one without the other is how they drift apart; `make traducao` runs first
+# so a stale translation stops the release before anything is built.
+RELEASE_BOOKS := quarenta-dias-uteis forty-working-days
+
+ifeq ($(origin BOOK),command line)
+release: release-one
+else
+release:
+	@$(PY) scripts/check-translation.py forty-working-days
+	@for b in $(RELEASE_BOOKS); do \
+	  echo "\n== $$b =="; \
+	  $(MAKE) --no-print-directory release-one BOOK=$$b || exit 1; \
+	done
+endif
+
+release-one: all check
 	@echo "\nReady to upload from $(DIST)/:"
 	@ls -lh $(DIST)/*.epub $(DIST)/*.pdf 2>/dev/null | awk '{print "  " $$9 "  " $$5}'
 
