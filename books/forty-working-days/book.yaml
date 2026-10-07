@@ -76,6 +76,22 @@ kdp:
   age_range: adult
   price_usd: 12.99
 
+cover:
+  # Arte de capa (2026-10-06). O título fica no céu claro acima da rua e a
+  # autora na faixa verde-acinzentada do pé; o verso e a lombada levam o
+  # creme do céu, com a bandeirinha vermelha como acento.
+  art: cover.jpeg
+  title: |          # a quebra da capa; a lombada leva o título numa linha
+    Forty
+    Working Days
+  art_top: 0.29
+  art_bottom: 0.12
+  bg: "#f5f5e9"       # o céu da arte
+  ink: "#2b332a"
+  accent: "#b23a2e"   # a bandeirinha vermelha
+  title_ink: "#2b332a"
+  author_ink: "#1f261e"
+
 cover_guides: false
 
 print:
@@ -92,6 +108,5 @@ print:
   illustration_width: 0.74
 
 epub:
-  cover: cover.png
   illustration_format: jpg
   illustration_max_px: 1400
